@@ -15,9 +15,9 @@ Video File: /home/on-three/incoming/ten.fukumoto.drama/ドラマPrv ｢天_快�
 Video AR Mode: 4
 Video AR Value: 1.766667
 Video Zoom Percent: 0.625000
-Scroll Position: 109
-Active Line: 139
-Video Position: 22987
+Scroll Position: 233
+Active Line: 263
+Video Position: 44672
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,18 +86,18 @@ Dialogue: 0,0:05:23.45,0:05:28.42,Default,,0,0,0,,If I win, you give back what y
 Dialogue: 0,0:05:28.80,0:05:30.80,Default,,0,0,0,,I don't need any money.
 Dialogue: 0,0:05:30.80,0:05:32.40,Default,,0,0,0,,And if you lose?
 Dialogue: 0,0:05:32.40,0:05:35.51,Default,,0,0,0,,I double your winnings.
-Dialogue: 0,0:05:37.48,0:05:40.28,Default,,0,0,0,,
+Dialogue: 0,0:05:37.48,0:05:40.28,Default,,0,0,0,,You're a ringer, aren't you?
 Dialogue: 0,0:05:40.28,0:05:43.34,Default,,0,0,0,,Yeah. I guess.
 Dialogue: 0,0:05:43.34,0:05:46.54,Default,,0,0,0,,I've been wanting to meet someone like you.
-Dialogue: 0,0:05:46.54,0:05:49.62,Default,,0,0,0,,
-Dialogue: 0,0:05:49.62,0:05:53.37,Default,,0,0,0,,
+Dialogue: 0,0:05:46.54,0:05:49.62,Default,,0,0,0,,I can't be beaten in Mahjong,
+Dialogue: 0,0:05:49.62,0:05:53.37,Default,,0,0,0,,therefore I've thought of becoming a ringer myself.
 Dialogue: 0,0:05:53.37,0:05:57.14,Default,,0,0,0,,Well then it's decided.
 Dialogue: 0,0:05:57.14,0:05:59.14,Default,,0,0,0,,At the table over there?
 Dialogue: 0,0:06:02.71,0:06:05.74,Default,,0,0,0,,A non-automatic table must be so he can cheat.
 Dialogue: 0,0:06:05.74,0:06:07.62,Default,,0,0,0,,That's got to be it.
 Dialogue: 0,0:06:07.62,0:06:12.40,Default,,0,0,0,,If he didn't do that he wouldn't be sure to beat someone he doesn't know.
-Dialogue: 0,0:06:13.34,0:06:15.75,Default,,0,0,0,,You can stack tiles by hand, can't you?
-Dialogue: 0,0:06:15.75,0:06:18.20,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:06:13.34,0:06:15.75,Default,,0,0,0,,Hand stacking tiles is no problem?
+Dialogue: 0,0:06:15.75,0:06:18.20,Default,,0,0,0,,No.
 Dialogue: 0,0:06:18.20,0:06:20.20,Default,,0,0,0,,No problem.
 Dialogue: 0,0:06:23.18,0:06:25.18,Default,,0,0,0,,East Round 1
 Dialogue: 0,0:06:37.51,0:06:42.65,Default,,0,0,0,,The contest is one East South round, and whoever has more points wins, even if its merely 100 more.
@@ -137,18 +137,18 @@ Dialogue: 0,0:10:29.42,0:10:33.14,Default,,0,0,0,,
 Dialogue: 0,0:10:33.14,0:10:35.14,Default,,0,0,0,,
 Dialogue: 0,0:10:35.14,0:10:39.37,Default,,0,0,0,,Aren't you, a pro, embarrassed to do something so childish?
 Dialogue: 0,0:10:42.71,0:10:45.85,Default,,0,0,0,,A sneaky underworld guy like you
-Dialogue: 0,0:10:45.85,0:10:48.68,Default,,0,0,0,,
-Dialogue: 0,0:10:48.68,0:10:51.80,Default,,0,0,0,,
+Dialogue: 0,0:10:45.85,0:10:48.68,Default,,0,0,0,,I could become a ringer right away.
+Dialogue: 0,0:10:48.68,0:10:51.80,Default,,0,0,0,,You wanna bet on it?
 Dialogue: 0,0:10:52.85,0:10:55.74,Default,,0,0,0,,And what's your name?
 Dialogue: 0,0:10:57.71,0:10:59.71,Default,,0,0,0,,Name.
 Dialogue: 0,0:11:01.68,0:11:03.68,Default,,0,0,0,,Igawa Hiroyuki.
-Dialogue: 0,0:11:03.68,0:11:06.51,Default,,0,0,0,,
+Dialogue: 0,0:11:03.68,0:11:06.51,Default,,0,0,0,,Hiroyuki, hunh?
 Dialogue: 0,0:11:08.48,0:11:10.48,Default,,0,0,0,,Well, then.
-Dialogue: 0,0:11:10.48,0:11:13.28,Default,,0,0,0,,
-Dialogue: 0,0:11:13.28,0:11:18.00,Default,,0,0,0,,
-Dialogue: 0,0:11:18.00,0:11:22.71,Default,,0,0,0,,
+Dialogue: 0,0:11:10.48,0:11:13.28,Default,,0,0,0,,Being a ringer...
+Dialogue: 0,0:11:13.28,0:11:18.00,Default,,0,0,0,,Is the business of shouldering the burden of other people's lives.
+Dialogue: 0,0:11:18.00,0:11:22.71,Default,,0,0,0,,People bet more than their lives.
 Dialogue: 0,0:11:22.71,0:11:26.34,Default,,0,0,0,,Be it sneaky, or cheating...
-Dialogue: 0,0:11:26.34,0:11:30.00,Default,,0,0,0,,I have to win by any means necessary.
+Dialogue: 0,0:11:26.34,0:11:30.00,Default,,0,0,0,,You have to win by any means necessary.
 Dialogue: 0,0:11:30.00,0:11:32.97,Default,,0,0,0,,Are you happy to win such a low victory?
 Dialogue: 0,0:11:32.97,0:11:35.71,Default,,0,0,0,,Can you be content playing the Mahjong of a charlatan?
 Dialogue: 0,0:11:35.71,0:11:37.71,Default,,0,0,0,,That
@@ -168,4 +168,128 @@ Dialogue: 0,0:12:35.80,0:12:36.81,Default,,0,0,0,,Player?
 Dialogue: 0,0:12:36.81,0:12:39.68,Default,,0,0,0,,Boy, he's a young one.
 Dialogue: 0,0:12:39.68,0:12:41.68,Default,,0,0,0,,I've seen him play.
 Dialogue: 0,0:12:41.68,0:12:43.68,Default,,0,0,0,,Ah. What's this about?
-Dialogue: 0,0:12:43.68,0:12:46.25,Default,,0,0,0,,
+Dialogue: 0,0:12:43.68,0:12:46.25,Default,,0,0,0,,I'm a real estate agent.
+Dialogue: 0,0:12:46.25,0:12:48.25,Default,,0,0,0,,Call me Maruo.
+Dialogue: 0,0:12:48.25,0:12:50.25,Default,,0,0,0,,I'm Igou.
+Dialogue: 0,0:12:51.97,0:12:55.21,Default,,0,0,0,,Really, I'll give you a deed,
+Dialogue: 0,0:12:55.21,0:12:57.21,Default,,0,0,0,,and you'll play Mahjong.
+Dialogue: 0,0:12:57.21,0:13:00.02,Default,,0,0,0,,Is it a deed for a plot of land?
+Dialogue: 0,0:13:00.02,0:13:03.08,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:13:03.08,0:13:06.71,Default,,0,0,0,,
+Dialogue: 0,0:13:06.71,0:13:09.17,Default,,0,0,0,,And the remaining half,
+Dialogue: 0,0:13:09.17,0:13:11.77,Default,,0,0,0,,
+Dialogue: 0,0:13:11.77,0:13:15.08,Default,,0,0,0,,Sawada found you for your strength in Mahjong.
+Dialogue: 0,0:13:17.05,0:13:19.05,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:13:19.05,0:13:21.05,Default,,0,0,0,,Yes?
+Dialogue: 0,0:13:21.05,0:13:23.05,Default,,0,0,0,,Hello, this is Maruo.
+Dialogue: 0,0:13:26.51,0:13:31.00,Default,,0,0,0,,
+Dialogue: 0,0:13:32.21,0:13:34.21,Default,,0,0,0,,
+Dialogue: 0,0:13:34.88,0:13:38.08,Default,,0,0,0,,
+Dialogue: 0,0:13:39.15,0:13:42.40,Default,,0,0,0,,
+Dialogue: 0,0:13:42.40,0:13:44.40,Default,,0,0,0,,It's clear to me.
+Dialogue: 0,0:13:45.01,0:13:48.57,Default,,0,0,0,,I've seen a lot of ringers before now.
+Dialogue: 0,0:13:48.57,0:13:52.94,Default,,0,0,0,,You've got an ability far beyond that crowd.
+Dialogue: 0,0:13:53.88,0:13:57.11,Default,,0,0,0,,Have confidence in your own Mahjong.
+Dialogue: 0,0:13:57.11,0:13:59.11,Default,,0,0,0,,I'm betting on you.
+Dialogue: 0,0:14:00.11,0:14:02.11,Default,,0,0,0,,You can do it, can't you?
+Dialogue: 0,0:14:04.58,0:14:07.80,Default,,0,0,0,,Being a ringer,
+Dialogue: 0,0:14:07.80,0:14:11.62,Default,,0,0,0,,Is the business of shouldering the burden of other people's lives.
+Dialogue: 0,0:14:11.62,0:14:13.62,Default,,0,0,0,,You're no use.
+Dialogue: 0,0:14:15.58,0:14:17.58,Default,,0,0,0,,Yes.
+Dialogue: 0,0:14:18.48,0:14:22.14,Default,,0,0,0,,
+Dialogue: 0,0:14:22.14,0:14:24.14,Default,,0,0,0,,
+Dialogue: 0,0:14:24.14,0:14:26.14,Default,,0,0,0,,
+Dialogue: 0,0:14:29.31,0:14:31.08,Default,,0,0,0,,
+Dialogue: 0,0:14:31.08,0:14:35.45,Default,,0,0,0,,
+Dialogue: 0,0:14:38.41,0:14:40.41,Default,,0,0,0,,Play the game with urgency.
+Dialogue: 0,0:14:41.31,0:14:43.31,Default,,0,0,0,,Yes.
+Dialogue: 0,0:14:49.17,0:14:51.20,Default,,0,0,0,,Sorry I'm late.
+Dialogue: 0,0:14:51.20,0:14:52.88,Default,,0,0,0,,
+Dialogue: 0,0:14:52.88,0:14:56.08,Default,,0,0,0,,Did you bring the deed like a good boy?
+Dialogue: 0,0:14:58.68,0:15:00.68,Default,,0,0,0,,It's here.
+Dialogue: 0,0:15:00.68,0:15:04.14,Default,,0,0,0,,And your friend?
+Dialogue: 0,0:15:15.14,0:15:17.91,Default,,0,0,0,,Ten.
+Dialogue: 0,0:15:22.71,0:15:25.17,Default,,0,0,0,,Perfect.
+Dialogue: 0,0:15:26.88,0:15:29.15,Default,,0,0,0,,I've wanted to see a contest against you one more time.
+Dialogue: 0,0:15:35.41,0:15:37.82,Default,,0,0,0,,And this time I won't lose.
+Dialogue: 0,0:15:37.82,0:15:40.57,Default,,0,0,0,,Whatever your cheats.
+Dialogue: 0,0:15:47.51,0:15:50.68,Default,,0,0,0,,The contest is 5 East South rounds.
+Dialogue: 0,0:15:50.68,0:15:53.77,Default,,0,0,0,,The winner is the first to take 3 rounds.
+Dialogue: 0,0:15:54.35,0:15:56.35,Default,,0,0,0,,One thing.
+Dialogue: 0,0:15:57.61,0:15:59.61,Default,,0,0,0,,Me and Hiroyuki...
+Dialogue: 0,0:15:59.61,0:16:01.61,Default,,0,0,0,,Give us a difference.
+Dialogue: 0,0:16:04.88,0:16:07.58,Default,,0,0,0,,What will you do?
+Dialogue: 0,0:16:07.58,0:16:10.48,Default,,0,0,0,,Nothing. It's no problem.
+Dialogue: 0,0:16:11.01,0:16:14.08,Default,,0,0,0,,Well, then. It's decided.
+Dialogue: 0,0:16:14.08,0:16:17.40,Default,,0,0,0,,Ten. Just what are you plotting?
+Dialogue: 0,0:16:28.05,0:16:30.05,Default,,0,0,0,,First Game\NEast Round One
+Dialogue: 0,0:16:30.05,0:16:32.05,Default,,0,0,0,,
+Dialogue: 0,0:16:38.95,0:16:42.68,Default,,0,0,0,,In this situation, Ten can't possibly cheat.
+Dialogue: 0,0:16:42.68,0:16:45.05,Default,,0,0,0,,
+Dialogue: 0,0:16:45.05,0:16:47.05,Default,,0,0,0,,
+Dialogue: 0,0:17:05.62,0:17:08.38,Default,,0,0,0,,Chi.
+Dialogue: 0,0:17:11.02,0:17:13.98,Default,,0,0,0,,He's collecting Man tiles, hunh?
+Dialogue: 0,0:17:21.65,0:17:24.74,Default,,0,0,0,,Oh, you've already got enough of them.
+Dialogue: 0,0:17:48.45,0:17:50.20,Default,,0,0,0,,I'm not in Tenpai.
+Dialogue: 0,0:17:50.20,0:17:52.20,Default,,0,0,0,,And I'm not in Tenpai.
+Dialogue: 0,0:18:01.51,0:18:03.51,Default,,0,0,0,,First Game\NEast Round 3
+Dialogue: 0,0:18:27.71,0:18:30.55,Default,,0,0,0,,This time he's collecting Pin tiles.
+Dialogue: 0,0:19:16.51,0:19:19.25,Default,,0,0,0,,Discarding the Dora tile after he drew it?
+Dialogue: 0,0:19:19.25,0:19:23.11,Default,,0,0,0,,
+Dialogue: 0,0:19:23.11,0:19:25.65,Default,,0,0,0,,As I thought. He's about to win.
+Dialogue: 0,0:19:41.11,0:19:43.17,Default,,0,0,0,,Damn.
+Dialogue: 0,0:19:44.68,0:19:46.68,Default,,0,0,0,,I can't discard Pin tiles.
+Dialogue: 0,0:19:46.68,0:19:50.60,Default,,0,0,0,,And I can't discard from this meld near the Dora.
+Dialogue: 0,0:19:53.15,0:19:55.15,Default,,0,0,0,,It can't be helped.
+Dialogue: 0,0:19:59.48,0:20:02.21,Default,,0,0,0,,Ron.
+Dialogue: 0,0:20:02.21,0:20:04.21,Default,,0,0,0,,7,700 points.
+Dialogue: 0,0:20:06.48,0:20:08.98,Default,,0,0,0,,What a shit break.
+Dialogue: 0,0:20:15.11,0:20:17.11,Default,,0,0,0,,First Game\NSouth Round 4
+Dialogue: 0,0:20:33.34,0:20:35.98,Default,,0,0,0,,Pon.
+Dialogue: 0,0:20:44.40,0:20:47.05,Default,,0,0,0,,Riichi.
+Dialogue: 0,0:21:05.74,0:21:08.61,Default,,0,0,0,,He discarded the Dora within one turn of Sawada's Riichi.
+Dialogue: 0,0:21:09.18,0:21:11.88,Default,,0,0,0,,Ordinarily no one would consider that.
+Dialogue: 0,0:21:11.88,0:21:15.00,Default,,0,0,0,,He's certainly set a trap.
+Dialogue: 0,0:21:39.65,0:21:42.51,Default,,0,0,0,,Ron.
+Dialogue: 0,0:21:43.78,0:21:45.78,Default,,0,0,0,,2,000 points.
+Dialogue: 0,0:21:55.74,0:21:58.31,Default,,0,0,0,,
+Dialogue: 0,0:21:59.31,0:22:02.65,Default,,0,0,0,,He's all mixed up.
+Dialogue: 0,0:22:02.65,0:22:05.51,Default,,0,0,0,,Cause he's afraid.
+Dialogue: 0,0:22:05.51,0:22:07.51,Default,,0,0,0,,Please help me!
+Dialogue: 0,0:22:07.51,0:22:09.51,Default,,0,0,0,,Ten-chan.
+Dialogue: 0,0:22:09.51,0:22:14.25,Default,,0,0,0,,
+Dialogue: 0,0:22:14.25,0:22:17.22,Default,,0,0,0,,PLEASE!
+Dialogue: 0,0:22:18.15,0:22:21.28,Default,,0,0,0,,
+Dialogue: 0,0:22:21.28,0:22:24.57,Default,,0,0,0,,
+Dialogue: 0,0:22:24.57,0:22:27.85,Default,,0,0,0,,How could you gamble it all away?
+Dialogue: 0,0:22:28.78,0:22:31.88,Default,,0,0,0,,I was gullible.
+Dialogue: 0,0:22:31.88,0:22:35.51,Default,,0,0,0,,
+Dialogue: 0,0:22:35.51,0:22:38.28,Default,,0,0,0,,
+Dialogue: 0,0:22:38.28,0:22:40.28,Default,,0,0,0,,Of course.
+Dialogue: 0,0:22:40.28,0:22:44.28,Default,,0,0,0,,
+Dialogue: 0,0:22:44.28,0:22:46.28,Default,,0,0,0,,PLEASE!
+Dialogue: 0,0:22:46.28,0:22:48.28,Default,,0,0,0,,Please save me!
+Dialogue: 0,0:22:50.78,0:22:53.26,Default,,0,0,0,,Ten!
+Dialogue: 0,0:23:06.91,0:23:09.25,Default,,0,0,0,,Proprietor.
+Dialogue: 0,0:23:09.25,0:23:12.34,Default,,0,0,0,,What is it you want to become?
+Dialogue: 0,0:23:12.34,0:23:14.34,Default,,0,0,0,,
+Dialogue: 0,0:23:15.17,0:23:18.48,Default,,0,0,0,,
+Dialogue: 0,0:23:18.48,0:23:21.42,Default,,0,0,0,,And this contest just can't be won.
+Dialogue: 0,0:23:23.38,0:23:26.31,Default,,0,0,0,,The land this shop is on...
+Dialogue: 0,0:23:26.31,0:23:29.37,Default,,0,0,0,,
+Dialogue: 0,0:23:29.37,0:23:33.42,Default,,0,0,0,,
+Dialogue: 0,0:23:40.94,0:23:45.11,Default,,0,0,0,,
+Dialogue: 0,0:23:45.11,0:23:48.34,Default,,0,0,0,,Because he's a complete pro.
+Dialogue: 0,0:23:49.61,0:23:51.61,Default,,0,0,0,,Only,
+Dialogue: 0,0:23:51.61,0:23:55.02,Default,,0,0,0,,
+Dialogue: 0,0:23:55.02,0:23:57.02,Default,,0,0,0,,
+Dialogue: 0,0:23:57.02,0:24:00.28,Default,,0,0,0,,
+Dialogue: 0,0:24:00.28,0:24:02.42,Default,,0,0,0,,
+Dialogue: 0,0:24:02.42,0:24:07.28,Default,,0,0,0,,
+Dialogue: 0,0:24:07.28,0:24:10.40,Default,,0,0,0,,
+Dialogue: 0,0:24:10.40,0:24:12.40,Default,,0,0,0,,
+Dialogue: 0,0:24:12.40,0:24:15.48,Default,,0,0,0,,
+Dialogue: 0,0:24:15.48,0:24:18.00,Default,,0,0,0,,
+Dialogue: 0,0:24:19.95,0:24:23.80,Default,,0,0,0,,
+Dialogue: 0,0:24:43.22,0:24:45.98,Default,,0,0,0,,Well then. Round two.
+Dialogue: 0,0:24:47.08,0:24:49.08,Default,,0,0,0,,Shall we begin?
