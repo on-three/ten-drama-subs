@@ -28,15 +28,17 @@ ASS_EN := $(SUBS_DIR)/$(EN_NAME).en_us.ass
 
 # intermediate files and outputs
 MKV := $(VIDEO_DIR)/$(NAME).mkv
-MP4 := $(VIDEO_DIR)/$(NAME).mp4
+MP4 := $(VIDEO_DIR)/$(EN_NAME).mp4
 
 # tools
 FFMPEG := ffmpeg
 
 all: $(MKV)
 
-$(MP4): $(FLV)
-	ffmpeg -i "$^" -vcodec copy -acodec copy "$@"
+
+# if i need to convert from .flv to .mp4 this rule helps
+mp4:
+	ffmpeg -i "$(FLV)" -vcodec copy -acodec copy "$@"
 
 raw: $(RAW)
 
