@@ -13,7 +13,7 @@ EP := $(shell printf "%02d\n" $(EP))
 NEP := $(shell printf "%01d\n" $(EP))
 
 EN_NAME := Ten.s$(SEASON)e$(EP)
-JP_NAME := "Ten.天.天和通りの快男児.第$(NEP)話"
+JP_NAME := Ten.天.天和通りの快男児.第$(NEP)話
 
 NAME ?= $(JP_NAME)
 
@@ -43,8 +43,8 @@ raw: $(RAW)
 $(OUT_DIR):
 	mkdir -p $@
 
-$(MKV): $(MP4) $(ASS_EN) $(OUT_DIR)
-	$(FFMPEG) -i "$(MP4)" -i $(ASS_EN) \
+$(MKV): $(MP4) $(ASS_EN)
+	$(FFMPEG) -i $(MP4) -i $(ASS_EN) \
 	-map 0:v -map 0:a -map 1 \
 	-metadata:s:s:0 language=eng \
 	$@
