@@ -15,9 +15,9 @@ Video File: /home/on-three/incoming/ten.fukumoto.drama/ドラマPrv ｢天_快�
 Video AR Mode: 4
 Video AR Value: 1.766667
 Video Zoom Percent: 0.625000
-Scroll Position: 9
-Active Line: 28
-Video Position: 4426
+Scroll Position: 96
+Active Line: 105
+Video Position: 19054
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,7 +38,7 @@ Dialogue: 0,0:00:48.97,0:00:50.97,Default,,0,0,0,,He's defeated all the regulars
 Dialogue: 0,0:00:50.97,0:00:52.97,Default,,0,0,0,,Are you a pro, breh?
 Dialogue: 0,0:00:52.97,0:00:54.97,Default,,0,0,0,,No.
 Dialogue: 0,0:00:54.97,0:00:57.65,Default,,0,0,0,,I just learned probability at university.
-Dialogue: 0,0:00:57.65,0:00:59.91,Default,,0,0,0,,It's good in Mahjong.
+Dialogue: 0,0:00:57.65,0:00:59.91,Default,,0,0,0,,It's good to use in Mahjong.
 Dialogue: 0,0:00:59.91,0:01:01.54,Default,,0,0,0,,It gives you perspective.
 Dialogue: 0,0:01:01.54,0:01:03.00,Default,,0,0,0,,Perspective?
 Dialogue: 0,0:01:03.00,0:01:05.45,Default,,0,0,0,,There are a total of 136 tiles in Mahjong.
@@ -62,7 +62,7 @@ Dialogue: 0,0:02:27.55,0:02:29.55,Default,,0,0,0,,the yakisoba at this place
 Dialogue: 0,0:02:29.55,0:02:31.55,Default,,0,0,0,,is the best on the planet.
 Dialogue: 0,0:02:31.51,0:02:33.51,Default,,0,0,0,,Okay. Okay. I get it. On the planet.
 Dialogue: 0,0:02:33.51,0:02:36.05,Default,,0,0,0,,Save us! I'm not exactly sure but...
-Dialogue: 0,0:02:36.05,0:02:39.82,Default,,0,0,0,,
+Dialogue: 0,0:02:36.05,0:02:39.82,Default,,0,0,0,,He's strong and won against everyone.
 Dialogue: 0,0:02:41.78,0:02:43.78,Default,,0,0,0,,What kind of guy is it?
 Dialogue: 0,0:02:43.78,0:02:47.31,Default,,0,0,0,,He's as precise as a computer. No weaknesses.
 Dialogue: 0,0:03:01.68,0:03:04.25,Default,,0,0,0,,Proprietor. Thanks.
@@ -134,7 +134,7 @@ Dialogue: 0,0:10:00.45,0:10:03.80,Default,,0,0,0,,is a truly fearsome thing isn'
 Dialogue: 0,0:10:23.71,0:10:27.91,Default,,0,0,0,,Just hold on a second.\NAdmit you cheated.
 Dialogue: 0,0:10:27.91,0:10:29.42,Default,,0,0,0,,Cheat?
 Dialogue: 0,0:10:29.42,0:10:33.14,Default,,0,0,0,,When you arranged your hand the tile wall in front of you moved a tiny amount.
-Dialogue: 0,0:10:33.14,0:10:35.14,Default,,0,0,0,,Somehow or other it was a quick trick without seeing.
+Dialogue: 0,0:10:33.14,0:10:35.14,Default,,0,0,0,,Somehow or orther it was a brilliant trick of the tiles.
 Dialogue: 0,0:10:35.14,0:10:39.37,Default,,0,0,0,,Aren't you, a pro, embarrassed to do something so childish?
 Dialogue: 0,0:10:42.71,0:10:45.85,Default,,0,0,0,,A sneaky underworld guy like you
 Dialogue: 0,0:10:45.85,0:10:48.68,Default,,0,0,0,,I could become a ringer right away.
