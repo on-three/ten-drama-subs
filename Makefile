@@ -46,6 +46,7 @@ $(OUT_DIR):
 $(MKV): $(MP4) $(ASS_EN)
 	$(FFMPEG) -i $(MP4) -i $(ASS_EN) \
 	-map 0:v -map 0:a -map 1 \
+	-vcodec copy -acodec copy \
 	-metadata:s:s:0 language=eng \
 	$@
 
