@@ -10,14 +10,15 @@ PlayResX: 848
 PlayResY: 480
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../../incoming/ten.fukumoto.drama/ドラマPrv ｢天_快★男☆児｣ #01 第1話 ［HD高画質］-x6uo14b.mp4
 Video File: ../../incoming/ten.fukumoto.drama/ドラマPrv ｢天_快★男☆児｣ #01 第1話 ［HD高画質］-x6uo14b.mp4
 Video AR Mode: 4
 Video AR Value: 1.766667
 Video Zoom Percent: 0.625000
-Scroll Position: 216
-Active Line: 237
-Video Position: 41663
+Scroll Position: 15
+Active Line: 39
+Video Position: 6262
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,6 +27,7 @@ Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Style: white-large,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.4,0.6,2,10,10,10,1
 Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: black-large,Arial,35,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: cyan,Arial,42,&H00FFFF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -68,20 +70,21 @@ Dialogue: 0,0:02:43.78,0:02:47.31,Default,,0,0,0,,He's as precise as a computer.
 Dialogue: 0,0:03:01.68,0:03:04.25,Default,,0,0,0,,Pops. Thanks for the grub.
 Dialogue: 0,0:03:04.25,0:03:06.25,Default,,0,0,0,,Thank you Ten.
 Dialogue: 0,0:03:24.05,0:03:26.75,Default,,0,0,0,,Ron.
-Dialogue: 0,0:03:26.75,0:03:28.75,Default,,0,0,0,,5100 points.
+Dialogue: 0,0:03:26.75,0:03:28.75,Default,,0,0,0,,5,100 points.
 Dialogue: 0,0:03:28.75,0:03:30.75,Default,,0,0,0,,Shit.
 Dialogue: 0,0:03:30.75,0:03:33.22,Default,,0,0,0,,Looks like I've got to quit.
 Dialogue: 0,0:03:38.48,0:03:41.54,Default,,0,0,0,,Oh, you'r sure winning ain't you.
 Dialogue: 0,0:03:55.65,0:03:58.94,Default,,0,0,0,,Will you play me?
-Dialogue: 0,0:04:05.78,0:04:08.42,Default,,0,0,0,,Based on Ten: Tenhou-doori no Kaidanji by Fukumoto Noboyuki
+Dialogue: 0,0:04:05.78,0:04:11.22,cyan,,0,0,0,,{\pos(425.6,97.2)}#/tv/shows bible study and thermos discussion society presents:
 Dialogue: 0,0:04:16.98,0:04:18.98,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:04:25.31,0:04:27.31,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:04:34.15,0:04:36.15,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:05:08.41,0:05:10.41,Default,,0,0,0,,Ten: Tenho-doori no Kaidanji\N(Blessed Way of the Nice Guy Ten)
-Dialogue: 0,0:05:10.41,0:05:13.68,Default,,0,0,0,,So, winner just has the higher score?
+Dialogue: 0,0:05:08.41,0:05:10.41,Default,,0,0,0,,{\pos(438.4,287.6)}Ten: Tenho-doori no Kaidanji\N(The Blessed Way of Nice Guy Ten)
+Dialogue: 0,0:05:08.41,0:05:10.41,white-large,,0,0,0,,{\pos(422.4,409.2)}Episode 1
+Dialogue: 0,0:05:10.41,0:05:13.68,Default,,0,0,0,,So, a wager between you and I?
 Dialogue: 0,0:05:15.65,0:05:18.88,Default,,0,0,0,,I'm confident anything will be fine .Only...
-Dialogue: 0,0:05:20.21,0:05:22.21,Default,,0,0,0,,But really I'm not doing this for myself.
-Dialogue: 0,0:05:22.21,0:05:23.45,Default,,0,0,0,,More of a side bet?
+Dialogue: 0,0:05:20.21,0:05:22.21,Default,,0,0,0,,Let's do a side bet.
+Dialogue: 0,0:05:22.21,0:05:23.45,Default,,0,0,0,,Side bet?
 Dialogue: 0,0:05:23.45,0:05:28.42,Default,,0,0,0,,If I win, you give back what you won from everyone.
 Dialogue: 0,0:05:28.80,0:05:30.80,Default,,0,0,0,,I don't need any money.
 Dialogue: 0,0:05:30.80,0:05:32.40,Default,,0,0,0,,And if you lose?
