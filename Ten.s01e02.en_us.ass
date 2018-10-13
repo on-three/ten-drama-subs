@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 191
-Active Line: 217
-Video Position: 35167
+Scroll Position: 139
+Active Line: 156
+Video Position: 26704
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,14 +78,14 @@ Dialogue: 0,0:03:42.01,0:03:44.01,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuk
 Dialogue: 0,0:03:50.51,0:03:52.51,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
 Dialogue: 0,0:04:24.48,0:04:26.48,Default,,0,0,0,,Ten: Tenho-doori no Kaidanji\N(The Blessed Way of the Nice Guy Ten)
 Dialogue: 0,0:04:29.38,0:04:31.38,Default,,0,0,0,,3rd Game\NEast Round 1
-Dialogue: 0,0:04:36.82,0:04:39.11,Default,,0,0,0,,
-Dialogue: 0,0:04:39.11,0:04:42.57,Default,,0,0,0,,I felt something pass between Ten and Nakanishi.
+Dialogue: 0,0:04:36.82,0:04:39.11,Default,,0,0,0,,That strange atmosphere just now.
+Dialogue: 0,0:04:39.11,0:04:42.57,Default,,0,0,0,,The feeling that something passed between Ten and Nakanishi.
 Dialogue: 0,0:04:50.14,0:04:53.51,Default,,0,0,0,,Nakanishi's initial joy was a mistake.
 Dialogue: 0,0:04:53.51,0:04:55.51,Default,,0,0,0,,
 Dialogue: 0,0:04:55.51,0:04:58.20,Default,,0,0,0,,
 Dialogue: 0,0:05:03.71,0:05:07.17,Default,,0,0,0,,I'm two tiles away from a Kokusi Musou hand!\NAnd if that happens...
 Dialogue: 0,0:05:07.17,0:05:09.71,Default,,0,0,0,,We'll have just about won!
-Dialogue: 0,0:05:11.68,0:05:16.00,Default,,0,0,0,,
+Dialogue: 0,0:05:11.68,0:05:16.00,Default,,0,0,0,,Ten, I'm sorry but the power is in my hand.
 Dialogue: 0,0:05:26.31,0:05:29.38,Default,,0,0,0,,Alright!
 Dialogue: 0,0:05:41.11,0:05:44.88,Default,,0,0,0,,Ah. This isn't what I want.
 Dialogue: 0,0:05:54.28,0:05:56.91,Default,,0,0,0,,And not this either!
@@ -98,7 +98,7 @@ Dialogue: 0,0:06:14.17,0:06:16.17,Default,,0,0,0,,
 Dialogue: 0,0:06:18.82,0:06:22.80,Default,,0,0,0,,Wait. I see.\NBy leaving the 1 Man and West tiles in his hand...
 Dialogue: 0,0:06:22.80,0:06:26.40,Default,,0,0,0,,He didn't eliminae the possibility of finishing my Kokusi Musou.
 Dialogue: 0,0:06:27.81,0:06:31.34,Default,,0,0,0,,He was giving me... HOPE.
-Dialogue: 0,0:06:32.25,0:06:35.37,Default,,0,0,0,,I saw your chance at success.
+Dialogue: 0,0:06:32.25,0:06:35.37,Default,,0,0,0,,I THOUGHT I saw your chance at success.
 Dialogue: 0,0:06:35.37,0:06:37.37,Default,,0,0,0,,And therefore...
 Dialogue: 0,0:06:37.37,0:06:40.28,Default,,0,0,0,,You can't win another game.
 Dialogue: 0,0:06:49.15,0:06:51.15,Default,,0,0,0,,4th Game\NEast Round 4
@@ -111,10 +111,10 @@ Dialogue: 0,0:07:13.74,0:07:16.31,Default,,0,0,0,,How about a little break?
 Dialogue: 0,0:07:20.28,0:07:23.05,Default,,0,0,0,,Why have you forgotten about winning?
 Dialogue: 0,0:07:23.05,0:07:25.05,Default,,0,0,0,,There's no excuse, but...
 Dialogue: 0,0:07:25.05,0:07:27.77,Default,,0,0,0,,
-Dialogue: 0,0:07:27.77,0:07:30.40,Default,,0,0,0,,
+Dialogue: 0,0:07:27.77,0:07:30.40,Default,,0,0,0,,But I had in my hands a plan.
 Dialogue: 0,0:07:30.40,0:07:32.05,Default,,0,0,0,,No matter what you say,
 Dialogue: 0,0:07:32.05,0:07:34.05,Default,,0,0,0,,
-Dialogue: 0,0:07:34.05,0:07:37.74,Default,,0,0,0,,That may be, but just a litter longer and I would have had a Kokusi Musou!
+Dialogue: 0,0:07:34.05,0:07:37.74,Default,,0,0,0,,Okay, but just a litter longer and I would have had a Kokusi Musou!
 Dialogue: 0,0:07:37.74,0:07:39.54,Default,,0,0,0,,I couldn't let that pass!
 Dialogue: 0,0:07:39.54,0:07:41.54,Default,,0,0,0,,Don't. You look at it all wrong.
 Dialogue: 0,0:07:42.21,0:07:45.57,Default,,0,0,0,,
@@ -164,7 +164,7 @@ Dialogue: 0,0:11:11.08,0:11:13.88,Default,,0,0,0,,Pon.
 Dialogue: 0,0:11:18.48,0:11:21.38,Default,,0,0,0,,Pon.
 Dialogue: 0,0:11:27.37,0:11:30.65,Default,,0,0,0,,
 Dialogue: 0,0:11:40.51,0:11:43.31,Default,,0,0,0,,Ron.
-Dialogue: 0,0:11:43.31,0:11:45.31,Default,,0,0,0,,10,600 points.
+Dialogue: 0,0:11:43.31,0:11:45.31,Default,,0,0,0,,16,00 points.
 Dialogue: 0,0:11:48.71,0:11:50.28,Default,,0,0,0,,Alright!
 Dialogue: 0,0:11:50.28,0:11:53.22,Default,,0,0,0,,
 Dialogue: 0,0:11:53.22,0:11:55.22,Default,,0,0,0,,Okay. Last hand.
@@ -180,13 +180,13 @@ Dialogue: 0,0:14:23.71,0:14:25.48,Default,,0,0,0,,
 Dialogue: 0,0:14:25.48,0:14:26.48,Default,,0,0,0,,What?
 Dialogue: 0,0:14:26.48,0:14:29.20,Default,,0,0,0,,YOU TRYING TO CHEAT ME?
 Dialogue: 0,0:14:29.20,0:14:31.20,Default,,0,0,0,,Ten...
-Dialogue: 0,0:14:31.20,0:14:33.20,Default,,0,0,0,,
+Dialogue: 0,0:14:31.20,0:14:33.20,Default,,0,0,0,,Those tiles don't count.
 Dialogue: 0,0:14:33.88,0:14:35.88,Default,,0,0,0,,It's a do-over.
 Dialogue: 0,0:14:35.88,0:14:37.60,Default,,0,0,0,,Why?
 Dialogue: 0,0:14:37.60,0:14:41.31,Default,,0,0,0,,We know about your Chuuren PouTou shit.
 Dialogue: 0,0:14:41.31,0:14:44.71,Default,,0,0,0,,Somehow you managed to put the lights out,
 Dialogue: 0,0:14:44.71,0:14:48.14,Default,,0,0,0,,but by no means will we accept this situation.
-Dialogue: 0,0:14:48.14,0:14:50.14,Default,,0,0,0,,Did I cheat just now?
+Dialogue: 0,0:14:48.14,0:14:50.14,Default,,0,0,0,,Are you saying I just now cheated?
 Dialogue: 0,0:14:50.14,0:14:52.94,Default,,0,0,0,,
 Dialogue: 0,0:14:52.94,0:14:54.94,Default,,0,0,0,,Be that as it may.
 Dialogue: 0,0:14:55.61,0:14:57.61,Default,,0,0,0,,Listen and listen well.
