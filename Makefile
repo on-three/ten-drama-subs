@@ -38,7 +38,7 @@ all: $(MKV)
 
 # if i need to convert from .flv to .mp4 this rule helps
 mp4:
-	ffmpeg -i "$(FLV)" -vcodec copy -acodec copy "$@"
+	ffmpeg -i $(FLV) -vcodec copy -acodec copy $(MP4)
 
 raw: $(RAW)
 
