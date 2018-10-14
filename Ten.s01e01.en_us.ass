@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/ドラマPrv ｢天_快★男☆�
 Video AR Mode: 4
 Video AR Value: 1.766667
 Video Zoom Percent: 0.625000
-Scroll Position: 15
-Active Line: 39
-Video Position: 6262
+Scroll Position: 225
+Active Line: 246
+Video Position: 42753
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,7 +79,7 @@ Dialogue: 0,0:04:05.78,0:04:11.22,cyan,,0,0,0,,{\pos(425.6,97.2)}#/tv/shows bibl
 Dialogue: 0,0:04:16.98,0:04:18.98,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:04:25.31,0:04:27.31,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:04:34.15,0:04:36.15,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:05:08.41,0:05:10.41,Default,,0,0,0,,{\pos(438.4,287.6)}Ten: Tenho-doori no Kaidanji\N(The Blessed Way of Nice Guy Ten)
+Dialogue: 0,0:05:08.41,0:05:10.41,Default,,0,0,0,,{\pos(438.4,287.6)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
 Dialogue: 0,0:05:08.41,0:05:10.41,white-large,,0,0,0,,{\pos(422.4,409.2)}Episode 1
 Dialogue: 0,0:05:10.41,0:05:13.68,Default,,0,0,0,,So, a wager between you and I?
 Dialogue: 0,0:05:15.65,0:05:18.88,Default,,0,0,0,,I'm confident anything will be fine .Only...
@@ -268,7 +268,7 @@ Dialogue: 0,0:22:38.28,0:22:40.28,Default,,0,0,0,,Of course.
 Dialogue: 0,0:22:40.28,0:22:44.28,Default,,0,0,0,,It's a gample you can't win against.
 Dialogue: 0,0:22:44.28,0:22:46.28,Default,,0,0,0,,PLEASE!
 Dialogue: 0,0:22:46.28,0:22:48.28,Default,,0,0,0,,Please save me!
-Dialogue: 0,0:22:50.78,0:22:53.26,Default,,0,0,0,,Ten!
+Dialogue: 0,0:22:50.78,0:22:53.26,Default,,0,0,0,,Ten. I'm pleading with you!
 Dialogue: 0,0:23:06.91,0:23:09.25,Default,,0,0,0,,Pops.
 Dialogue: 0,0:23:09.25,0:23:12.34,Default,,0,0,0,,Can you become a heretic?
 Dialogue: 0,0:23:12.34,0:23:14.34,Default,,0,0,0,,A heretic?
@@ -277,7 +277,7 @@ Dialogue: 0,0:23:18.48,0:23:21.42,Default,,0,0,0,,But that's no good for this co
 Dialogue: 0,0:23:23.38,0:23:26.31,Default,,0,0,0,,This shop, your land..
 Dialogue: 0,0:23:26.31,0:23:29.37,Default,,0,0,0,,If you don't want them to be stolen
 Dialogue: 0,0:23:29.37,0:23:33.42,Default,,0,0,0,,become a heretical, UNORTHODOX player for me.
-Dialogue: 0,0:23:40.94,0:23:45.11,Default,,0,0,0,,Ten has been encouraging Nakanishi's single color hands.
+Dialogue: 0,0:23:40.94,0:23:45.11,Default,,0,0,0,,Ten has been encouraging Nakanishi's single suit hands.
 Dialogue: 0,0:23:45.11,0:23:48.34,Default,,0,0,0,,And it's been entirely a bluff.
 Dialogue: 0,0:23:49.61,0:23:51.61,Default,,0,0,0,,Only,
 Dialogue: 0,0:23:51.61,0:23:55.02,Default,,0,0,0,,They've put his shop on the line.
