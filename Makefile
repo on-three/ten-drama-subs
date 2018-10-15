@@ -32,13 +32,13 @@ MP4 := $(VIDEO_DIR)/$(EN_NAME).mp4
 
 # tools
 FFMPEG := ffmpeg
-
+UPLOAD := tovps
 all: $(MKV)
 
 
 # if i need to convert from .flv to .mp4 this rule helps
 mp4:
-	ffmpeg -i $(FLV) -vcodec copy -acodec copy $(MP4)
+	ffmpeg -y -i $(FLV) -vcodec copy -acodec copy $(MP4)
 
 raw: $(RAW)
 
@@ -46,9 +46,12 @@ $(OUT_DIR):
 	mkdir -p $@
 
 $(MKV): $(MP4) $(ASS_EN)
-	$(FFMPEG) -i $(MP4) -i $(ASS_EN) \
+	$(FFMPEG) -y -i $(MP4) -i $(ASS_EN) \
 	-map 0:v -map 0:a -map 1 \
 	-vcodec copy -acodec copy \
 	-metadata:s:s:0 language=eng \
 	$@
+
+upload:
+	$(UPLOAD) $(MKV)
 
