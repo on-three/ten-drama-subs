@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 127
-Active Line: 141
-Video Position: 21396
+Scroll Position: 228
+Active Line: 244
+Video Position: 43626
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -74,7 +74,7 @@ Dialogue: 0,0:03:08.37,0:03:10.37,Default,,0,0,0,,Ten was flustered.
 Dialogue: 0,0:03:10.37,0:03:13.48,Default,,0,0,0,,With that. Some mistake was made.
 Dialogue: 0,0:03:13.48,0:03:17.11,Default,,0,0,0,,Some cooperation between them was broken, I think.
 Dialogue: 0,0:03:18.31,0:03:21.20,Default,,0,0,0,,We take advantage of it.
-Dialogue: 0,0:03:21.20,0:03:25.60,cyan,,0,0,0,,{\pos(616,84)}#/tv/shows Gamur Society presents
+Dialogue: 0,0:03:21.20,0:03:25.60,cyan,,0,0,0,,{\pos(616,84)}#/tv/shows Gentleman Gamer Society presents
 Dialogue: 0,0:03:33.55,0:03:35.55,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:03:42.01,0:03:44.01,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:03:50.51,0:03:52.51,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
@@ -121,7 +121,7 @@ Dialogue: 0,0:07:25.05,0:07:27.77,Default,,0,0,0,,I take responsibility for what
 Dialogue: 0,0:07:27.77,0:07:30.40,Default,,0,0,0,,But I had in my hands such a plan!
 Dialogue: 0,0:07:30.40,0:07:32.05,Default,,0,0,0,,No matter what you say,
 Dialogue: 0,0:07:32.05,0:07:34.05,Default,,0,0,0,,Please stop that style of play.
-Dialogue: 0,0:07:34.05,0:07:37.74,Default,,0,0,0,,But but just a litter longer and I would have had a Kokusi Musou!
+Dialogue: 0,0:07:34.05,0:07:37.74,Default,,0,0,0,,But just a little longer and I would have had a Kokusi Musou!
 Dialogue: 0,0:07:37.74,0:07:39.54,Default,,0,0,0,,I couldn't let that situation pass!
 Dialogue: 0,0:07:39.54,0:07:41.54,Default,,0,0,0,,You look at it all wrong.
 Dialogue: 0,0:07:42.21,0:07:45.57,Default,,0,0,0,,That kind of half baked thinking is fatal.
@@ -212,7 +212,7 @@ Dialogue: 0,0:15:49.11,0:15:52.08,Default,,0,0,0,,I'm taking the old man's Deed 
 Dialogue: 0,0:15:52.08,0:15:53.22,Default,,0,0,0,,Got it?
 Dialogue: 0,0:15:53.22,0:15:54.65,Default,,0,0,0,,Just what are you saying?
 Dialogue: 0,0:15:54.18,0:15:56.18,Default,,0,0,0,,I'm dead serious.
-Dialogue: 0,0:15:58.15,0:16:02.71,Default,,0,0,0,,
+Dialogue: 0,0:15:58.15,0:16:02.71,Default,,0,0,0,,If I've cheated do as you like, but on the other hand...
 Dialogue: 0,0:16:02.71,0:16:04.71,Default,,0,0,0,,If I didn't cheat we've won.
 Dialogue: 0,0:16:04.71,0:16:06.71,Default,,0,0,0,,We've already decided you cheated!
 Dialogue: 0,0:16:10.17,0:16:12.85,Default,,0,0,0,,No.
@@ -232,7 +232,7 @@ Dialogue: 0,0:17:14.11,0:17:16.11,Default,,0,0,0,,TENHOU CHUUREN POUTOU
 Dialogue: 0,0:17:23.94,0:17:26.35,Default,,0,0,0,,We win.
 Dialogue: 0,0:17:26.35,0:17:28.35,Default,,0,0,0,,Yes!
 Dialogue: 0,0:17:38.28,0:17:40.57,Default,,0,0,0,,Pops.
-Dialogue: 0,0:17:40.57,0:17:43.00,Default,,0,0,0,,
+Dialogue: 0,0:17:40.57,0:17:43.00,Default,,0,0,0,,Don't let go of this, okay?
 Dialogue: 0,0:17:51.40,0:17:54.15,Default,,0,0,0,,Thank you Ten!
 Dialogue: 0,0:17:54.15,0:17:56.15,Default,,0,0,0,,Thank you so much!
 Dialogue: 0,0:17:56.81,0:17:59.80,Default,,0,0,0,,I won't ever do that stuff again.
@@ -241,7 +241,7 @@ Dialogue: 0,0:18:31.08,0:18:33.08,Default,,0,0,0,,Pon.
 Dialogue: 0,0:18:33.08,0:18:35.08,Default,,0,0,0,,Pon.
 Dialogue: 0,0:18:39.00,0:18:42.20,Default,,0,0,0,,Whether by guile or cheating outright
 Dialogue: 0,0:18:42.20,0:18:45.40,Default,,0,0,0,,you've got to win by any means necessary.
-Dialogue: 0,0:18:45.40,0:18:50.11,Default,,0,0,0,,He switched them with only his LEFT hand, the one without powder on it.
+Dialogue: 0,0:18:45.40,0:18:50.11,Default,,0,0,0,,Did he switch them with only his LEFT hand, the one without powder on it?
 Dialogue: 0,0:18:51.55,0:18:53.02,Default,,0,0,0,,What's the matter?
 Dialogue: 0,0:18:53.02,0:18:55.02,Default,,0,0,0,,Nothing.
 Dialogue: 0,0:18:55.02,0:18:58.68,Default,,0,0,0,,We didn't see it at the time.
@@ -266,49 +266,48 @@ Dialogue: 0,0:20:18.88,0:20:21.11,Default,,0,0,0,,
 Dialogue: 0,0:20:22.51,0:20:26.17,Default,,0,0,0,,This is Ishinomori, another Ringer.
 Dialogue: 0,0:20:29.40,0:20:31.34,Default,,0,0,0,,Maruo...
 Dialogue: 0,0:20:31.34,0:20:33.94,Default,,0,0,0,,Welcome.
-Dialogue: 0,0:20:33.94,0:20:35.62,Default,,0,0,0,,
+Dialogue: 0,0:20:33.94,0:20:35.62,Default,,0,0,0,,Komo.
 Dialogue: 0,0:20:35.62,0:20:38.14,Default,,0,0,0,,Thanks for your consideration.\N(Kansai dialect)
 Dialogue: 0,0:20:38.14,0:20:40.14,Default,,0,0,0,,These are our ringers.
 Dialogue: 0,0:20:51.85,0:20:55.20,Default,,0,0,0,,This guy's a ringer?
 Dialogue: 0,0:20:55.20,0:20:57.20,Default,,0,0,0,,It's just about time. Let's begin.
 Dialogue: 0,0:22:29.48,0:22:31.48,Default,,0,0,0,,East Round 1
-Dialogue: 0,0:23:11.65,0:23:14.21,Default,,0,0,0,,The hell is that guy doing?
+Dialogue: 0,0:23:11.65,0:23:14.21,Default,,0,0,0,,The hell is this guy doing?
 Dialogue: 0,0:24:02.71,0:24:05.35,Default,,0,0,0,,Ron.
 Dialogue: 0,0:24:08.77,0:24:11.20,Default,,0,0,0,,It's a Chitoitsu.\N(all pairs hand)
-Dialogue: 0,0:24:11.20,0:24:14.22,Default,,0,0,0,,
+Dialogue: 0,0:24:11.20,0:24:14.22,Default,,0,0,0,,You're able to complete every pair?
 Dialogue: 0,0:24:19.18,0:24:21.18,Default,,0,0,0,,East Round 3
 Dialogue: 0,0:24:52.02,0:24:54.75,Default,,0,0,0,,Ron.
-Dialogue: 0,0:24:54.75,0:24:57.42,Default,,0,0,0,,Chitoitsu Tanyao.\N(All pairs, tiles numbered 2-8)
+Dialogue: 0,0:24:54.75,0:24:57.42,Default,,0,0,0,,Chitoitsu, Tanyao.\N(All pairs, tiles numbered 2-8)
 Dialogue: 0,0:24:59.54,0:25:01.68,Default,,0,0,0,,A chitoitsu again?
 Dialogue: 0,0:25:01.68,0:25:04.17,Default,,0,0,0,,How did he read my discards?
 Dialogue: 0,0:25:05.78,0:25:08.97,Default,,0,0,0,,South Round 3
 Dialogue: 0,0:25:55.11,0:25:57.14,Default,,0,0,0,,I'm in Tenpai.
-Dialogue: 0,0:25:57.14,0:26:00.02,Default,,0,0,0,,He ought not be able to read this discard.
-Dialogue: 0,0:26:00.02,0:26:03.42,Default,,0,0,0,,
-Dialogue: 0,0:26:03.42,0:26:07.05,Default,,0,0,0,,Unless he's got some superpower.
+Dialogue: 0,0:25:57.14,0:26:00.02,Default,,0,0,0,,He ought not be able to read this surplus tile.
+Dialogue: 0,0:26:00.02,0:26:03.42,Default,,0,0,0,,unless he can peek into my mind.
+Dialogue: 0,0:26:03.42,0:26:07.05,Default,,0,0,0,,that would be like he's got some superpower.
 Dialogue: 0,0:26:17.14,0:26:19.91,Default,,0,0,0,,Ron.\NA chitoitsu.
 Dialogue: 0,0:26:19.91,0:26:21.91,Default,,0,0,0,,THA FUUU
 Dialogue: 0,0:26:23.88,0:26:25.60,Default,,0,0,0,,You have to be kidding.
 Dialogue: 0,0:26:25.60,0:26:29.08,Default,,0,0,0,,Yet another chitoitsu?\NWaiting on a 3 Sou.
 Dialogue: 0,0:26:29.08,0:26:32.45,Default,,0,0,0,,H-how?\NIs it by mere chance?
 Dialogue: 0,0:26:32.45,0:26:34.00,Default,,0,0,0,,And yet...
-Dialogue: 0,0:26:34.00,0:26:36.94,Default,,0,0,0,,Shall I give you hint?
+Dialogue: 0,0:26:34.00,0:26:36.94,Default,,0,0,0,,Shall I tell you the trick?
 Dialogue: 0,0:26:36.94,0:26:38.94,Default,,0,0,0,,Wha?
 Dialogue: 0,0:26:38.94,0:26:41.34,Default,,0,0,0,,Your eyes betray you.
 Dialogue: 0,0:26:41.34,0:26:43.34,Default,,0,0,0,,Eyes?
-Dialogue: 0,0:26:43.34,0:26:48.42,Default,,0,0,0,,
-Dialogue: 0,0:26:48.42,0:26:52.97,Default,,0,0,0,,And similarly when you draw your tiles, what happens?
-Dialogue: 0,0:26:52.97,0:26:57.40,Default,,0,0,0,,When you discarded the 4 Sou, you always
-Dialogue: 0,0:26:57.40,0:27:00.82,Default,,0,0,0,,
-Dialogue: 0,0:27:00.82,0:27:03.91,Default,,0,0,0,,
+Dialogue: 0,0:26:43.34,0:26:48.42,Default,,0,0,0,,When the tile you want comes out your eyes follow it for an instant.
+Dialogue: 0,0:26:48.42,0:26:52.97,Default,,0,0,0,,And what do you think happens to the tile you're drawing?
+Dialogue: 0,0:26:52.97,0:26:57.40,Default,,0,0,0,,When you discarded the 4 Sou, you, as usual...
+Dialogue: 0,0:26:57.40,0:27:03.62,Default,,0,0,0,,drew your next tile with your middle finger, but it slid.
 Dialogue: 0,0:27:03.91,0:27:06.80,Default,,0,0,0,,That is to say your eye-line shifted.
-Dialogue: 0,0:27:06.80,0:27:09.68,Default,,0,0,0,,To the left of the tile drawn.
+Dialogue: 0,0:27:06.80,0:27:09.68,Default,,0,0,0,,and the tile you draw slid to the left.
 Dialogue: 0,0:27:09.68,0:27:11.68,Default,,0,0,0,,S-something so small!
 Dialogue: 0,0:27:11.68,0:27:16.11,Default,,0,0,0,,It's ALL in the details.
-Dialogue: 0,0:27:16.91,0:27:20.91,Default,,0,0,0,,
+Dialogue: 0,0:27:16.91,0:27:20.91,Default,,0,0,0,,That's the Mahjong level I'm at, kid. 
 Dialogue: 0,0:27:26.91,0:27:31.05,Default,,0,0,0,,Quite an interesting game you're having, isn't it.
 Dialogue: 0,0:27:34.77,0:27:35.91,Default,,0,0,0,,Ten!
-Dialogue: 0,0:27:35.91,0:27:40.94,Default,,0,0,0,,
-Dialogue: 0,0:27:50.17,0:27:54.14,Default,,0,0,0,,
-Dialogue: 0,0:27:54.14,0:27:58.17,Default,,0,0,0,,Akagi Shigeru!\NSomeone who hasn't been... CAN'T be beaten.
+Dialogue: 0,0:27:35.91,0:27:40.94,Default,,0,0,0,,I'm going to mix it up with you as well.
+Dialogue: 0,0:27:50.17,0:27:54.14,Default,,0,0,0,,Whoever folds under pressure will lose.
+Dialogue: 0,0:27:54.14,0:27:58.17,Default,,0,0,0,,Akagi Shigeru!\NSomeone who's never been beaten.\NA peerless Mahjong player.
 Dialogue: 0,0:27:58.17,0:28:00.17,Default,,0,0,0,,So you're Ten?
