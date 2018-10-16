@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 228
-Active Line: 244
-Video Position: 43626
+Scroll Position: 216
+Active Line: 231
+Video Position: 37068
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,9 +44,9 @@ Dialogue: 0,0:00:20.88,0:00:23.68,Default,,0,0,0,,Well then. Round 2.\NLet's beg
 Dialogue: 0,0:00:25.65,0:00:27.65,Default,,0,0,0,,Game 2 East Round 2\NTen/Nakanishi Team has 1 Victory
 Dialogue: 0,0:00:41.08,0:00:43.40,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:00:43.40,0:00:45.40,Default,,0,0,0,,Their side has the game flow.
-Dialogue: 0,0:00:45.40,0:00:48.48,Default,,0,0,0,,Little by little I can see their strategy.
+Dialogue: 0,0:00:45.40,0:00:48.48,Default,,0,0,0,,But little by little I can see their strategy.
 Dialogue: 0,0:00:59.20,0:01:01.42,Default,,0,0,0,,Ron.
-Dialogue: 0,0:01:01.42,0:01:02.80,Default,,0,0,0,,6,500 points.
+Dialogue: 0,0:01:01.42,0:01:02.80,Default,,0,0,0,,6,700 points.
 Dialogue: 0,0:01:02.80,0:01:04.80,Default,,0,0,0,,What the hell you doing?
 Dialogue: 0,0:01:12.25,0:01:14.68,Default,,0,0,0,,Game 2\NSouth Round 1
 Dialogue: 0,0:01:24.28,0:01:25.62,Default,,0,0,0,,Riichi.
@@ -56,16 +56,16 @@ Dialogue: 0,0:01:31.37,0:01:33.54,Default,,0,0,0,,Nakanisi declares Riichi when 
 Dialogue: 0,0:01:33.54,0:01:36.37,Default,,0,0,0,,And Ten waits for tiles Nakanishi has already discarded.
 Dialogue: 0,0:01:36.37,0:01:38.17,Default,,0,0,0,,I get it.
 Dialogue: 0,0:01:38.17,0:01:40.17,Default,,0,0,0,,I won't deal into his hand any more!
-Dialogue: 0,0:01:42.15,0:01:45.51,Default,,0,0,0,,The meaning of Nakanishi declaring Tempai is then...
+Dialogue: 0,0:01:42.15,0:01:45.51,Default,,0,0,0,,The meaning of Nakanishi declaring Tenpai is then...
 Dialogue: 0,0:01:45.51,0:01:48.65,Default,,0,0,0,,If I follow Ten's discards I should be safe.
 Dialogue: 0,0:01:57.94,0:02:00.78,Default,,0,0,0,,This tile will pass.
 Dialogue: 0,0:02:23.71,0:02:26.60,Default,,0,0,0,,This should pass as well.
 Dialogue: 0,0:02:26.60,0:02:28.02,Default,,0,0,0,,Ron.
 Dialogue: 0,0:02:28.02,0:02:30.02,Default,,0,0,0,,Hunh?
 Dialogue: 0,0:02:30.02,0:02:32.91,Default,,0,0,0,,8,000 points. Alright!
-Dialogue: 0,0:02:46.37,0:02:49.71,Default,,0,0,0,,I can't read what those guys are aiming at.
+Dialogue: 0,0:02:46.37,0:02:49.71,Default,,0,0,0,,We can't read what those guys are aiming at.
 Dialogue: 0,0:02:50.85,0:02:52.85,Default,,0,0,0,,No.
-Dialogue: 0,0:02:52.85,0:02:54.85,Default,,0,0,0,,It's not that at all.
+Dialogue: 0,0:02:52.85,0:02:54.85,Default,,0,0,0,,It's not like that at all.
 Dialogue: 0,0:02:57.85,0:02:59.85,Default,,0,0,0,,What are you thinking?
 Dialogue: 0,0:02:59.85,0:03:03.22,Default,,0,0,0,,I noticed some telling looks between Ten and Nananishi.
 Dialogue: 0,0:03:03.22,0:03:06.77,Default,,0,0,0,,Earlier, when I dealt into Nakanishi's hand...
@@ -78,10 +78,6 @@ Dialogue: 0,0:03:21.20,0:03:25.60,cyan,,0,0,0,,{\pos(616,84)}#/tv/shows Gentlema
 Dialogue: 0,0:03:33.55,0:03:35.55,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:03:42.01,0:03:44.01,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:03:50.51,0:03:52.51,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:03:53.95,0:03:57.08,Default,,0,0,0,,10 times you rejected me Veronica to ride the cock carousel with Chad.
-Dialogue: 0,0:03:57.08,0:04:01.25,Default,,0,0,0,,While I,  a true Gentleman Gamer, have perfected my body and mind through Mahjong to the highest level.
-Dialogue: 0,0:04:01.25,0:04:05.17,Default,,0,0,0,,And when the time comes when you turn to me for help...
-Dialogue: 0,0:04:05.17,0:04:09.74,Default,,0,0,0,,MOM'S GONNA FREAK when she sees what I do to you.
 Dialogue: 0,0:04:09.74,0:04:13.85,Default,,0,0,0,,BOTTOM TEXT
 Dialogue: 0,0:04:24.48,0:04:28.25,Default,,0,0,0,,Ten: Tenho-doori no Kaidanji\N(The Blessed Way of the Nice Guy Ten)
 Dialogue: 0,0:04:29.38,0:04:31.38,Default,,0,0,0,,3rd Game\NEast Round 1
@@ -105,7 +101,7 @@ Dialogue: 0,0:06:14.17,0:06:16.85,Default,,0,0,0,,Ten was waiting for them.
 Dialogue: 0,0:06:18.82,0:06:22.80,Default,,0,0,0,,Wait. I see.\NBy leaving the 1 Man and West tiles in his hand...
 Dialogue: 0,0:06:22.80,0:06:26.40,Default,,0,0,0,,He didn't eliminae the possibility of me finishing my Kokusi Musou.
 Dialogue: 0,0:06:27.81,0:06:31.34,Default,,0,0,0,,He was giving me... HOPE.
-Dialogue: 0,0:06:32.25,0:06:35.37,Default,,0,0,0,,I THOUGHT I saw your chance at success.
+Dialogue: 0,0:06:32.25,0:06:35.37,Default,,0,0,0,,As I thought, I saw through your strategy, pops.
 Dialogue: 0,0:06:35.37,0:06:37.37,Default,,0,0,0,,And therefore...
 Dialogue: 0,0:06:37.37,0:06:40.28,Default,,0,0,0,,You can't win another game.
 Dialogue: 0,0:06:49.15,0:06:51.15,Default,,0,0,0,,4th Game\NEast Round 4
@@ -266,7 +262,7 @@ Dialogue: 0,0:20:18.88,0:20:21.11,Default,,0,0,0,,
 Dialogue: 0,0:20:22.51,0:20:26.17,Default,,0,0,0,,This is Ishinomori, another Ringer.
 Dialogue: 0,0:20:29.40,0:20:31.34,Default,,0,0,0,,Maruo...
 Dialogue: 0,0:20:31.34,0:20:33.94,Default,,0,0,0,,Welcome.
-Dialogue: 0,0:20:33.94,0:20:35.62,Default,,0,0,0,,Komo.
+Dialogue: 0,0:20:33.94,0:20:35.62,Default,,0,0,0,,Komori.
 Dialogue: 0,0:20:35.62,0:20:38.14,Default,,0,0,0,,Thanks for your consideration.\N(Kansai dialect)
 Dialogue: 0,0:20:38.14,0:20:40.14,Default,,0,0,0,,These are our ringers.
 Dialogue: 0,0:20:51.85,0:20:55.20,Default,,0,0,0,,This guy's a ringer?
@@ -304,7 +300,7 @@ Dialogue: 0,0:27:03.91,0:27:06.80,Default,,0,0,0,,That is to say your eye-line s
 Dialogue: 0,0:27:06.80,0:27:09.68,Default,,0,0,0,,and the tile you draw slid to the left.
 Dialogue: 0,0:27:09.68,0:27:11.68,Default,,0,0,0,,S-something so small!
 Dialogue: 0,0:27:11.68,0:27:16.11,Default,,0,0,0,,It's ALL in the details.
-Dialogue: 0,0:27:16.91,0:27:20.91,Default,,0,0,0,,That's the Mahjong level I'm at, kid. 
+Dialogue: 0,0:27:16.91,0:27:20.91,Default,,0,0,0,,That's the Mahjong level I'm at, kid.
 Dialogue: 0,0:27:26.91,0:27:31.05,Default,,0,0,0,,Quite an interesting game you're having, isn't it.
 Dialogue: 0,0:27:34.77,0:27:35.91,Default,,0,0,0,,Ten!
 Dialogue: 0,0:27:35.91,0:27:40.94,Default,,0,0,0,,I'm going to mix it up with you as well.
