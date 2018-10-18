@@ -15,9 +15,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 102
-Active Line: 118
-Video Position: 22263
+Scroll Position: 233
+Active Line: 253
+Video Position: 46265
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -147,10 +147,10 @@ Dialogue: 0,0:11:55.68,0:11:59.71,Default,,0,0,0,,As I thought. His Mahjong is s
 Dialogue: 0,0:12:01.08,0:12:04.14,Default,,0,0,0,,That's as far as it goes.
 Dialogue: 0,0:12:04.14,0:12:08.34,Default,,0,0,0,,You probably won't be winning any more.
 Dialogue: 0,0:12:08.34,0:12:13.02,Default,,0,0,0,,You've... given up.
-Dialogue: 0,0:12:13.02,0:12:17.74,Default,,0,0,0,,You retreated from a difficult position.
-Dialogue: 0,0:12:17.74,0:12:22.11,Default,,0,0,0,,And you couldn't read your OWN mind.
+Dialogue: 0,0:12:13.02,0:12:17.74,Default,,0,0,0,,You retreated from a difficult position...
+Dialogue: 0,0:12:17.74,0:12:22.11,Default,,0,0,0,,and you couldn't read your OWN mind.
 Dialogue: 0,0:12:22.11,0:12:25.62,Default,,0,0,0,,It's true all the world round:
-Dialogue: 0,0:12:25.62,0:12:29.11,Default,,0,0,0,,Those who crumble under pressure.
+Dialogue: 0,0:12:25.62,0:12:29.11,Default,,0,0,0,,Those who crumble under pressure...
 Dialogue: 0,0:12:29.11,0:12:32.88,Default,,0,0,0,,have no path to victory.
 Dialogue: 0,0:12:35.25,0:12:38.28,Default,,0,0,0,,What will you do?
 Dialogue: 0,0:12:38.28,0:12:41.65,Default,,0,0,0,,
@@ -160,18 +160,18 @@ Dialogue: 0,0:12:53.80,0:12:55.80,Default,,0,0,0,,
 Dialogue: 0,0:12:55.80,0:12:57.80,Default,,0,0,0,,
 Dialogue: 0,0:12:56.51,0:12:58.02,Default,,0,0,0,,It's no use.
 Dialogue: 0,0:12:58.02,0:13:00.91,Default,,0,0,0,,
-Dialogue: 0,0:13:00.91,0:13:04.68,Default,,0,0,0,,Murata just lost.\NThere's no one else but you.
-Dialogue: 0,0:13:04.68,0:13:06.68,Default,,0,0,0,,Murata.
+Dialogue: 0,0:13:00.91,0:13:04.68,Default,,0,0,0,,Murota just lost.\NThere's no one else but you.
+Dialogue: 0,0:13:04.68,0:13:06.68,Default,,0,0,0,,Murota.
 Dialogue: 0,0:13:11.34,0:13:14.05,Default,,0,0,0,,Who beat him?
 Dialogue: 0,0:13:14.81,0:13:17.68,Default,,0,0,0,,Some guy named Ten.
 Dialogue: 0,0:13:21.28,0:13:23.61,Default,,0,0,0,,Ten.
-Dialogue: 0,0:14:53.80,0:14:57.05,Default,,0,0,0,,We seem to lack a player for the next East South Round.
+Dialogue: 0,0:14:53.80,0:14:57.05,Default,,0,0,0,,It looks like they'll change a player for the next East South Round.
 Dialogue: 0,0:14:57.05,0:14:59.05,Default,,0,0,0,,I see.
-Dialogue: 0,0:14:59.75,0:15:02.74,Default,,0,0,0,,
-Dialogue: 0,0:15:04.05,0:15:07.82,Default,,0,0,0,,Ten, even though you were my opponent.
+Dialogue: 0,0:14:59.75,0:15:02.74,Default,,0,0,0,,Can I ask you something?
+Dialogue: 0,0:15:04.05,0:15:07.82,Default,,0,0,0,,Ten, even though you were my opponent,
 Dialogue: 0,0:15:07.82,0:15:11.54,Default,,0,0,0,,why did you save me?
-Dialogue: 0,0:15:11.54,0:15:15.71,Default,,0,0,0,,
-Dialogue: 0,0:15:17.18,0:15:21.34,Default,,0,0,0,,bastards of TRUE wold of Mahjong ringers.
+Dialogue: 0,0:15:11.54,0:15:15.71,Default,,0,0,0,,I thought I'd teach you something in front of "Hamada chan"
+Dialogue: 0,0:15:17.18,0:15:21.34,Default,,0,0,0,,something about ringers and the REAL world of Mahjong.
 Dialogue: 0,0:15:23.31,0:15:25.31,Default,,0,0,0,,Time to start again.
 Dialogue: 0,0:15:30.45,0:15:33.41,Default,,0,0,0,,Akagi Shigeru.
 Dialogue: 0,0:15:33.41,0:15:35.41,Default,,0,0,0,,Why HIM?
@@ -195,23 +195,24 @@ Dialogue: 0,0:16:38.82,0:16:41.05,Default,,0,0,0,,Akagi Shigeru.
 Dialogue: 0,0:16:41.05,0:16:45.22,Default,,0,0,0,,How on earth will he play?
 Dialogue: 0,0:16:52.71,0:16:55.17,Default,,0,0,0,,Pon.
 Dialogue: 0,0:17:03.08,0:17:05.08,Default,,0,0,0,,Chi.
-Dialogue: 0,0:17:05.08,0:17:09.17,Default,,0,0,0,,
-Dialogue: 0,0:17:09.17,0:17:12.37,Default,,0,0,0,,
-Dialogue: 0,0:17:19.00,0:17:22.08,Default,,0,0,0,,
-Dialogue: 0,0:17:22.08,0:17:25.28,Default,,0,0,0,,
-Dialogue: 0,0:17:25.28,0:17:27.94,Default,,0,0,0,,
-Dialogue: 0,0:17:27.94,0:17:29.94,Default,,0,0,0,,Psyche.
-Dialogue: 0,0:17:29.94,0:17:33.82,Default,,0,0,0,,
-Dialogue: 0,0:17:33.82,0:17:37.08,Default,,0,0,0,,
+Dialogue: 0,0:17:05.08,0:17:09.17,Default,,0,0,0,,Amazing.\NIt's only just started,
+Dialogue: 0,0:17:09.17,0:17:12.37,Default,,0,0,0,,but already the game's coming to a boil.
+Dialogue: 0,0:17:19.00,0:17:22.08,Default,,0,0,0,,Simply put, it's not just his lightning plans,
+Dialogue: 0,0:17:22.08,0:17:25.28,Default,,0,0,0,,The man himself exudes a strange atmosphere.
+Dialogue: 0,0:17:25.28,0:17:27.94,Default,,0,0,0,,It's indescribable, like something in the air.
+Dialogue: 0,0:17:27.94,0:17:29.94,Default,,0,0,0,,Brilliance.
+Dialogue: 0,0:17:29.94,0:17:33.82,Default,,0,0,0,,A brilliance that matches what's expected of him.
+Dialogue: 0,0:17:33.82,0:17:37.08,Default,,0,0,0,,Overflowing with the strange and unknown.
 Dialogue: 0,0:17:40.91,0:17:43.68,Default,,0,0,0,,Ron.
 Dialogue: 0,0:17:48.71,0:17:51.65,Default,,0,0,0,,Chanta with Red Dragon.
 Dialogue: 0,0:17:51.65,0:17:53.65,Default,,0,0,0,,Chanta...
+Dialogue: 0,0:17:51.65,0:17:57.85,cyan,,0,0,0,,{\pos(636,102)}Chanta: All triples and pairs must contain a terminal tile [1 or 9] or honor[dragon or wind]
 Dialogue: 0,0:17:53.65,0:17:56.77,Default,,0,0,0,,And furthermore completed on the 4th turn?
-Dialogue: 0,0:17:56.77,0:17:59.82,Default,,0,0,0,,
-Dialogue: 0,0:17:59.82,0:18:01.82,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:17:56.77,0:17:59.82,Default,,0,0,0,,I can't get my hand moving in only 4 turns.
+Dialogue: 0,0:17:59.82,0:18:01.82,Default,,0,0,0,,Really?
 Dialogue: 0,0:18:01.82,0:18:05.05,Default,,0,0,0,,You three guys have discarded 9 tiles.
 Dialogue: 0,0:18:05.05,0:18:07.05,Default,,0,0,0,,I drew 2 of those.
-Dialogue: 0,0:18:07.05,0:18:12.00,Default,,0,0,0,,
+Dialogue: 0,0:18:07.05,0:18:12.00,Default,,0,0,0,,In total...\NIt felt like I drew eleven times.
 Dialogue: 0,0:18:16.08,0:18:18.08,Default,,0,0,0,,3rd Game\NEast Round 3
 Dialogue: 0,0:18:27.42,0:18:30.01,Default,,0,0,0,,Pon.
 Dialogue: 0,0:18:42.88,0:18:46.05,Default,,0,0,0,,Tsumo.
@@ -221,29 +222,29 @@ Dialogue: 0,0:19:20.68,0:19:23.55,Default,,0,0,0,,I'm not in Tenpai.
 Dialogue: 0,0:19:23.55,0:19:25.55,Default,,0,0,0,,Tenpai.
 Dialogue: 0,0:19:25.55,0:19:27.82,Default,,0,0,0,,
 Dialogue: 0,0:19:27.82,0:19:31.34,Default,,0,0,0,,but once again he was going for a Chanta hand.
-Dialogue: 0,0:19:31.88,0:19:35.08,Default,,0,0,0,,
-Dialogue: 0,0:19:35.08,0:19:37.08,Default,,0,0,0,,It's okay.
-Dialogue: 0,0:19:37.08,0:19:39.08,Default,,0,0,0,,Up to now I've just been measuring them.
+Dialogue: 0,0:19:31.88,0:19:35.08,Default,,0,0,0,,Isn't it about time you play in a more normal style?
+Dialogue: 0,0:19:35.08,0:19:37.08,Default,,0,0,0,,No. This will be fine.
+Dialogue: 0,0:19:37.08,0:19:39.08,Default,,0,0,0,,I'm still measuring him.
 Dialogue: 0,0:19:39.08,0:19:40.48,Default,,0,0,0,,Measuring?
-Dialogue: 0,0:19:40.48,0:19:44.28,Default,,0,0,0,,
-Dialogue: 0,0:19:45.51,0:19:47.51,Default,,0,0,0,,Promise me
-Dialogue: 0,0:19:47.51,0:19:50.57,Default,,0,0,0,,
+Dialogue: 0,0:19:40.48,0:19:44.28,Default,,0,0,0,,What I'm playing now is not lucky or unlucky Mahjong.
+Dialogue: 0,0:19:45.51,0:19:47.51,Default,,0,0,0,,In a 100 games
+Dialogue: 0,0:19:47.51,0:19:50.57,Default,,0,0,0,,it'll win 100.
 Dialogue: 0,0:19:52.48,0:19:56.20,Default,,0,0,0,,Without knowing the general strength of your opponent
-Dialogue: 0,0:19:56.20,0:20:00.22,Default,,0,0,0,,
+Dialogue: 0,0:19:56.20,0:20:00.22,Default,,0,0,0,,Jumping in head first wouldn't do.
 Dialogue: 0,0:21:34.91,0:21:36.91,Default,,0,0,0,,3rd Game\NSouth Round 2
 Dialogue: 0,0:21:50.68,0:21:53.58,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:22:01.97,0:22:04.61,Default,,0,0,0,,Ron.
 Dialogue: 0,0:22:11.11,0:22:13.20,Default,,0,0,0,,That's not Chanta.
-Dialogue: 0,0:22:13.20,0:22:16.05,Default,,0,0,0,,
+Dialogue: 0,0:22:13.20,0:22:16.05,Default,,0,0,0,,Well, I thought i'd swtich it up some.
 Dialogue: 0,0:22:24.28,0:22:26.95,Default,,0,0,0,,3rd Game\NSouth Round 3
-Dialogue: 0,0:22:26.95,0:22:30.85,Default,,0,0,0,,I haven't got any Man tiles.
+Dialogue: 0,0:22:26.95,0:22:30.85,Default,,0,0,0,,I haven't got any character tiles.
 Dialogue: 0,0:22:44.88,0:22:47.81,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:22:54.20,0:22:57.48,Default,,0,0,0,,A... code?
 Dialogue: 0,0:22:58.25,0:23:00.82,Default,,0,0,0,,Well done.
-Dialogue: 0,0:23:00.82,0:23:04.40,Default,,0,0,0,,If no one noticed I didn't know what I'd do.
-Dialogue: 0,0:23:04.40,0:23:08.71,Default,,0,0,0,,
+Dialogue: 0,0:23:00.82,0:23:04.40,Default,,0,0,0,,If no one noticed I wouldn't know what I'd do.
+Dialogue: 0,0:23:04.40,0:23:08.71,Default,,0,0,0,,It would be sad playing with three worthless players.
 Dialogue: 0,0:23:08.71,0:23:10.71,Default,,0,0,0,,Code?!?
-Dialogue: 0,0:23:10.71,0:23:12.71,Default,,0,0,0,,
+Dialogue: 0,0:23:10.71,0:23:12.71,Default,,0,0,0,,What's he talking about?
 Dialogue: 0,0:23:12.71,0:23:17.25,Default,,0,0,0,,Hiroyuki, you understand by now, don't you.
 Dialogue: 0,0:23:17.25,0:23:21.65,Default,,0,0,0,,Up to now Akagi's hands have been largely Chanta, right?
 Dialogue: 0,0:23:21.65,0:23:24.68,Default,,0,0,0,,He told us which in his discards.
@@ -251,38 +252,38 @@ Dialogue: 0,0:23:24.68,0:23:26.68,Default,,0,0,0,,The orientation of discarded c
 Dialogue: 0,0:23:26.68,0:23:28.68,Default,,0,0,0,,Upside down means Chanta.
 Dialogue: 0,0:23:28.68,0:23:30.68,Default,,0,0,0,,Tsumo.
 Dialogue: 0,0:23:32.65,0:23:34.42,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:23:34.42,0:23:36.42,Default,,0,0,0,,Rightside up means it's not Chanta.
+Dialogue: 0,0:23:34.42,0:23:36.42,Default,,0,0,0,,Right side up means it's not Chanta.
 Dialogue: 0,0:23:44.37,0:23:47.45,Default,,0,0,0,,Well then. This time it's Chanta.
 Dialogue: 0,0:23:50.81,0:23:52.81,Default,,0,0,0,,Are you an idiot?
 Dialogue: 0,0:23:53.91,0:23:55.91,Default,,0,0,0,,Ron.
 Dialogue: 0,0:23:59.94,0:24:02.17,Default,,0,0,0,,But that's...
 Dialogue: 0,0:24:02.17,0:24:04.17,Default,,0,0,0,,Shut the fuck up, bitch.
-Dialogue: 0,0:24:04.17,0:24:08.80,Default,,0,0,0,,
+Dialogue: 0,0:24:04.17,0:24:08.80,Default,,0,0,0,,You're just embarrassing yourself by talking.
 Dialogue: 0,0:24:08.80,0:24:10.80,Default,,0,0,0,,for example, Ten
-Dialogue: 0,0:24:10.80,0:24:14.05,Default,,0,0,0,,
-Dialogue: 0,0:24:14.85,0:24:18.62,Default,,0,0,0,,
-Dialogue: 0,0:24:18.62,0:24:20.62,Default,,0,0,0,,That's when he's dealer.
-Dialogue: 0,0:24:20.62,0:24:24.02,Default,,0,0,0,,
+Dialogue: 0,0:24:10.80,0:24:14.05,Default,,0,0,0,,he stopped himself before declaring Riichi.
+Dialogue: 0,0:24:14.85,0:24:18.62,Default,,0,0,0,,B-but you turned the character tile!
+Dialogue: 0,0:24:18.62,0:24:20.62,Default,,0,0,0,,That was a question of APPLICATION.
+Dialogue: 0,0:24:20.62,0:24:24.02,Default,,0,0,0,,Previously when Akagi discarded the 9 Man.
 Dialogue: 0,0:24:24.02,0:24:26.68,Default,,0,0,0,,I don't have any character tiles.
 Dialogue: 0,0:24:26.68,0:24:31.42,Default,,0,0,0,,If you think about that 9 Man, it was upside down, meaning Chanta.
 Dialogue: 0,0:24:31.42,0:24:35.31,Default,,0,0,0,,But, strictly speaking, 9 Man is not a character tile.
 Dialogue: 0,0:24:35.31,0:24:39.42,Default,,0,0,0,,So therefore you must not expect Chanta.
-Dialogue: 0,0:24:39.42,0:24:41.20,Default,,0,0,0,,
-Dialogue: 0,0:24:41.20,0:24:44.62,Default,,0,0,0,,Look at Akagi's open hand.
-Dialogue: 0,0:24:44.62,0:24:47.68,Default,,0,0,0,,If he drew a 1 Sou he'd have Chanta.
-Dialogue: 0,0:24:47.68,0:24:50.08,Default,,0,0,0,,Drawing a 4 Sou would not be Chanta.
+Dialogue: 0,0:24:39.42,0:24:41.20,Default,,0,0,0,,You might think that at first glance...
+Dialogue: 0,0:24:41.20,0:24:44.62,Default,,0,0,0,,but you'll understand when you look at Akagi's open hand.
+Dialogue: 0,0:24:44.62,0:24:47.68,Default,,0,0,0,,If he won with a 1 Sou he'd have Chanta.
+Dialogue: 0,0:24:47.68,0:24:50.08,Default,,0,0,0,,4 Sou and it wouldn't be Chanta.
 Dialogue: 0,0:24:50.08,0:24:54.60,Default,,0,0,0,,In this case which outcome would you wait for?\NThe one you discarded.
-Dialogue: 0,0:24:54.60,0:24:59.02,Default,,0,0,0,,
+Dialogue: 0,0:24:54.60,0:24:59.02,Default,,0,0,0,,That kid watching from the sidelines understands.
 Dialogue: 0,0:24:59.02,0:25:04.11,Default,,0,0,0,,
 Dialogue: 0,0:25:07.68,0:25:09.68,Default,,0,0,0,,3rd Game\NSouth Round 4
 Dialogue: 0,0:25:13.51,0:25:15.82,Default,,0,0,0,,I'm a bit hungry.
 Dialogue: 0,0:25:15.82,0:25:17.82,Default,,0,0,0,,Would you get me something good?
 Dialogue: 0,0:25:18.35,0:25:20.35,Default,,0,0,0,,Is sushi okay?
 Dialogue: 0,0:25:23.00,0:25:25.91,Default,,0,0,0,,Sushi, hunh?
-Dialogue: 0,0:25:26.78,0:25:31.14,Default,,0,0,0,,My own favorite dish
+Dialogue: 0,0:25:26.78,0:25:31.14,Default,,0,0,0,,You guise...\NThe most delicious thing in the world...
 Dialogue: 0,0:25:31.14,0:25:33.14,Default,,0,0,0,,what is it?
-Dialogue: 0,0:25:35.71,0:25:40.17,Default,,0,0,0,,Strong Mahjong players say that Sushi is bad tasting.
-Dialogue: 0,0:25:40.17,0:25:42.17,Default,,0,0,0,,Isn't that the case?
+Dialogue: 0,0:25:35.71,0:25:40.17,Default,,0,0,0,,Normal people say it's fugu sushi.
+Dialogue: 0,0:25:40.17,0:25:42.17,Default,,0,0,0,,It ain't that.
 Dialogue: 0,0:25:44.15,0:25:47.14,Default,,0,0,0,,For example, when you play Mahjong
 Dialogue: 0,0:25:47.14,0:25:50.25,Default,,0,0,0,,
 Dialogue: 0,0:25:50.25,0:25:53.51,Default,,0,0,0,,
