@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 45
-Active Line: 49
-Video Position: 7954
+Scroll Position: 33
+Active Line: 42
+Video Position: 8240
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,6 +28,7 @@ Style: white-large,Arial,105,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,
 Style: black-small,Arial,48,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 Style: black-large,Arial,105,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 Style: cyan,Arial,50,&H00FFFF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: yellow-large,Arial,80,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -74,11 +75,13 @@ Dialogue: 0,0:03:08.37,0:03:10.37,Default,,0,0,0,,Ten was flustered.
 Dialogue: 0,0:03:10.37,0:03:13.48,Default,,0,0,0,,With that. Some mistake was made.
 Dialogue: 0,0:03:13.48,0:03:17.11,Default,,0,0,0,,Some cooperation between them was broken, I think.
 Dialogue: 0,0:03:18.31,0:03:21.20,Default,,0,0,0,,We take advantage of it.
-Dialogue: 0,0:03:21.20,0:03:25.60,cyan,,0,0,0,,{\pos(616,84)}#/tv/shows Gentleman Gamer Society presents
+Dialogue: 0,0:03:21.20,0:03:29.08,cyan,,0,0,0,,{\pos(616,84)}#/tv/shows Gentleman Gamur Society presents:
+Dialogue: 0,0:03:29.05,0:03:32.02,yellow-large,,0,0,0,,{\b1\pos(648,106)}WE LIVE IN A SOCIETY{\b0}
+Dialogue: 0,0:03:29.05,0:03:32.02,yellow-large,,0,0,0,,{\b1}BOTTOM TEXT{\b0}
 Dialogue: 0,0:03:33.55,0:03:35.55,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:03:42.01,0:03:44.01,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:03:50.51,0:03:52.51,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:04:09.74,0:04:13.85,Default,,0,0,0,,BOTTOM TEXT
+Dialogue: 0,0:04:20.28,0:04:24.48,Default,,0,0,0,,{\b1}#/tv/shows subs are presented in classic Piss Yellow™{\b0}
 Dialogue: 0,0:04:24.48,0:04:28.25,Default,,0,0,0,,{\pos(664,430)}Ten: Tenho-doori no Kaidanji\N(The Blessed Way of the Nice Guy Ten)
 Dialogue: 0,0:04:24.48,0:04:28.25,white-small,,0,0,0,,{\pos(644,614)}Episode 2
 Dialogue: 0,0:04:29.38,0:04:31.38,Default,,0,0,0,,3rd Game\NEast Round 1
@@ -272,7 +275,7 @@ Dialogue: 0,0:22:29.48,0:22:31.48,Default,,0,0,0,,East Round 1
 Dialogue: 0,0:23:11.65,0:23:14.21,Default,,0,0,0,,The hell is this guy doing?
 Dialogue: 0,0:24:02.71,0:24:05.35,Default,,0,0,0,,Ron.
 Dialogue: 0,0:24:08.77,0:24:11.20,Default,,0,0,0,,It's a Chitoitsu.\N(all pairs hand)
-Dialogue: 0,0:24:11.20,0:24:14.22,Default,,0,0,0,,You're able to complete every pair?
+Dialogue: 0,0:24:11.20,0:24:14.22,Default,,0,0,0,,He turns down each pair as he completes them?
 Dialogue: 0,0:24:19.18,0:24:21.18,Default,,0,0,0,,East Round 3
 Dialogue: 0,0:24:52.02,0:24:54.75,Default,,0,0,0,,Ron.
 Dialogue: 0,0:24:54.75,0:24:57.42,Default,,0,0,0,,Chitoitsu, Tanyao.\N(All pairs, tiles numbered 2-8)
