@@ -15,9 +15,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 75
-Active Line: 86
-Video Position: 17047
+Scroll Position: 222
+Active Line: 235
+Video Position: 44142
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -153,11 +153,11 @@ Dialogue: 0,0:12:22.11,0:12:25.62,Default,,0,0,0,,It's true all the world round:
 Dialogue: 0,0:12:25.62,0:12:29.11,Default,,0,0,0,,Those who crumble under pressure...
 Dialogue: 0,0:12:29.11,0:12:32.88,Default,,0,0,0,,have no path to victory.
 Dialogue: 0,0:12:35.25,0:12:38.28,Default,,0,0,0,,What will you do?
-Dialogue: 0,0:12:38.28,0:12:41.65,Default,,0,0,0,,
-Dialogue: 0,0:12:49.40,0:12:51.80,Default,,0,0,0,,Who the hell is it?
-Dialogue: 0,0:12:51.80,0:12:53.80,Default,,0,0,0,,I'm retired.
+Dialogue: 0,0:12:38.28,0:12:41.65,Default,,0,0,0,,Won't you show this guy out?
+Dialogue: 0,0:12:49.40,0:12:51.80,Default,,0,0,0,,I want to go...
+Dialogue: 0,0:12:51.80,0:12:53.80,Default,,0,0,0,,but I'm retired too.
 Dialogue: 0,0:12:53.80,0:12:55.80,Default,,0,0,0,,The chairman is constrained for time.
-Dialogue: 0,0:12:55.80,0:12:57.80,Default,,0,0,0,,So would you..?
+Dialogue: 0,0:12:55.80,0:12:57.80,Default,,0,0,0,,Would you somehow...?
 Dialogue: 0,0:12:56.51,0:12:58.02,Default,,0,0,0,,No way.
 Dialogue: 0,0:12:58.02,0:13:00.91,Default,,0,0,0,,I don't have the stamina for long matches any more.
 Dialogue: 0,0:13:00.91,0:13:04.68,Default,,0,0,0,,Murota just lost.\NThere's no one else but you.
@@ -220,13 +220,13 @@ Dialogue: 0,0:18:49.08,0:18:51.78,Default,,0,0,0,,Another chanta?
 Dialogue: 0,0:18:57.81,0:18:59.81,Default,,0,0,0,,3rd Game\NEast Round 4
 Dialogue: 0,0:19:20.68,0:19:23.55,Default,,0,0,0,,I'm not in Tenpai.
 Dialogue: 0,0:19:23.55,0:19:25.55,Default,,0,0,0,,Tenpai.
-Dialogue: 0,0:19:25.55,0:19:27.82,Default,,0,0,0,,
+Dialogue: 0,0:19:25.55,0:19:27.82,Default,,0,0,0,,Not his typical consecutive wins...
 Dialogue: 0,0:19:27.82,0:19:31.34,Default,,0,0,0,,but once again he was going for a Chanta hand.
 Dialogue: 0,0:19:31.88,0:19:35.08,Default,,0,0,0,,Isn't it about time you play in a more normal style?
 Dialogue: 0,0:19:35.08,0:19:37.08,Default,,0,0,0,,No. This will be fine.
 Dialogue: 0,0:19:37.08,0:19:39.08,Default,,0,0,0,,I'm still measuring him.
 Dialogue: 0,0:19:39.08,0:19:40.48,Default,,0,0,0,,Measuring?
-Dialogue: 0,0:19:40.48,0:19:44.28,Default,,0,0,0,,What I'm playing now is not lucky or unlucky Mahjong.
+Dialogue: 0,0:19:40.48,0:19:44.28,Default,,0,0,0,,The Mahjong I'm playing now does not depend upon luck.
 Dialogue: 0,0:19:45.51,0:19:47.51,Default,,0,0,0,,In a 100 games
 Dialogue: 0,0:19:47.51,0:19:50.57,Default,,0,0,0,,it'll win 100.
 Dialogue: 0,0:19:52.48,0:19:56.20,Default,,0,0,0,,Without knowing the general strength of your opponent
@@ -262,19 +262,19 @@ Dialogue: 0,0:24:04.17,0:24:08.80,Default,,0,0,0,,You're just embarrassing yours
 Dialogue: 0,0:24:08.80,0:24:10.80,Default,,0,0,0,,for example, Ten
 Dialogue: 0,0:24:10.80,0:24:14.05,Default,,0,0,0,,he stopped himself before declaring Riichi.
 Dialogue: 0,0:24:14.85,0:24:18.62,Default,,0,0,0,,B-but you turned the character tile!
-Dialogue: 0,0:24:18.62,0:24:20.62,Default,,0,0,0,,That was a question of APPLICATION.
-Dialogue: 0,0:24:20.62,0:24:24.02,Default,,0,0,0,,Previously when Akagi discarded the 9 Man.
+Dialogue: 0,0:24:18.62,0:24:20.62,Default,,0,0,0,,That depends on the situation.
+Dialogue: 0,0:24:20.62,0:24:24.02,Default,,0,0,0,,Before, when Akagi discarded the 9 Man.
 Dialogue: 0,0:24:24.02,0:24:26.68,Default,,0,0,0,,I don't have any character tiles.
-Dialogue: 0,0:24:26.68,0:24:31.42,Default,,0,0,0,,If you think about that 9 Man, it was upside down, meaning Chanta.
+Dialogue: 0,0:24:26.68,0:24:31.42,Default,,0,0,0,,If you think about that 9 Man, it was upside down, meaning chanta.
 Dialogue: 0,0:24:31.42,0:24:35.31,Default,,0,0,0,,But, strictly speaking, 9 Man is not a character tile.
-Dialogue: 0,0:24:35.31,0:24:39.42,Default,,0,0,0,,So therefore you must not expect Chanta.
-Dialogue: 0,0:24:39.42,0:24:41.20,Default,,0,0,0,,You might think that at first glance...
+Dialogue: 0,0:24:35.31,0:24:39.42,Default,,0,0,0,,So therefore you could think it won't be chanta as well.
+Dialogue: 0,0:24:39.42,0:24:41.20,Default,,0,0,0,,You can see that at first glance...
 Dialogue: 0,0:24:41.20,0:24:44.62,Default,,0,0,0,,but you'll understand when you look at Akagi's open hand.
 Dialogue: 0,0:24:44.62,0:24:47.68,Default,,0,0,0,,If he won with a 1 Sou he'd have Chanta.
 Dialogue: 0,0:24:47.68,0:24:50.08,Default,,0,0,0,,4 Sou and it wouldn't be Chanta.
-Dialogue: 0,0:24:50.08,0:24:54.60,Default,,0,0,0,,In this case which outcome would you wait for?\NThe one you discarded.
+Dialogue: 0,0:24:50.08,0:24:54.60,Default,,0,0,0,,That's to say he could wait for both outcomes\NThe one you discarded.
 Dialogue: 0,0:24:54.60,0:24:59.02,Default,,0,0,0,,That kid watching from the sidelines understands.
-Dialogue: 0,0:24:59.02,0:25:04.11,Default,,0,0,0,,
+Dialogue: 0,0:24:59.02,0:25:04.11,Default,,0,0,0,,You've therefore been playing with trash, haven't you Ten?
 Dialogue: 0,0:25:07.68,0:25:09.68,Default,,0,0,0,,3rd Game\NSouth Round 4
 Dialogue: 0,0:25:13.51,0:25:15.82,Default,,0,0,0,,I'm a bit hungry.
 Dialogue: 0,0:25:15.82,0:25:17.82,Default,,0,0,0,,Would you get me something good?
@@ -282,13 +282,37 @@ Dialogue: 0,0:25:18.35,0:25:20.35,Default,,0,0,0,,Is sushi okay?
 Dialogue: 0,0:25:23.00,0:25:25.91,Default,,0,0,0,,Sushi, hunh?
 Dialogue: 0,0:25:26.78,0:25:31.14,Default,,0,0,0,,You guise...\NThe most delicious thing in the world...
 Dialogue: 0,0:25:31.14,0:25:33.14,Default,,0,0,0,,what is it?
-Dialogue: 0,0:25:35.71,0:25:40.17,Default,,0,0,0,,Normal people say it's fugu sushi.
+Dialogue: 0,0:25:35.71,0:25:40.17,Default,,0,0,0,,Normal people probably say it's fugu or sushi.
 Dialogue: 0,0:25:40.17,0:25:42.17,Default,,0,0,0,,It ain't that.
 Dialogue: 0,0:25:44.15,0:25:47.14,Default,,0,0,0,,For example, when you play Mahjong
-Dialogue: 0,0:25:47.14,0:25:50.25,Default,,0,0,0,,
+Dialogue: 0,0:25:47.14,0:25:50.25,Default,,0,0,0,,men who will bet their entire fortune
 Dialogue: 0,0:25:50.25,0:25:53.51,Default,,0,0,0,,
-Dialogue: 0,0:25:53.51,0:25:58.74,Default,,0,0,0,,
-Dialogue: 0,0:25:59.48,0:26:03.51,Default,,0,0,0,,
+Dialogue: 0,0:25:53.51,0:25:58.74,Default,,0,0,0,,It's like they're playing a tile cut from their very soul.
+Dialogue: 0,0:25:59.48,0:26:03.51,Default,,0,0,0,,A tile with a soul riding on it.
 Dialogue: 0,0:26:03.51,0:26:06.31,Default,,0,0,0,,When you get a direct hit with that tile...
-Dialogue: 0,0:26:06.31,0:26:11.71,Default,,0,0,0,,
-Dialogue: 0,0:26:11.71,0:26:13.71,Default,,0,0,0,,
+Dialogue: 0,0:26:06.31,0:26:11.71,Default,,0,0,0,,It's a feeling like devouring a person's soul.
+Dialogue: 0,0:26:11.71,0:26:13.71,Default,,0,0,0,,Compared to that flavor...
+Dialogue: 0,0:26:13.71,0:26:17.91,Default,,0,0,0,,Fugu or sushi are as good as garbage.
+Dialogue: 0,0:26:17.91,0:26:19.91,Default,,0,0,0,,
+Dialogue: 0,0:26:19.91,0:26:26.48,Default,,0,0,0,,People's souls are the most delicious thing in the world.
+Dialogue: 0,0:26:26.48,0:26:28.48,Default,,0,0,0,,Riichi.
+Dialogue: 0,0:26:29.05,0:26:31.37,Default,,0,0,0,,Ron.
+Dialogue: 0,0:26:39.02,0:26:44.68,Default,,0,0,0,,Baiman\N(24,000/16,000 points dealer/non-dealer)
+Dialogue: 0,0:26:52.37,0:26:54.17,Default,,0,0,0,,We're in a tough spot.
+Dialogue: 0,0:26:54.17,0:26:57.68,Default,,0,0,0,,It can be perfectly summed up:
+Dialogue: 0,0:26:57.68,0:27:00.54,Default,,0,0,0,,We're going to lose.
+Dialogue: 0,0:27:00.54,0:27:05.40,Default,,0,0,0,,No.\NAkagi just now...
+Dialogue: 0,0:27:05.40,0:27:07.71,Default,,0,0,0,,I could see an opening once or twice.
+Dialogue: 0,0:27:07.71,0:27:12.17,Default,,0,0,0,,He progresses with a near perfect game,
+Dialogue: 0,0:27:12.17,0:27:14.17,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:27:14.17,0:27:19.40,Default,,0,0,0,,Deep inside he's thinking this is a load of shit.
+Dialogue: 0,0:27:19.40,0:27:21.91,Default,,0,0,0,,Shit?
+Dialogue: 0,0:27:21.91,0:27:27.85,Default,,0,0,0,,What he wants most of all isn't winning by staring off into space.
+Dialogue: 0,0:27:27.85,0:27:31.91,Default,,0,0,0,,Akagi's heart...
+Dialogue: 0,0:27:31.91,0:27:34.20,Default,,0,0,0,,is he wants a real fight.
+Dialogue: 0,0:27:34.20,0:27:39.31,Default,,0,0,0,,He want's to go "all or nothing" more than anyone else.\NThis is Akagi's true nature.
+Dialogue: 0,0:27:39.31,0:27:46.54,Default,,0,0,0,,That is the ONLY chink to stab at that bastard.
+Dialogue: 0,0:27:46.54,0:27:50.02,Default,,0,0,0,,I'll aim for that.
+Dialogue: 0,0:27:50.57,0:27:54.45,Default,,0,0,0,,
+Dialogue: 0,0:27:54.45,0:27:57.71,Default,,0,0,0,,
+Dialogue: 0,0:27:57.71,0:27:59.71,Default,,0,0,0,,
