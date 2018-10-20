@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 263
-Active Line: 274
-Video Position: 50224
+Scroll Position: 30
+Active Line: 39
+Video Position: 5711
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +42,7 @@ Dialogue: 0,0:00:11.75,0:00:13.75,Default,,0,0,0,,The contest is 5 games.
 Dialogue: 0,0:00:15.31,0:00:18.51,Default,,0,0,0,,Ten is behind Nakanishi's single suit hands.
 Dialogue: 0,0:00:18.51,0:00:20.88,Default,,0,0,0,,It's completely a bluff.
 Dialogue: 0,0:00:20.88,0:00:23.68,Default,,0,0,0,,Well then. Round 2.\NLet's begin, shall we?
-Dialogue: 0,0:00:25.65,0:00:27.65,Default,,0,0,0,,Game 2 East Round 2\NTen/Nakanishi Team has 1 Victory
+Dialogue: 0,0:00:25.65,0:00:30.14,Default,,0,0,0,,Game 2 East Round 2\NTen/Nakanishi Team has 1 Victory
 Dialogue: 0,0:00:41.08,0:00:43.40,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:00:43.40,0:00:45.40,Default,,0,0,0,,Their side has the game flow.
 Dialogue: 0,0:00:45.40,0:00:48.48,Default,,0,0,0,,But little by little I can see their strategy.
@@ -71,7 +71,7 @@ Dialogue: 0,0:02:57.85,0:02:59.85,Default,,0,0,0,,What are you thinking?
 Dialogue: 0,0:02:59.85,0:03:03.22,Default,,0,0,0,,I noticed some telling looks between Ten and Nakanishi.
 Dialogue: 0,0:03:03.22,0:03:06.77,Default,,0,0,0,,Earlier, when I dealt into Nakanishi's hand...
 Dialogue: 0,0:03:06.77,0:03:08.37,Default,,0,0,0,,Nakanishi was very pleased.
-Dialogue: 0,0:03:08.37,0:03:10.37,Default,,0,0,0,,Ten was flustered.
+Dialogue: 0,0:03:08.37,0:03:10.37,Default,,0,0,0,,Ten said nothing.
 Dialogue: 0,0:03:10.37,0:03:13.48,Default,,0,0,0,,With that. Some mistake was made.
 Dialogue: 0,0:03:13.48,0:03:17.11,Default,,0,0,0,,Some cooperation between them was broken, I think.
 Dialogue: 0,0:03:18.31,0:03:21.20,Default,,0,0,0,,We take advantage of it.
