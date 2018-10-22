@@ -15,9 +15,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 222
-Active Line: 235
-Video Position: 44142
+Scroll Position: 261
+Active Line: 282
+Video Position: 50100
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +47,7 @@ Dialogue: 0,0:00:32.21,0:00:34.21,Default,,0,0,0,,N-no.
 Dialogue: 0,0:00:34.21,0:00:36.71,Default,,0,0,0,,I'm thankful with all my heart for what you're doing, Ten.
 Dialogue: 0,0:00:36.71,0:00:39.34,Default,,0,0,0,,What is this changing shit?
 Dialogue: 0,0:00:39.81,0:00:42.51,Default,,0,0,0,,Seriously,
-Dialogue: 0,0:00:43.31,0:00:46.20,Default,,0,0,0,,I ain't afraid.
+Dialogue: 0,0:00:43.31,0:00:46.20,Default,,0,0,0,,I ain't afraid.\N(Kansai dialect)
 Dialogue: 0,0:00:50.25,0:00:52.25,Default,,0,0,0,,2nd Game\NEast Round 1
 Dialogue: 0,0:01:10.37,0:01:12.98,Default,,0,0,0,,Again?
 Dialogue: 0,0:01:20.77,0:01:24.02,Default,,0,0,0,,How does he have such faith that'll he'll complete his hand?
@@ -72,13 +72,13 @@ Dialogue: 0,0:04:37.18,0:04:39.18,Default,,0,0,0,,2nd Game\NEast Round 4
 Dialogue: 0,0:04:42.62,0:04:44.68,Default,,0,0,0,,Again
 Dialogue: 0,0:04:44.68,0:04:47.62,Default,,0,0,0,,Ten is trying to provoke Murota and destroy his pace.
 Dialogue: 0,0:04:47.62,0:04:50.60,Default,,0,0,0,,This style of playing, it's Murota's specialty.
-Dialogue: 0,0:04:50.60,0:04:52.37,Default,,0,0,0,,He's entering his opponent's home turf,
+Dialogue: 0,0:04:50.60,0:04:52.37,Default,,0,0,0,,Entering his opponent's home turf,
 Dialogue: 0,0:04:52.37,0:04:55.51,Default,,0,0,0,,and explicitly asking for a contest.
 Dialogue: 0,0:05:09.31,0:05:14.20,Default,,0,0,0,,He's already in Tenpai.\NAs I thought, he's like a monster.
 Dialogue: 0,0:05:14.20,0:05:16.20,Default,,0,0,0,,What tile is he waiting on?
 Dialogue: 0,0:05:16.20,0:05:19.05,Default,,0,0,0,,The dora is Red Dragon.
-Dialogue: 0,0:05:19.05,0:05:22.68,Default,,0,0,0,,
-Dialogue: 0,0:05:35.20,0:05:37.95,Default,,0,0,0,,No matter how you put it, this is...
+Dialogue: 0,0:05:19.05,0:05:22.68,Default,,0,0,0,,He's probably holding Sou tiles?
+Dialogue: 0,0:05:35.20,0:05:37.95,Default,,0,0,0,,No matter how you put it, this is...(dangerous)
 Dialogue: 0,0:05:45.34,0:05:48.21,Default,,0,0,0,,I-it passed!
 Dialogue: 0,0:06:06.88,0:06:09.75,Default,,0,0,0,,This passed too!?!
 Dialogue: 0,0:06:09.75,0:06:14.02,Default,,0,0,0,,You've guessed it haven't you, Hiroyuki?
@@ -95,7 +95,7 @@ Dialogue: 0,0:06:46.14,0:06:48.48,Default,,0,0,0,,his own pace started to freeze
 Dialogue: 0,0:06:48.48,0:06:50.48,Default,,0,0,0,,I dare say
 Dialogue: 0,0:06:51.21,0:06:53.97,Default,,0,0,0,,Those pairs you've laid down...
 Dialogue: 0,0:06:53.97,0:06:57.88,Default,,0,0,0,,are make believe.\NThey aren't all pairs at all.
-Dialogue: 0,0:07:23.22,0:07:25.95,Default,,0,0,0,,It's as you say.
+Dialogue: 0,0:07:23.22,0:07:25.95,Default,,0,0,0,,
 Dialogue: 0,0:07:27.38,0:07:29.38,Default,,0,0,0,,Ron.
 Dialogue: 0,0:07:31.60,0:07:35.34,Default,,0,0,0,,TanYao, SanSyoku\N(Only tiles 2-9, from 3 suits)
 Dialogue: 0,0:07:35.34,0:07:37.34,Default,,0,0,0,,7,700 points.
@@ -272,7 +272,7 @@ Dialogue: 0,0:24:39.42,0:24:41.20,Default,,0,0,0,,You can see that at first glan
 Dialogue: 0,0:24:41.20,0:24:44.62,Default,,0,0,0,,but you'll understand when you look at Akagi's open hand.
 Dialogue: 0,0:24:44.62,0:24:47.68,Default,,0,0,0,,If he won with a 1 Sou he'd have Chanta.
 Dialogue: 0,0:24:47.68,0:24:50.08,Default,,0,0,0,,4 Sou and it wouldn't be Chanta.
-Dialogue: 0,0:24:50.08,0:24:54.60,Default,,0,0,0,,That's to say he could wait for both outcomes\NThe one you discarded.
+Dialogue: 0,0:24:50.08,0:24:54.60,Default,,0,0,0,,That's to say he was waiting on BOTH outcomes and discarded accordingly.
 Dialogue: 0,0:24:54.60,0:24:59.02,Default,,0,0,0,,That kid watching from the sidelines understands.
 Dialogue: 0,0:24:59.02,0:25:04.11,Default,,0,0,0,,You've therefore been playing with trash, haven't you Ten?
 Dialogue: 0,0:25:07.68,0:25:09.68,Default,,0,0,0,,3rd Game\NSouth Round 4
@@ -285,34 +285,34 @@ Dialogue: 0,0:25:31.14,0:25:33.14,Default,,0,0,0,,what is it?
 Dialogue: 0,0:25:35.71,0:25:40.17,Default,,0,0,0,,Normal people probably say it's fugu or sushi.
 Dialogue: 0,0:25:40.17,0:25:42.17,Default,,0,0,0,,It ain't that.
 Dialogue: 0,0:25:44.15,0:25:47.14,Default,,0,0,0,,For example, when you play Mahjong
-Dialogue: 0,0:25:47.14,0:25:50.25,Default,,0,0,0,,men who will bet their entire fortune
-Dialogue: 0,0:25:50.25,0:25:53.51,Default,,0,0,0,,
-Dialogue: 0,0:25:53.51,0:25:58.74,Default,,0,0,0,,It's like they're playing a tile cut from their very soul.
+Dialogue: 0,0:25:47.14,0:25:50.25,Default,,0,0,0,,There are those who will bet their entire fortune...
+Dialogue: 0,0:25:50.25,0:25:53.51,Default,,0,0,0,,Betting on one big play like they're omnipotent,
+Dialogue: 0,0:25:53.51,0:25:58.74,Default,,0,0,0,,playing with tiles cut from their very souls.
 Dialogue: 0,0:25:59.48,0:26:03.51,Default,,0,0,0,,A tile with a soul riding on it.
 Dialogue: 0,0:26:03.51,0:26:06.31,Default,,0,0,0,,When you get a direct hit with that tile...
 Dialogue: 0,0:26:06.31,0:26:11.71,Default,,0,0,0,,It's a feeling like devouring a person's soul.
 Dialogue: 0,0:26:11.71,0:26:13.71,Default,,0,0,0,,Compared to that flavor...
 Dialogue: 0,0:26:13.71,0:26:17.91,Default,,0,0,0,,Fugu or sushi are as good as garbage.
-Dialogue: 0,0:26:17.91,0:26:19.91,Default,,0,0,0,,
-Dialogue: 0,0:26:19.91,0:26:26.48,Default,,0,0,0,,People's souls are the most delicious thing in the world.
+Dialogue: 0,0:26:17.91,0:26:19.91,Default,,0,0,0,,In this world,
+Dialogue: 0,0:26:19.91,0:26:26.48,Default,,0,0,0,,People's souls are the most delicious thing.
 Dialogue: 0,0:26:26.48,0:26:28.48,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:26:29.05,0:26:31.37,Default,,0,0,0,,Ron.
-Dialogue: 0,0:26:39.02,0:26:44.68,Default,,0,0,0,,Baiman\N(24,000/16,000 points dealer/non-dealer)
+Dialogue: 0,0:26:39.02,0:26:44.68,Default,,0,0,0,,Baiman\N(24,000 points direct hit)
 Dialogue: 0,0:26:52.37,0:26:54.17,Default,,0,0,0,,We're in a tough spot.
 Dialogue: 0,0:26:54.17,0:26:57.68,Default,,0,0,0,,It can be perfectly summed up:
-Dialogue: 0,0:26:57.68,0:27:00.54,Default,,0,0,0,,We're going to lose.
+Dialogue: 0,0:26:57.68,0:27:00.54,Default,,0,0,0,,We're going to lose like this.
 Dialogue: 0,0:27:00.54,0:27:05.40,Default,,0,0,0,,No.\NAkagi just now...
 Dialogue: 0,0:27:05.40,0:27:07.71,Default,,0,0,0,,I could see an opening once or twice.
 Dialogue: 0,0:27:07.71,0:27:12.17,Default,,0,0,0,,He progresses with a near perfect game,
 Dialogue: 0,0:27:12.17,0:27:14.17,Default,,0,0,0,,HOWEVER
 Dialogue: 0,0:27:14.17,0:27:19.40,Default,,0,0,0,,Deep inside he's thinking this is a load of shit.
-Dialogue: 0,0:27:19.40,0:27:21.91,Default,,0,0,0,,Shit?
+Dialogue: 0,0:27:19.40,0:27:21.91,Default,,0,0,0,,Shit...
 Dialogue: 0,0:27:21.91,0:27:27.85,Default,,0,0,0,,What he wants most of all isn't winning by staring off into space.
 Dialogue: 0,0:27:27.85,0:27:31.91,Default,,0,0,0,,Akagi's heart...
 Dialogue: 0,0:27:31.91,0:27:34.20,Default,,0,0,0,,is he wants a real fight.
 Dialogue: 0,0:27:34.20,0:27:39.31,Default,,0,0,0,,He want's to go "all or nothing" more than anyone else.\NThis is Akagi's true nature.
-Dialogue: 0,0:27:39.31,0:27:46.54,Default,,0,0,0,,That is the ONLY chink to stab at that bastard.
-Dialogue: 0,0:27:46.54,0:27:50.02,Default,,0,0,0,,I'll aim for that.
+Dialogue: 0,0:27:39.31,0:27:46.54,Default,,0,0,0,,That is the ONLY chink through which I can stab that bastard.
+Dialogue: 0,0:27:46.54,0:27:50.02,Default,,0,0,0,,I'll aim there.
 Dialogue: 0,0:27:50.57,0:27:54.45,Default,,0,0,0,,
 Dialogue: 0,0:27:54.45,0:27:57.71,Default,,0,0,0,,
 Dialogue: 0,0:27:57.71,0:27:59.71,Default,,0,0,0,,
