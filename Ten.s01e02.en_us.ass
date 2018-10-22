@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 30
-Active Line: 39
-Video Position: 5711
+Scroll Position: 144
+Active Line: 160
+Video Position: 26848
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -192,7 +192,7 @@ Dialogue: 0,0:14:41.31,0:14:44.71,Default,,0,0,0,,Somehow you managed to put the
 Dialogue: 0,0:14:44.71,0:14:48.14,Default,,0,0,0,,but by no means will we accept this situation.
 Dialogue: 0,0:14:48.14,0:14:50.14,Default,,0,0,0,,Are you saying I just now cheated?
 Dialogue: 0,0:14:50.14,0:14:52.94,Default,,0,0,0,,We doubt you at the very least.
-Dialogue: 0,0:14:52.94,0:14:54.94,Default,,0,0,0,,Be that as it may.
+Dialogue: 0,0:14:52.94,0:14:54.94,Default,,0,0,0,,Sawada,
 Dialogue: 0,0:14:55.61,0:14:57.61,Default,,0,0,0,,Listen and listen well.
 Dialogue: 0,0:14:58.98,0:15:03.08,Default,,0,0,0,,Whether I've cheated or not
 Dialogue: 0,0:15:05.05,0:15:08.42,Default,,0,0,0,,Don't air half baked suspicions.
