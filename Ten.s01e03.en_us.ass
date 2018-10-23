@@ -15,9 +15,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 261
-Active Line: 282
-Video Position: 50100
+Scroll Position: 276
+Active Line: 292
+Video Position: 50331
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,11 +68,19 @@ Dialogue: 0,0:02:58.48,0:03:00.48,Default,,0,0,0,,showing your hand's progress.
 Dialogue: 0,0:03:01.65,0:03:03.65,Default,,0,0,0,,Bro
 Dialogue: 0,0:03:03.65,0:03:07.25,Default,,0,0,0,,Don't underestimate me.
 Dialogue: 0,0:03:13.54,0:03:16.28,Default,,0,0,0,,I'm not in Tenpai.\NI'm not either.
+Dialogue: 0,0:03:30.45,0:03:37.97,cyan,,0,0,0,,{\pos(638,150)}#/tv/shows Hit or miss i guess they never miss huh TikTok|1 HOUR LOOP\Npresents:
+Dialogue: 0,0:03:42.61,0:03:44.61,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
+Dialogue: 0,0:03:50.81,0:03:52.81,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
+Dialogue: 0,0:03:59.75,0:04:01.75,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
+Dialogue: 0,0:04:26.42,0:04:29.68,Default,,0,0,0,,{\pos(640,76)}#/tv/shows subs: "They're better than nothing."
+Dialogue: 0,0:04:29.68,0:04:33.38,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
+Dialogue: 0,0:04:33.38,0:04:36.34,Default,,0,0,0,,{\pos(654,442)}Ten: Tenho-doori no Kaidanji\N(The Blessed Way of the Nice Guy Ten)
+Dialogue: 0,0:04:33.38,0:04:36.34,white-large,,0,0,0,,{\pos(646,594)}Episode 3
 Dialogue: 0,0:04:37.18,0:04:39.18,Default,,0,0,0,,2nd Game\NEast Round 4
 Dialogue: 0,0:04:42.62,0:04:44.68,Default,,0,0,0,,Again
-Dialogue: 0,0:04:44.68,0:04:47.62,Default,,0,0,0,,Ten is trying to provoke Murota and destroy his pace.
-Dialogue: 0,0:04:47.62,0:04:50.60,Default,,0,0,0,,This style of playing, it's Murota's specialty.
-Dialogue: 0,0:04:50.60,0:04:52.37,Default,,0,0,0,,Entering his opponent's home turf,
+Dialogue: 0,0:04:44.68,0:04:47.62,Default,,0,0,0,,Ten is trying to provoke Murota and destroy his pace, but...
+Dialogue: 0,0:04:47.62,0:04:50.60,Default,,0,0,0,,this style of playing, it's Murota's specialty.
+Dialogue: 0,0:04:50.60,0:04:52.37,Default,,0,0,0,,Ten is entering his opponent's home turf,
 Dialogue: 0,0:04:52.37,0:04:55.51,Default,,0,0,0,,and explicitly asking for a contest.
 Dialogue: 0,0:05:09.31,0:05:14.20,Default,,0,0,0,,He's already in Tenpai.\NAs I thought, he's like a monster.
 Dialogue: 0,0:05:14.20,0:05:16.20,Default,,0,0,0,,What tile is he waiting on?
@@ -83,10 +91,10 @@ Dialogue: 0,0:05:45.34,0:05:48.21,Default,,0,0,0,,I-it passed!
 Dialogue: 0,0:06:06.88,0:06:09.75,Default,,0,0,0,,This passed too!?!
 Dialogue: 0,0:06:09.75,0:06:14.02,Default,,0,0,0,,You've guessed it haven't you, Hiroyuki?
 Dialogue: 0,0:06:15.34,0:06:17.71,Default,,0,0,0,,A facade.
-Dialogue: 0,0:06:17.71,0:06:20.65,Default,,0,0,0,,That is a facade.
+Dialogue: 0,0:06:17.71,0:06:20.65,Default,,0,0,0,,Indeed. A facade.
 Dialogue: 0,0:06:20.65,0:06:22.65,Default,,0,0,0,,This character's Mahjong...
 Dialogue: 0,0:06:22.65,0:06:24.65,Default,,0,0,0,,is the Mahjong of "giving up."
-Dialogue: 0,0:06:26.61,0:06:29.71,Default,,0,0,0,,The weapon he uses in making players fold is his "image."
+Dialogue: 0,0:06:26.61,0:06:29.71,Default,,0,0,0,,The weapon he uses in making players give up is his "image."
 Dialogue: 0,0:06:30.45,0:06:34.20,Default,,0,0,0,,Making himself out to be a monster or a god
 Dialogue: 0,0:06:34.95,0:06:38.02,Default,,0,0,0,,To make players fold, he applies pressure.
 Dialogue: 0,0:06:38.02,0:06:41.74,Default,,0,0,0,,but progresses at his own pace.
@@ -94,8 +102,8 @@ Dialogue: 0,0:06:41.74,0:06:46.14,Default,,0,0,0,,But when I did the same thing
 Dialogue: 0,0:06:46.14,0:06:48.48,Default,,0,0,0,,his own pace started to freeze.
 Dialogue: 0,0:06:48.48,0:06:50.48,Default,,0,0,0,,I dare say
 Dialogue: 0,0:06:51.21,0:06:53.97,Default,,0,0,0,,Those pairs you've laid down...
-Dialogue: 0,0:06:53.97,0:06:57.88,Default,,0,0,0,,are make believe.\NThey aren't all pairs at all.
-Dialogue: 0,0:07:23.22,0:07:25.95,Default,,0,0,0,,
+Dialogue: 0,0:06:53.97,0:06:57.88,Default,,0,0,0,,They're make believe.\NThey aren't all pairs at all.
+Dialogue: 0,0:07:23.22,0:07:25.95,Default,,0,0,0,,You're reckless.
 Dialogue: 0,0:07:27.38,0:07:29.38,Default,,0,0,0,,Ron.
 Dialogue: 0,0:07:31.60,0:07:35.34,Default,,0,0,0,,TanYao, SanSyoku\N(Only tiles 2-9, from 3 suits)
 Dialogue: 0,0:07:35.34,0:07:37.34,Default,,0,0,0,,7,700 points.
@@ -103,7 +111,7 @@ Dialogue: 0,0:07:38.15,0:07:40.15,Default,,0,0,0,,Y-you..
 Dialogue: 0,0:07:40.15,0:07:42.15,Default,,0,0,0,,You ought not have been in Tenpai!
 Dialogue: 0,0:07:41.71,0:07:46.48,Default,,0,0,0,,You think I'm so fucking dumb I'd tell you the composition of my hand?
 Dialogue: 0,0:07:46.41,0:07:51.28,Default,,0,0,0,,You've been playing in such a profoundly dishonest way
-Dialogue: 0,0:07:51.28,0:07:55.57,Default,,0,0,0,,you shouldn't be trusting anyone, should you.
+Dialogue: 0,0:07:51.28,0:07:55.57,Default,,0,0,0,,you shouldn't be trusting anyone, should you?
 Dialogue: 0,0:07:57.55,0:07:59.55,Default,,0,0,0,,So, let's continue, shall we?
 Dialogue: 0,0:08:02.51,0:08:04.51,Default,,0,0,0,,2nd Game\NSouth Round 4
 Dialogue: 0,0:08:28.45,0:08:30.91,Default,,0,0,0,,He's got it.
@@ -154,7 +162,7 @@ Dialogue: 0,0:12:25.62,0:12:29.11,Default,,0,0,0,,Those who crumble under pressu
 Dialogue: 0,0:12:29.11,0:12:32.88,Default,,0,0,0,,have no path to victory.
 Dialogue: 0,0:12:35.25,0:12:38.28,Default,,0,0,0,,What will you do?
 Dialogue: 0,0:12:38.28,0:12:41.65,Default,,0,0,0,,Won't you show this guy out?
-Dialogue: 0,0:12:49.40,0:12:51.80,Default,,0,0,0,,I want to go...
+Dialogue: 0,0:12:49.40,0:12:51.80,Default,,0,0,0,,It could have been...
 Dialogue: 0,0:12:51.80,0:12:53.80,Default,,0,0,0,,but I'm retired too.
 Dialogue: 0,0:12:53.80,0:12:55.80,Default,,0,0,0,,The chairman is constrained for time.
 Dialogue: 0,0:12:55.80,0:12:57.80,Default,,0,0,0,,Would you somehow...?
@@ -197,12 +205,12 @@ Dialogue: 0,0:16:52.71,0:16:55.17,Default,,0,0,0,,Pon.
 Dialogue: 0,0:17:03.08,0:17:05.08,Default,,0,0,0,,Chi.
 Dialogue: 0,0:17:05.08,0:17:09.17,Default,,0,0,0,,Amazing.\NIt's only just started,
 Dialogue: 0,0:17:09.17,0:17:12.37,Default,,0,0,0,,but already the game's coming to a boil.
-Dialogue: 0,0:17:19.00,0:17:22.08,Default,,0,0,0,,Simply put, it's not just his lightning plans,
+Dialogue: 0,0:17:19.00,0:17:22.08,Default,,0,0,0,,Simply put, it's not just his speed,
 Dialogue: 0,0:17:22.08,0:17:25.28,Default,,0,0,0,,The man himself exudes a strange atmosphere.
 Dialogue: 0,0:17:25.28,0:17:27.94,Default,,0,0,0,,It's indescribable, like something in the air.
 Dialogue: 0,0:17:27.94,0:17:29.94,Default,,0,0,0,,Brilliance.
-Dialogue: 0,0:17:29.94,0:17:33.82,Default,,0,0,0,,A brilliance that matches what's expected of him.
-Dialogue: 0,0:17:33.82,0:17:37.08,Default,,0,0,0,,Overflowing with the strange and unknown.
+Dialogue: 0,0:17:29.94,0:17:33.82,Default,,0,0,0,,A brilliance that suggests a further vast capacity for brilliance.
+Dialogue: 0,0:17:33.82,0:17:37.08,Default,,0,0,0,,This man is overflowing with the strange and unknown.
 Dialogue: 0,0:17:40.91,0:17:43.68,Default,,0,0,0,,Ron.
 Dialogue: 0,0:17:48.71,0:17:51.65,Default,,0,0,0,,Chanta with Red Dragon.
 Dialogue: 0,0:17:51.65,0:17:53.65,Default,,0,0,0,,Chanta...
@@ -313,6 +321,6 @@ Dialogue: 0,0:27:31.91,0:27:34.20,Default,,0,0,0,,is he wants a real fight.
 Dialogue: 0,0:27:34.20,0:27:39.31,Default,,0,0,0,,He want's to go "all or nothing" more than anyone else.\NThis is Akagi's true nature.
 Dialogue: 0,0:27:39.31,0:27:46.54,Default,,0,0,0,,That is the ONLY chink through which I can stab that bastard.
 Dialogue: 0,0:27:46.54,0:27:50.02,Default,,0,0,0,,I'll aim there.
-Dialogue: 0,0:27:50.57,0:27:54.45,Default,,0,0,0,,
-Dialogue: 0,0:27:54.45,0:27:57.71,Default,,0,0,0,,
-Dialogue: 0,0:27:57.71,0:27:59.71,Default,,0,0,0,,
+Dialogue: 0,0:27:50.57,0:27:54.45,Default,,0,0,0,,I'll get your super luck!
+Dialogue: 0,0:27:54.45,0:27:57.71,Default,,0,0,0,,What we're playing for isn't points...
+Dialogue: 0,0:27:57.71,0:27:59.71,Default,,0,0,0,,It's PRIDE
