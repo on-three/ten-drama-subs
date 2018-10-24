@@ -49,7 +49,7 @@ $(MKV): $(MP4) $(ASS_EN)
 	$(FFMPEG) -y -i $(MP4) -i $(ASS_EN) \
 	-map 0:v -map 0:a -map 1 \
 	-vcodec copy -acodec copy \
-	-metadata:s:s:0 language=eng \
+	-metadata:s:s:0 language=eng -disposition:s:0 default \
 	$@
 
 upload:
