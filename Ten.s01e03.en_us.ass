@@ -15,9 +15,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 276
-Active Line: 292
-Video Position: 50331
+Scroll Position: 123
+Active Line: 133
+Video Position: 23212
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -162,8 +162,8 @@ Dialogue: 0,0:12:25.62,0:12:29.11,Default,,0,0,0,,Those who crumble under pressu
 Dialogue: 0,0:12:29.11,0:12:32.88,Default,,0,0,0,,have no path to victory.
 Dialogue: 0,0:12:35.25,0:12:38.28,Default,,0,0,0,,What will you do?
 Dialogue: 0,0:12:38.28,0:12:41.65,Default,,0,0,0,,Won't you show this guy out?
-Dialogue: 0,0:12:49.40,0:12:51.80,Default,,0,0,0,,It could have been...
-Dialogue: 0,0:12:51.80,0:12:53.80,Default,,0,0,0,,but I'm retired too.
+Dialogue: 0,0:12:49.40,0:12:51.80,Default,,0,0,0,,I already said
+Dialogue: 0,0:12:51.80,0:12:53.80,Default,,0,0,0,,I'm retired.
 Dialogue: 0,0:12:53.80,0:12:55.80,Default,,0,0,0,,The chairman is constrained for time.
 Dialogue: 0,0:12:55.80,0:12:57.80,Default,,0,0,0,,Would you somehow...?
 Dialogue: 0,0:12:56.51,0:12:58.02,Default,,0,0,0,,No way.
