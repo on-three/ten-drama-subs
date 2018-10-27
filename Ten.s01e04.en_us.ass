@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 15
-Active Line: 29
-Video Position: 6023
+Scroll Position: 189
+Active Line: 209
+Video Position: 43704
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,10 +138,10 @@ Dialogue: 0,0:10:30.46,0:10:33.20,Default,,0,0,0,,There's one dora in the discar
 Dialogue: 0,0:10:33.20,0:10:35.20,Default,,0,0,0,,Oh.
 Dialogue: 0,0:10:35.90,0:10:39.37,Default,,0,0,0,,Akagi's holding the remaining 3 dora tiles.
 Dialogue: 0,0:10:42.95,0:10:45.20,Default,,0,0,0,,And now, in this hand
-Dialogue: 0,0:10:45.20,0:10:48.52,Default,,0,0,0,,I have zero need to be fixated on winning.
+Dialogue: 0,0:10:45.20,0:10:48.52,Default,,0,0,0,,I have zero need to dwell on winning.
 Dialogue: 0,0:10:48.52,0:10:50.52,Default,,0,0,0,,If I can't do it...
-Dialogue: 0,0:10:50.52,0:10:53.72,Default,,0,0,0,,I'll give it to someone else.
-Dialogue: 0,0:10:58.92,0:11:01.83,Default,,0,0,0,,As I expected.
+Dialogue: 0,0:10:50.52,0:10:53.72,Default,,0,0,0,,I'll have someone else tell me what to discard.
+Dialogue: 0,0:10:58.92,0:11:01.83,Default,,0,0,0,,As I expected. This guy.
 Dialogue: 0,0:11:01.83,0:11:05.95,Default,,0,0,0,,Oh no.\NIf Akagi deals into that guy's hand, it's over.
 Dialogue: 0,0:11:36.66,0:11:39.43,Default,,0,0,0,,Ron.
 Dialogue: 0,0:11:39.43,0:11:42.43,Default,,0,0,0,,White dragon ToiToi.\N5,200 points.
@@ -159,7 +159,7 @@ Dialogue: 0,0:12:24.75,0:12:27.17,Default,,0,0,0,,Shanyu? (Playoff round)
 Dialogue: 0,0:12:24.75,0:12:30.88,default - cyan,,0,0,0,,{\pos(951.666,192.667)}shānyū: (西入, entering the West). An extended West round when no player can exceed 30,000 points.
 Dialogue: 0,0:12:27.17,0:12:31.00,Default,,0,0,0,,Certainly top rated Akagi dealt 5,200 points into that guy's hand.
 Dialogue: 0,0:12:31.00,0:12:35.12,Default,,0,0,0,,and with Ten winning 2,000 points, he's at 29,500.
-Dialogue: 0,0:12:35.12,0:12:38.89,Default,,0,0,0,,No one as reached 30,000 points.
+Dialogue: 0,0:12:35.12,0:12:38.89,Default,,0,0,0,,No one has reached 30,000 points.
 Dialogue: 0,0:12:38.89,0:12:42.20,Default,,0,0,0,,I'd expect as much from a  Kantō ringer.
 Dialogue: 0,0:12:38.89,0:12:45.03,default - cyan,,0,0,0,,{\pos(953.667,110.999)}Kantō: The greater Tokyo area in western Japane.
 Dialogue: 0,0:12:42.20,0:12:44.20,Default,,0,0,0,,Well judged.
@@ -237,7 +237,7 @@ Dialogue: 0,0:23:56.40,0:24:01.00,Default,,0,0,0,,If I placed lower than Ten in 
 Dialogue: 0,0:24:01.00,0:24:03.00,Default,,0,0,0,,I said I'd forfeit the match.
 Dialogue: 0,0:24:03.00,0:24:05.00,Default,,0,0,0,,Y-ou can't
 Dialogue: 0,0:24:07.97,0:24:11.32,Default,,0,0,0,,Thank you for your efforts.
-Dialogue: 0,0:24:14.09,0:24:16.83,Default,,0,0,0,,Poop di scoop!\NWE WON.
+Dialogue: 0,0:24:14.09,0:24:16.83,Default,,0,0,0,,Whoo hoo!\NWE WON.
 Dialogue: 0,0:24:17.50,0:24:20.69,Default,,0,0,0,,And now we celebrate!
 Dialogue: 0,0:24:23.55,0:24:26.23,Default,,0,0,0,,Ten!
 Dialogue: 0,0:24:26.80,0:24:30.37,Default,,0,0,0,,I haven't had such a hot blooded match
