@@ -33,6 +33,8 @@ MP4 := $(VIDEO_DIR)/$(EN_NAME).mp4
 # tools
 FFMPEG := ffmpeg
 UPLOAD := tovps
+GEN_MKV := ./gen.mkv.sh
+
 all: $(MKV)
 
 
@@ -45,12 +47,8 @@ raw: $(RAW)
 $(OUT_DIR):
 	mkdir -p $@
 
-$(MKV): $(MP4) $(ASS_EN)
-	$(FFMPEG) -y -i $(MP4) -i $(ASS_EN) \
-	-map 0:v -map 0:a -map 1 \
-	-vcodec copy -acodec copy \
-	-metadata:s:s:0 language=eng -disposition:s:0 default \
-	$@
+$(MKV): $(MP4) $(ASS_EN)	
+	$(GEN_MKV) $(MP4) $(ASS_EN) $(MKV)
 
 upload:
 	$(UPLOAD) $(MKV)
