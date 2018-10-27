@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 189
-Active Line: 209
-Video Position: 43704
+Scroll Position: 6
+Active Line: 26
+Video Position: 4440
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,6 +54,7 @@ Dialogue: 0,0:01:25.97,0:01:28.86,Default,,0,0,0,,Pon.
 Dialogue: 0,0:02:13.55,0:02:16.46,Default,,0,0,0,,The opposite of 100% is 0%.
 Dialogue: 0,0:02:16.46,0:02:19.92,Default,,0,0,0,,your uncanny luck will be mine.
 Dialogue: 0,0:02:21.90,0:02:28.03,default - cyan,,0,0,0,,{\pos(892.001,105.334)}#/tv/shows sub par subs presents
+Dialogue: 0,0:02:21.90,0:02:28.03,Default - white,,0,0,0,,{\pos(1672.001,1049.334)}**version**
 Dialogue: 0,0:02:33.48,0:02:35.48,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:02:42.35,0:02:44.35,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:02:50.75,0:02:52.75,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
@@ -251,13 +252,13 @@ Dialogue: 0,0:24:54.70,0:24:56.70,Default,,0,0,0,,There's literally no chance.
 Dialogue: 0,0:24:56.70,0:24:58.70,Default,,0,0,0,,You're wrong.
 Dialogue: 0,0:24:58.70,0:25:02.49,Default,,0,0,0,,When Akagi got up to leave
 Dialogue: 0,0:25:02.49,0:25:05.75,Default,,0,0,0,,You didn't hear him, did you?
-Dialogue: 0,0:25:06.40,0:25:09.57,Default,,0,0,0,,It went as he expected.当たり前みたいにいった
+Dialogue: 0,0:25:06.40,0:25:09.57,Default,,0,0,0,,It went as he expected.
 Dialogue: 0,0:25:09.57,0:25:11.57,Default,,0,0,0,,It's the next tile over.
 Dialogue: 0,0:25:13.92,0:25:16.80,Default,,0,0,0,,The next tile?
 Dialogue: 0,0:25:32.83,0:25:35.70,Default,,0,0,0,,The Akagi in his prime
 Dialogue: 0,0:25:35.70,0:25:39.77,Default,,0,0,0,,Would have turned over all 3.
 Dialogue: 0,0:25:44.12,0:25:46.52,Default,,0,0,0,,This was Akagi Shigeru's
-Dialogue: 0,0:25:46.52,0:25:49.69,Default,,0,0,0,,SuuAnkKou "Hell" wait.
+Dialogue: 0,0:25:46.52,0:25:49.69,Default,,0,0,0,,SuuAnKou "Hell" wait.
 Dialogue: 0,0:25:50.43,0:25:54.63,Default,,0,0,0,,Mere chance gave me the win.
 Dialogue: 0,0:25:55.40,0:25:58.66,Default,,0,0,0,,It could just as well have been him, maybe.
 Dialogue: 0,0:26:04.17,0:26:09.52,Default,,0,0,0,,Ten. Thanks for everything.\NYou saved me.
