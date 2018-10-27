@@ -5,9 +5,9 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
-PlayResX: 640
-PlayResY: 360
+YCbCr Matrix: TV.709
+PlayResX: 848
+PlayResY: 480
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -15,268 +15,266 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 84
-Active Line: 96
-Video Position: 19033
+Video Zoom Percent: 0.375000
+Scroll Position: 102
+Active Line: 124
+Video Position: 22950
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,28,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.4,0.6,2,10,10,10,1
-Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: black-large,Arial,35,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: cyan,Arial,42,&H00FFFF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Open Sans Semibold,36,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: default - cyan,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Default - white,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.55,0:00:03.25,Default,,0,0,0,,Why did you save me?
-Dialogue: 0,0:00:03.25,0:00:05.02,Default,,0,0,0,,I thought I'd teach you something
-Dialogue: 0,0:00:05.02,0:00:07.68,Default,,0,0,0,,about those bastards called "ringers".
-Dialogue: 0,0:00:07.68,0:00:09.37,Default,,0,0,0,,Akagi Shigeru!
-Dialogue: 0,0:00:09.37,0:00:11.37,Default,,0,0,0,,Ron
-Dialogue: 0,0:00:10.37,0:00:11.54,Default,,0,0,0,,If this goes on we'll lose
-Dialogue: 0,0:00:11.54,0:00:15.54,Default,,0,0,0,,He wants to go "all or nothing" more than anyone.\NThat's Akagi's true nature.赤木は誰よりも伸るか反るかをしてみたいそれが赤木しげるの本性
-Dialogue: 0,0:00:15.54,0:00:19.77,Default,,0,0,0,,That is the ONLY chink through which I can stab at him.
-Dialogue: 0,0:00:19.77,0:00:21.77,Default,,0,0,0,,I'll aim there.
-Dialogue: 0,0:00:23.75,0:00:25.75,Default,,0,0,0,,4th Game\NSouth Round 2
-Dialogue: 0,0:00:31.65,0:00:34.05,Default,,0,0,0,,Oh.
-Dialogue: 0,0:00:34.05,0:00:36.05,Default,,0,0,0,,Kan.
-Dialogue: 0,0:00:37.17,0:00:39.45,Default,,0,0,0,,
-Dialogue: 0,0:00:40.41,0:00:42.41,Default,,0,0,0,,Tsumo.
-Dialogue: 0,0:00:47.80,0:00:50.05,Default,,0,0,0,,Oh. 4 dora?
-Dialogue: 0,0:00:50.05,0:00:52.05,Default,,0,0,0,,A Haneman win.
-Dialogue: 0,0:00:50.05,0:00:55.22,cyan,,0,0,0,,{\pos(311,134)}Haneman: 6 or 7 han win for 18,000/12,000 points dealer/non-dealer
-Dialogue: 0,0:00:57.25,0:00:59.25,Default,,0,0,0,,Game 4\NSouth Round 3
-Dialogue: 0,0:01:02.40,0:01:06.11,Default,,0,0,0,,Akagi's luck has been running near 100%
-Dialogue: 0,0:01:06.11,0:01:08.11,Default,,0,0,0,,He's in good shape for a Tsumo win.
-Dialogue: 0,0:01:08.11,0:01:11.05,Default,,0,0,0,,The wall is overflowing with Akagi's winning draws.
-Dialogue: 0,0:01:11.05,0:01:13.71,Default,,0,0,0,,Ten, what do you mean to do?
-Dialogue: 0,0:01:18.11,0:01:20.61,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:01:27.22,0:01:30.11,Default,,0,0,0,,Pon.
-Dialogue: 0,0:02:14.80,0:02:17.71,Default,,0,0,0,,The opposite of 100% is 0%. 100の裏は0、
-Dialogue: 0,0:02:17.71,0:02:21.17,Default,,0,0,0,,your uncanny luck will be mine.あんたの強運、頂くぜ
-Dialogue: 0,0:02:23.15,0:02:29.28,Default,,0,0,0,,{\pos(308,44)}#/tv/shows subs presents:
-Dialogue: 0,0:03:30.71,0:03:33.45,Default,,0,0,0,,Kan.
-Dialogue: 0,0:03:40.62,0:03:45.68,Default,,0,0,0,,With that Pon call and the new draw order, the game flow instantly changed.
-Dialogue: 0,0:04:28.68,0:04:31.17,Default,,0,0,0,,Again the 7 Man
-Dialogue: 0,0:04:31.17,0:04:34.77,Default,,0,0,0,,What a terrifying draw.
-Dialogue: 0,0:04:34.77,0:04:37.57,Default,,0,0,0,,It's probably Akagi's winning tile.
-Dialogue: 0,0:04:37.57,0:04:40.48,Default,,0,0,0,,The 4 Pin or this 7 Man.
-Dialogue: 0,0:04:41.45,0:04:45.02,Default,,0,0,0,,If I do that...
-Dialogue: 0,0:04:51.97,0:04:54.25,Default,,0,0,0,,He's got to discard from his hidden triplet...
-Dialogue: 0,0:04:54.25,0:04:57.31,Default,,0,0,0,,but now his hand is back to the start.
-Dialogue: 0,0:05:37.37,0:05:40.28,Default,,0,0,0,,He's in Tenpai.
-Dialogue: 0,0:05:46.77,0:05:49.60,Default,,0,0,0,,これだけ流れが来ているってことは
-Dialogue: 0,0:05:49.60,0:05:51.60,Default,,0,0,0,,
-Dialogue: 0,0:05:51.60,0:05:54.65,Default,,0,0,0,,赤木が割を食っているってことか
-Dialogue: 0,0:06:03.28,0:06:07.91,Default,,0,0,0,,Without doubt the game flow has moved from Akagi to Ten.
-Dialogue: 0,0:06:08.71,0:06:14.51,Default,,0,0,0,,No. I can't shut out an opponent of this level with this hand.いや、この程度のことで完全に抑え込めるやつじゃない
-Dialogue: 0,0:06:14.51,0:06:17.85,Default,,0,0,0,,Another one, two turns is probably the limit.あと一、二順が限界だろう
-Dialogue: 0,0:06:21.97,0:06:24.98,Default,,0,0,0,,The 3 Pin?
-Dialogue: 0,0:06:24.98,0:06:28.88,Default,,0,0,0,,If he's discarding only safe tiles he should choose the 6Man.
-Dialogue: 0,0:06:29.81,0:06:33.34,Default,,0,0,0,,But he won't do that after coming so far.
-Dialogue: 0,0:06:34.35,0:06:37.45,Default,,0,0,0,,What will you discard, Ten?
-Dialogue: 0,0:06:38.45,0:06:41.82,Default,,0,0,0,,This character discarded a 6 Pin before
-Dialogue: 0,0:06:41.82,0:06:43.82,Default,,0,0,0,,even though it was quite a dangerous tile.
-Dialogue: 0,0:06:43.82,0:06:46.97,Default,,0,0,0,,and he wasn't nervous.
-Dialogue: 0,0:06:46.97,0:06:51.57,Default,,0,0,0,,That is to say he theorized it was safe.
-Dialogue: 0,0:06:51.57,0:06:54.71,Default,,0,0,0,,That's a... WALL.
-Dialogue: 0,0:06:54.71,0:06:56.71,Default,,0,0,0,,A 3/6 Pin wall.
-Dialogue: 0,0:06:57.45,0:07:04.71,Default,,0,0,0,,That is, this guy knows the location of at least 3 of the 4 Pin or 5 Pin tiles.
-Dialogue: 0,0:07:04.71,0:07:07.51,Default,,0,0,0,,There's one 4 Pin out.
-Dialogue: 0,0:07:07.51,0:07:09.51,Default,,0,0,0,,And I've got one.
-Dialogue: 0,0:07:09.51,0:07:14.80,Default,,0,0,0,,This guy has either 2 4Pin or 3 5Pin tiles in his hand.
-Dialogue: 0,0:07:14.80,0:07:17.57,Default,,0,0,0,,And the bastard's wait is...
-Dialogue: 0,0:07:17.57,0:07:20.97,Default,,0,0,0,,It's likely with two 4 Pin tiles he'll aim for an Ipeikou.
-Dialogue: 0,0:07:20.97,0:07:25.68,Default,,0,0,0,,If he gets a 4Pin he'd be waiting for a 3Pin.
-Dialogue: 0,0:07:37.08,0:07:40.18,Default,,0,0,0,,Pon.
-Dialogue: 0,0:07:45.68,0:07:48.71,Default,,0,0,0,,Ron.
-Dialogue: 0,0:07:48.71,0:07:51.14,Default,,0,0,0,,Tanyao. 4 Dora.
-Dialogue: 0,0:07:51.14,0:07:53.82,Default,,0,0,0,,8,000 points.
-Dialogue: 0,0:07:53.82,0:07:57.34,Default,,0,0,0,,3 7Mans, hun?
-Dialogue: 0,0:07:57.34,0:08:02.45,Default,,0,0,0,,You catch on well.\NA fine read.
-Dialogue: 0,0:08:02.45,0:08:05.40,Default,,0,0,0,,Good discards.\NDiscards that show intention.
-Dialogue: 0,0:08:05.40,0:08:08.65,Default,,0,0,0,,The consecutive Red Dragon discards, and discarding the dora.
-Dialogue: 0,0:08:08.65,0:08:13.02,Default,,0,0,0,,With this are you going to close the 9,500 point gap in the final round?
-Dialogue: 0,0:08:13.02,0:08:14.85,Default,,0,0,0,,Well then...
-Dialogue: 0,0:08:14.85,0:08:16.85,Default,,0,0,0,,You've got some fighting spirit, don't you.少し気合を入れるか
-Dialogue: 0,0:08:17.55,0:08:20.51,Default,,0,0,0,,If I play sluggishly I'll be dead.チンタラ打ってると殺されちまう
-Dialogue: 0,0:08:20.51,0:08:25.57,Default,,0,0,0,,It seems like the wind is changing.どうにも風向きが変わりかけているようだ
-Dialogue: 0,0:08:30.37,0:08:34.40,Default,,0,0,0,,As I suspected.\NAkagi's next draw was a 7Man!
-Dialogue: 0,0:08:34.40,0:08:38.60,Default,,0,0,0,,One way or another he would have won on his next draw.
-Dialogue: 0,0:08:45.01,0:08:47.01,Default,,0,0,0,,South-West Last Round
-Dialogue: 0,0:08:52.82,0:08:57.25,Default,,0,0,0,,The points still stand at Akagi: 37,000 and Ten 27,500 .
-Dialogue: 0,0:08:57.25,0:09:00.25,Default,,0,0,0,,Point difference: 9,500.
-Dialogue: 0,0:09:04.14,0:09:06.22,Default,,0,0,0,,His starting hand is bad
-Dialogue: 0,0:09:06.22,0:09:08.88,Default,,0,0,0,,but for Ten to pull off an upset
-Dialogue: 0,0:09:08.88,0:09:12.20,Default,,0,0,0,,Ten must get at least 5,200 points this hand.
-Dialogue: 0,0:09:17.88,0:09:20.65,Default,,0,0,0,,Pon.
-Dialogue: 0,0:09:20.65,0:09:24.71,Default,,0,0,0,,早上がりされては意味がない
-Dialogue: 0,0:09:37.60,0:09:41.48,Default,,0,0,0,,This is dangerous.\NThat tile passed.
-Dialogue: 0,0:09:45.05,0:09:47.78,Default,,0,0,0,,Pon.
-Dialogue: 0,0:09:55.74,0:09:58.71,Default,,0,0,0,,This is another dangerous tile.
-Dialogue: 0,0:10:00.97,0:10:05.17,Default,,0,0,0,,Wait a sec.\NAkagi, on purpose...
-Dialogue: 0,0:10:05.17,0:10:07.17,Default,,0,0,0,,I see.
-Dialogue: 0,0:10:07.17,0:10:11.14,Default,,0,0,0,,If the other guys win, Ten can't take the top spot.
-Dialogue: 0,0:10:11.14,0:10:13.14,Default,,0,0,0,,Akagi will throw this hand.
-Dialogue: 0,0:10:13.14,0:10:15.80,Default,,0,0,0,,Will he deal into one of their hands?
-Dialogue: 0,0:10:15.80,0:10:18.40,Default,,0,0,0,,This guy's aiming for a White Dragon ToiToi
-Dialogue: 0,0:10:18.40,0:10:21.34,Default,,0,0,0,,If he wins that's 5,200 points.
-Dialogue: 0,0:10:21.34,0:10:23.34,Default,,0,0,0,,But, what about the dora?
-Dialogue: 0,0:10:24.05,0:10:26.91,Default,,0,0,0,,
-Dialogue: 0,0:10:26.91,0:10:30.14,Default,,0,0,0,,
-Dialogue: 0,0:10:31.71,0:10:34.45,Default,,0,0,0,,
-Dialogue: 0,0:10:34.45,0:10:36.45,Default,,0,0,0,,Oh.
-Dialogue: 0,0:10:37.15,0:10:40.62,Default,,0,0,0,,Akagi's holding the remaining 3 dora tiles.
-Dialogue: 0,0:10:44.20,0:10:46.45,Default,,0,0,0,,And now, in this hand今この局面で、
-Dialogue: 0,0:10:46.45,0:10:49.77,Default,,0,0,0,,I have zero need to be fixated on winning. 上がりにこだわる必要は0だ
-Dialogue: 0,0:10:49.77,0:10:51.77,Default,,0,0,0,,If I can't do it...自分が行けない時は
-Dialogue: 0,0:10:51.77,0:10:54.97,Default,,0,0,0,,I'll give it to someone else.他人に行ってもらうまでよ
-Dialogue: 0,0:11:00.17,0:11:03.08,Default,,0,0,0,,As I expected.
-Dialogue: 0,0:11:03.08,0:11:07.20,Default,,0,0,0,,Oh no.\NIf Akagi deals into that guy's hand, it's over.
-Dialogue: 0,0:11:37.91,0:11:40.68,Default,,0,0,0,,Ron.
-Dialogue: 0,0:11:40.68,0:11:43.68,Default,,0,0,0,,White dragon ToiToi.\N5,200 points.
-Dialogue: 0,0:11:43.68,0:11:47.00,Default,,0,0,0,,Fuck.\NThis is what Akagi was aiming for.
-Dialogue: 0,0:11:48.65,0:11:51.94,Default,,0,0,0,,I've won this East-South match.
-Dialogue: 0,0:11:52.88,0:11:56.45,Default,,0,0,0,,And.. how is that?
-Dialogue: 0,0:11:56.45,0:11:58.45,Default,,0,0,0,,What?
-Dialogue: 0,0:11:58.45,0:12:02.42,Default,,0,0,0,,I ALSO on that discard...
-Dialogue: 0,0:12:02.42,0:12:04.42,Default,,0,0,0,,RON THE FUCK OUT OF YOU
-Dialogue: 0,0:12:09.94,0:12:12.55,Default,,0,0,0,,Pinhu, Ipeikou.\N2,000 points.
-Dialogue: 0,0:12:13.95,0:12:15.95,Default,,0,0,0,,2,000?
-Dialogue: 0,0:12:15.95,0:12:18.65,Default,,0,0,0,,B-but that isn't an upset.
-Dialogue: 0,0:12:18.65,0:12:22.14,Default,,0,0,0,,No. Look at the points.持ち点
-Dialogue: 0,0:12:26.00,0:12:28.42,Default,,0,0,0,,Shanyu? (Playoff round)
-Dialogue: 0,0:12:26.00,0:12:28.42,cyan,,0,0,0,,{\pos(319,138)}shānyū: (西入, entering the West) . An extended West round when no player can exceed 30,000 points.
-Dialogue: 0,0:12:28.42,0:12:32.25,Default,,0,0,0,,Certainly top rated Akagi dealt 5,200 points into that guy's hand.
-Dialogue: 0,0:12:32.25,0:12:36.37,Default,,0,0,0,,and with Ten winning 2,000 points, he's at 29,500.
-Dialogue: 0,0:12:36.37,0:12:40.14,Default,,0,0,0,,No one as reached 30,000 points.
-Dialogue: 0,0:12:40.14,0:12:43.45,Default,,0,0,0,,I'd expect as much from a  Kantō ringer.さすがは関東一の代打ち
-Dialogue: 0,0:12:40.14,0:12:46.28,cyan,,0,0,0,,{\pos(325,93)}Kantō: The greater Tokyo area in western Japane.
-Dialogue: 0,0:12:43.45,0:12:45.45,Default,,0,0,0,,Well judged.
-Dialogue: 0,0:12:46.11,0:12:48.11,Default,,0,0,0,,Oi.
-Dialogue: 0,0:12:52.60,0:12:57.02,Default,,0,0,0,,If my points in this extended round come beneath Ten
-Dialogue: 0,0:12:58.18,0:13:01.37,Default,,0,0,0,,I'll forfeit from the match.
-Dialogue: 0,0:13:01.37,0:13:03.37,Default,,0,0,0,,W-what are you saying?
-Dialogue: 0,0:13:03.37,0:13:05.65,Default,,0,0,0,,
-Dialogue: 0,0:13:05.65,0:13:07.08,Default,,0,0,0,,
-Dialogue: 0,0:13:07.08,0:13:10.05,Default,,0,0,0,,You don't understand at all.何にもわかっちゃいねぇな
-Dialogue: 0,0:13:10.05,0:13:13.51,Default,,0,0,0,,That which we're giving... and taking...
-Dialogue: 0,0:13:13.51,0:13:17.48,Default,,0,0,0,,it isn't POINTS.
-Dialogue: 0,0:13:17.97,0:13:20.48,Default,,0,0,0,,It's PRIDE.
-Dialogue: 0,0:14:53.85,0:14:55.85,Default,,0,0,0,,West Round 1
-Dialogue: 0,0:14:58.28,0:15:01.28,Default,,0,0,0,,Tsumo.
-Dialogue: 0,0:15:03.25,0:15:05.25,Default,,0,0,0,,2,000 points from everyone.
-Dialogue: 0,0:15:06.11,0:15:08.51,Default,,0,0,0,,Fuck yes!
-Dialogue: 0,0:15:09.25,0:15:11.25,Default,,0,0,0,,At that last moment double-ron...
-Dialogue: 0,0:15:11.25,0:15:13.25,Default,,0,0,0,,The game flow changed.
-Dialogue: 0,0:15:13.25,0:15:15.25,Default,,0,0,0,,West Round 1\NFirst Honba.
-Dialogue: 0,0:15:15.25,0:15:17.25,Default,,0,0,0,,Kan.
-Dialogue: 0,0:15:18.75,0:15:20.75,Default,,0,0,0,,WHOOP THERE IT IS
-Dialogue: 0,0:15:22.51,0:15:24.51,Default,,0,0,0,,4,100 points from everyone.
-Dialogue: 0,0:15:28.58,0:15:30.58,Default,,0,0,0,,West round 3.
-Dialogue: 0,0:15:33.14,0:15:34.38,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:15:34.38,0:15:36.38,Default,,0,0,0,,Ron.
-Dialogue: 0,0:15:37.01,0:15:39.01,Default,,0,0,0,,8,000 points.
-Dialogue: 0,0:15:42.55,0:15:44.55,Default,,0,0,0,,West Round 4\NFinal hand.
-Dialogue: 0,0:15:48.31,0:15:52.68,Default,,0,0,0,,All things considered, Ten should come top this round.
-Dialogue: 0,0:15:52.68,0:15:55.31,Default,,0,0,0,,If Akagi can't win with a Yakuman hand,
-Dialogue: 0,0:15:55.31,0:15:57.31,Default,,0,0,0,,He can't pull of an upset.
-Dialogue: 0,0:15:57.31,0:16:00.51,Default,,0,0,0,,In the worst case Ten can play safe discards.
-Dialogue: 0,0:16:00.51,0:16:02.51,Default,,0,0,0,,I can just glimpse victory.
-Dialogue: 0,0:16:08.91,0:16:12.77,Default,,0,0,0,,From the first the possibility of DaiSanGen disappeared.
-Dialogue: 0,0:16:15.00,0:16:17.91,Default,,0,0,0,,Pon.
-Dialogue: 0,0:16:22.31,0:16:25.94,Default,,0,0,0,,And with that the chance of Kokusi Musou is gone too.
-Dialogue: 0,0:16:34.14,0:16:36.61,Default,,0,0,0,,Kan.
-Dialogue: 0,0:16:36.61,0:16:42.62,Default,,0,0,0,,Now shousuushii, daisuushii, and tsuuiisou are gone.
-Dialogue: 0,0:16:51.88,0:16:54.65,Default,,0,0,0,,Pon.
-Dialogue: 0,0:16:54.65,0:16:58.11,Default,,0,0,0,,And now even ryuuiisou is gone.
-Dialogue: 0,0:17:11.11,0:17:13.85,Default,,0,0,0,,Kan.
-Dialogue: 0,0:17:16.22,0:17:19.42,Default,,0,0,0,,With that nearly every chance at a Yakuman hand is gone.
-Dialogue: 0,0:17:19.42,0:17:22.31,Default,,0,0,0,,Things are going ideally.
-Dialogue: 0,0:17:39.28,0:17:44.57,Default,,0,0,0,,No...\NThere's one avenue remaining.
-Dialogue: 0,0:18:12.94,0:18:15.88,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:18:15.88,0:18:20.20,Default,,0,0,0,,If he's going to pull an upset, It can be nothing else.
-Dialogue: 0,0:18:23.01,0:18:25.01,Default,,0,0,0,,Without doubt
-Dialogue: 0,0:18:25.01,0:18:29.22,Default,,0,0,0,,Akagi has a single wait SuuAnKou.
-Dialogue: 0,0:18:31.58,0:18:34.51,Default,,0,0,0,,But... what is he waiting on?
-Dialogue: 0,0:18:41.71,0:18:45.65,Default,,0,0,0,,Drawing an East Wind right after Akagi declares Riichi
-Dialogue: 0,0:18:45.65,0:18:55.57,Default,,0,0,0,,It's tough to discard it considering the game flow, but the number tiles near Ten's hidden triplet are also difficult to discard...
-Dialogue: 0,0:19:37.88,0:19:39.91,Default,,0,0,0,,We're saved.
-Dialogue: 0,0:19:39.91,0:19:42.45,Default,,0,0,0,,Ten has all four in his hand.
-Dialogue: 0,0:19:42.45,0:19:46.37,Default,,0,0,0,,It's 100% certainly not Akagi's hidden-triple single wait tile.
-Dialogue: 0,0:19:46.37,0:19:50.05,Default,,0,0,0,,Ten has all but won.
-Dialogue: 0,0:20:05.97,0:20:08.98,Default,,0,0,0,,So. The 4Man, hunh?
-Dialogue: 0,0:20:32.60,0:20:35.20,Default,,0,0,0,,B-but that's not a SuuAnKou.
-Dialogue: 0,0:20:35.20,0:20:39.45,Default,,0,0,0,,Then you haven't overtaken Ten's points!
-Dialogue: 0,0:20:39.45,0:20:41.45,Default,,0,0,0,,No.
-Dialogue: 0,0:20:41.45,0:20:43.45,Default,,0,0,0,,Ahh...
-Dialogue: 0,0:20:43.45,0:20:46.62,Default,,0,0,0,,My hidden triplets are over THERE.
-Dialogue: 0,0:22:20.88,0:22:23.11,Default,,0,0,0,,Ahhh...
-Dialogue: 0,0:22:23.11,0:22:26.77,Default,,0,0,0,,My hidden triplets are over THERE.
-Dialogue: 0,0:22:38.51,0:22:41.82,Default,,0,0,0,,First, 3 Ura-dora.\NA Haneman hand.
-Dialogue: 0,0:22:48.22,0:22:53.22,Default,,0,0,0,,and with this it's 6 Ura-Dora.\NA Baiman hand.
-Dialogue: 0,0:22:53.22,0:22:55.22,Default,,0,0,0,,t-that can't be.
-Dialogue: 0,0:22:55.22,0:22:58.31,Default,,0,0,0,,Can he pull an upset?
-Dialogue: 0,0:22:58.31,0:23:01.60,Default,,0,0,0,,If he turns over the same tile again, he'll have 9 Dora
-Dialogue: 0,0:23:01.60,0:23:05.20,Default,,0,0,0,,An indesputable MATHEMATICAL Yakuman.
-Dialogue: 0,0:23:52.60,0:23:55.88,Default,,0,0,0,,Akagi, where are you going?
-Dialogue: 0,0:23:55.88,0:23:57.65,Default,,0,0,0,,I said it.
-Dialogue: 0,0:23:57.65,0:24:02.25,Default,,0,0,0,,If I placed lower than Ten in this Round
-Dialogue: 0,0:24:02.25,0:24:04.25,Default,,0,0,0,,I said I'd forfeit the match.
-Dialogue: 0,0:24:04.25,0:24:06.25,Default,,0,0,0,,Y-ou can't
-Dialogue: 0,0:24:09.22,0:24:12.57,Default,,0,0,0,,Thank you for your efforts.
-Dialogue: 0,0:24:15.34,0:24:18.08,Default,,0,0,0,,Poop di scoop!\NWE WON.
-Dialogue: 0,0:24:18.75,0:24:21.94,Default,,0,0,0,,And now we celebrate!
-Dialogue: 0,0:24:24.80,0:24:27.48,Default,,0,0,0,,Ten!
-Dialogue: 0,0:24:28.05,0:24:31.62,Default,,0,0,0,,I haven't had such a hot blooded match こんなに血が滾ったのは
-Dialogue: 0,0:24:31.62,0:24:33.62,Default,,0,0,0,,for a long, long time.
-Dialogue: 0,0:24:37.34,0:24:40.18,Default,,0,0,0,,It's because of youお前のせいで
-Dialogue: 0,0:24:40.18,0:24:43.57,Default,,0,0,0,,that I wanted to come back.またこっちに戻りたくなっちまったよ
-Dialogue: 0,0:24:48.82,0:24:51.95,Default,,0,0,0,,S-saved.
-Dialogue: 0,0:24:51.95,0:24:53.95,Default,,0,0,0,,No, but
-Dialogue: 0,0:24:53.95,0:24:55.95,Default,,0,0,0,,Seriously, 3 Ura-Dora?
-Dialogue: 0,0:24:55.95,0:24:57.95,Default,,0,0,0,,There's literally no chance.
-Dialogue: 0,0:24:57.95,0:24:59.95,Default,,0,0,0,,You're wrong.
-Dialogue: 0,0:24:59.95,0:25:03.74,Default,,0,0,0,,When Akagi got up to leaveやつが立ち去る時
-Dialogue: 0,0:25:03.74,0:25:07.00,Default,,0,0,0,,You didn't hear him, did you?聞こえなかったか
-Dialogue: 0,0:25:07.65,0:25:10.82,Default,,0,0,0,,It went as he expected.当たり前みたいにいった
-Dialogue: 0,0:25:10.82,0:25:12.82,Default,,0,0,0,,It's the next tile over.隣だと
-Dialogue: 0,0:25:15.17,0:25:18.05,Default,,0,0,0,,The next tile?
-Dialogue: 0,0:25:34.08,0:25:36.95,Default,,0,0,0,,The Akagi in his prime全盛期の赤木なら
-Dialogue: 0,0:25:36.95,0:25:41.02,Default,,0,0,0,,Would have turned over all 3.ここで3枚のせていたんだ
-Dialogue: 0,0:25:45.37,0:25:47.77,Default,,0,0,0,,This was Akagi Shigeru's
-Dialogue: 0,0:25:47.77,0:25:50.94,Default,,0,0,0,,SuuAnkKou "Hell" wait.
-Dialogue: 0,0:25:51.68,0:25:55.88,Default,,0,0,0,,Mere chance gave me the win.偶然勝たせて貰ったのは
-Dialogue: 0,0:25:56.65,0:25:59.91,Default,,0,0,0,,I don't know. It just might have been him.こちらかもしれない
-Dialogue: 0,0:26:05.42,0:26:10.77,Default,,0,0,0,,Ten. Thanks for everything.\NYou saved me.
-Dialogue: 0,0:26:10.77,0:26:14.71,Default,,0,0,0,,Please let me return the favor somehow.
-Dialogue: 0,0:26:15.71,0:26:17.71,Default,,0,0,0,,Hiroyuki.
-Dialogue: 0,0:26:18.85,0:26:23.65,Default,,0,0,0,,Stop this ringer business already.
-Dialogue: 0,0:26:23.65,0:26:25.65,Default,,0,0,0,,Wha?
-Dialogue: 0,0:26:25.65,0:26:29.48,Default,,0,0,0,,There's no problem with your Mahjong ability.お前は雀力という点では問題ない
-Dialogue: 0,0:26:29.48,0:26:31.48,Default,,0,0,0,,If you play a little longerもう少し打てば
-Dialogue: 0,0:26:31.48,0:26:34.08,Default,,0,0,0,,If you lose your natural innocence自然と甘さが消えて
-Dialogue: 0,0:26:34.08,0:26:37.94,Default,,0,0,0,,I dunno, you just might be able to survive in this world この世界でも凌いで行けるようになるかもしれない
-Dialogue: 0,0:26:37.94,0:26:39.94,Default,,0,0,0,,HOWEVER
-Dialogue: 0,0:26:39.94,0:26:41.94,Default,,0,0,0,,just stop.だが、辞めろ
-Dialogue: 0,0:26:45.37,0:26:48.68,Default,,0,0,0,,"Demons haunt the crossroads"巷に悪鬼浮遊せり
-Dialogue: 0,0:26:48.68,0:26:51.57,Default,,0,0,0,,"Demons gather at the bones."悪鬼は骨にあつまる
-Dialogue: 0,0:26:51.57,0:26:55.54,Default,,0,0,0,,The bones are the tiles.骨とは麻雀牌のことだ
-Dialogue: 0,0:26:56.28,0:26:58.88,Default,,0,0,0,,In this underworld...
-Dialogue: 0,0:26:58.88,0:27:02.74,Default,,0,0,0,,there are any number of evil, powerful, brilliant characters...悪くて強くてすごい奴らが
-Dialogue: 0,0:27:02.74,0:27:06.60,Default,,0,0,0,,They gather because of the tiles.麻雀牌の元に集まる
-Dialogue: 0,0:27:09.71,0:27:12.68,Default,,0,0,0,,The world you ought to be in
-Dialogue: 0,0:27:12.68,0:27:14.68,Default,,0,0,0,,it ain't this one.
-Dialogue: 0,0:27:17.88,0:27:20.40,Default,,0,0,0,,I entered this miserable place
-Dialogue: 0,0:27:20.40,0:27:22.40,Default,,0,0,0,,and for me it's too late. I can't go back.
-Dialogue: 0,0:27:23.68,0:27:27.68,Default,,0,0,0,,I have no choice but to live in this world.
-Dialogue: 0,0:27:29.05,0:27:30.51,Default,,0,0,0,,HOWEVER
-Dialogue: 0,0:27:30.51,0:27:34.08,Default,,0,0,0,,you can still turn back.
-Dialogue: 0,0:27:37.45,0:27:40.01,Default,,0,0,0,,Later.
-Dialogue: 0,0:27:50.91,0:27:53.97,Default,,0,0,0,,Illegal Mahjong
-Dialogue: 0,0:27:53.97,0:27:56.82,Default,,0,0,0,,This battle is
-Dialogue: 0,0:27:56.82,0:27:58.65,Default,,0,0,0,,
-Dialogue: 0,0:27:58.65,0:28:00.97,Default,,0,0,0,,
+Dialogue: 0,0:00:02.00,0:00:03.77,Default,,0,0,0,,I thought I'd teach you something
+Dialogue: 0,0:00:03.77,0:00:06.43,Default,,0,0,0,,about those bastards called "ringers".
+Dialogue: 0,0:00:06.43,0:00:08.12,Default,,0,0,0,,Akagi Shigeru!
+Dialogue: 0,0:00:08.12,0:00:10.12,Default,,0,0,0,,Ron
+Dialogue: 0,0:00:09.12,0:00:10.29,Default,,0,0,0,,If this goes on we'll lose
+Dialogue: 0,0:00:10.29,0:00:14.29,Default,,0,0,0,,He wants to go "all or nothing" more than anyone.\NThat's Akagi's true nature.赤木は誰よりも伸るか反るかをしてみたいそれが赤木しげるの本性
+Dialogue: 0,0:00:14.29,0:00:18.52,Default,,0,0,0,,That is the ONLY chink through which I can stab at him.
+Dialogue: 0,0:00:18.52,0:00:20.52,Default,,0,0,0,,I'll aim there.
+Dialogue: 0,0:00:22.50,0:00:24.50,Default,,0,0,0,,4th Game\NSouth Round 2
+Dialogue: 0,0:00:30.40,0:00:32.80,Default,,0,0,0,,Oh.
+Dialogue: 0,0:00:32.80,0:00:34.80,Default,,0,0,0,,Kan.
+Dialogue: 0,0:00:35.92,0:00:38.20,Default,,0,0,0,,Okaaay.
+Dialogue: 0,0:00:39.16,0:00:41.16,Default,,0,0,0,,Tsumo.
+Dialogue: 0,0:00:46.55,0:00:48.80,Default,,0,0,0,,Oh. 4 dora?
+Dialogue: 0,0:00:48.80,0:00:50.80,Default,,0,0,0,,A Haneman win.
+Dialogue: 0,0:00:48.80,0:00:53.97,default - cyan,,0,0,0,,{\pos(427.386,55.407)}Haneman: 18,000/12,000 points dealer/non-dealer
+Dialogue: 0,0:00:56.00,0:00:58.00,Default,,0,0,0,,Game 4\NSouth Round 3
+Dialogue: 0,0:01:01.15,0:01:04.86,Default,,0,0,0,,Akagi's luck has been running near 100%
+Dialogue: 0,0:01:04.86,0:01:06.86,Default,,0,0,0,,He's in good shape for a Tsumo win.
+Dialogue: 0,0:01:06.86,0:01:09.80,Default,,0,0,0,,The wall is overflowing with Akagi's winning draws.
+Dialogue: 0,0:01:09.80,0:01:12.46,Default,,0,0,0,,Ten, what do you mean to do?
+Dialogue: 0,0:01:16.86,0:01:19.36,Default,,0,0,0,,Riichi.
+Dialogue: 0,0:01:25.97,0:01:28.86,Default,,0,0,0,,Pon.
+Dialogue: 0,0:02:13.55,0:02:16.46,Default,,0,0,0,,The opposite of 100% is 0%. 100の裏は0、
+Dialogue: 0,0:02:16.46,0:02:19.92,Default,,0,0,0,,your uncanny luck will be mine.あんたの強運、頂くぜ
+Dialogue: 0,0:02:21.90,0:02:28.03,default - cyan,,0,0,0,,{\pos(393.967,46.815)}#/tv/shows subs presents:
+Dialogue: 0,0:03:29.46,0:03:32.20,Default,,0,0,0,,Kan.
+Dialogue: 0,0:03:39.37,0:03:44.43,Default,,0,0,0,,With that Pon call and the new draw order, the game flow instantly changed.
+Dialogue: 0,0:04:27.43,0:04:29.92,Default,,0,0,0,,Again the 7 Man
+Dialogue: 0,0:04:29.92,0:04:33.52,Default,,0,0,0,,What a terrifying draw.
+Dialogue: 0,0:04:33.52,0:04:36.32,Default,,0,0,0,,It's probably Akagi's winning tile.
+Dialogue: 0,0:04:36.32,0:04:39.23,Default,,0,0,0,,The 4 Pin or this 7 Man.
+Dialogue: 0,0:04:40.20,0:04:43.77,Default,,0,0,0,,If I do that...
+Dialogue: 0,0:04:50.72,0:04:53.00,Default,,0,0,0,,He's got to discard from his hidden triplet...
+Dialogue: 0,0:04:53.00,0:04:56.06,Default,,0,0,0,,but now his hand is back to the start.
+Dialogue: 0,0:05:36.12,0:05:39.03,Default,,0,0,0,,He's in Tenpai.
+Dialogue: 0,0:05:45.52,0:05:48.35,Default,,0,0,0,,Now if only the game flow would come.これだけ流れが来ているってことは
+Dialogue: 0,0:05:48.35,0:05:50.35,Default,,0,0,0,,enough now
+Dialogue: 0,0:05:50.35,0:05:53.40,Default,,0,0,0,,so that Akagi could lose?赤木が割を食っているってことか
+Dialogue: 0,0:06:02.03,0:06:06.66,Default,,0,0,0,,Without doubt the game flow has moved from Akagi to Ten.
+Dialogue: 0,0:06:07.46,0:06:13.26,Default,,0,0,0,,No. This hand can't shut out forever an opponent of this level with this hand.いや、この程度のことで完全に抑え込めるやつじゃない
+Dialogue: 0,0:06:13.26,0:06:16.60,Default,,0,0,0,,Another one, two turns is probably the limit.あと一、二順が限界だろう
+Dialogue: 0,0:06:20.72,0:06:23.73,Default,,0,0,0,,The 3 Pin?
+Dialogue: 0,0:06:23.73,0:06:27.63,Default,,0,0,0,,If he's discarding only safe tiles he should choose the 6Man.
+Dialogue: 0,0:06:28.56,0:06:32.09,Default,,0,0,0,,But he won't do that after coming so far.
+Dialogue: 0,0:06:33.10,0:06:36.20,Default,,0,0,0,,What will you discard, Ten?
+Dialogue: 0,0:06:37.20,0:06:40.57,Default,,0,0,0,,This character discarded a 6 Pin before
+Dialogue: 0,0:06:40.57,0:06:42.57,Default,,0,0,0,,despite it being a dangerous tile
+Dialogue: 0,0:06:42.57,0:06:45.72,Default,,0,0,0,,and he wasn't nervous at all.
+Dialogue: 0,0:06:45.72,0:06:50.32,Default,,0,0,0,,That is to say he theorized it was safe.
+Dialogue: 0,0:06:50.32,0:06:53.46,Default,,0,0,0,,That's a... WALL.
+Dialogue: 0,0:06:50.32,0:06:55.86,default - cyan,,0,0,0,,{\pos(407.847,85.882)}Wall: (壁 Kabe) A defensive strategy based on the unavailability of certain tiles.
+Dialogue: 0,0:06:53.46,0:06:55.46,Default,,0,0,0,,A 3/6 Pin wall.
+Dialogue: 0,0:06:56.20,0:07:03.46,Default,,0,0,0,,That is, this guy knows the location of at least 3 of the 4 Pin or 5 Pin tiles.
+Dialogue: 0,0:07:03.46,0:07:06.26,Default,,0,0,0,,There's one 4 Pin out.
+Dialogue: 0,0:07:06.26,0:07:08.26,Default,,0,0,0,,And I've got one.
+Dialogue: 0,0:07:08.26,0:07:13.55,Default,,0,0,0,,This guy has either 2 4Pin or 3 5Pin tiles in his hand.
+Dialogue: 0,0:07:13.55,0:07:16.32,Default,,0,0,0,,And the bastard's wait is...
+Dialogue: 0,0:07:16.32,0:07:19.72,Default,,0,0,0,,It's likely with two 4 Pin tiles he'll aim for an Ipeikou.
+Dialogue: 0,0:07:19.72,0:07:24.43,Default,,0,0,0,,If he gets a 4Pin he'd be waiting for a 3Pin.
+Dialogue: 0,0:07:35.83,0:07:38.93,Default,,0,0,0,,Pon.
+Dialogue: 0,0:07:44.43,0:07:47.46,Default,,0,0,0,,Ron.
+Dialogue: 0,0:07:47.46,0:07:49.89,Default,,0,0,0,,Tanyao. 4 Dora.
+Dialogue: 0,0:07:47.46,0:07:51.92,default - cyan,,0,0,0,,{\pos(410.708,48.973)}Tanyao: Hand composed number tiles 2-8.
+Dialogue: 0,0:07:49.89,0:07:52.57,Default,,0,0,0,,8,000 points.
+Dialogue: 0,0:07:52.57,0:07:56.09,Default,,0,0,0,,3 7Mans, hun?
+Dialogue: 0,0:07:56.09,0:08:01.20,Default,,0,0,0,,You catch on well.\NA fine read.
+Dialogue: 0,0:08:01.20,0:08:04.15,Default,,0,0,0,,Good discards.\NDiscards that show intention.
+Dialogue: 0,0:08:04.15,0:08:07.40,Default,,0,0,0,,The consecutive Red Dragon discards, and discarding the dora.
+Dialogue: 0,0:08:07.40,0:08:11.77,Default,,0,0,0,,With this are you going to close the 9,500 point gap in the final round?
+Dialogue: 0,0:08:11.77,0:08:13.60,Default,,0,0,0,,Well then...
+Dialogue: 0,0:08:13.60,0:08:15.60,Default,,0,0,0,,You've got some fighting spirit, don't you.少し気合を入れるか
+Dialogue: 0,0:08:16.30,0:08:19.26,Default,,0,0,0,,If I play sluggishly I'll be dead.チンタラ打ってると殺されちまう
+Dialogue: 0,0:08:19.26,0:08:24.32,Default,,0,0,0,,It seems like the wind is changing.どうにも風向きが変わりかけているようだ
+Dialogue: 0,0:08:29.12,0:08:33.15,Default,,0,0,0,,As I suspected.\NAkagi's next draw was a 7Man!
+Dialogue: 0,0:08:33.15,0:08:37.35,Default,,0,0,0,,One way or another he would have won on his next draw.
+Dialogue: 0,0:08:43.76,0:08:45.76,Default,,0,0,0,,South-West Last Round
+Dialogue: 0,0:08:51.57,0:08:56.00,Default,,0,0,0,,The points still stand at Akagi: 37,000 and Ten 27,500 .
+Dialogue: 0,0:08:56.00,0:08:59.00,Default,,0,0,0,,Point difference: 9,500.
+Dialogue: 0,0:09:02.89,0:09:04.97,Default,,0,0,0,,His starting hand is bad
+Dialogue: 0,0:09:04.97,0:09:07.63,Default,,0,0,0,,but for Ten to pull off an upset
+Dialogue: 0,0:09:07.63,0:09:10.95,Default,,0,0,0,,Ten must get at least 5,200 points this hand.
+Dialogue: 0,0:09:16.63,0:09:19.40,Default,,0,0,0,,Pon.
+Dialogue: 0,0:09:19.40,0:09:23.46,Default,,0,0,0,,This is Tough. There's no reason they're winning so quickly. 早上がりされては意味がない
+Dialogue: 0,0:09:36.35,0:09:40.23,Default,,0,0,0,,That was dangerous.\N Thankfully it passed.
+Dialogue: 0,0:09:43.80,0:09:46.53,Default,,0,0,0,,Pon.
+Dialogue: 0,0:09:54.49,0:09:57.46,Default,,0,0,0,,This is another dangerous tile.
+Dialogue: 0,0:09:59.72,0:10:03.92,Default,,0,0,0,,Wait a sec.\NAkagi, on purpose...
+Dialogue: 0,0:10:03.92,0:10:05.92,Default,,0,0,0,,I see.
+Dialogue: 0,0:10:05.92,0:10:09.89,Default,,0,0,0,,If the other guys win, Ten can't take the top spot.
+Dialogue: 0,0:10:09.89,0:10:11.89,Default,,0,0,0,,Akagi will throw this hand.
+Dialogue: 0,0:10:11.89,0:10:14.55,Default,,0,0,0,,Will he deal into one of their hands?
+Dialogue: 0,0:10:14.55,0:10:17.15,Default,,0,0,0,,This guy's aiming for a White Dragon ToiToi
+Dialogue: 0,0:10:17.15,0:10:20.09,Default,,0,0,0,,If he wins that's 5,200 points.
+Dialogue: 0,0:10:20.09,0:10:22.09,Default,,0,0,0,,But, what about the dora?
+Dialogue: 0,0:10:22.80,0:10:25.66,Default,,0,0,0,,
+Dialogue: 0,0:10:25.66,0:10:28.89,Default,,0,0,0,,
+Dialogue: 0,0:10:30.46,0:10:33.20,Default,,0,0,0,,There's one dora in the discards.
+Dialogue: 0,0:10:33.20,0:10:35.20,Default,,0,0,0,,Oh.
+Dialogue: 0,0:10:35.90,0:10:39.37,Default,,0,0,0,,Akagi's holding the remaining 3 dora tiles.
+Dialogue: 0,0:10:42.95,0:10:45.20,Default,,0,0,0,,And now, in this hand今この局面で、
+Dialogue: 0,0:10:45.20,0:10:48.52,Default,,0,0,0,,I have zero need to be fixated on winning. 上がりにこだわる必要は0だ
+Dialogue: 0,0:10:48.52,0:10:50.52,Default,,0,0,0,,If I can't do it...自分が行けない時は
+Dialogue: 0,0:10:50.52,0:10:53.72,Default,,0,0,0,,I'll give it to someone else.他人に行ってもらうまでよ
+Dialogue: 0,0:10:58.92,0:11:01.83,Default,,0,0,0,,As I expected.
+Dialogue: 0,0:11:01.83,0:11:05.95,Default,,0,0,0,,Oh no.\NIf Akagi deals into that guy's hand, it's over.
+Dialogue: 0,0:11:36.66,0:11:39.43,Default,,0,0,0,,Ron.
+Dialogue: 0,0:11:39.43,0:11:42.43,Default,,0,0,0,,White dragon ToiToi.\N5,200 points.
+Dialogue: 0,0:11:42.43,0:11:45.75,Default,,0,0,0,,Fuck.\NThis is what Akagi was aiming for.
+Dialogue: 0,0:11:47.40,0:11:50.69,Default,,0,0,0,,I've won this East-South match.
+Dialogue: 0,0:11:51.63,0:11:55.20,Default,,0,0,0,,And.. how is that?
+Dialogue: 0,0:11:55.20,0:11:57.20,Default,,0,0,0,,What?
+Dialogue: 0,0:11:57.20,0:12:01.17,Default,,0,0,0,,I ALSO on that discard...
+Dialogue: 0,0:12:01.17,0:12:03.17,Default,,0,0,0,,RON THE FUCK OUT OF YOU
+Dialogue: 0,0:12:08.69,0:12:11.30,Default,,0,0,0,,Pinhu, Ipeikou.\N2,000 points.
+Dialogue: 0,0:12:12.70,0:12:14.70,Default,,0,0,0,,2,000?
+Dialogue: 0,0:12:14.70,0:12:17.40,Default,,0,0,0,,B-but that isn't an upset.
+Dialogue: 0,0:12:17.40,0:12:20.89,Default,,0,0,0,,No. Look at the points.持ち点
+Dialogue: 0,0:12:24.75,0:12:27.17,Default,,0,0,0,,Shanyu? (Playoff round)
+Dialogue: 0,0:12:24.75,0:12:30.88,default - cyan,,0,0,0,,{\pos(420.319,85.63)}shānyū: (西入, entering the West). An extended West round when no player can exceed 30,000 points.
+Dialogue: 0,0:12:27.17,0:12:31.00,Default,,0,0,0,,Certainly top rated Akagi dealt 5,200 points into that guy's hand.
+Dialogue: 0,0:12:31.00,0:12:35.12,Default,,0,0,0,,and with Ten winning 2,000 points, he's at 29,500.
+Dialogue: 0,0:12:35.12,0:12:38.89,Default,,0,0,0,,No one as reached 30,000 points.
+Dialogue: 0,0:12:38.89,0:12:42.20,Default,,0,0,0,,I'd expect as much from a  Kantō ringer.さすがは関東一の代打ち
+Dialogue: 0,0:12:38.89,0:12:45.03,default - cyan,,0,0,0,,{\pos(421.203,49.333)}Kantō: The greater Tokyo area in western Japane.
+Dialogue: 0,0:12:42.20,0:12:44.20,Default,,0,0,0,,Well judged.
+Dialogue: 0,0:12:44.86,0:12:46.86,Default,,0,0,0,,Oi.
+Dialogue: 0,0:12:51.35,0:12:55.77,Default,,0,0,0,,If my points in this extended round come beneath Ten
+Dialogue: 0,0:12:56.93,0:13:00.12,Default,,0,0,0,,I'll forfeit from the match.
+Dialogue: 0,0:13:00.12,0:13:02.12,Default,,0,0,0,,W-what are you saying?
+Dialogue: 0,0:13:02.12,0:13:04.40,Default,,0,0,0,,
+Dialogue: 0,0:13:04.40,0:13:05.83,Default,,0,0,0,,
+Dialogue: 0,0:13:05.83,0:13:08.80,Default,,0,0,0,,You don't understand at all.何にもわかっちゃいねぇな
+Dialogue: 0,0:13:08.80,0:13:12.26,Default,,0,0,0,,That which we're giving... and taking...
+Dialogue: 0,0:13:12.26,0:13:16.23,Default,,0,0,0,,it isn't POINTS.
+Dialogue: 0,0:13:16.72,0:13:19.23,Default,,0,0,0,,It's PRIDE.
+Dialogue: 0,0:14:52.60,0:14:54.60,Default,,0,0,0,,West Round 1
+Dialogue: 0,0:14:57.03,0:15:00.03,Default,,0,0,0,,Tsumo.
+Dialogue: 0,0:15:02.00,0:15:04.00,Default,,0,0,0,,2,000 points from everyone.
+Dialogue: 0,0:15:04.86,0:15:07.26,Default,,0,0,0,,Fuck yes!
+Dialogue: 0,0:15:08.00,0:15:10.00,Default,,0,0,0,,At that last moment double-ron...
+Dialogue: 0,0:15:10.00,0:15:12.00,Default,,0,0,0,,The game flow changed.
+Dialogue: 0,0:15:12.00,0:15:14.00,Default,,0,0,0,,West Round 1\NFirst Honba.
+Dialogue: 0,0:15:14.00,0:15:16.00,Default,,0,0,0,,Kan.
+Dialogue: 0,0:15:17.50,0:15:19.50,Default,,0,0,0,,WHOOP THERE IT IS
+Dialogue: 0,0:15:21.26,0:15:23.26,Default,,0,0,0,,4,100 points from everyone.
+Dialogue: 0,0:15:27.33,0:15:29.33,Default,,0,0,0,,West round 3.
+Dialogue: 0,0:15:31.89,0:15:33.13,Default,,0,0,0,,Riichi.
+Dialogue: 0,0:15:33.13,0:15:35.13,Default,,0,0,0,,Ron.
+Dialogue: 0,0:15:35.76,0:15:37.76,Default,,0,0,0,,8,000 points.
+Dialogue: 0,0:15:41.30,0:15:43.30,Default,,0,0,0,,West Round 4\NFinal hand.
+Dialogue: 0,0:15:47.06,0:15:51.43,Default,,0,0,0,,All things considered, Ten should come top this round.
+Dialogue: 0,0:15:51.43,0:15:54.06,Default,,0,0,0,,If Akagi can't win with a Yakuman hand,
+Dialogue: 0,0:15:54.06,0:15:56.06,Default,,0,0,0,,He can't pull of an upset.
+Dialogue: 0,0:15:56.06,0:15:59.26,Default,,0,0,0,,In the worst case Ten can play safe discards.
+Dialogue: 0,0:15:59.26,0:16:01.26,Default,,0,0,0,,I can just glimpse victory.
+Dialogue: 0,0:16:07.66,0:16:11.52,Default,,0,0,0,,From the first the possibility of DaiSanGen disappeared.
+Dialogue: 0,0:16:13.75,0:16:16.66,Default,,0,0,0,,Pon.
+Dialogue: 0,0:16:21.06,0:16:24.69,Default,,0,0,0,,And with that the chance of Kokusi Musou is gone too.
+Dialogue: 0,0:16:32.89,0:16:35.36,Default,,0,0,0,,Kan.
+Dialogue: 0,0:16:35.36,0:16:41.37,Default,,0,0,0,,Now shousuushii, daisuushii, and tsuuiisou are gone.
+Dialogue: 0,0:16:50.63,0:16:53.40,Default,,0,0,0,,Pon.
+Dialogue: 0,0:16:53.40,0:16:56.86,Default,,0,0,0,,And now even ryuuiisou is gone.
+Dialogue: 0,0:17:09.86,0:17:12.60,Default,,0,0,0,,Kan.
+Dialogue: 0,0:17:14.97,0:17:18.17,Default,,0,0,0,,With that nearly every chance at a Yakuman hand is gone.
+Dialogue: 0,0:17:18.17,0:17:21.06,Default,,0,0,0,,Things are going ideally.
+Dialogue: 0,0:17:38.03,0:17:43.32,Default,,0,0,0,,No...\NThere's one avenue remaining.
+Dialogue: 0,0:18:11.69,0:18:14.63,Default,,0,0,0,,Riichi.
+Dialogue: 0,0:18:14.63,0:18:18.95,Default,,0,0,0,,If he's going to pull an upset, It can be nothing else.
+Dialogue: 0,0:18:21.76,0:18:23.76,Default,,0,0,0,,Without doubt
+Dialogue: 0,0:18:23.76,0:18:27.97,Default,,0,0,0,,Akagi has a single wait SuuAnKou.
+Dialogue: 0,0:18:30.33,0:18:33.26,Default,,0,0,0,,But... what is he waiting on?
+Dialogue: 0,0:18:40.46,0:18:44.40,Default,,0,0,0,,Drawing an East Wind right after Akagi declares Riichi
+Dialogue: 0,0:18:44.40,0:18:54.32,Default,,0,0,0,,It's tough to discard it considering the game flow, but the number tiles near Ten's hidden triplet are also difficult to discard...
+Dialogue: 0,0:19:36.63,0:19:38.66,Default,,0,0,0,,We're saved.
+Dialogue: 0,0:19:38.66,0:19:41.20,Default,,0,0,0,,Ten has all four in his hand.
+Dialogue: 0,0:19:41.20,0:19:45.12,Default,,0,0,0,,It's 100% certainly not Akagi's hidden-triple single wait tile.
+Dialogue: 0,0:19:45.12,0:19:48.80,Default,,0,0,0,,Ten has all but won.
+Dialogue: 0,0:20:04.72,0:20:07.73,Default,,0,0,0,,So. The 4Man, hunh?
+Dialogue: 0,0:20:31.35,0:20:33.95,Default,,0,0,0,,B-but that's not a SuuAnKou.
+Dialogue: 0,0:20:33.95,0:20:38.20,Default,,0,0,0,,Then you haven't overtaken Ten's points!
+Dialogue: 0,0:20:38.20,0:20:40.20,Default,,0,0,0,,No.
+Dialogue: 0,0:20:40.20,0:20:42.20,Default,,0,0,0,,Ahh...
+Dialogue: 0,0:20:42.20,0:20:45.37,Default,,0,0,0,,My hidden triplets are over THERE.
+Dialogue: 0,0:22:19.63,0:22:21.86,Default,,0,0,0,,Ahhh...
+Dialogue: 0,0:22:21.86,0:22:25.52,Default,,0,0,0,,My hidden triplets are over THERE.
+Dialogue: 0,0:22:37.26,0:22:40.57,Default,,0,0,0,,First, 3 Ura-dora.\NA Haneman hand.
+Dialogue: 0,0:22:46.97,0:22:51.97,Default,,0,0,0,,and with this it's 6 Ura-Dora.\NA Baiman hand.
+Dialogue: 0,0:22:51.97,0:22:53.97,Default,,0,0,0,,t-that can't be.
+Dialogue: 0,0:22:53.97,0:22:57.06,Default,,0,0,0,,Can he pull an upset?
+Dialogue: 0,0:22:57.06,0:23:00.35,Default,,0,0,0,,If he turns over the same tile again, he'll have 9 Dora
+Dialogue: 0,0:23:00.35,0:23:03.95,Default,,0,0,0,,An indesputable MATHEMATICAL Yakuman.
+Dialogue: 0,0:23:51.35,0:23:54.63,Default,,0,0,0,,Akagi, where are you going?
+Dialogue: 0,0:23:54.63,0:23:56.40,Default,,0,0,0,,I said it.
+Dialogue: 0,0:23:56.40,0:24:01.00,Default,,0,0,0,,If I placed lower than Ten in this Round
+Dialogue: 0,0:24:01.00,0:24:03.00,Default,,0,0,0,,I said I'd forfeit the match.
+Dialogue: 0,0:24:03.00,0:24:05.00,Default,,0,0,0,,Y-ou can't
+Dialogue: 0,0:24:07.97,0:24:11.32,Default,,0,0,0,,Thank you for your efforts.
+Dialogue: 0,0:24:14.09,0:24:16.83,Default,,0,0,0,,Poop di scoop!\NWE WON.
+Dialogue: 0,0:24:17.50,0:24:20.69,Default,,0,0,0,,And now we celebrate!
+Dialogue: 0,0:24:23.55,0:24:26.23,Default,,0,0,0,,Ten!
+Dialogue: 0,0:24:26.80,0:24:30.37,Default,,0,0,0,,I haven't had such a hot blooded match こんなに血が滾ったのは
+Dialogue: 0,0:24:30.37,0:24:32.37,Default,,0,0,0,,for a long, long time.
+Dialogue: 0,0:24:36.09,0:24:38.93,Default,,0,0,0,,It's because of youお前のせいで
+Dialogue: 0,0:24:38.93,0:24:42.32,Default,,0,0,0,,that I wanted to come back.またこっちに戻りたくなっちまったよ
+Dialogue: 0,0:24:47.57,0:24:50.70,Default,,0,0,0,,S-saved.
+Dialogue: 0,0:24:50.70,0:24:52.70,Default,,0,0,0,,No, but
+Dialogue: 0,0:24:52.70,0:24:54.70,Default,,0,0,0,,Seriously, 3 Ura-Dora?
+Dialogue: 0,0:24:54.70,0:24:56.70,Default,,0,0,0,,There's literally no chance.
+Dialogue: 0,0:24:56.70,0:24:58.70,Default,,0,0,0,,You're wrong.
+Dialogue: 0,0:24:58.70,0:25:02.49,Default,,0,0,0,,When Akagi got up to leaveやつが立ち去る時
+Dialogue: 0,0:25:02.49,0:25:05.75,Default,,0,0,0,,You didn't hear him, did you?聞こえなかったか
+Dialogue: 0,0:25:06.40,0:25:09.57,Default,,0,0,0,,It went as he expected.当たり前みたいにいった
+Dialogue: 0,0:25:09.57,0:25:11.57,Default,,0,0,0,,It's the next tile over.隣だと
+Dialogue: 0,0:25:13.92,0:25:16.80,Default,,0,0,0,,The next tile?
+Dialogue: 0,0:25:32.83,0:25:35.70,Default,,0,0,0,,The Akagi in his prime全盛期の赤木なら
+Dialogue: 0,0:25:35.70,0:25:39.77,Default,,0,0,0,,Would have turned over all 3.ここで3枚のせていたんだ
+Dialogue: 0,0:25:44.12,0:25:46.52,Default,,0,0,0,,This was Akagi Shigeru's
+Dialogue: 0,0:25:46.52,0:25:49.69,Default,,0,0,0,,SuuAnkKou "Hell" wait.
+Dialogue: 0,0:25:50.43,0:25:54.63,Default,,0,0,0,,Mere chance gave me the win.偶然勝たせて貰ったのは
+Dialogue: 0,0:25:55.40,0:25:58.66,Default,,0,0,0,,I don't know. It just might have been him.こちらかもしれない
+Dialogue: 0,0:26:04.17,0:26:09.52,Default,,0,0,0,,Ten. Thanks for everything.\NYou saved me.
+Dialogue: 0,0:26:09.52,0:26:13.46,Default,,0,0,0,,Please let me return the favor somehow.
+Dialogue: 0,0:26:14.46,0:26:16.46,Default,,0,0,0,,Hiroyuki.
+Dialogue: 0,0:26:17.60,0:26:22.40,Default,,0,0,0,,Stop this ringer business already.
+Dialogue: 0,0:26:22.40,0:26:24.40,Default,,0,0,0,,Wha?
+Dialogue: 0,0:26:24.40,0:26:28.23,Default,,0,0,0,,There's no problem with your Mahjong ability.お前は雀力という点では問題ない
+Dialogue: 0,0:26:28.23,0:26:30.23,Default,,0,0,0,,If you play a little longerもう少し打てば
+Dialogue: 0,0:26:30.23,0:26:32.83,Default,,0,0,0,,If you lose your natural innocence自然と甘さが消えて
+Dialogue: 0,0:26:32.83,0:26:36.69,Default,,0,0,0,,I dunno, you just might be able to survive in this world この世界でも凌いで行けるようになるかもしれない
+Dialogue: 0,0:26:36.69,0:26:38.69,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:26:38.69,0:26:40.69,Default,,0,0,0,,just stop.だが、辞めろ
+Dialogue: 0,0:26:44.12,0:26:47.43,Default,,0,0,0,,"Demons haunt the crossroads"巷に悪鬼浮遊せり
+Dialogue: 0,0:26:47.43,0:26:50.32,Default,,0,0,0,,"Demons gather at the bones."悪鬼は骨にあつまる
+Dialogue: 0,0:26:50.32,0:26:54.29,Default,,0,0,0,,The bones are the tiles.骨とは麻雀牌のことだ
+Dialogue: 0,0:26:55.03,0:26:57.63,Default,,0,0,0,,In this underworld...
+Dialogue: 0,0:26:57.63,0:27:01.49,Default,,0,0,0,,there are any number of evil, powerful, brilliant characters...悪くて強くてすごい奴らが
+Dialogue: 0,0:27:01.49,0:27:05.35,Default,,0,0,0,,They gather because of the tiles.麻雀牌の元に集まる
+Dialogue: 0,0:27:08.46,0:27:11.43,Default,,0,0,0,,The world you ought to be in
+Dialogue: 0,0:27:11.43,0:27:13.43,Default,,0,0,0,,it ain't this one.
+Dialogue: 0,0:27:16.63,0:27:19.15,Default,,0,0,0,,I entered this miserable place一度ここに入ってしまった以上
+Dialogue: 0,0:27:19.15,0:27:21.15,Default,,0,0,0,,and for me it's too late. I can't go back.
+Dialogue: 0,0:27:22.43,0:27:26.43,Default,,0,0,0,,I have no choice but to live in this world.
+Dialogue: 0,0:27:27.80,0:27:29.26,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:27:29.26,0:27:32.83,Default,,0,0,0,,you can still turn back.
+Dialogue: 0,0:27:36.20,0:27:38.76,Default,,0,0,0,,Later.
+Dialogue: 0,0:27:49.66,0:27:52.72,Default,,0,0,0,,Illegal Mahjong
+Dialogue: 0,0:27:52.72,0:27:55.57,Default,,0,0,0,,This battle is
+Dialogue: 0,0:27:55.57,0:27:57.40,Default,,0,0,0,,
+Dialogue: 0,0:27:57.40,0:27:59.72,Default,,0,0,0,,
