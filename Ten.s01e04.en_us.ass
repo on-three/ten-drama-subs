@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 215
-Active Line: 223
-Video Position: 46865
+Video Zoom Percent: 0.250000
+Scroll Position: 15
+Active Line: 29
+Video Position: 6023
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,7 +53,14 @@ Dialogue: 0,0:01:16.86,0:01:19.36,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:01:25.97,0:01:28.86,Default,,0,0,0,,Pon.
 Dialogue: 0,0:02:13.55,0:02:16.46,Default,,0,0,0,,The opposite of 100% is 0%.
 Dialogue: 0,0:02:16.46,0:02:19.92,Default,,0,0,0,,your uncanny luck will be mine.
-Dialogue: 0,0:02:21.90,0:02:28.03,default - cyan,,0,0,0,,{\pos(892.001,105.334)}#/tv/shows subs presents:
+Dialogue: 0,0:02:21.90,0:02:28.03,default - cyan,,0,0,0,,{\pos(892.001,105.334)}#/tv/shows sub par subs presents
+Dialogue: 0,0:02:33.48,0:02:35.48,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
+Dialogue: 0,0:02:42.35,0:02:44.35,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
+Dialogue: 0,0:02:50.75,0:02:52.75,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
+Dialogue: 0,0:03:17.30,0:03:20.80,Default,,0,0,0,,{\pos(944,125)}#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:03:20.80,0:03:24.31,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
+Dialogue: 0,0:03:24.31,0:03:26.31,Default,,0,0,0,,{\pos(962.667,657)}Ten: Tenho-doori no Kaidanji\N(Ten: Nice guy on the path of Tenho)
+Dialogue: 0,0:03:24.31,0:03:26.31,Default - white,,0,0,0,,{\pos(968,915.667)}Episode 4
 Dialogue: 0,0:03:29.46,0:03:32.20,Default,,0,0,0,,Kan.
 Dialogue: 0,0:03:39.37,0:03:44.43,Default,,0,0,0,,With that Pon call and the new draw order, the game flow instantly changed.
 Dialogue: 0,0:04:27.43,0:04:29.92,Default,,0,0,0,,Again the 7 Man
@@ -64,10 +71,10 @@ Dialogue: 0,0:04:40.20,0:04:43.77,Default,,0,0,0,,If I do that...
 Dialogue: 0,0:04:50.72,0:04:53.00,Default,,0,0,0,,He's got to discard from his hidden triplet...
 Dialogue: 0,0:04:53.00,0:04:56.06,Default,,0,0,0,,but now his hand is back to the start.
 Dialogue: 0,0:05:36.12,0:05:39.03,Default,,0,0,0,,He's in Tenpai.
-Dialogue: 0,0:05:45.52,0:05:48.35,Default,,0,0,0,,Now if only the game flow would come.これだけ流れが来ているってことは
-Dialogue: 0,0:05:48.35,0:05:50.35,Default,,0,0,0,,enough now
-Dialogue: 0,0:05:50.35,0:05:53.40,Default,,0,0,0,,so that Akagi could lose?赤木が割を食っているってことか
-Dialogue: 0,0:06:02.03,0:06:06.66,Default,,0,0,0,,Without doubt the game flow has moved from Akagi to Ten.
+Dialogue: 0,0:05:45.52,0:05:48.35,Default,,0,0,0,,Now if only the game flow would come.
+Dialogue: 0,0:05:48.35,0:05:50.35,Default,,0,0,0,,With that
+Dialogue: 0,0:05:50.35,0:05:53.40,Default,,0,0,0,,could it be Akagi could lose?
+Dialogue: 0,0:06:02.03,0:06:06.66,Default,,0,0,0,,Without doubt the Akagi's game flow has moved to Ten.
 Dialogue: 0,0:06:07.46,0:06:13.26,Default,,0,0,0,,No. This hand can't shut out forever an opponent of this level.
 Dialogue: 0,0:06:13.26,0:06:16.60,Default,,0,0,0,,Another one, two turns maybe, but that's probably the limit.
 Dialogue: 0,0:06:20.72,0:06:23.73,Default,,0,0,0,,The 3 Pin?
@@ -124,8 +131,9 @@ Dialogue: 0,0:10:14.55,0:10:17.15,Default,,0,0,0,,This guy's aiming for a White 
 Dialogue: 0,0:10:14.55,0:10:19.64,default - cyan,,0,0,0,,{\pos(965.333,121)}ToiToi: Hand composed of all triplets.
 Dialogue: 0,0:10:17.15,0:10:20.09,Default,,0,0,0,,If he wins that's 5,200 points.
 Dialogue: 0,0:10:20.09,0:10:22.09,Default,,0,0,0,,But, what to do about the dora?
-Dialogue: 0,0:10:22.80,0:10:25.66,Default,,0,0,0,,
-Dialogue: 0,0:10:25.66,0:10:28.89,Default,,0,0,0,,
+Dialogue: 0,0:10:22.80,0:10:25.66,Default,,0,0,0,,If it's somewhat related to the dora, it could change the hand.
+Dialogue: 0,0:10:25.66,0:10:28.89,Default,,0,0,0,,There's even the chance of a Makura pair.
+Dialogue: 0,0:10:25.66,0:10:31.60,default - cyan,,0,0,0,,{\pos(936,190.333)}Makura: (枕) Antique term for the single pair in a completed hand.
 Dialogue: 0,0:10:30.46,0:10:33.20,Default,,0,0,0,,There's one dora in the discards.
 Dialogue: 0,0:10:33.20,0:10:35.20,Default,,0,0,0,,Oh.
 Dialogue: 0,0:10:35.90,0:10:39.37,Default,,0,0,0,,Akagi's holding the remaining 3 dora tiles.
@@ -146,13 +154,13 @@ Dialogue: 0,0:12:01.17,0:12:03.17,Default,,0,0,0,,RON THE FUCK OUT OF YOU
 Dialogue: 0,0:12:08.69,0:12:11.30,Default,,0,0,0,,Pinhu, Ipeikou.\N2,000 points.
 Dialogue: 0,0:12:12.70,0:12:14.70,Default,,0,0,0,,2,000?
 Dialogue: 0,0:12:14.70,0:12:17.40,Default,,0,0,0,,B-but that isn't an upset.
-Dialogue: 0,0:12:17.40,0:12:20.89,Default,,0,0,0,,No. Look at the points.持ち点
+Dialogue: 0,0:12:17.40,0:12:20.89,Default,,0,0,0,,No. But look at the points.
 Dialogue: 0,0:12:24.75,0:12:27.17,Default,,0,0,0,,Shanyu? (Playoff round)
 Dialogue: 0,0:12:24.75,0:12:30.88,default - cyan,,0,0,0,,{\pos(951.666,192.667)}shānyū: (西入, entering the West). An extended West round when no player can exceed 30,000 points.
 Dialogue: 0,0:12:27.17,0:12:31.00,Default,,0,0,0,,Certainly top rated Akagi dealt 5,200 points into that guy's hand.
 Dialogue: 0,0:12:31.00,0:12:35.12,Default,,0,0,0,,and with Ten winning 2,000 points, he's at 29,500.
 Dialogue: 0,0:12:35.12,0:12:38.89,Default,,0,0,0,,No one as reached 30,000 points.
-Dialogue: 0,0:12:38.89,0:12:42.20,Default,,0,0,0,,I'd expect as much from a  Kantō ringer.さすがは関東一の代打ち
+Dialogue: 0,0:12:38.89,0:12:42.20,Default,,0,0,0,,I'd expect as much from a  Kantō ringer.
 Dialogue: 0,0:12:38.89,0:12:45.03,default - cyan,,0,0,0,,{\pos(953.667,110.999)}Kantō: The greater Tokyo area in western Japane.
 Dialogue: 0,0:12:42.20,0:12:44.20,Default,,0,0,0,,Well judged.
 Dialogue: 0,0:12:44.86,0:12:46.86,Default,,0,0,0,,Oi.
@@ -160,8 +168,8 @@ Dialogue: 0,0:12:51.35,0:12:55.77,Default,,0,0,0,,If my points in this extended 
 Dialogue: 0,0:12:56.93,0:13:00.12,Default,,0,0,0,,I'll forfeit from the match.
 Dialogue: 0,0:13:00.12,0:13:02.12,Default,,0,0,0,,W-what are you saying?
 Dialogue: 0,0:13:02.12,0:13:04.40,Default,,0,0,0,,
-Dialogue: 0,0:13:04.40,0:13:05.83,Default,,0,0,0,,
-Dialogue: 0,0:13:05.83,0:13:08.80,Default,,0,0,0,,You don't understand at all.何にもわかっちゃいねぇな
+Dialogue: 0,0:13:04.40,0:13:05.83,Default,,0,0,0,,He's trying to bait you.
+Dialogue: 0,0:13:05.83,0:13:08.80,Default,,0,0,0,,You don't understand at all.
 Dialogue: 0,0:13:08.80,0:13:12.26,Default,,0,0,0,,That which we're giving... and taking...
 Dialogue: 0,0:13:12.26,0:13:16.23,Default,,0,0,0,,it isn't POINTS.
 Dialogue: 0,0:13:16.72,0:13:19.23,Default,,0,0,0,,It's PRIDE.
@@ -251,7 +259,7 @@ Dialogue: 0,0:25:35.70,0:25:39.77,Default,,0,0,0,,Would have turned over all 3.
 Dialogue: 0,0:25:44.12,0:25:46.52,Default,,0,0,0,,This was Akagi Shigeru's
 Dialogue: 0,0:25:46.52,0:25:49.69,Default,,0,0,0,,SuuAnkKou "Hell" wait.
 Dialogue: 0,0:25:50.43,0:25:54.63,Default,,0,0,0,,Mere chance gave me the win.
-Dialogue: 0,0:25:55.40,0:25:58.66,Default,,0,0,0,,I don't know. It could just as well have been him.
+Dialogue: 0,0:25:55.40,0:25:58.66,Default,,0,0,0,,It could just as well have been him, maybe.
 Dialogue: 0,0:26:04.17,0:26:09.52,Default,,0,0,0,,Ten. Thanks for everything.\NYou saved me.
 Dialogue: 0,0:26:09.52,0:26:13.46,Default,,0,0,0,,Please let me return the favor somehow.
 Dialogue: 0,0:26:14.46,0:26:16.46,Default,,0,0,0,,Hiroyuki.
