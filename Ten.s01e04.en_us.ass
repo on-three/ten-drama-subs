@@ -16,9 +16,8 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 6
-Active Line: 26
-Video Position: 4440
+Active Line: 260
+Video Position: 50391
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,6 +27,7 @@ Style: Default - white,Open Sans Semibold,81,&H00FFFFFF,&H000000FF,&H00020713,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.98,Default,,0,0,0,,Why did you save me?
 Dialogue: 0,0:00:02.00,0:00:03.77,Default,,0,0,0,,I thought I'd teach you something
 Dialogue: 0,0:00:03.77,0:00:06.43,Default,,0,0,0,,about those bastards in the world of "ringers".
 Dialogue: 0,0:00:06.43,0:00:08.12,Default,,0,0,0,,Akagi Shigeru!
@@ -147,7 +147,7 @@ Dialogue: 0,0:11:01.83,0:11:05.95,Default,,0,0,0,,Oh no.\NIf Akagi deals into th
 Dialogue: 0,0:11:36.66,0:11:39.43,Default,,0,0,0,,Ron.
 Dialogue: 0,0:11:39.43,0:11:42.43,Default,,0,0,0,,White dragon ToiToi.\N5,200 points.
 Dialogue: 0,0:11:42.43,0:11:45.75,Default,,0,0,0,,Fuck.\NThis is what Akagi was aiming for.
-Dialogue: 0,0:11:47.40,0:11:50.69,Default,,0,0,0,,I've won this East-South match.
+Dialogue: 0,0:11:47.40,0:11:50.69,Default,,0,0,0,,I've won this East-South round.
 Dialogue: 0,0:11:51.63,0:11:55.20,Default,,0,0,0,,And.. how is that?
 Dialogue: 0,0:11:55.20,0:11:57.20,Default,,0,0,0,,What?
 Dialogue: 0,0:11:57.20,0:12:01.17,Default,,0,0,0,,I ALSO on that discard...
@@ -168,8 +168,8 @@ Dialogue: 0,0:12:44.86,0:12:46.86,Default,,0,0,0,,Oi.
 Dialogue: 0,0:12:51.35,0:12:55.77,Default,,0,0,0,,If my points in this extended round come beneath Ten
 Dialogue: 0,0:12:56.93,0:13:00.12,Default,,0,0,0,,I'll forfeit from the match.
 Dialogue: 0,0:13:00.12,0:13:02.12,Default,,0,0,0,,W-what are you saying?
-Dialogue: 0,0:13:02.12,0:13:04.40,Default,,0,0,0,,
-Dialogue: 0,0:13:04.40,0:13:05.83,Default,,0,0,0,,He's trying to bait you.
+Dialogue: 0,0:13:02.12,0:13:04.40,Default,,0,0,0,,At best you'll be helping him.
+Dialogue: 0,0:13:04.40,0:13:05.83,Default,,0,0,0,,He's baiting you.
 Dialogue: 0,0:13:05.83,0:13:08.80,Default,,0,0,0,,You don't understand at all.
 Dialogue: 0,0:13:08.80,0:13:12.26,Default,,0,0,0,,That which we're giving... and taking...
 Dialogue: 0,0:13:12.26,0:13:16.23,Default,,0,0,0,,it isn't POINTS.
@@ -286,7 +286,7 @@ Dialogue: 0,0:27:22.43,0:27:26.43,Default,,0,0,0,,I have no choice but to live i
 Dialogue: 0,0:27:27.80,0:27:29.26,Default,,0,0,0,,HOWEVER
 Dialogue: 0,0:27:29.26,0:27:32.83,Default,,0,0,0,,you can still turn back.
 Dialogue: 0,0:27:36.20,0:27:38.76,Default,,0,0,0,,Later.
-Dialogue: 0,0:27:49.66,0:27:52.72,Default,,0,0,0,,Illegal Mahjong
+Dialogue: 0,0:27:49.66,0:27:52.72,Default,,0,0,0,,Underground Mahjong
 Dialogue: 0,0:27:52.72,0:27:55.57,Default,,0,0,0,,This battle is
 Dialogue: 0,0:27:55.57,0:27:57.40,Default,,0,0,0,,
-Dialogue: 0,0:27:57.40,0:27:59.72,Default,,0,0,0,,
+Dialogue: 0,0:27:57.40,0:27:59.72,Default,,0,0,0,,An unthinkable way to end it.
