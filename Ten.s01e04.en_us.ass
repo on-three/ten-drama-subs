@@ -16,8 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 260
-Video Position: 50391
+Scroll Position: 243
+Active Line: 259
+Video Position: 50321
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,7 +106,7 @@ Dialogue: 0,0:07:52.57,0:07:56.09,Default,,0,0,0,,3 7Mans, hun?
 Dialogue: 0,0:07:56.09,0:08:01.20,Default,,0,0,0,,You catch on well.\NA fine read.
 Dialogue: 0,0:08:01.20,0:08:04.15,Default,,0,0,0,,Good discards.\NDiscards that show intention.
 Dialogue: 0,0:08:04.15,0:08:07.40,Default,,0,0,0,,The consecutive Red Dragon discards, and discarding the dora.
-Dialogue: 0,0:08:07.40,0:08:11.77,Default,,0,0,0,,With this are you going to close the 9,500 point gap in the final round?
+Dialogue: 0,0:08:07.40,0:08:11.77,Default,,0,0,0,,With this are you going to close the 9,500 point gap in the final hand?
 Dialogue: 0,0:08:11.77,0:08:13.60,Default,,0,0,0,,Well then...
 Dialogue: 0,0:08:13.60,0:08:15.60,Default,,0,0,0,,You've got some fighting spirit, don't you.
 Dialogue: 0,0:08:16.30,0:08:19.26,Default,,0,0,0,,If I play sluggishly I'll be dead.
@@ -286,7 +287,7 @@ Dialogue: 0,0:27:22.43,0:27:26.43,Default,,0,0,0,,I have no choice but to live i
 Dialogue: 0,0:27:27.80,0:27:29.26,Default,,0,0,0,,HOWEVER
 Dialogue: 0,0:27:29.26,0:27:32.83,Default,,0,0,0,,you can still turn back.
 Dialogue: 0,0:27:36.20,0:27:38.76,Default,,0,0,0,,Later.
-Dialogue: 0,0:27:49.66,0:27:52.72,Default,,0,0,0,,Underground Mahjong
-Dialogue: 0,0:27:52.72,0:27:55.57,Default,,0,0,0,,This battle is
+Dialogue: 0,0:27:49.66,0:27:52.72,Default,,0,0,0,,Underground Mahjong...
+Dialogue: 0,0:27:52.72,0:27:55.57,Default,,0,0,0,,This battle is...
 Dialogue: 0,0:27:55.57,0:27:57.40,Default,,0,0,0,,
 Dialogue: 0,0:27:57.40,0:27:59.72,Default,,0,0,0,,An unthinkable way to end it.
