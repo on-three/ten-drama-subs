@@ -18,7 +18,7 @@ echo .ass input : ${ASS}
 echo .mkv output: ${MKV}
 
 VERSION_FILE=version.txt
-VERSION=$(cat ${VERSION_FILE})
+VERSION=$(cat ${VERSION_FILE})-$(git rev-parse --short HEAD)
 echo tagging mkv with version ${VERSION}
 
 # tools
