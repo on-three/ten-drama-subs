@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 131
-Active Line: 190
-Video Position: 23554
+Scroll Position: 261
+Active Line: 291
+Video Position: 49609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -236,3 +236,88 @@ Dialogue: 0,0:16:39.65,0:16:43.90,Default,,0,0,0,,
 Dialogue: 0,0:16:43.90,0:16:45.90,Default,,0,0,0,,
 Dialogue: 0,0:16:45.90,0:16:47.90,Default,,0,0,0,,おもろい！
 Dialogue: 0,0:16:49.85,0:16:51.85,Default,,0,0,0,,受けたるわ
+Dialogue: 0,0:17:22.95,0:17:25.58,Default - white,,0,0,0,,{\pos(968,889)}East Round 1
+Dialogue: 0,0:18:12.80,0:18:14.70,Default,,0,0,0,,リーチ
+Dialogue: 0,0:18:14.70,0:18:17.90,Default,,0,0,0,,早い\N3巡目で
+Dialogue: 0,0:18:17.90,0:18:21.20,Default,,0,0,0,,
+Dialogue: 0,0:18:39.18,0:18:41.60,Default,,0,0,0,,
+Dialogue: 0,0:18:44.45,0:18:49.10,Default,,0,0,0,,
+Dialogue: 0,0:18:57.65,0:19:04.05,Default,,0,0,0,,
+Dialogue: 0,0:19:06.01,0:19:10.35,Default,,0,0,0,,
+Dialogue: 0,0:19:10.35,0:19:14.40,Default,,0,0,0,,
+Dialogue: 0,0:19:15.18,0:19:17.90,Default,,0,0,0,,
+Dialogue: 0,0:19:17.90,0:19:21.55,Default,,0,0,0,,
+Dialogue: 0,0:19:22.65,0:19:28.00,Default,,0,0,0,,
+Dialogue: 0,0:19:29.65,0:19:31.40,Default,,0,0,0,,
+Dialogue: 0,0:19:31.40,0:19:34.75,Default,,0,0,0,,
+Dialogue: 0,0:19:34.75,0:19:37.05,Default,,0,0,0,,
+Dialogue: 0,0:19:37.05,0:19:40.10,Default,,0,0,0,,
+Dialogue: 0,0:19:40.10,0:19:45.15,Default,,0,0,0,,
+Dialogue: 0,0:19:58.15,0:20:02.05,Default,,0,0,0,,
+Dialogue: 0,0:20:02.05,0:20:04.70,Default,,0,0,0,,
+Dialogue: 0,0:20:11.65,0:20:14.51,Default,,0,0,0,,
+Dialogue: 0,0:20:18.78,0:20:22.65,Default,,0,0,0,,
+Dialogue: 0,0:20:23.71,0:20:25.71,Default,,0,0,0,,
+Dialogue: 0,0:20:25.71,0:20:28.70,Default,,0,0,0,,
+Dialogue: 0,0:20:28.70,0:20:30.95,Default,,0,0,0,,
+Dialogue: 0,0:20:30.95,0:20:34.60,Default,,0,0,0,,
+Dialogue: 0,0:20:34.60,0:20:36.60,Default,,0,0,0,,凡
+Dialogue: 0,0:22:20.81,0:22:25.40,Default - white,,0,0,0,,{\pos(944,881)}East Round 3.
+Dialogue: 0,0:22:28.00,0:22:30.65,Default,,0,0,0,,Ah.
+Dialogue: 0,0:22:30.65,0:22:32.65,Default,,0,0,0,,s-sorry.
+Dialogue: 0,0:22:45.15,0:22:49.25,Default,,0,0,0,,
+Dialogue: 0,0:22:49.25,0:22:53.15,Default,,0,0,0,,凡ミス
+Dialogue: 0,0:24:02.75,0:24:05.78,Default,,0,0,0,,一筒でっか？
+Dialogue: 0,0:24:09.71,0:24:11.71,Default,,0,0,0,,ロン
+Dialogue: 0,0:24:16.85,0:24:18.85,Default,,0,0,0,,四暗刻や
+Dialogue: 0,0:24:24.85,0:24:27.80,Default,,0,0,0,,少牌では無くなっている
+Dialogue: 0,0:24:31.01,0:24:33.01,Default,,0,0,0,,とんでもないことしやがった
+Dialogue: 0,0:24:36.55,0:24:41.00,Default,,0,0,0,,
+Dialogue: 0,0:24:41.00,0:24:45.80,Default,,0,0,0,,
+Dialogue: 0,0:24:46.71,0:24:48.71,Default,,0,0,0,,
+Dialogue: 0,0:24:48.71,0:24:52.70,Default,,0,0,0,,
+Dialogue: 0,0:24:52.70,0:24:57.10,Default,,0,0,0,,
+Dialogue: 0,0:24:57.10,0:25:01.50,Default,,0,0,0,,
+Dialogue: 0,0:25:01.50,0:25:05.10,Default,,0,0,0,,
+Dialogue: 0,0:25:05.10,0:25:09.95,Default,,0,0,0,,
+Dialogue: 0,0:25:09.95,0:25:14.35,Default,,0,0,0,,
+Dialogue: 0,0:25:14.35,0:25:17.85,Default,,0,0,0,,
+Dialogue: 0,0:25:17.85,0:25:21.90,Default,,0,0,0,,
+Dialogue: 0,0:25:21.90,0:25:25.80,Default,,0,0,0,,
+Dialogue: 0,0:25:25.80,0:25:29.35,Default,,0,0,0,,
+Dialogue: 0,0:25:29.35,0:25:34.40,Default,,0,0,0,,
+Dialogue: 0,0:25:34.40,0:25:37.70,Default,,0,0,0,,
+Dialogue: 0,0:25:37.70,0:25:40.55,Default,,0,0,0,,
+Dialogue: 0,0:25:40.55,0:25:42.55,Default,,0,0,0,,
+Dialogue: 0,0:25:42.55,0:25:46.15,Default,,0,0,0,,
+Dialogue: 0,0:25:46.15,0:25:48.15,Default,,0,0,0,,
+Dialogue: 0,0:25:48.15,0:25:51.00,Default,,0,0,0,,あんまり舐めんなや
+Dialogue: 0,0:25:51.00,0:25:56.00,Default,,0,0,0,,
+Dialogue: 0,0:25:56.00,0:26:01.20,Default,,0,0,0,,
+Dialogue: 0,0:26:01.20,0:26:03.20,Default,,0,0,0,,
+Dialogue: 0,0:26:03.20,0:26:05.20,Default,,0,0,0,,
+Dialogue: 0,0:26:05.20,0:26:08.60,Default,,0,0,0,,
+Dialogue: 0,0:26:08.60,0:26:10.25,Default,,0,0,0,,
+Dialogue: 0,0:26:10.25,0:26:13.40,Default,,0,0,0,,喧嘩を売られたんは俺や
+Dialogue: 0,0:26:13.40,0:26:15.40,Default,,0,0,0,,俺が決着つけたる
+Dialogue: 0,0:26:20.85,0:26:23.35,Default,,0,0,0,,
+Dialogue: 0,0:26:23.35,0:26:27.65,Default,,0,0,0,,
+Dialogue: 0,0:26:33.00,0:26:36.70,Default,,0,0,0,,
+Dialogue: 0,0:26:36.70,0:26:39.75,Default,,0,0,0,,
+Dialogue: 0,0:26:39.75,0:26:42.40,Default,,0,0,0,,
+Dialogue: 0,0:26:42.40,0:26:44.40,Default,,0,0,0,,
+Dialogue: 0,0:26:45.71,0:26:49.75,Default,,0,0,0,,
+Dialogue: 0,0:26:49.75,0:26:53.05,Default,,0,0,0,,
+Dialogue: 0,0:26:53.05,0:26:56.70,Default,,0,0,0,,
+Dialogue: 0,0:26:59.45,0:27:02.01,Default,,0,0,0,,知っているか。
+Dialogue: 0,0:27:02.01,0:27:05.45,Default,,0,0,0,,人はハジキ（銃）で撃たれて死ぬ時
+Dialogue: 0,0:27:05.45,0:27:07.45,Default,,0,0,0,,呆気なく死んでいく。
+Dialogue: 0,0:27:07.45,0:27:09.45,Default,,0,0,0,,
+Dialogue: 0,0:27:09.45,0:27:13.38,Default,,0,0,0,,刃物っちゅうのは苦しんで死んでいくんや
+Dialogue: 0,0:27:13.38,0:27:15.38,Default,,0,0,0,,
+Dialogue: 0,0:27:14.41,0:27:17.45,Default,,0,0,0,,この麻雀は命の取り合いや。
+Dialogue: 0,0:27:17.45,0:27:21.95,Default,,0,0,0,,イカサマした確信があればまず相手の命をとる。
+Dialogue: 0,0:27:21.95,0:27:23.95,Default,,0,0,0,,それからゆっくり
+Dialogue: 0,0:27:23.95,0:27:25.95,Default,,0,0,0,,身体検査や
+Dialogue: 0,0:27:25.95,0:27:27.95,Default,,0,0,0,,
+Dialogue: 0,0:27:30.90,0:27:33.95,Default,,0,0,0,,もう遅い
