@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 252
-Active Line: 265
-Video Position: 46955
+Scroll Position: 267
+Active Line: 296
+Video Position: 50295
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -321,3 +321,10 @@ Dialogue: 0,0:27:21.95,0:27:23.95,Default,,0,0,0,,{\pos(964,117)}それからゆ
 Dialogue: 0,0:27:23.95,0:27:25.95,Default,,0,0,0,,{\pos(936,117)}身体検査や
 Dialogue: 0,0:27:25.95,0:27:27.95,Default,,0,0,0,,{\pos(952,105)}辞めてくれ！
 Dialogue: 0,0:27:30.90,0:27:33.95,Default,,0,0,0,,{\pos(968,121)}もう遅い。
+Dialogue: 0,0:27:33.95,0:27:35.95,Default,,0,0,0,,{\pos(1008,129)}はははは
+Dialogue: 0,0:27:49.75,0:27:52.95,Default,,0,0,0,,この男平然と人殺る
+Dialogue: 0,0:27:52.95,0:27:54.95,Default,,0,0,0,,アカギさん！
+Dialogue: 0,0:27:53.81,0:27:55.81,default - cyan,,0,0,0,,混じてくれ
+Dialogue: 0,0:27:54.51,0:27:56.51,Default,,0,0,0,,二人認めて言わす
+Dialogue: 0,0:27:56.08,0:27:58.08,default - cyan,,0,0,0,,小太刀で殺す
+Dialogue: 0,0:27:57.25,0:28:00.05,Default,,0,0,0,,追いつまれたのはひろゆき。終わる
