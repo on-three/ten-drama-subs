@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 57
-Active Line: 74
-Video Position: 9197
+Scroll Position: 231
+Active Line: 247
+Video Position: 41077
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -232,7 +232,7 @@ Dialogue: 0,0:15:47.78,0:15:52.25,Default,,0,0,0,,And our proposed additional ru
 Dialogue: 0,0:15:52.25,0:15:54.25,Default,,0,0,0,,Mangan-Shibari
 Dialogue: 0,0:15:52.25,0:16:00.85,default - cyan,,0,0,0,,{\pos(972,205)}Mangan-Shibari (満貫縛り): A rule restricting winning hands to Mangan or higher. No "trivial" wins.
 Dialogue: 0,0:15:54.25,0:15:58.70,Default,,0,0,0,,Wins less than Mangan are just useless.
-Dialogue: 0,0:15:58.70,0:16:00.70,Default,,0,0,0,,And there is penalty for not achieving Tenpai
+Dialogue: 0,0:15:58.70,0:16:00.70,Default,,0,0,0,,And there is no penalty for not achieving Tenpai
 Dialogue: 0,0:16:02.65,0:16:04.20,Default,,0,0,0,,Agreed
 Dialogue: 0,0:16:04.20,0:16:06.20,Default,,0,0,0,,And yours?
 Dialogue: 0,0:16:13.68,0:16:16.70,Default,,0,0,0,,How about a rule elminating accumulated wins
@@ -275,8 +275,8 @@ Dialogue: 0,0:20:30.95,0:20:34.60,Default,,0,0,0,,to fall for a hackneyed trap l
 Dialogue: 0,0:20:34.60,0:20:36.60,Default,,0,0,0,,we should talk.
 Dialogue: 0,0:22:20.81,0:22:25.40,Default - white,,0,0,0,,{\pos(952,885)}East Round 3
 Dialogue: 0,0:22:28.00,0:22:30.65,Default,,0,0,0,,ah...
-Dialogue: 0,0:22:30.65,0:22:32.65,Default,,0,0,0,,s-orry
-Dialogue: 0,0:22:45.15,0:22:49.25,Default,,0,0,0,,H-he's missing a tile! He's only got 12!
+Dialogue: 0,0:22:30.65,0:22:32.65,Default,,0,0,0,,s-sorry
+Dialogue: 0,0:22:45.15,0:22:49.25,Default,,0,0,0,,H-he's missing a tile!\NHe's only got 12!
 Dialogue: 0,0:22:49.25,0:22:53.15,Default,,0,0,0,,He's in Shohai. What an incompetent mistake.
 Dialogue: 0,0:22:49.25,0:22:57.85,default - cyan,,0,0,0,,{\pos(948,113)}Shohai(少牌): Having too few tiles
 Dialogue: 0,0:24:02.75,0:24:05.78,Default,,0,0,0,,'zat a one Pin?
