@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 231
-Active Line: 247
-Video Position: 41077
+Scroll Position: 285
+Active Line: 297
+Video Position: 49015
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -284,7 +284,7 @@ Dialogue: 0,0:24:09.71,0:24:11.71,Default,,0,0,0,,RON
 Dialogue: 0,0:24:16.85,0:24:18.85,Default,,0,0,0,,SuuAnKou (4 concealed triplets)
 Dialogue: 0,0:24:24.85,0:24:27.80,Default,,0,0,0,,He's no longer in Shohai!
 Dialogue: 0,0:24:31.01,0:24:33.01,Default,,0,0,0,,H-he's done the UNTHINKABLE
-Dialogue: 0,0:24:36.55,0:24:41.00,Default,,0,0,0,,Among the rules, that known as Shohai is a peculiarly odd situation.
+Dialogue: 0,0:24:36.55,0:24:41.00,Default,,0,0,0,,Among the rules of Mahjong, that one known as Shohai is a peculiarly odd.
 Dialogue: 0,0:24:41.00,0:24:45.80,Default,,0,0,0,,While it's clearly a foul, you can't stop the game for it. Only disregard a win.
 Dialogue: 0,0:24:46.71,0:24:48.71,Default,,0,0,0,,And that's my advantage
 Dialogue: 0,0:24:48.71,0:24:52.70,Default,,0,0,0,,When I'm in Shohai, no one pays me any attention
@@ -326,7 +326,7 @@ Dialogue: 0,0:26:59.45,0:27:02.01,Default,,0,0,0,,{\pos(968,109)}Do you know...
 Dialogue: 0,0:27:02.01,0:27:05.45,Default,,0,0,0,,{\pos(952,121)}When someone dies from a gunshot wound
 Dialogue: 0,0:27:05.45,0:27:07.45,Default,,0,0,0,,{\pos(984,117)}they die senseless, in shock.
 Dialogue: 0,0:27:07.45,0:27:09.45,Default,,0,0,0,,{\pos(956,117)}HOWEVER
-Dialogue: 0,0:27:09.45,0:27:13.38,Default,,0,0,0,,{\pos(944,137)}But death by stabbing is a LOT more painful
+Dialogue: 0,0:27:09.45,0:27:13.38,Default,,0,0,0,,{\pos(944,137)}death by stabbing is a LOT more painful
 Dialogue: 0,0:27:13.38,0:27:15.38,default - cyan,,0,0,0,,{\pos(948,217)}w-what are you saying？
 Dialogue: 0,0:27:14.41,0:27:17.45,Default,,0,0,0,,{\pos(964,117)}This Mahjong is a scramble over life and death!
 Dialogue: 0,0:27:17.45,0:27:21.95,Default,,0,0,0,,{\pos(980,133)}If I confirm my opponent is cheating I take his life!
