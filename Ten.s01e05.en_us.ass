@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 282
-Active Line: 299
-Video Position: 50295
+Scroll Position: 57
+Active Line: 74
+Video Position: 9197
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -96,6 +96,17 @@ Dialogue: 0,0:03:49.60,0:03:53.80,Default,,0,0,0,,The man who dealt the invincib
 Dialogue: 0,0:03:53.80,0:04:00.40,Default,,0,0,0,,who with the strength of countless wins has repeatedly made the impossible possible
 Dialogue: 0,0:04:00.40,0:04:02.40,Default,,0,0,0,,the head of the East team
 Dialogue: 0,0:04:02.40,0:04:06.30,Default,,0,0,0,,Ten Takashi
+Dialogue: 0,0:04:10.01,0:04:15.10,default - cyan,,0,0,0,,{\pos(946.666,185)}#/tv/shows linux ricing and online swimming lessons community presents:
+Dialogue: 0,0:04:20.81,0:04:22.61,Default - red,,0,0,0,,{\pos(309.334,939.666)}Goro Takeshi
+Dialogue: 0,0:04:20.81,0:04:22.61,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
+Dialogue: 0,0:04:29.48,0:04:31.28,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
+Dialogue: 0,0:04:29.48,0:04:31.28,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
+Dialogue: 0,0:04:38.15,0:04:39.95,Default - red,,0,0,0,,{\pos(437.333,1057)}Yoshida Eisaku
+Dialogue: 0,0:04:38.15,0:04:39.95,Default - white,,0,0,0,,{\pos(744,758.333)}Akagi Shigeru
+Dialogue: 0,0:05:01.00,0:05:06.60,Default,,0,0,0,,{\pos(946.667,123.667)}#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:05:06.60,0:05:12.08,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
+Dialogue: 0,0:05:12.08,0:05:14.38,Default,,0,0,0,,{\pos(962.667,649)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
+Dialogue: 0,0:05:12.08,0:05:14.38,Default - white,,0,0,0,,{\pos(973.333,907.667)}Episode 5
 Dialogue: 0,0:05:22.65,0:05:25.25,Default,,0,0,0,,What round it it?
 Dialogue: 0,0:05:25.25,0:05:28.55,Default,,0,0,0,,South round 4, last hand
 Dialogue: 0,0:05:28.55,0:05:33.25,Default,,0,0,0,,The guy from Tokyo is in 3rd
@@ -137,7 +148,7 @@ Dialogue: 0,0:08:16.30,0:08:20.65,Default,,0,0,0,,that guy could SENSE there was
 Dialogue: 0,0:08:21.95,0:08:25.75,Default,,0,0,0,,You thought the Eastern head was pure trash,
 Dialogue: 0,0:08:27.71,0:08:30.80,Default,,0,0,0,,it don't look like that at all
 Dialogue: 0,0:08:42.10,0:08:45.20,Default,,0,0,0,,You're late
-Dialogue: 0,0:08:45.20,0:08:48.00,Default,,0,0,0,,he 3rd member of the East team
+Dialogue: 0,0:08:45.20,0:08:48.00,Default,,0,0,0,,The 3rd member of the East team
 Dialogue: 0,0:08:48.00,0:08:51.00,Default,,0,0,0,,{\pos(918.667,122.333)}Asai "Ganpai" Ginji
 Dialogue: 0,0:08:50.78,0:08:56.68,Default - white,,0,0,0,,{\pos(584,841)}Ganpai: (lit. "wounded tile") is the cheat of marking tiles
 Dialogue: 0,0:08:51.75,0:08:54.08,Default,,0,0,0,,{\pos(964,109)}A most valued artisan
@@ -145,14 +156,14 @@ Dialogue: 0,0:08:54.08,0:08:57.40,Default,,0,0,0,,{\pos(958.667,197)}through whi
 Dialogue: 0,0:08:57.40,0:09:00.70,Default,,0,0,0,,He's a master of the tiles with the skill near that of a contortionist.
 Dialogue: 0,0:09:00.70,0:09:04.95,Default,,0,0,0,,So what happened? We still need one man for the East team?
 Dialogue: 0,0:09:04.95,0:09:06.75,Default,,0,0,0,,It's no good
-Dialogue: 0,0:09:06.75,0:09:10.65,Default,,0,0,0,,A notiable Ringer took the cash and simply vanished
+Dialogue: 0,0:09:06.75,0:09:10.65,Default,,0,0,0,,A notable ringer took the cash and simply vanished
 Dialogue: 0,0:09:10.65,0:09:12.65,Default,,0,0,0,,burns me the fuck up
 Dialogue: 0,0:09:12.65,0:09:16.50,Default,,0,0,0,,Without doubt this contest is gonna be tough to win.
 Dialogue: 0,0:09:16.50,0:09:18.50,Default,,0,0,0,,And Akagi?
-Dialogue: 0,0:09:18.50,0:09:20.50,Default,,0,0,0,,At any rate I looked for him, but couldn't get him.
+Dialogue: 0,0:09:18.50,0:09:20.50,Default,,0,0,0,,I looked, but couldn't get him.
 Dialogue: 0,0:09:20.50,0:09:23.45,Default,,0,0,0,,I see
 Dialogue: 0,0:09:23.45,0:09:25.45,Default,,0,0,0,,Breh
-Dialogue: 0,0:09:25.45,0:09:28.15,Default,,0,0,0,,How 'bout {\i1\b1}him{\i0\b0}?
+Dialogue: 0,0:09:25.45,0:09:28.15,Default,,0,0,0,,How about {\i1\b1}him{\i0\b0}?
 Dialogue: 0,0:09:28.91,0:09:31.55,Default,,0,0,0,,no
 Dialogue: 0,0:09:32.25,0:09:34.25,Default,,0,0,0,,He's no good for the East team
 Dialogue: 0,0:09:34.25,0:09:36.25,Default,,0,0,0,,why?
@@ -162,20 +173,19 @@ Dialogue: 0,0:09:44.38,0:09:49.00,Default,,0,0,0,,Is no place for a normie like 
 Dialogue: 0,0:09:49.75,0:09:52.70,Default,,0,0,0,,But at least he's got the game
 Dialogue: 0,0:09:52.70,0:09:54.70,Default,,0,0,0,,and some spirit
 Dialogue: 0,0:09:58.61,0:10:00.61,Default,,0,0,0,,just try me
-Dialogue: 0,0:10:00.61,0:10:03.95,Default,,0,0,0,,for as far as you can use me.
-Dialogue: 0,0:10:03.95,0:10:07.20,Default,,0,0,0,,The two long years I've been restless
+Dialogue: 0,0:10:00.61,0:10:03.95,Default,,0,0,0,,for as far as you can use me
+Dialogue: 0,0:10:03.95,0:10:07.20,Default,,0,0,0,,For two long years I've been restless
 Dialogue: 0,0:10:07.20,0:10:09.00,Default,,0,0,0,,I've been waiting for this moment!
-Dialogue: 0,0:10:09.00,0:10:11.00,Default,,0,0,0,,an therefore
+Dialogue: 0,0:10:09.00,0:10:11.00,Default,,0,0,0,,and so
 Dialogue: 0,0:10:09.10,0:10:11.30,default - cyan,,0,0,0,,NO
 Dialogue: 0,0:10:11.30,0:10:13.30,Default,,0,0,0,,Fight your battles in the normie world.
 Dialogue: 0,0:10:13.30,0:10:17.15,Default,,0,0,0,,It... suits you.
 Dialogue: 0,0:10:22.80,0:10:26.00,Default,,0,0,0,,Kid, how old are you?
 Dialogue: 0,0:10:26.00,0:10:28.00,Default,,0,0,0,,27
-Dialogue: 0,0:10:29.95,0:10:31.95,Default,,0,0,0,,Rash, brash
+Dialogue: 0,0:10:29.95,0:10:31.95,Default,,0,0,0,,Rash, brash,
 Dialogue: 0,0:10:31.95,0:10:33.95,Default,,0,0,0,,reckless
 Dialogue: 0,0:10:33.95,0:10:35.95,Default,,0,0,0,,He's got a good look bout him, doesn't he.
-Dialogue: 0,0:10:35.95,0:10:37.95,Default,,0,0,0,,He looks just like YOU did long ago,
-Dialogue: 0,0:10:37.95,0:10:39.95,Default,,0,0,0,,Ten
+Dialogue: 0,0:10:35.95,0:10:41.10,Default,,0,0,0,,He looks just like you did, Ten. Long ago.
 Dialogue: 0,0:10:46.10,0:10:49.78,Default,,0,0,0,,Our opponents won't be expecting a greenhorn like this.
 Dialogue: 0,0:10:49.78,0:10:53.65,Default,,0,0,0,,He might just be our... trump card.
 Dialogue: 0,0:10:57.15,0:11:00.21,Default,,0,0,0,,Please
