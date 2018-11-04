@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 249
-Active Line: 261
-Video Position: 50181
+Scroll Position: 246
+Active Line: 263
+Video Position: 50267
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,7 @@ Dialogue: 0,0:01:16.86,0:01:19.36,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:01:25.97,0:01:28.86,Default,,0,0,0,,Pon.
 Dialogue: 0,0:02:13.55,0:02:16.46,Default,,0,0,0,,The opposite of 100% luck is 0% luck.
 Dialogue: 0,0:02:16.46,0:02:19.92,Default,,0,0,0,,your uncanny luck will be mine.
-Dialogue: 0,0:02:21.90,0:02:28.03,default - cyan,,0,0,0,,{\pos(892.001,105.334)}#/tv/shows Wikifeet™ janitors and Danny V's 52nd Street Band appretiation society PRESENTS:
+Dialogue: 0,0:02:21.90,0:02:28.03,default - cyan,,0,0,0,,{\pos(945.334,198.667)}#/tv/shows Wikifeet™ janitors and Danny V's 52nd Street Band appretiation society PRESENTS:
 Dialogue: 0,0:02:21.90,0:02:28.03,Default - white,,0,0,0,,{\pos(1672.001,1049.334)}**version**
 Dialogue: 0,0:02:33.48,0:02:35.48,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:02:42.35,0:02:44.35,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
@@ -289,7 +289,7 @@ Dialogue: 0,0:27:22.43,0:27:26.43,Default,,0,0,0,,{\pos(954.667,811.667)}I have 
 Dialogue: 0,0:27:27.80,0:27:29.26,Default,,0,0,0,,{\pos(954.667,809)}HOWEVER
 Dialogue: 0,0:27:29.26,0:27:32.83,Default,,0,0,0,,{\pos(957.333,809)}you can still turn back.
 Dialogue: 0,0:27:36.20,0:27:38.76,Default,,0,0,0,,{\pos(957.333,907.667)}Later.
-Dialogue: 0,0:27:49.66,0:27:52.72,Default,,0,0,0,,An underground Mahjong national competition.
-Dialogue: 0,0:27:52.72,0:27:55.57,Default,,0,0,0,,This battle isn't for everyday, normal people.カタギ
-Dialogue: 0,0:27:55.57,0:27:57.40,Default,,0,0,0,,This Mahjong is a struggle for life itself!
+Dialogue: 0,0:27:49.66,0:27:52.72,Default,,0,0,0,,An underground Mahjong East/West competition.
+Dialogue: 0,0:27:52.72,0:27:55.57,Default,,0,0,0,,This battle isn't the place for a normie like you.
+Dialogue: 0,0:27:55.57,0:27:57.40,Default,,0,0,0,,This Mahjong is a scramble over life and death!
 Dialogue: 0,0:27:57.40,0:27:59.72,Default,,0,0,0,,He's done the UNTHINKABLE.
