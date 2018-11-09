@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 67
-Active Line: 87
-Video Position: 12527
+Scroll Position: 150
+Active Line: 180
+Video Position: 34582
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,9 +154,59 @@ Dialogue: 0,0:11:43.60,0:11:45.80,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:11:45.80,0:11:47.80,Default,,0,0,0,,Chiniisou
 Dialogue: 0,0:11:47.80,0:11:49.80,Default,,0,0,0,,Mangan
 Dialogue: 0,0:11:55.05,0:12:00.71,Default,,0,0,0,,
-Dialogue: 0,0:11:56.15,0:11:59.55,Default,,0,0,0,,
+Dialogue: 0,0:11:56.15,0:11:59.55,Default,,0,0,0,,At the Mahjong Tag Team Match for 2 and a half hours
 Dialogue: 0,0:11:59.55,0:12:03.15,Default,,0,0,0,,As I thought, Hiroyuki is the first one they'd try to corner
 Dialogue: 0,0:12:03.15,0:12:05.65,Default,,0,0,0,,He's only got 7,000 points left
 Dialogue: 0,0:12:05.65,0:12:08.20,Default,,0,0,0,,If he deals into a Mangan or greater hand
 Dialogue: 0,0:12:08.20,0:12:10.20,Default,,0,0,0,,it's ogre
 Dialogue: 0,0:12:16.40,0:12:20.45,Default,,0,0,0,,
+Dialogue: 0,0:12:20.45,0:12:22.35,Default,,0,0,0,,
+Dialogue: 0,0:12:22.35,0:12:25.85,Default,,0,0,0,,
+Dialogue: 0,0:14:06.61,0:14:11.71,Default,,0,0,0,,
+Dialogue: 0,0:14:23.25,0:14:27.50,Default,,0,0,0,,The arch typical sign of a Kokusi Musou
+Dialogue: 0,0:14:58.20,0:15:00.95,Default,,0,0,0,,Riichi
+Dialogue: 0,0:15:03.70,0:15:07.25,Default,,0,0,0,,That riichi. Like intentionally throwing yourself off a cliff
+Dialogue: 0,0:15:09.21,0:15:11.00,Default,,0,0,0,,If he discards a White dragon
+Dialogue: 0,0:15:11.00,0:15:13.00,Default,,0,0,0,,I'll take it!
+Dialogue: 0,0:15:13.00,0:15:16.70,Default,,0,0,0,,
+Dialogue: 0,0:15:19.65,0:15:21.65,Default,,0,0,0,,Kan
+Dialogue: 0,0:15:30.90,0:15:32.75,Default,,0,0,0,,The fourth White Dragon?
+Dialogue: 0,0:15:32.75,0:15:35.20,Default,,0,0,0,,My Kokusi Musou win just vanished
+Dialogue: 0,0:15:53.05,0:15:56.55,Default,,0,0,0,,
+Dialogue: 0,0:16:08.35,0:16:11.08,Default,,0,0,0,,Ron
+Dialogue: 0,0:16:14.85,0:16:18.18,Default,,0,0,0,,Riichi. Gree Dragon. Three dora.
+Dialogue: 0,0:16:18.70,0:16:20.95,Default,,0,0,0,,A south wind wait?
+Dialogue: 0,0:16:20.95,0:16:24.75,Default,,0,0,0,,This guy knew to aim for my Kokusi Musou
+Dialogue: 0,0:16:24.75,0:16:28.65,Default,,0,0,0,,
+Dialogue: 0,0:16:28.65,0:16:30.80,Default,,0,0,0,,Inconceivable!
+Dialogue: 0,0:16:33.45,0:16:35.45,Default,,0,0,0,,Is he using Ganpai?
+Dialogue: 0,0:16:35.45,0:16:37.30,Default,,0,0,0,,
+Dialogue: 0,0:16:37.30,0:16:40.15,Default,,0,0,0,,
+Dialogue: 0,0:16:40.15,0:16:42.05,Default,,0,0,0,,
+Dialogue: 0,0:16:42.05,0:16:44.55,Default,,0,0,0,,
+Dialogue: 0,0:16:44.55,0:16:46.85,Default,,0,0,0,,
+Dialogue: 0,0:16:46.85,0:16:50.30,Default,,0,0,0,,
+Dialogue: 0,0:16:50.30,0:16:53.75,Default,,0,0,0,,
+Dialogue: 0,0:16:53.75,0:16:56.50,Default,,0,0,0,,
+Dialogue: 0,0:16:56.50,0:16:59.15,Default,,0,0,0,,
+Dialogue: 0,0:16:59.15,0:17:02.70,Default,,0,0,0,,
+Dialogue: 0,0:17:04.81,0:17:10.41,Default,,0,0,0,,
+Dialogue: 0,0:17:16.20,0:17:20.05,Default,,0,0,0,,One tile from a SuuAnKou tenpai?
+Dialogue: 0,0:17:34.95,0:17:37.85,Default,,0,0,0,,Ron
+Dialogue: 0,0:17:38.60,0:17:40.95,Default,,0,0,0,,chitoitsu
+Dialogue: 0,0:17:41.38,0:17:43.38,Default,,0,0,0,,a 1,600 point chitoitsu
+Dialogue: 0,0:17:43.38,0:17:48.10,Default,,0,0,0,,clearly he won simply to prevent me completing my SuAnKou
+Dialogue: 0,0:17:48.10,0:17:52.80,Default,,0,0,0,,
+Dialogue: 0,0:17:54.95,0:17:59.20,Default,,0,0,0,,
+Dialogue: 0,0:17:59.20,0:18:03.50,Default,,0,0,0,,
+Dialogue: 0,0:18:03.50,0:18:04.95,Default,,0,0,0,,
+Dialogue: 0,0:18:04.95,0:18:07.55,Default,,0,0,0,,
+Dialogue: 0,0:18:07.55,0:18:11.00,Default,,0,0,0,,
+Dialogue: 0,0:18:11.00,0:18:13.40,Default,,0,0,0,,
+Dialogue: 0,0:18:13.40,0:18:16.10,Default,,0,0,0,,
+Dialogue: 0,0:18:16.85,0:18:22.38,Default,,0,0,0,,
+Dialogue: 0,0:18:31.25,0:18:33.95,Default,,0,0,0,,Riichi
+Dialogue: 0,0:19:01.00,0:19:03.70,Default,,0,0,0,,
+Dialogue: 0,0:19:03.70,0:19:07.60,Default,,0,0,0,,
+Dialogue: 0,0:19:07.60,0:19:09.05,Default,,0,0,0,,
+Dialogue: 0,0:19:09.05,0:19:12.75,Default,,0,0,0,,
