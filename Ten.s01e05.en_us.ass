@@ -16,7 +16,7 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 207
+Scroll Position: 214
 Active Line: 221
 Video Position: 33035
 
@@ -235,14 +235,14 @@ Dialogue: 0,0:15:54.25,0:15:58.70,Default,,0,0,0,,Wins less than Mangan are just
 Dialogue: 0,0:15:58.70,0:16:00.70,Default,,0,0,0,,And there is no penalty for not achieving Tenpai
 Dialogue: 0,0:16:02.65,0:16:04.20,Default,,0,0,0,,Agreed
 Dialogue: 0,0:16:04.20,0:16:06.20,Default,,0,0,0,,And yours?
-Dialogue: 0,0:16:13.68,0:16:16.70,Default,,0,0,0,,How about a rule elminating accumulated wins
+Dialogue: 0,0:16:13.68,0:16:16.70,Default,,0,0,0,,How about a rule eliminating accumulated wins
 Dialogue: 0,0:16:16.70,0:16:18.70,Default,,0,0,0,,Hunh?
-Dialogue: 0,0:16:19.51,0:16:23.60,Default,,0,0,0,,Normally the winner carries his points with him
-Dialogue: 0,0:16:23.60,0:16:28.60,Default,,0,0,0,,but instead, the winner's total points
+Dialogue: 0,0:16:19.51,0:16:23.60,Default,,0,0,0,,Normally points go to the winner
+Dialogue: 0,0:16:23.60,0:16:28.60,Default,,0,0,0,,but now, the points of someone who wins a hand...
 Dialogue: 0,0:16:28.60,0:16:30.60,Default,,0,0,0,,would absolutely never increase.
 Dialogue: 0,0:16:31.35,0:16:33.05,Default,,0,0,0,,This rule
 Dialogue: 0,0:16:33.05,0:16:35.95,Default,,0,0,0,,ensures a single hit point reversal is always possible
-Dialogue: 0,0:16:35.95,0:16:39.65,Default,,0,0,0,,If points don't accumulate someone with no points can't recover
+Dialogue: 0,0:16:35.95,0:16:39.65,Default,,0,0,0,,If points don't increase someone with no points can't recover
 Dialogue: 0,0:16:39.65,0:16:43.90,Default,,0,0,0,,and if you deal into someone's hand, it instantly starts a countdown to death
 Dialogue: 0,0:16:43.90,0:16:45.90,Default,,0,0,0,,HA HA HA
 Dialogue: 0,0:16:45.90,0:16:47.90,Default,,0,0,0,,TOP LAFF
@@ -250,7 +250,7 @@ Dialogue: 0,0:16:49.85,0:16:51.85,Default,,0,0,0,,we accept
 Dialogue: 0,0:17:22.95,0:17:25.58,Default - white,,0,0,0,,{\pos(980,893)}East Round 1
 Dialogue: 0,0:18:12.80,0:18:14.70,Default,,0,0,0,,Riichi
 Dialogue: 0,0:18:14.70,0:18:17.90,Default,,0,0,0,,H-hayai\NOn only the 3rd turn.
-Dialogue: 0,0:18:17.90,0:18:21.20,Default,,0,0,0,,even with a Mangan-shibari!
+Dialogue: 0,0:18:17.90,0:18:21.20,Default,,0,0,0,,even with a Mangan-shibari?
 Dialogue: 0,0:18:39.18,0:18:41.60,Default,,0,0,0,,That was a risky discard
 Dialogue: 0,0:18:44.45,0:18:49.10,Default,,0,0,0,,Certainly, seeing Harada's discards, it makes me suspicious of Sou (bamboo) tiles
 Dialogue: 0,0:18:57.65,0:19:04.05,Default,,0,0,0,,therefore I guess other tiles are okay, but I don't know...
