@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 211
-Active Line: 241
-Video Position: 50413
+Scroll Position: 162
+Active Line: 167
+Video Position: 32183
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Dialogue: 0,0:00:39.75,0:00:41.70,Default,,0,0,0,,This hand
 Dialogue: 0,0:00:41.70,0:00:45.60,Default,,0,0,0,,
 Dialogue: 0,0:00:45.60,0:00:51.65,Default,,0,0,0,,
 Dialogue: 0,0:00:51.65,0:00:54.10,Default,,0,0,0,,stab away mane
-Dialogue: 0,0:00:54.10,0:00:57.80,Default,,0,0,0,,Really he's holding the tile in his left hand
+Dialogue: 0,0:00:54.10,0:00:57.80,Default,,0,0,0,,Really it's his LEFT hand which is holding the tile
 Dialogue: 0,0:01:00.20,0:01:05.90,Default,,0,0,0,,But Harada wouldn't let that cheat pass
 Dialogue: 0,0:01:12.25,0:01:15.10,Default,,0,0,0,,This man
 Dialogue: 0,0:01:15.10,0:01:18.35,Default,,0,0,0,,he kills without qualm
@@ -89,7 +89,7 @@ Dialogue: 0,0:05:02.18,0:05:04.18,Default,,0,0,0,,I'm a laughing stock人のこ�
 Dialogue: 0,0:05:06.15,0:05:08.15,Default,,0,0,0,,Hiroyuki
 Dialogue: 0,0:05:08.15,0:05:11.40,Default,,0,0,0,,Go lightlyあっさりいけ
 Dialogue: 0,0:05:11.40,0:05:13.40,Default,,0,0,0,,hunh?
-Dialogue: 0,0:05:13.40,0:05:17.65,Default,,0,0,0,,Right now you're probably thinking you should really try hardお前今頑張ろうと思っていたろ
+Dialogue: 0,0:05:13.40,0:05:17.65,Default,,0,0,0,,Right now you're probably thinking you should try extra hard hardお前今頑張ろうと思っていたろ
 Dialogue: 0,0:05:17.65,0:05:19.65,Default,,0,0,0,,but if you think that way you've already...その考えがすでに
 Dialogue: 0,0:05:19.65,0:05:21.65,Default,,0,0,0,,fallen into a trapハマっている
 Dialogue: 0,0:05:21.65,0:05:23.65,Default,,0,0,0,,caught by the west team's strategy.西側の戦略に
@@ -158,17 +158,17 @@ Dialogue: 0,0:11:56.15,0:11:59.55,Default,,0,0,0,,At the Mahjong Tag Team Match 
 Dialogue: 0,0:11:59.55,0:12:03.15,Default,,0,0,0,,As I thought, Hiroyuki is the first one they'd try to corner
 Dialogue: 0,0:12:03.15,0:12:05.65,Default,,0,0,0,,He's only got 7,000 points left
 Dialogue: 0,0:12:05.65,0:12:08.20,Default,,0,0,0,,If he deals into a Mangan or greater hand
-Dialogue: 0,0:12:08.20,0:12:10.20,Default,,0,0,0,,it's ogre
+Dialogue: 0,0:12:08.20,0:12:10.20,Default,,0,0,0,,it's OVER
 Dialogue: 0,0:12:16.40,0:12:20.45,Default,,0,0,0,,
 Dialogue: 0,0:12:20.45,0:12:22.35,Default,,0,0,0,,
 Dialogue: 0,0:12:22.35,0:12:25.85,Default,,0,0,0,,
 Dialogue: 0,0:14:06.61,0:14:11.71,Default,,0,0,0,,
-Dialogue: 0,0:14:23.25,0:14:27.50,Default,,0,0,0,,The arch typical sign of a Kokusi Musou
+Dialogue: 0,0:14:23.25,0:14:27.50,Default,,0,0,0,,So, the telltale signs of a Kokusi Musou, hunh?
 Dialogue: 0,0:14:58.20,0:15:00.95,Default,,0,0,0,,Riichi
 Dialogue: 0,0:15:03.70,0:15:07.25,Default,,0,0,0,,That riichi. Like intentionally throwing yourself off a cliff
 Dialogue: 0,0:15:09.21,0:15:11.00,Default,,0,0,0,,If he discards a White dragon
 Dialogue: 0,0:15:11.00,0:15:13.00,Default,,0,0,0,,he's dead!
-Dialogue: 0,0:15:13.00,0:15:16.70,Default,,0,0,0,,With one stroke one of the East team eliminated
+Dialogue: 0,0:15:13.00,0:15:16.70,Default,,0,0,0,,At one stroke another of the East team eliminated
 Dialogue: 0,0:15:19.65,0:15:21.65,Default,,0,0,0,,Kan
 Dialogue: 0,0:15:30.90,0:15:32.75,Default,,0,0,0,,The fourth White Dragon?
 Dialogue: 0,0:15:32.75,0:15:35.20,Default,,0,0,0,,My Kokusi Musou win just vanished
@@ -196,7 +196,7 @@ Dialogue: 0,0:17:34.95,0:17:37.85,Default,,0,0,0,,Ron
 Dialogue: 0,0:17:38.60,0:17:40.95,Default,,0,0,0,,chitoitsu
 Dialogue: 0,0:17:41.38,0:17:43.38,Default,,0,0,0,,a 1,600 point chitoitsu
 Dialogue: 0,0:17:43.38,0:17:48.10,Default,,0,0,0,,clearly he won simply to prevent me completing my SuAnKou
-Dialogue: 0,0:17:48.10,0:17:52.80,Default,,0,0,0,,But when he opened revealed his hand I caught a glimpse
+Dialogue: 0,0:17:48.10,0:17:52.80,Default,,0,0,0,,But when he revealed his hand I caught a glimpse
 Dialogue: 0,0:17:54.95,0:17:59.20,Default,,0,0,0,,While aiming for chitoitsu he discarded two pairs. Clearly a mistake
 Dialogue: 0,0:17:59.20,0:18:03.50,Default,,0,0,0,,If all the tiles were marked, he ought to have been able to win sooner!
 Dialogue: 0,0:18:03.50,0:18:04.95,Default,,0,0,0,,that is to say...
@@ -223,7 +223,7 @@ Dialogue: 0,0:20:17.30,0:20:20.01,Default,,0,0,0,,WHAT THE FUCK IS THIS WIZARDRY
 Dialogue: 0,0:20:20.01,0:20:23.35,Default,,0,0,0,,
 Dialogue: 0,0:20:31.95,0:20:36.38,Default,,0,0,0,,
 Dialogue: 0,0:21:01.65,0:21:04.38,Default,,0,0,0,,What time is it?
-Dialogue: 0,0:21:04.38,0:21:07.80,Default,,0,0,0,,It's been 4 hours since we started?
+Dialogue: 0,0:21:04.38,0:21:07.80,Default,,0,0,0,,It's been 7 hours since we started?
 Dialogue: 0,0:21:09.05,0:21:10.70,Default,,0,0,0,,Okay
 Dialogue: 0,0:21:10.70,0:21:12.70,Default,,0,0,0,,Break time
 Dialogue: 0,0:23:48.10,0:23:51.01,Default,,0,0,0,,We start again
@@ -241,28 +241,28 @@ Dialogue: 0,0:26:02.20,0:26:04.90,Default,,0,0,0,,Finally I've caught...
 Dialogue: 0,0:26:04.90,0:26:06.90,Default,,0,0,0,,Ginji by his tail
 Dialogue: 0,0:26:06.90,0:26:11.15,Default,,0,0,0,,In the end Ginji has only marked 7 tiles
 Dialogue: 0,0:26:11.15,0:26:13.15,Default,,0,0,0,,Honor tiles
-Dialogue: 0,0:26:13.15,0:26:15.95,Default,,0,0,0,,
-Dialogue: 0,0:26:15.95,0:26:17.95,Default,,0,0,0,,
-Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,
+Dialogue: 0,0:26:13.15,0:26:15.95,Default,,0,0,0,,Normally, it's done to the backs of tiles
+Dialogue: 0,0:26:15.95,0:26:17.95,Default,,0,0,0,,But Ginji銀次が
+Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,銀次は頭を触る時に何かを字牌の文字の方に塗り込み
 Dialogue: 0,0:26:22.90,0:26:27.05,Default,,0,0,0,,
 Dialogue: 0,0:26:27.05,0:26:30.00,Default,,0,0,0,,
 Dialogue: 0,0:26:30.00,0:26:33.95,Default,,0,0,0,,
-Dialogue: 0,0:26:34.78,0:26:37.00,Default,,0,0,0,,
-Dialogue: 0,0:26:37.00,0:26:39.90,Default,,0,0,0,,
+Dialogue: 0,0:26:34.78,0:26:37.00,Default,,0,0,0,,牌を積んだ時
+Dialogue: 0,0:26:37.00,0:26:39.90,Default,,0,0,0,,部分的に段差ができるよう
 Dialogue: 0,0:26:39.90,0:26:42.30,Default,,0,0,0,,
 Dialogue: 0,0:26:42.30,0:26:44.85,Default,,0,0,0,,
-Dialogue: 0,0:26:45.95,0:26:49.15,Default,,0,0,0,,
-Dialogue: 0,0:26:51.08,0:26:53.90,Default,,0,0,0,,
-Dialogue: 0,0:26:57.75,0:27:00.51,Default,,0,0,0,,
+Dialogue: 0,0:26:45.95,0:26:49.15,Default,,0,0,0,,その無防備な背中
+Dialogue: 0,0:26:51.08,0:26:53.90,Default,,0,0,0,,叩き切ったる
+Dialogue: 0,0:26:57.75,0:27:00.51,Default,,0,0,0,,不覚
 Dialogue: 0,0:27:05.85,0:27:08.71,Default,,0,0,0,,And that's it
 Dialogue: 0,0:27:11.35,0:27:15.20,Default,,0,0,0,,East Wind, SanAnKou, 4 Dora
 Dialogue: 0,0:27:16.38,0:27:18.38,Default,,0,0,0,,A baiman win
 Dialogue: 0,0:27:21.65,0:27:24.68,Default,,0,0,0,,A dealer baiman is 24,000 points!
 Dialogue: 0,0:27:25.05,0:27:27.31,Default,,0,0,0,,Ginji is OUT
-Dialogue: 0,0:27:28.21,0:27:32.10,Default,,0,0,0,,
-Dialogue: 0,0:27:32.10,0:27:35.40,Default,,0,0,0,,
-Dialogue: 0,0:27:35.40,0:27:38.15,Default,,0,0,0,,
-Dialogue: 0,0:27:38.15,0:27:40.45,Default,,0,0,0,,
+Dialogue: 0,0:27:28.21,0:27:32.10,Default,,0,0,0,,敵のスキを突くのに2度目はない
+Dialogue: 0,0:27:32.10,0:27:35.40,Default,,0,0,0,,あるのは最初の一振りだけや
+Dialogue: 0,0:27:35.40,0:27:38.15,Default,,0,0,0,,初太刀で殺す
+Dialogue: 0,0:27:38.15,0:27:40.45,Default,,0,0,0,,これが鉄則や
 Dialogue: 0,0:27:41.31,0:27:44.71,Default,,0,0,0,,
 Dialogue: 0,0:27:50.30,0:27:51.85,Default,,0,0,0,,
 Dialogue: 0,0:27:51.85,0:27:53.40,Default,,0,0,0,,
