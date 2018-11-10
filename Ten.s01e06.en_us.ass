@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 81
-Active Line: 96
-Video Position: 12321
+Video Zoom Percent: 0.250000
+Scroll Position: 231
+Active Line: 251
+Video Position: 47699
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -74,7 +74,7 @@ Dialogue: 0,0:03:27.60,0:03:30.80,Default,,0,0,0,,Having both Akagi and Ten comp
 Dialogue: 0,0:03:32.75,0:03:35.85,Default,,0,0,0,,We can smash them BOTH in one go
 Dialogue: 0,0:03:35.85,0:03:38.85,Default,,0,0,0,,can't we, Soga?
 Dialogue: 0,0:03:40.81,0:03:43.95,Default,,0,0,0,,Only...
-Dialogue: 0,0:03:43.95,0:03:48.25,Default,,0,0,0,,If you'll have to allow us an new rule
+Dialogue: 0,0:03:43.95,0:03:48.25,Default,,0,0,0,,If you'll allow us a new rule
 Dialogue: 0,0:03:48.25,0:03:51.85,Default,,0,0,0,,I'll approve the substitution
 Dialogue: 0,0:03:51.85,0:03:55.60,Default,,0,0,0,,Is that much agreed?
 Dialogue: 0,0:03:55.60,0:03:59.25,Default,,0,0,0,,Yes
@@ -99,7 +99,7 @@ Dialogue: 0,0:05:02.18,0:05:04.18,Default,,0,0,0,,I'm a laughing stock
 Dialogue: 0,0:05:06.15,0:05:08.15,Default,,0,0,0,,Hiroyuki
 Dialogue: 0,0:05:08.15,0:05:11.40,Default,,0,0,0,,Go lightly
 Dialogue: 0,0:05:11.40,0:05:13.40,Default,,0,0,0,,hunh?
-Dialogue: 0,0:05:13.40,0:05:17.65,Default,,0,0,0,,Right now you're probably thinking you should try extra hard hard
+Dialogue: 0,0:05:13.40,0:05:17.65,Default,,0,0,0,,Right now you're probably thinking you should try extra hard
 Dialogue: 0,0:05:17.65,0:05:19.65,Default,,0,0,0,,but if you think that way you've already...
 Dialogue: 0,0:05:19.65,0:05:21.65,Default,,0,0,0,,fallen into a trap
 Dialogue: 0,0:05:21.65,0:05:23.65,Default,,0,0,0,,caught by the west team's strategy
@@ -155,7 +155,7 @@ Dialogue: 0,0:10:30.18,0:10:35.40,Default,,0,0,0,,Because you were held captive 
 Dialogue: 0,0:10:35.40,0:10:39.75,Default,,0,0,0,,After getting a good starting hand you thought it was TOO good
 Dialogue: 0,0:10:39.75,0:10:43.85,Default,,0,0,0,,It's a tough game.\NSo be tough
 Dialogue: 0,0:10:48.61,0:10:54.81,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
-Dialogue: 0,0:10:48.61,0:10:54.81,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 25000 {\c&H0000FF&}Mitsui: {\c&HFFFFFF&}17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:10:48.61,0:10:54.81,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 25000 Mitsui:  {\c&H0000FF&}17000{\c&HFFFFFF&}\NSoga: 25000 Nakatsu: 25000
 Dialogue: 0,0:10:48.61,0:10:54.81,small - white,,0,0,0,,{\pos(1664.667,883.667)}South Round 2
 Dialogue: 0,0:11:04.80,0:11:07.55,Default,,0,0,0,,Ron
 Dialogue: 0,0:11:07.55,0:11:10.75,Default,,0,0,0,,TanYao, 3 Dora
@@ -196,7 +196,7 @@ Dialogue: 0,0:15:13.00,0:15:16.70,Default,,0,0,0,,At one stroke another of the E
 Dialogue: 0,0:15:19.65,0:15:21.65,Default,,0,0,0,,Kan
 Dialogue: 0,0:15:30.90,0:15:32.75,Default,,0,0,0,,The fourth White Dragon?
 Dialogue: 0,0:15:32.75,0:15:35.20,Default,,0,0,0,,My Kokusi Musou win just vanished
-Dialogue: 0,0:15:53.05,0:15:56.55,Default,,0,0,0,,Man. I don't need this.
+Dialogue: 0,0:15:53.05,0:15:56.55,Default,,0,0,0,,Christ. This is going nowhere
 Dialogue: 0,0:16:08.35,0:16:11.08,Default,,0,0,0,,Ron
 Dialogue: 0,0:16:14.85,0:16:18.18,Default,,0,0,0,,Riichi. Green Dragon. Three dora.
 Dialogue: 0,0:16:18.70,0:16:20.95,Default,,0,0,0,,A south wind wait?
@@ -210,11 +210,11 @@ Dialogue: 0,0:16:37.30,0:16:40.15,Default,,0,0,0,,revealed the 4th White Dragon 
 Dialogue: 0,0:16:40.15,0:16:42.05,Default,,0,0,0,,and the South Wind I drew
 Dialogue: 0,0:16:42.05,0:16:44.55,Default,,0,0,0,,You HAD to know all of these three things
 Dialogue: 0,0:16:44.55,0:16:46.85,Default,,0,0,0,,otherwise that style of play isn't possible
-Dialogue: 0,0:16:46.85,0:16:50.30,Default,,0,0,0,,FUCKIT\n
+Dialogue: 0,0:16:46.85,0:16:50.30,Default,,0,0,0,,SHIT\nI'll beat that conceited fuck
 Dialogue: 0,0:16:50.30,0:16:53.75,Default,,0,0,0,,If we replace all the tiles it's proof against Ganpai
 Dialogue: 0,0:16:53.75,0:16:56.50,Default,,0,0,0,,But that just limits the cheat to one game at a time
 Dialogue: 0,0:16:56.50,0:16:59.15,Default,,0,0,0,,His uncanny "luck" will just show itself again
-Dialogue: 0,0:16:59.15,0:17:02.70,Default,,0,0,0,,I've got to understand how he's doing it
+Dialogue: 0,0:16:59.15,0:17:02.70,Default,,0,0,0,,I've got to uncover how he's doing it
 Dialogue: 0,0:17:04.81,0:17:10.41,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
 Dialogue: 0,0:17:04.81,0:17:10.41,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: {\c&H0019FF&}15000{\c&HFFFFFF&} Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
 Dialogue: 0,0:17:04.81,0:17:10.41,small - white,,0,0,0,,{\pos(1675.333,807)}Game 3\NEast Round 3
@@ -227,10 +227,10 @@ Dialogue: 0,0:17:48.10,0:17:52.80,Default,,0,0,0,,But when he revealed his hand 
 Dialogue: 0,0:17:54.95,0:17:59.20,Default,,0,0,0,,While aiming for chitoitsu he discarded two pairs. Clearly a mistake
 Dialogue: 0,0:17:59.20,0:18:03.50,Default,,0,0,0,,If all the tiles were marked, he ought to have been able to win sooner!
 Dialogue: 0,0:18:03.50,0:18:04.95,Default,,0,0,0,,that is to say...
-Dialogue: 0,0:18:04.95,0:18:07.55,Default,,0,0,0,,Ginji's marked tiles are a hollow threat
-Dialogue: 0,0:18:07.55,0:18:11.00,Default,,0,0,0,,It's only come out on tiles limited to me
-Dialogue: 0,0:18:11.00,0:18:13.40,Default,,0,0,0,,a stubborn threat
-Dialogue: 0,0:18:13.40,0:18:16.10,Default,,0,0,0,,A tooth that can't bite
+Dialogue: 0,0:18:04.95,0:18:07.55,Default,,0,0,0,,Ginji's marked tiles ring hollow
+Dialogue: 0,0:18:07.55,0:18:11.00,Default,,0,0,0,,They must be very limited in scope
+Dialogue: 0,0:18:11.00,0:18:13.40,Default,,0,0,0,,It's merely a stubborn threat
+Dialogue: 0,0:18:13.40,0:18:16.10,Default,,0,0,0,,all bark, no bite
 Dialogue: 0,0:18:16.85,0:18:22.38,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
 Dialogue: 0,0:18:16.85,0:18:22.38,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
 Dialogue: 0,0:18:16.85,0:18:22.38,small - white,,0,0,0,,{\pos(1671.333,812.333)}4th Game\NSouth Round 1
@@ -240,7 +240,7 @@ Dialogue: 0,0:19:03.70,0:19:07.60,Default,,0,0,0,,that's not how someone plays w
 Dialogue: 0,0:19:07.60,0:19:09.05,Default,,0,0,0,,As I thought
 Dialogue: 0,0:19:09.05,0:19:12.75,Default,,0,0,0,,Ginji's marked tiles are almost entirely a bluff
 Dialogue: 0,0:19:29.00,0:19:31.65,Default,,0,0,0,,Riichi
-Dialogue: 0,0:19:32.45,0:19:34.45,Default,,0,0,0,,How is he declaring Riichi?
+Dialogue: 0,0:19:32.45,0:19:34.45,Default,,0,0,0,,He's declaring Riichi NOW?
 Dialogue: 0,0:19:34.45,0:19:37.00,Default,,0,0,0,,There's only one tile left to draw
 Dialogue: 0,0:19:37.00,0:19:39.45,Default,,0,0,0,,Just Harada's "Haitei" draw.
 Dialogue: 0,0:19:37.00,0:19:43.05,default - cyan,,0,0,0,,{\pos(996,197)}Haitei: (lit. sea bottom) The final draw which offers additional points if used to win
@@ -279,14 +279,14 @@ Dialogue: 0,0:26:06.90,0:26:11.15,Default,,0,0,0,,In the end Ginji has only mark
 Dialogue: 0,0:26:11.15,0:26:13.15,Default,,0,0,0,,only Honor tiles
 Dialogue: 0,0:26:13.15,0:26:15.95,Default,,0,0,0,,{\pos(962.667,871.667)}Normally, it's done on the backs of tiles
 Dialogue: 0,0:26:15.95,0:26:17.95,Default,,0,0,0,,{\pos(970.667,887.667)}But Ginji
-Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,{\pos(965.333,879.667)}while touching his tiles he smeared them with something
-Dialogue: 0,0:26:22.90,0:26:27.05,Default,,0,0,0,,perhaps when he's touching his hair, that move
-Dialogue: 0,0:26:27.05,0:26:30.00,Default,,0,0,0,,He had prepared something for that moment
+Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,{\pos(965.333,879.667)}while fiddling his tiles he smeared them with something
+Dialogue: 0,0:26:22.90,0:26:27.05,Default,,0,0,0,,perhaps when he did that thing, touching his hair
+Dialogue: 0,0:26:27.05,0:26:30.00,Default,,0,0,0,,He had rigged something for that moment
 Dialogue: 0,0:26:30.00,0:26:33.95,Default,,0,0,0,,and he smeared it on the FACE of each tile
 Dialogue: 0,0:26:34.78,0:26:37.00,Default,,0,0,0,,such that when the tiles are stacked
 Dialogue: 0,0:26:37.00,0:26:39.90,Default,,0,0,0,,they'll stick up slightly
 Dialogue: 0,0:26:39.90,0:26:42.30,Default,,0,0,0,,doing it to merely 7 tiles
-Dialogue: 0,0:26:42.30,0:26:44.85,Default,,0,0,0,,it's like a simple indicator
+Dialogue: 0,0:26:42.30,0:26:44.85,Default,,0,0,0,,it's like a pure and simple indicator
 Dialogue: 0,0:26:45.95,0:26:49.15,Default,,0,0,0,,And now that defenseless back of yours
 Dialogue: 0,0:26:51.08,0:26:53.90,Default,,0,0,0,,I'll cut it through
 Dialogue: 0,0:26:57.75,0:27:00.51,Default,,0,0,0,,{\pos(960,869)}I'm done
