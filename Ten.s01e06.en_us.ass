@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 162
-Active Line: 167
-Video Position: 32183
+Video Zoom Percent: 0.375000
+Scroll Position: 175
+Active Line: 194
+Video Position: 33071
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,9 +37,9 @@ Dialogue: 0,0:00:08.01,0:00:11.65,Default,,0,0,0,,H-he's not in Shohai any longe
 Dialogue: 0,0:00:11.65,0:00:15.58,Default,,0,0,0,,If I confirm my opponent is cheating I TAKE HIS LIFE
 Dialogue: 0,0:00:15.58,0:00:16.61,Default,,0,0,0,,PLEASE STOP!
 Dialogue: 0,0:00:25.30,0:00:29.25,Default,,0,0,0,,I CAN SEE EVERYTHING YOU'RE THINKING
-Dialogue: 0,0:00:39.75,0:00:41.70,Default,,0,0,0,,This hand
-Dialogue: 0,0:00:41.70,0:00:45.60,Default,,0,0,0,,
-Dialogue: 0,0:00:45.60,0:00:51.65,Default,,0,0,0,,
+Dialogue: 0,0:00:39.75,0:00:41.70,Default,,0,0,0,,This round
+Dialogue: 0,0:00:41.70,0:00:45.60,Default,,0,0,0,,The edge tile Ken took WAS clasped in his right hand
+Dialogue: 0,0:00:45.60,0:00:51.65,Default,,0,0,0,,Ken made a fist to convince Harada his surplus tile's still in his right hand
 Dialogue: 0,0:00:51.65,0:00:54.10,Default,,0,0,0,,stab away mane
 Dialogue: 0,0:00:54.10,0:00:57.80,Default,,0,0,0,,Really it's his LEFT hand which is holding the tile
 Dialogue: 0,0:01:00.20,0:01:05.90,Default,,0,0,0,,But Harada wouldn't let that cheat pass
@@ -60,13 +60,13 @@ Dialogue: 0,0:03:16.85,0:03:20.15,Default,,0,0,0,,We didn't agree on any replace
 Dialogue: 0,0:03:20.15,0:03:22.15,Default,,0,0,0,,Yeah
 Dialogue: 0,0:03:22.15,0:03:24.80,Default,,0,0,0,,You've come too late
 Dialogue: 0,0:03:24.80,0:03:27.60,Default,,0,0,0,,Let's just wait a moment now
-Dialogue: 0,0:03:27.60,0:03:30.80,Default,,0,0,0,,Having both Akagi and Ten completes the East team天と赤木が揃ってこその東
-Dialogue: 0,0:03:32.75,0:03:35.85,Default,,0,0,0,,We smash them BOTH in one go全員まとめて潰したる
+Dialogue: 0,0:03:27.60,0:03:30.80,Default,,0,0,0,,Having both Akagi and Ten completes the East team
+Dialogue: 0,0:03:32.75,0:03:35.85,Default,,0,0,0,,We smash them BOTH in one go
 Dialogue: 0,0:03:35.85,0:03:38.85,Default,,0,0,0,,can't we, Soga?
 Dialogue: 0,0:03:40.81,0:03:43.95,Default,,0,0,0,,Only...
-Dialogue: 0,0:03:43.95,0:03:48.25,Default,,0,0,0,,新ルールを追加You'll have to allow us an new rule
+Dialogue: 0,0:03:43.95,0:03:48.25,Default,,0,0,0,,You'll have to allow us an new rule
 Dialogue: 0,0:03:48.25,0:03:51.85,Default,,0,0,0,,I approve the substitution
-Dialogue: 0,0:03:51.85,0:03:55.60,Default,,0,0,0,,Is that agreed?
+Dialogue: 0,0:03:51.85,0:03:55.60,Default,,0,0,0,,Is that much agreed?
 Dialogue: 0,0:03:55.60,0:03:59.25,Default,,0,0,0,,Yes
 Dialogue: 0,0:03:59.25,0:04:02.00,Default,,0,0,0,,10th turn alternate playing
 Dialogue: 0,0:04:02.00,0:04:03.08,Default,,0,0,0,,Wha?
@@ -77,32 +77,34 @@ Dialogue: 0,0:04:12.30,0:04:15.20,Default,,0,0,0,,A MAHJONG TAG TEAM MATCH
 Dialogue: 0,0:04:15.20,0:04:17.05,Default,,0,0,0,,Playing like this
 Dialogue: 0,0:04:17.05,0:04:20.65,Default,,0,0,0,,at this single table 8 men can play one hand
 Dialogue: 0,0:04:20.65,0:04:23.55,Default,,0,0,0,,How about it?
-Dialogue: 0,0:04:30.40,0:04:33.75,Default,,0,0,0,,
+Dialogue: 0,0:04:30.40,0:04:33.75,Default,,0,0,0,,replace the table that kid messed up
 Dialogue: 0,0:04:39.40,0:04:42.11,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:04:43.31,0:04:45.31,Default,,0,0,0,,With this rule
-Dialogue: 0,0:04:45.31,0:04:48.95,Default,,0,0,0,,
-Dialogue: 0,0:04:49.61,0:04:51.61,Default,,0,0,0,,If there's one weak point in our defense穴がいると
-Dialogue: 0,0:04:51.61,0:04:53.61,Default,,0,0,0,,it will play havoc with the team.チーム迷惑を被る
+Dialogue: 0,0:04:45.31,0:04:48.95,Default,,0,0,0,,For 10 turns each, 8 players surround the table
+Dialogue: 0,0:04:49.61,0:04:51.61,Default,,0,0,0,,If there's one weak point in our defense
+Dialogue: 0,0:04:51.61,0:04:53.61,Default,,0,0,0,,it will play havoc with the team
 Dialogue: 0,0:04:54.55,0:04:56.55,Default,,0,0,0,,And from the perspective of the West team
-Dialogue: 0,0:04:57.31,0:04:59.31,Default,,0,0,0,,I'm it西の穴とみられるのは自分しかいない
-Dialogue: 0,0:05:02.18,0:05:04.18,Default,,0,0,0,,I'm a laughing stock人のことをバカにしやがって
+Dialogue: 0,0:04:57.31,0:04:59.31,Default,,0,0,0,,I'm the only weakness
+Dialogue: 0,0:05:02.18,0:05:04.18,Default,,0,0,0,,I'm a laughing stock
 Dialogue: 0,0:05:06.15,0:05:08.15,Default,,0,0,0,,Hiroyuki
-Dialogue: 0,0:05:08.15,0:05:11.40,Default,,0,0,0,,Go lightlyあっさりいけ
+Dialogue: 0,0:05:08.15,0:05:11.40,Default,,0,0,0,,Go lightly
 Dialogue: 0,0:05:11.40,0:05:13.40,Default,,0,0,0,,hunh?
-Dialogue: 0,0:05:13.40,0:05:17.65,Default,,0,0,0,,Right now you're probably thinking you should try extra hard hardお前今頑張ろうと思っていたろ
-Dialogue: 0,0:05:17.65,0:05:19.65,Default,,0,0,0,,but if you think that way you've already...その考えがすでに
-Dialogue: 0,0:05:19.65,0:05:21.65,Default,,0,0,0,,fallen into a trapハマっている
-Dialogue: 0,0:05:21.65,0:05:23.65,Default,,0,0,0,,caught by the west team's strategy.西側の戦略に
-Dialogue: 0,0:05:24.28,0:05:27.05,Default,,0,0,0,,What's being tested nowこれから試されるのは
+Dialogue: 0,0:05:13.40,0:05:17.65,Default,,0,0,0,,Right now you're probably thinking you should try extra hard hard
+Dialogue: 0,0:05:17.65,0:05:19.65,Default,,0,0,0,,but if you think that way you've already...
+Dialogue: 0,0:05:19.65,0:05:21.65,Default,,0,0,0,,fallen into a trap
+Dialogue: 0,0:05:21.65,0:05:23.65,Default,,0,0,0,,caught by the west team's strategy
+Dialogue: 0,0:05:24.28,0:05:27.05,Default,,0,0,0,,What's being tested now
 Dialogue: 0,0:05:27.05,0:05:29.05,Default,,0,0,0,,among your qualities
-Dialogue: 0,0:05:29.05,0:05:31.05,Default,,0,0,0,,ISN'T your determination to win.勝とうという意志ではない
+Dialogue: 0,0:05:29.05,0:05:31.05,Default,,0,0,0,,ISN'T your determination to win
 Dialogue: 0,0:05:32.28,0:05:34.28,Default,,0,0,0,,Just simply
 Dialogue: 0,0:05:34.28,0:05:36.28,Default,,0,0,0,,in a normal way
-Dialogue: 0,0:05:36.28,0:05:38.28,Default,,0,0,0,,play as you always doいつもどおりの打ち方をする
-Dialogue: 0,0:05:43.65,0:05:46.31,Default,,0,0,0,,Keep your presence of mind平常心
-Dialogue: 0,0:05:48.28,0:05:50.28,Default,,0,0,0,,and don't lose sight of...見失うなよ
-Dialogue: 0,0:05:50.28,0:05:52.28,Default,,0,0,0,,yourself自分を
-Dialogue: 0,0:06:00.95,0:06:05.10,Default,,0,0,0,,
+Dialogue: 0,0:05:36.28,0:05:38.28,Default,,0,0,0,,play as you always do
+Dialogue: 0,0:05:43.65,0:05:46.31,Default,,0,0,0,,keep presence of mind
+Dialogue: 0,0:05:48.28,0:05:50.28,Default,,0,0,0,,and don't lose sight of...
+Dialogue: 0,0:05:50.28,0:05:52.28,Default,,0,0,0,,yourself
+Dialogue: 0,0:06:00.95,0:06:05.10,Default - white,,0,0,0,,{\pos(1668,765)}First Game\NEast Round 1
+Dialogue: 0,0:06:00.95,0:06:05.10,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:06:00.95,0:06:05.10,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 25000\NSoga: 25000 Nakatsu: 25000
 Dialogue: 0,0:06:08.30,0:06:13.25,Default,,0,0,0,,Because of the rule that wins beneath Mangan don't count
 Dialogue: 0,0:06:16.80,0:06:20.00,Default,,0,0,0,,so everyone is aiming for a Mangan win or greater
 Dialogue: 0,0:06:20.00,0:06:25.65,Default,,0,0,0,,You'd think this would make for a spectacular game, but it doesn't
@@ -112,9 +114,11 @@ Dialogue: 0,0:06:32.40,0:06:34.40,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:06:35.88,0:06:37.88,Default,,0,0,0,,
 Dialogue: 0,0:06:39.05,0:06:41.85,Default,,0,0,0,,and the rule that prevents accumulated wins
 Dialogue: 0,0:06:41.85,0:06:45.15,Default,,0,0,0,,hangs heavy over us
-Dialogue: 0,0:06:45.15,0:06:50.71,Default,,0,0,0,,
-Dialogue: 0,0:06:47.25,0:06:49.40,Default,,0,0,0,,Of course, for hands Mangan or above
-Dialogue: 0,0:06:49.40,0:06:51.95,Default,,0,0,0,,they're easy to read based on related yaku
+Dialogue: 0,0:06:45.15,0:06:50.71,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:06:45.15,0:06:50.71,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 25000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:06:45.15,0:06:50.71,Default - white,,0,0,0,,{\pos(1652,785)}Game 1\NEast Round 4
+Dialogue: 0,0:06:47.25,0:06:49.40,Default,,0,0,0,,{\pos(748,837)}Of course, for hands Mangan or above
+Dialogue: 0,0:06:49.40,0:06:51.95,Default,,0,0,0,,{\pos(844,841)}they're easy to read based on related yaku
 Dialogue: 0,0:06:51.95,0:06:55.60,Default,,0,0,0,,Additionally, as a Tsumo will decrease a teammate's points
 Dialogue: 0,0:06:55.60,0:06:57.60,Default,,0,0,0,,there isn't really much point
 Dialogue: 0,0:06:57.60,0:07:01.85,Default,,0,0,0,,But, a direct hit on the West team
@@ -140,29 +144,39 @@ Dialogue: 0,0:10:24.75,0:10:29.05,Default,,0,0,0,,Pinfu, Iitsu, one dora.\NA Man
 Dialogue: 0,0:10:30.18,0:10:35.40,Default,,0,0,0,,Because you were held captive by that Chiniisou, you could only see the 5Pin as "baggage"
 Dialogue: 0,0:10:35.40,0:10:39.75,Default,,0,0,0,,After getting a good starting hand you thought it was TOO good
 Dialogue: 0,0:10:39.75,0:10:43.85,Default,,0,0,0,,It's a tough battle.\NIf you're in that state, well...
-Dialogue: 0,0:10:48.61,0:10:54.81,Default,,0,0,0,,
+Dialogue: 0,0:10:48.61,0:10:54.81,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:10:48.61,0:10:54.81,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:10:48.61,0:10:54.81,Default - white,,0,0,0,,{\pos(1618.667,871.667)}South Round 2
 Dialogue: 0,0:11:04.80,0:11:07.55,Default,,0,0,0,,Ron
 Dialogue: 0,0:11:07.55,0:11:10.75,Default,,0,0,0,,TanYao, 3 Dora
 Dialogue: 0,0:11:10.75,0:11:13.95,Default,,0,0,0,,Mangan
-Dialogue: 0,0:11:15.91,0:11:19.90,Default,,0,0,0,,
+Dialogue: 0,0:11:15.91,0:11:19.90,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 17000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:11:15.91,0:11:19.90,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:11:15.91,0:11:19.90,Default - white,,0,0,0,,{\pos(1608,877)}South Round 4
 Dialogue: 0,0:11:26.35,0:11:28.98,Default,,0,0,0,,Ron
 Dialogue: 0,0:11:28.98,0:11:30.98,Default,,0,0,0,,Honitsu via South Wind
 Dialogue: 0,0:11:31.68,0:11:33.68,Default,,0,0,0,,Mangan
 Dialogue: 0,0:11:33.68,0:11:35.68,Default,,0,0,0,,[feels like shit]
-Dialogue: 0,0:11:37.65,0:11:40.91,Default,,0,0,0,,
+Dialogue: 0,0:11:37.65,0:11:40.91,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 9000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:11:37.65,0:11:40.91,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:11:37.65,0:11:40.91,Default - white,,0,0,0,,{\pos(1664,789)}Game 2\NEast Round 1
 Dialogue: 0,0:11:43.60,0:11:45.80,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:11:45.80,0:11:47.80,Default,,0,0,0,,Chiniisou
 Dialogue: 0,0:11:47.80,0:11:49.80,Default,,0,0,0,,Mangan
-Dialogue: 0,0:11:55.05,0:12:00.71,Default,,0,0,0,,
-Dialogue: 0,0:11:56.15,0:11:59.55,Default,,0,0,0,,At the Mahjong Tag Team Match for 2 and a half hours
-Dialogue: 0,0:11:59.55,0:12:03.15,Default,,0,0,0,,As I thought, Hiroyuki is the first one they'd try to corner
+Dialogue: 0,0:11:55.05,0:12:00.71,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:11:55.05,0:12:00.71,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 23000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:11:55.05,0:12:00.71,Default - white,,0,0,0,,{\pos(1661.333,714.333)}Game 2\NEast Round 4
+Dialogue: 0,0:11:56.15,0:11:59.55,Default,,0,0,0,,{\pos(957.333,794.333)}At the Mahjong Tag Team Match for 2 and a half hours
+Dialogue: 0,0:11:59.55,0:12:03.15,Default,,0,0,0,,{\pos(957.333,823.667)}As I thought, Hiroyuki is the first one they'd try to corner
 Dialogue: 0,0:12:03.15,0:12:05.65,Default,,0,0,0,,He's only got 7,000 points left
 Dialogue: 0,0:12:05.65,0:12:08.20,Default,,0,0,0,,If he deals into a Mangan or greater hand
 Dialogue: 0,0:12:08.20,0:12:10.20,Default,,0,0,0,,it's OVER
-Dialogue: 0,0:12:16.40,0:12:20.45,Default,,0,0,0,,
-Dialogue: 0,0:12:20.45,0:12:22.35,Default,,0,0,0,,
-Dialogue: 0,0:12:22.35,0:12:25.85,Default,,0,0,0,,
-Dialogue: 0,0:14:06.61,0:14:11.71,Default,,0,0,0,,
+Dialogue: 0,0:12:16.40,0:12:20.45,Default,,0,0,0,,the result: he's paralyzed into playing defensively
+Dialogue: 0,0:12:20.45,0:12:22.35,Default,,0,0,0,,Hiroyuki alone won't do it
+Dialogue: 0,0:12:22.35,0:12:25.85,Default,,0,0,0,,Wait for his partner Akagi must come in
+Dialogue: 0,0:14:06.61,0:14:11.71,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:14:06.61,0:14:11.71,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 23000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:14:06.61,0:14:11.71,Default - white,,0,0,0,,{\pos(1656,797)}2nd Game\NEast Round 2
 Dialogue: 0,0:14:23.25,0:14:27.50,Default,,0,0,0,,So, the telltale signs of a Kokusi Musou, hunh?
 Dialogue: 0,0:14:58.20,0:15:00.95,Default,,0,0,0,,Riichi
 Dialogue: 0,0:15:03.70,0:15:07.25,Default,,0,0,0,,That riichi. Like intentionally throwing yourself off a cliff
@@ -172,7 +186,7 @@ Dialogue: 0,0:15:13.00,0:15:16.70,Default,,0,0,0,,At one stroke another of the E
 Dialogue: 0,0:15:19.65,0:15:21.65,Default,,0,0,0,,Kan
 Dialogue: 0,0:15:30.90,0:15:32.75,Default,,0,0,0,,The fourth White Dragon?
 Dialogue: 0,0:15:32.75,0:15:35.20,Default,,0,0,0,,My Kokusi Musou win just vanished
-Dialogue: 0,0:15:53.05,0:15:56.55,Default,,0,0,0,,
+Dialogue: 0,0:15:53.05,0:15:56.55,Default,,0,0,0,,Man. I don't need this.
 Dialogue: 0,0:16:08.35,0:16:11.08,Default,,0,0,0,,Ron
 Dialogue: 0,0:16:14.85,0:16:18.18,Default,,0,0,0,,Riichi. Green Dragon. Three dora.
 Dialogue: 0,0:16:18.70,0:16:20.95,Default,,0,0,0,,A south wind wait?
@@ -180,23 +194,26 @@ Dialogue: 0,0:16:20.95,0:16:24.75,Default,,0,0,0,,This guy knew to aim for my Ko
 Dialogue: 0,0:16:24.75,0:16:28.65,Default,,0,0,0,,and what's more, he did it with that shitty single tile wait riichi
 Dialogue: 0,0:16:28.65,0:16:30.80,Default,,0,0,0,,Inconceivable!
 Dialogue: 0,0:16:33.45,0:16:35.45,Default,,0,0,0,,Is he using Ganpai?
+Dialogue: 0,0:16:33.45,0:16:38.05,default - cyan,,0,0,0,,{\pos(954.667,109)}Ganpai: (lit: wounded tile) The cheat of marking tiles
 Dialogue: 0,0:16:35.45,0:16:37.30,Default,,0,0,0,,that 7 Pin Kan
 Dialogue: 0,0:16:37.30,0:16:40.15,Default,,0,0,0,,revealed the 4th White Dragon as dora indicator
 Dialogue: 0,0:16:40.15,0:16:42.05,Default,,0,0,0,,and the South Wind I drew
 Dialogue: 0,0:16:42.05,0:16:44.55,Default,,0,0,0,,You HAD to know about these three things
 Dialogue: 0,0:16:44.55,0:16:46.85,Default,,0,0,0,,otherwise that style of play isn't possible
-Dialogue: 0,0:16:46.85,0:16:50.30,Default,,0,0,0,,
-Dialogue: 0,0:16:50.30,0:16:53.75,Default,,0,0,0,,
-Dialogue: 0,0:16:53.75,0:16:56.50,Default,,0,0,0,,
-Dialogue: 0,0:16:56.50,0:16:59.15,Default,,0,0,0,,
-Dialogue: 0,0:16:59.15,0:17:02.70,Default,,0,0,0,,
-Dialogue: 0,0:17:04.81,0:17:10.41,Default,,0,0,0,,
+Dialogue: 0,0:16:46.85,0:16:50.30,Default,,0,0,0,,FUCKIT\n
+Dialogue: 0,0:16:50.30,0:16:53.75,Default,,0,0,0,,replacing the tiles is protection against Ganpai
+Dialogue: 0,0:16:53.75,0:16:56.50,Default,,0,0,0,,But the art is limited to just one game
+Dialogue: 0,0:16:56.50,0:16:59.15,Default,,0,0,0,,once more his super "luck" will arise
+Dialogue: 0,0:16:59.15,0:17:02.70,Default,,0,0,0,,I've got to see through his game
+Dialogue: 0,0:17:04.81,0:17:10.41,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:17:04.81,0:17:10.41,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:17:04.81,0:17:10.41,Default - white,,0,0,0,,{\pos(1661.333,789)}Game 3\NEast Round 3
 Dialogue: 0,0:17:16.20,0:17:20.05,Default,,0,0,0,,One tile from a SuuAnKou tenpai?
 Dialogue: 0,0:17:34.95,0:17:37.85,Default,,0,0,0,,Ron
 Dialogue: 0,0:17:38.60,0:17:40.95,Default,,0,0,0,,chitoitsu
 Dialogue: 0,0:17:41.38,0:17:43.38,Default,,0,0,0,,a 1,600 point chitoitsu
 Dialogue: 0,0:17:43.38,0:17:48.10,Default,,0,0,0,,clearly he won simply to prevent me completing my SuAnKou
-Dialogue: 0,0:17:48.10,0:17:52.80,Default,,0,0,0,,But when he revealed his hand I caught a glimpse
+Dialogue: 0,0:17:48.10,0:17:52.80,Default,,0,0,0,,But when he revealed his hand I caught a glimpse of something
 Dialogue: 0,0:17:54.95,0:17:59.20,Default,,0,0,0,,While aiming for chitoitsu he discarded two pairs. Clearly a mistake
 Dialogue: 0,0:17:59.20,0:18:03.50,Default,,0,0,0,,If all the tiles were marked, he ought to have been able to win sooner!
 Dialogue: 0,0:18:03.50,0:18:04.95,Default,,0,0,0,,that is to say...
@@ -204,32 +221,40 @@ Dialogue: 0,0:18:04.95,0:18:07.55,Default,,0,0,0,,Ginji's marked tiles are rare
 Dialogue: 0,0:18:07.55,0:18:11.00,Default,,0,0,0,,
 Dialogue: 0,0:18:11.00,0:18:13.40,Default,,0,0,0,,
 Dialogue: 0,0:18:13.40,0:18:16.10,Default,,0,0,0,,
-Dialogue: 0,0:18:16.85,0:18:22.38,Default,,0,0,0,,
+Dialogue: 0,0:18:16.85,0:18:22.38,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:18:16.85,0:18:22.38,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:18:16.85,0:18:22.38,Default - white,,0,0,0,,{\pos(1637.333,794.333)}4th Game\NSouth Round 1
 Dialogue: 0,0:18:31.25,0:18:33.95,Default,,0,0,0,,Riichi
 Dialogue: 0,0:19:01.00,0:19:03.70,Default,,0,0,0,,He played a safe pair
 Dialogue: 0,0:19:03.70,0:19:07.60,Default,,0,0,0,,that's not how someone plays when they know my hand through gampai
 Dialogue: 0,0:19:07.60,0:19:09.05,Default,,0,0,0,,As I thought
 Dialogue: 0,0:19:09.05,0:19:12.75,Default,,0,0,0,,Ginji's marked tiles are almost entirely a bluff
 Dialogue: 0,0:19:29.00,0:19:31.65,Default,,0,0,0,,Riichi
-Dialogue: 0,0:19:32.45,0:19:34.45,Default,,0,0,0,,
-Dialogue: 0,0:19:34.45,0:19:37.00,Default,,0,0,0,,There's only one left to draw
-Dialogue: 0,0:19:37.00,0:19:39.45,Default,,0,0,0,,
+Dialogue: 0,0:19:32.45,0:19:34.45,Default,,0,0,0,,How is he declaring Riichi?
+Dialogue: 0,0:19:34.45,0:19:37.00,Default,,0,0,0,,There's only one tile left to draw
+Dialogue: 0,0:19:37.00,0:19:39.45,Default,,0,0,0,,Just Harada's "Haitei" draw.
 Dialogue: 0,0:19:39.45,0:19:41.45,Default,,0,0,0,,Kan
 Dialogue: 0,0:19:45.25,0:19:48.11,Default,,0,0,0,,and with that this hand is a draw
-Dialogue: 0,0:19:48.11,0:19:53.20,Default,,0,0,0,,I don't want to see you getting any fucking riichi ippatsu final draw win
+Dialogue: 0,0:19:48.11,0:19:53.20,Default,,0,0,0,,I don't want to see you getting any fucking riichi ippatsu Haitei win
 Dialogue: 0,0:19:53.20,0:19:56.35,Default,,0,0,0,,at best
 Dialogue: 0,0:20:03.00,0:20:05.91,Default,,0,0,0,,waiting on a single West Wind
 Dialogue: 0,0:20:17.30,0:20:20.01,Default,,0,0,0,,WHAT THE FUCK IS THIS WIZARDRY?!?
-Dialogue: 0,0:20:20.01,0:20:23.35,Default,,0,0,0,,
-Dialogue: 0,0:20:31.95,0:20:36.38,Default,,0,0,0,,
+Dialogue: 0,0:20:20.01,0:20:23.35,Default,,0,0,0,,Not a single flaw or mark
+Dialogue: 0,0:20:31.95,0:20:36.38,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:20:31.95,0:20:36.38,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:20:31.95,0:20:36.38,Default - white,,0,0,0,,{\pos(1613.333,807.667)}4th Game\NSouth Round 4
 Dialogue: 0,0:21:01.65,0:21:04.38,Default,,0,0,0,,What time is it?
 Dialogue: 0,0:21:04.38,0:21:07.80,Default,,0,0,0,,It's been 7 hours since we started?
 Dialogue: 0,0:21:09.05,0:21:10.70,Default,,0,0,0,,Okay
 Dialogue: 0,0:21:10.70,0:21:12.70,Default,,0,0,0,,Break time
 Dialogue: 0,0:23:48.10,0:23:51.01,Default,,0,0,0,,We start again
-Dialogue: 0,0:24:42.35,0:24:46.15,Default,,0,0,0,,
-Dialogue: 0,0:24:46.15,0:24:48.50,Default,,0,0,0,,
-Dialogue: 0,0:24:48.50,0:24:52.45,Default,,0,0,0,,
+Dialogue: 0,0:23:51.88,0:23:56.78,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:23:51.88,0:23:56.78,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:23:51.88,0:23:56.78,Default - white,,0,0,0,,{\pos(1653.333,802.333)}Game 5\NSouth Round 2
+Dialogue: 0,0:24:42.35,0:24:46.15,Default,,0,0,0,,If I discard the South Wind I've got a pair wait on Red or White dragon
+Dialogue: 0,0:24:46.15,0:24:48.50,Default,,0,0,0,,If I Riichi and Tsumo with a Tatehon
+Dialogue: 0,0:24:46.15,0:24:51.05,default - cyan,,0,0,0,,{\pos(986.667,127.667)}Tatehon: a closed Honiitsu (single suit) hand
+Dialogue: 0,0:24:48.50,0:24:52.45,Default,,0,0,0,,this might go to a SanAnKou with Yakuhai-- a Baiman win
 Dialogue: 0,0:24:54.41,0:24:55.90,Default,,0,0,0,,furthermore
 Dialogue: 0,0:24:55.90,0:24:57.90,Default,,0,0,0,,my next draw is a White Dragon
 Dialogue: 0,0:24:57.90,0:25:00.45,Default,,0,0,0,,no mistake
@@ -240,30 +265,30 @@ Dialogue: 0,0:25:39.65,0:25:42.65,Default,,0,0,0,,I'm certain on this tile's rig
 Dialogue: 0,0:26:02.20,0:26:04.90,Default,,0,0,0,,Finally I've caught...
 Dialogue: 0,0:26:04.90,0:26:06.90,Default,,0,0,0,,Ginji by his tail
 Dialogue: 0,0:26:06.90,0:26:11.15,Default,,0,0,0,,In the end Ginji has only marked 7 tiles
-Dialogue: 0,0:26:11.15,0:26:13.15,Default,,0,0,0,,Honor tiles
-Dialogue: 0,0:26:13.15,0:26:15.95,Default,,0,0,0,,Normally, it's done to the backs of tiles
-Dialogue: 0,0:26:15.95,0:26:17.95,Default,,0,0,0,,But Ginji銀次が
-Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,銀次は頭を触る時に何かを字牌の文字の方に塗り込み
-Dialogue: 0,0:26:22.90,0:26:27.05,Default,,0,0,0,,
-Dialogue: 0,0:26:27.05,0:26:30.00,Default,,0,0,0,,
-Dialogue: 0,0:26:30.00,0:26:33.95,Default,,0,0,0,,
-Dialogue: 0,0:26:34.78,0:26:37.00,Default,,0,0,0,,牌を積んだ時
-Dialogue: 0,0:26:37.00,0:26:39.90,Default,,0,0,0,,部分的に段差ができるよう
-Dialogue: 0,0:26:39.90,0:26:42.30,Default,,0,0,0,,
-Dialogue: 0,0:26:42.30,0:26:44.85,Default,,0,0,0,,
-Dialogue: 0,0:26:45.95,0:26:49.15,Default,,0,0,0,,その無防備な背中
-Dialogue: 0,0:26:51.08,0:26:53.90,Default,,0,0,0,,叩き切ったる
-Dialogue: 0,0:26:57.75,0:27:00.51,Default,,0,0,0,,不覚
+Dialogue: 0,0:26:11.15,0:26:13.15,Default,,0,0,0,,only Honor tiles
+Dialogue: 0,0:26:13.15,0:26:15.95,Default,,0,0,0,,{\pos(962.667,871.667)}Normally, it's done on the backs of tiles
+Dialogue: 0,0:26:15.95,0:26:17.95,Default,,0,0,0,,{\pos(970.667,887.667)}But Ginji
+Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,{\pos(965.333,879.667)}while touching his tiles he smeared them with something
+Dialogue: 0,0:26:22.90,0:26:27.05,Default,,0,0,0,,perhaps 
+Dialogue: 0,0:26:27.05,0:26:30.00,Default,,0,0,0,,He had prepared something for that moment
+Dialogue: 0,0:26:30.00,0:26:33.95,Default,,0,0,0,,and he smeared that on the FACE of each tile
+Dialogue: 0,0:26:34.78,0:26:37.00,Default,,0,0,0,,So when the tiles are stacked
+Dialogue: 0,0:26:37.00,0:26:39.90,Default,,0,0,0,,they will be partially raised
+Dialogue: 0,0:26:39.90,0:26:42.30,Default,,0,0,0,,doing it to merely 7 tiles
+Dialogue: 0,0:26:42.30,0:26:44.85,Default,,0,0,0,,it's like a simple indicator
+Dialogue: 0,0:26:45.95,0:26:49.15,Default,,0,0,0,,That defenseless back of yours
+Dialogue: 0,0:26:51.08,0:26:53.90,Default,,0,0,0,,I'll cut it through
+Dialogue: 0,0:26:57.75,0:27:00.51,Default,,0,0,0,,I'm done
 Dialogue: 0,0:27:05.85,0:27:08.71,Default,,0,0,0,,And that's it
 Dialogue: 0,0:27:11.35,0:27:15.20,Default,,0,0,0,,East Wind, SanAnKou, 4 Dora
 Dialogue: 0,0:27:16.38,0:27:18.38,Default,,0,0,0,,A baiman win
 Dialogue: 0,0:27:21.65,0:27:24.68,Default,,0,0,0,,A dealer baiman is 24,000 points!
 Dialogue: 0,0:27:25.05,0:27:27.31,Default,,0,0,0,,Ginji is OUT
-Dialogue: 0,0:27:28.21,0:27:32.10,Default,,0,0,0,,敵のスキを突くのに2度目はない
-Dialogue: 0,0:27:32.10,0:27:35.40,Default,,0,0,0,,あるのは最初の一振りだけや
-Dialogue: 0,0:27:35.40,0:27:38.15,Default,,0,0,0,,初太刀で殺す
-Dialogue: 0,0:27:38.15,0:27:40.45,Default,,0,0,0,,これが鉄則や
-Dialogue: 0,0:27:41.31,0:27:44.71,Default,,0,0,0,,
+Dialogue: 0,0:27:28.21,0:27:32.10,Default,,0,0,0,,There is no second chance to stab through his defences敵のスキを突くのに2度目はない
+Dialogue: 0,0:27:32.10,0:27:35.40,Default,,0,0,0,,there is only the first swing of the bladeあるのは最初の一振りだけや
+Dialogue: 0,0:27:35.40,0:27:38.15,Default,,0,0,0,,kill with the frst cuti初太刀で殺す
+Dialogue: 0,0:27:38.15,0:27:40.45,Default,,0,0,0,,this is how it's doneこれが鉄則や
+Dialogue: 0,0:27:41.31,0:27:44.71,Default,,0,0,0,,Asai Ginji: Disqualified
 Dialogue: 0,0:27:50.30,0:27:51.85,Default,,0,0,0,,
 Dialogue: 0,0:27:51.85,0:27:53.40,Default,,0,0,0,,
 Dialogue: 0,0:27:53.40,0:27:55.40,Default,,0,0,0,,
