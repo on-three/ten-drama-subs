@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 231
-Active Line: 251
-Video Position: 47699
+Scroll Position: 6
+Active Line: 30
+Video Position: 5375
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,13 +53,15 @@ Dialogue: 0,0:01:28.75,0:01:31.05,Default,,0,0,0,,Hey!
 Dialogue: 0,0:01:31.05,0:01:36.81,Default - white,,0,0,0,,{\pos(980,897)}Nisokaze Ken :Disqualified
 Dialogue: 0,0:01:37.75,0:01:40.15,Default,,0,0,0,,And one is eliminated
 Dialogue: 0,0:01:45.35,0:01:49.20,Default,,0,0,0,,Who the hell are you?!\NYou can't go in there!
-Dialogue: 0,0:02:00.48,0:02:07.50,default - cyan,,0,0,0,,{\pos(964,129)}#/tv/shows subs presents
+Dialogue: 0,0:02:00.48,0:02:07.50,default - cyan,,0,0,0,,{\pos(964,129)}#/tv/shows Scrying and Tupla summoning community presents
 Dialogue: 0,0:02:11.41,0:02:13.21,Default - red,,0,0,0,,{\pos(309.334,939.666)}Goro Takeshi
 Dialogue: 0,0:02:11.41,0:02:13.25,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
 Dialogue: 0,0:02:20.08,0:02:21.88,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
 Dialogue: 0,0:02:20.08,0:02:21.88,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
 Dialogue: 0,0:02:28.75,0:02:30.55,Default - red,,0,0,0,,{\pos(437.333,1057)}Yoshida Eisaku
 Dialogue: 0,0:02:28.75,0:02:30.55,Default - white,,0,0,0,,{\pos(744,758.333)}Akagi Shigeru
+Dialogue: 0,0:02:55.65,0:02:59.20,Default,,0,0,0,,{\pos(968,121)}#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:02:59.20,0:03:02.75,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
 Dialogue: 0,0:03:02.75,0:03:04.95,Default,,0,0,0,,{\pos(962.667,649)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
 Dialogue: 0,0:03:02.75,0:03:04.95,Default - white,,0,0,0,,{\pos(966.667,917)}Episode 6
 Dialogue: 0,0:03:05.60,0:03:09.05,Default,,0,0,0,,You rightly removed someone.
