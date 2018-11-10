@@ -15,17 +15,18 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 231
-Active Line: 253
-Video Position: 49941
+Video Zoom Percent: 0.500000
+Scroll Position: 81
+Active Line: 96
+Video Position: 12321
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,81,&H0000F0FF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,27,1
-Style: default - cyan,Open Sans Semibold,81,&H00FFE600,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,27,1
-Style: Default - white,Open Sans Semibold,81,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,27,1
-Style: Default - red,Open Sans Semibold,81,&H000019FF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,2,0,0,27,1
+Style: Default,Open Sans Semibold,81,&H0000F0FF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2,2,0,0,27,1
+Style: default - cyan,Open Sans Semibold,81,&H00FFE600,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
+Style: Default - white,Open Sans Semibold,81,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
+Style: Default - red,Open Sans Semibold,81,&H000019FF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
+Style: small - white,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -111,9 +112,9 @@ Dialogue: 0,0:05:36.28,0:05:38.28,Default,,0,0,0,,play as you always do
 Dialogue: 0,0:05:43.65,0:05:46.31,Default,,0,0,0,,keep presence of mind
 Dialogue: 0,0:05:48.28,0:05:50.28,Default,,0,0,0,,and don't lose sight of...
 Dialogue: 0,0:05:50.28,0:05:52.28,Default,,0,0,0,,yourself
-Dialogue: 0,0:06:00.95,0:06:05.10,Default - white,,0,0,0,,{\pos(1668,765)}First Game\NEast Round 1
-Dialogue: 0,0:06:00.95,0:06:05.10,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
-Dialogue: 0,0:06:00.95,0:06:05.10,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 25000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:06:00.95,0:06:05.10,small - white,,0,0,0,,{\pos(1680,793)}First Game\NEast Round 1
+Dialogue: 0,0:06:00.95,0:06:05.10,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:06:00.95,0:06:05.10,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 25000 Mitsui: 25000\NSoga: 25000 Nakatsu: 25000
 Dialogue: 0,0:06:08.30,0:06:13.25,Default,,0,0,0,,We're under rule that wins beneath Mangan don't count
 Dialogue: 0,0:06:16.80,0:06:20.00,Default,,0,0,0,,so everyone is aiming for a Mangan win or greater
 Dialogue: 0,0:06:20.00,0:06:25.65,Default,,0,0,0,,You'd think this would make for a spectacular game, but it doesn't
@@ -123,9 +124,9 @@ Dialogue: 0,0:06:32.40,0:06:34.40,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:06:35.88,0:06:37.88,Default,,0,0,0,,Red Dragon only
 Dialogue: 0,0:06:39.05,0:06:41.85,Default,,0,0,0,,and the rule that prevents accumulated wins
 Dialogue: 0,0:06:41.85,0:06:45.15,Default,,0,0,0,,hangs heavy over us
-Dialogue: 0,0:06:45.15,0:06:50.71,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
-Dialogue: 0,0:06:45.15,0:06:50.71,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 25000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:06:45.15,0:06:50.71,Default - white,,0,0,0,,{\pos(1652,785)}Game 1\NEast Round 4
+Dialogue: 0,0:06:45.15,0:06:50.71,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:06:45.15,0:06:50.71,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 25000 Mitsui: 25000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:06:45.15,0:06:50.71,small - white,,0,0,0,,{\pos(1686,771)}Game 1\NEast Round 4
 Dialogue: 0,0:06:47.25,0:06:49.40,Default,,0,0,0,,{\pos(748,837)}Of course, Mangan or greater hands...
 Dialogue: 0,0:06:49.40,0:06:51.95,Default,,0,0,0,,{\pos(844,841)}they're easy to read based on related yaku
 Dialogue: 0,0:06:51.95,0:06:55.60,Default,,0,0,0,,Additionally, as a Tsumo will decrease a teammate's points
@@ -153,39 +154,39 @@ Dialogue: 0,0:10:24.75,0:10:29.05,Default,,0,0,0,,Pinfu, Iitsu, one dora.\NA Man
 Dialogue: 0,0:10:30.18,0:10:35.40,Default,,0,0,0,,Because you were held captive by that Chiniisou, you could only see the 5Pin as "baggage"
 Dialogue: 0,0:10:35.40,0:10:39.75,Default,,0,0,0,,After getting a good starting hand you thought it was TOO good
 Dialogue: 0,0:10:39.75,0:10:43.85,Default,,0,0,0,,It's a tough game.\NSo be tough
-Dialogue: 0,0:10:48.61,0:10:54.81,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
-Dialogue: 0,0:10:48.61,0:10:54.81,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 {\c&H0000FF&}Mitsui: {\c&HFFFFFF&}17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:10:48.61,0:10:54.81,Default - white,,0,0,0,,{\pos(1618.667,871.667)}South Round 2
+Dialogue: 0,0:10:48.61,0:10:54.81,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 25000\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:10:48.61,0:10:54.81,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 25000 {\c&H0000FF&}Mitsui: {\c&HFFFFFF&}17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:10:48.61,0:10:54.81,small - white,,0,0,0,,{\pos(1664.667,883.667)}South Round 2
 Dialogue: 0,0:11:04.80,0:11:07.55,Default,,0,0,0,,Ron
 Dialogue: 0,0:11:07.55,0:11:10.75,Default,,0,0,0,,TanYao, 3 Dora
 Dialogue: 0,0:11:10.75,0:11:13.95,Default,,0,0,0,,Mangan
-Dialogue: 0,0:11:15.91,0:11:19.90,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki:{\c&H0000FF&} 17000{\c&HFFFFFF&}\NAkagi: 25000 Ginji: 25000
-Dialogue: 0,0:11:15.91,0:11:19.90,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:11:15.91,0:11:19.90,Default - white,,0,0,0,,{\pos(1608,877)}South Round 4
+Dialogue: 0,0:11:15.91,0:11:19.90,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki:{\c&H0000FF&} 17000{\c&HFFFFFF&}\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:11:15.91,0:11:19.90,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 25000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:11:15.91,0:11:19.90,small - white,,0,0,0,,{\pos(1652,891)}South Round 4
 Dialogue: 0,0:11:26.35,0:11:28.98,Default,,0,0,0,,Ron
 Dialogue: 0,0:11:28.98,0:11:30.98,Default,,0,0,0,,Honitsu via South Wind
 Dialogue: 0,0:11:31.68,0:11:33.68,Default,,0,0,0,,Mangan
 Dialogue: 0,0:11:33.68,0:11:35.68,Default,,0,0,0,,[feels like shit]
-Dialogue: 0,0:11:37.65,0:11:40.91,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: {\c&H0019FF&}9000{\c&HFFFFFF&}\NAkagi: 25000 Ginji: 25000
-Dialogue: 0,0:11:37.65,0:11:40.91,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 25000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:11:37.65,0:11:40.91,Default - white,,0,0,0,,{\pos(1664,789)}Game 2\NEast Round 1
+Dialogue: 0,0:11:37.65,0:11:40.91,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: {\c&H0019FF&}9000{\c&HFFFFFF&}\NAkagi: 25000 Ginji: 25000
+Dialogue: 0,0:11:37.65,0:11:40.91,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 25000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:11:37.65,0:11:40.91,small - white,,0,0,0,,{\pos(1680,803)}Game 2\NEast Round 1
 Dialogue: 0,0:11:43.60,0:11:45.80,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:11:45.80,0:11:47.80,Default,,0,0,0,,Chiniisou
 Dialogue: 0,0:11:47.80,0:11:49.80,Default,,0,0,0,,Mangan
-Dialogue: 0,0:11:55.05,0:12:00.71,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: {\c&H0000FF&}7000{\c&HFFFFFF&}\NAkagi: 25000 Ginji:{\c&H0019FF&} 21000{\c&HFFFFFF&}
-Dialogue: 0,0:11:55.05,0:12:00.71,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: {\c&H0000FF&}23000{\c&HFFFFFF&} Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:11:55.05,0:12:00.71,Default - white,,0,0,0,,{\pos(1661.333,714.333)}Game 2\NEast Round 4
-Dialogue: 0,0:11:56.15,0:11:59.55,Default,,0,0,0,,{\pos(957.333,794.333)}At the Mahjong Tag Team Match for 2 and a half hours
-Dialogue: 0,0:11:59.55,0:12:03.15,Default,,0,0,0,,{\pos(957.333,823.667)}As I thought, Hiroyuki is the first one they'd try to corner
+Dialogue: 0,0:11:55.05,0:12:00.71,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: {\c&H0000FF&}7000{\c&HFFFFFF&}\NAkagi: 25000 Ginji:{\c&H0019FF&} 21000{\c&HFFFFFF&}
+Dialogue: 0,0:11:55.05,0:12:00.71,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: {\c&H0000FF&}23000{\c&HFFFFFF&} Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:11:55.05,0:12:00.71,small - white,,0,0,0,,{\pos(1665.333,802.333)}Game 2\NEast Round 4
+Dialogue: 0,0:11:56.15,0:11:59.55,Default,,0,0,0,,{\pos(805.333,800.333)}We've been at the Mahjong Tag Team Match for 2 and a half hours
+Dialogue: 0,0:11:59.55,0:12:03.15,Default,,0,0,0,,{\pos(805.333,800.333)}As I thought, Hiroyuki is the first one they'd try to corner
 Dialogue: 0,0:12:03.15,0:12:05.65,Default,,0,0,0,,He's only got 7,000 points left
 Dialogue: 0,0:12:05.65,0:12:08.20,Default,,0,0,0,,If he deals into a Mangan or greater hand
 Dialogue: 0,0:12:08.20,0:12:10.20,Default,,0,0,0,,it's OVER
 Dialogue: 0,0:12:16.40,0:12:20.45,Default,,0,0,0,,the result: he's paralyzed into playing defensively
 Dialogue: 0,0:12:20.45,0:12:22.35,Default,,0,0,0,,Hiroyuki alone won't do it
 Dialogue: 0,0:12:22.35,0:12:25.85,Default,,0,0,0,,endure enough to pass the hand to your partner, Akagi
-Dialogue: 0,0:14:06.61,0:14:11.71,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
-Dialogue: 0,0:14:06.61,0:14:11.71,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 23000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:14:06.61,0:14:11.71,Default - white,,0,0,0,,{\pos(1656,797)}2nd Game\NEast Round 2
+Dialogue: 0,0:14:06.61,0:14:11.71,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:14:06.61,0:14:11.71,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 23000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:14:06.61,0:14:11.71,small - white,,0,0,0,,{\pos(1692,801)}2nd Game\NEast Round 2
 Dialogue: 0,0:14:23.25,0:14:27.50,Default,,0,0,0,,So, the telltale signs of a Kokusi Musou, hunh?
 Dialogue: 0,0:14:58.20,0:15:00.95,Default,,0,0,0,,Riichi
 Dialogue: 0,0:15:03.70,0:15:07.25,Default,,0,0,0,,That riichi. Like intentionally throwing yourself off a cliff
@@ -214,9 +215,9 @@ Dialogue: 0,0:16:50.30,0:16:53.75,Default,,0,0,0,,If we replace all the tiles it
 Dialogue: 0,0:16:53.75,0:16:56.50,Default,,0,0,0,,But that just limits the cheat to one game at a time
 Dialogue: 0,0:16:56.50,0:16:59.15,Default,,0,0,0,,His uncanny "luck" will just show itself again
 Dialogue: 0,0:16:59.15,0:17:02.70,Default,,0,0,0,,I've got to understand how he's doing it
-Dialogue: 0,0:17:04.81,0:17:10.41,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
-Dialogue: 0,0:17:04.81,0:17:10.41,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: {\c&H0019FF&}15000{\c&HFFFFFF&} Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:17:04.81,0:17:10.41,Default - white,,0,0,0,,{\pos(1661.333,789)}Game 3\NEast Round 3
+Dialogue: 0,0:17:04.81,0:17:10.41,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:17:04.81,0:17:10.41,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: {\c&H0019FF&}15000{\c&HFFFFFF&} Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:17:04.81,0:17:10.41,small - white,,0,0,0,,{\pos(1675.333,807)}Game 3\NEast Round 3
 Dialogue: 0,0:17:16.20,0:17:20.05,Default,,0,0,0,,One tile from a SuuAnKou tenpai?
 Dialogue: 0,0:17:34.95,0:17:37.85,Default,,0,0,0,,Ron
 Dialogue: 0,0:17:38.60,0:17:40.95,Default,,0,0,0,,chitoitsu
@@ -230,9 +231,9 @@ Dialogue: 0,0:18:04.95,0:18:07.55,Default,,0,0,0,,Ginji's marked tiles are a hol
 Dialogue: 0,0:18:07.55,0:18:11.00,Default,,0,0,0,,It's only come out on tiles limited to me
 Dialogue: 0,0:18:11.00,0:18:13.40,Default,,0,0,0,,a stubborn threat
 Dialogue: 0,0:18:13.40,0:18:16.10,Default,,0,0,0,,A tooth that can't bite
-Dialogue: 0,0:18:16.85,0:18:22.38,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
-Dialogue: 0,0:18:16.85,0:18:22.38,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:18:16.85,0:18:22.38,Default - white,,0,0,0,,{\pos(1637.333,794.333)}4th Game\NSouth Round 1
+Dialogue: 0,0:18:16.85,0:18:22.38,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:18:16.85,0:18:22.38,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:18:16.85,0:18:22.38,small - white,,0,0,0,,{\pos(1671.333,812.333)}4th Game\NSouth Round 1
 Dialogue: 0,0:18:31.25,0:18:33.95,Default,,0,0,0,,Riichi
 Dialogue: 0,0:19:01.00,0:19:03.70,Default,,0,0,0,,He played a safe pair
 Dialogue: 0,0:19:03.70,0:19:07.60,Default,,0,0,0,,that's not how someone plays when they know my hand through gampai
@@ -250,17 +251,17 @@ Dialogue: 0,0:19:53.20,0:19:56.35,Default,,0,0,0,,just in case
 Dialogue: 0,0:20:03.00,0:20:05.91,Default,,0,0,0,,waiting on a single West Wind
 Dialogue: 0,0:20:17.30,0:20:20.01,Default,,0,0,0,,WHAT THE FUCK IS THIS WIZARDRY?!?
 Dialogue: 0,0:20:20.01,0:20:23.35,Default,,0,0,0,,Not a single flaw or mark
-Dialogue: 0,0:20:31.95,0:20:36.38,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
-Dialogue: 0,0:20:31.95,0:20:36.38,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:20:31.95,0:20:36.38,Default - white,,0,0,0,,{\pos(1613.333,807.667)}4th Game\NSouth Round 4
+Dialogue: 0,0:20:31.95,0:20:36.38,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:20:31.95,0:20:36.38,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:20:31.95,0:20:36.38,small - white,,0,0,0,,{\pos(1657.333,801.667)}4th Game\NSouth Round 4
 Dialogue: 0,0:21:01.65,0:21:04.38,Default,,0,0,0,,What time is it?
 Dialogue: 0,0:21:04.38,0:21:07.80,Default,,0,0,0,,It's been 7 hours since we started?
 Dialogue: 0,0:21:09.05,0:21:10.70,Default,,0,0,0,,Okay
 Dialogue: 0,0:21:10.70,0:21:12.70,Default,,0,0,0,,Break time
 Dialogue: 0,0:23:48.10,0:23:51.01,Default,,0,0,0,,We start again
-Dialogue: 0,0:23:51.88,0:23:56.78,Default - white,,0,0,0,,{\pos(548,309)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
-Dialogue: 0,0:23:51.88,0:23:56.78,Default - white,,0,0,0,,{\pos(1368,541)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
-Dialogue: 0,0:23:51.88,0:23:56.78,Default - white,,0,0,0,,{\pos(1653.333,802.333)}Game 5\NSouth Round 2
+Dialogue: 0,0:23:51.88,0:23:56.78,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 25000 Hiroyuki: 7000\NAkagi: 25000 Ginji: 21000
+Dialogue: 0,0:23:51.88,0:23:56.78,small - white,,0,0,0,,{\pos(1140,183)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 25000
+Dialogue: 0,0:23:51.88,0:23:56.78,small - white,,0,0,0,,{\pos(1667.333,798.333)}Game 5\NSouth Round 2
 Dialogue: 0,0:24:42.35,0:24:46.15,Default,,0,0,0,,If I discard the South Wind I've got a pair wait on Red or White dragon
 Dialogue: 0,0:24:46.15,0:24:48.50,Default,,0,0,0,,If I Riichi and Tsumo with a Tatehon
 Dialogue: 0,0:24:46.15,0:24:51.05,default - cyan,,0,0,0,,{\pos(986.667,127.667)}Tatehon: a closed Honiitsu (single suit) hand
@@ -288,9 +289,9 @@ Dialogue: 0,0:26:39.90,0:26:42.30,Default,,0,0,0,,doing it to merely 7 tiles
 Dialogue: 0,0:26:42.30,0:26:44.85,Default,,0,0,0,,it's like a simple indicator
 Dialogue: 0,0:26:45.95,0:26:49.15,Default,,0,0,0,,And now that defenseless back of yours
 Dialogue: 0,0:26:51.08,0:26:53.90,Default,,0,0,0,,I'll cut it through
-Dialogue: 0,0:26:57.75,0:27:00.51,Default,,0,0,0,,I'm done
-Dialogue: 0,0:27:05.85,0:27:08.71,Default,,0,0,0,,And that's it
-Dialogue: 0,0:27:11.35,0:27:15.20,Default,,0,0,0,,East Wind, SanAnKou, 4 Dora
+Dialogue: 0,0:26:57.75,0:27:00.51,Default,,0,0,0,,{\pos(960,869)}I'm done
+Dialogue: 0,0:27:05.85,0:27:08.71,Default,,0,0,0,,{\pos(988,813)}Agreed
+Dialogue: 0,0:27:11.35,0:27:15.20,Default,,0,0,0,,{\pos(996,789)}East Wind, SanAnKou, Chanta 4 Dora
 Dialogue: 0,0:27:16.38,0:27:18.38,Default,,0,0,0,,A baiman win
 Dialogue: 0,0:27:21.65,0:27:24.68,Default,,0,0,0,,A dealer baiman is 24,000 points!
 Dialogue: 0,0:27:25.05,0:27:27.31,Default,,0,0,0,,Ginji is OUT
