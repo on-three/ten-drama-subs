@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 6
-Active Line: 30
-Video Position: 5375
+Scroll Position: 242
+Active Line: 255
+Video Position: 47909
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,7 +53,7 @@ Dialogue: 0,0:01:28.75,0:01:31.05,Default,,0,0,0,,Hey!
 Dialogue: 0,0:01:31.05,0:01:36.81,Default - white,,0,0,0,,{\pos(980,897)}Nisokaze Ken :Disqualified
 Dialogue: 0,0:01:37.75,0:01:40.15,Default,,0,0,0,,And one is eliminated
 Dialogue: 0,0:01:45.35,0:01:49.20,Default,,0,0,0,,Who the hell are you?!\NYou can't go in there!
-Dialogue: 0,0:02:00.48,0:02:07.50,default - cyan,,0,0,0,,{\pos(964,129)}#/tv/shows Scrying and Tupla summoning community presents
+Dialogue: 0,0:02:00.48,0:02:07.50,default - cyan,,0,0,0,,{\pos(952,189)}#/tv/shows Scrying and Tupla summoning community presents
 Dialogue: 0,0:02:11.41,0:02:13.21,Default - red,,0,0,0,,{\pos(309.334,939.666)}Goro Takeshi
 Dialogue: 0,0:02:11.41,0:02:13.25,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
 Dialogue: 0,0:02:20.08,0:02:21.88,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
@@ -275,13 +275,13 @@ Dialogue: 0,0:25:03.90,0:25:06.58,Default,,0,0,0,,Riichi
 Dialogue: 0,0:25:26.20,0:25:29.61,Default,,0,0,0,,With this... a BAIMAN win
 Dialogue: 0,0:25:37.50,0:25:39.65,Default,,0,0,0,,It's not a White Dragon!
 Dialogue: 0,0:25:39.65,0:25:42.65,Default,,0,0,0,,I'm certain on this tile's right side I...
-Dialogue: 0,0:26:02.20,0:26:04.90,Default,,0,0,0,,Finally I've caught...
-Dialogue: 0,0:26:04.90,0:26:06.90,Default,,0,0,0,,Ginji by his tail
-Dialogue: 0,0:26:06.90,0:26:11.15,Default,,0,0,0,,In the end Ginji has only marked 7 tiles
-Dialogue: 0,0:26:11.15,0:26:13.15,Default,,0,0,0,,only Honor tiles
+Dialogue: 0,0:26:02.20,0:26:04.90,Default,,0,0,0,,{\pos(976,877)}Finally I've caught...
+Dialogue: 0,0:26:04.90,0:26:06.90,Default,,0,0,0,,{\pos(960,845)}Ginji by his tail
+Dialogue: 0,0:26:06.90,0:26:11.15,Default,,0,0,0,,{\pos(968,789)}In the end Ginji has only marked 7 tiles
+Dialogue: 0,0:26:11.15,0:26:13.15,Default,,0,0,0,,{\pos(964,829)}only Honor tiles
 Dialogue: 0,0:26:13.15,0:26:15.95,Default,,0,0,0,,{\pos(962.667,871.667)}Normally, it's done on the backs of tiles
 Dialogue: 0,0:26:15.95,0:26:17.95,Default,,0,0,0,,{\pos(970.667,887.667)}But Ginji
-Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,{\pos(965.333,879.667)}while fiddling his tiles he smeared them with something
+Dialogue: 0,0:26:17.95,0:26:22.90,Default,,0,0,0,,{\pos(965.333,879.667)}while fiddling with his tiles he smeared them with something
 Dialogue: 0,0:26:22.90,0:26:27.05,Default,,0,0,0,,perhaps when he did that thing, touching his hair
 Dialogue: 0,0:26:27.05,0:26:30.00,Default,,0,0,0,,He had rigged something for that moment
 Dialogue: 0,0:26:30.00,0:26:33.95,Default,,0,0,0,,and he smeared it on the FACE of each tile
