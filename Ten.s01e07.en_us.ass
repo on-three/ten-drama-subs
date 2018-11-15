@@ -5,27 +5,28 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 124
-Active Line: 154
-Video Position: 23775
+Scroll Position: 257
+Active Line: 287
+Video Position: 50057
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,36,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: default - cyan,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: Default - white,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: Default - red,Open Sans Semibold,36,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: small - white,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default,Open Sans Semibold,81,&H0000F0FF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
+Style: default - cyan,Open Sans Semibold,81,&H00FFE600,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
+Style: Default - white,Open Sans Semibold,81,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
+Style: Default - red,Open Sans Semibold,81,&H000019FF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
+Style: small - white,Open Sans Semibold,61,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,27,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -175,7 +176,7 @@ Dialogue: 0,0:12:29.61,0:12:32.45,Default,,0,0,0,,ただ手が走っただけだ
 Dialogue: 0,0:12:36.05,0:12:39.15,Default,,0,0,0,,勝負の最中は頭など使わず
 Dialogue: 0,0:12:39.15,0:12:40.90,Default,,0,0,0,,ただ感じて
 Dialogue: 0,0:12:40.90,0:12:42.90,Default,,0,0,0,,準ずればいいのさ
-Dialogue: 0,0:12:42.90,0:12:44.90,Default,,0,0,0,,
+Dialogue: 0,0:12:42.90,0:12:44.90,Default,,0,0,0,,準ずれ
 Dialogue: 0,0:12:44.90,0:12:48.60,Default,,0,0,0,,今この時しか無いという好機に準ずる
 Dialogue: 0,0:12:48.60,0:12:51.20,Default,,0,0,0,,その気持が好機を呼び、
 Dialogue: 0,0:12:51.20,0:12:54.10,Default,,0,0,0,,はぐくみ、育てる
@@ -185,3 +186,135 @@ Dialogue: 0,0:13:04.11,0:13:06.40,Default,,0,0,0,,この好機
 Dialogue: 0,0:13:07.41,0:13:10.55,Default,,0,0,0,,逃しちゃならねぇ！
 Dialogue: 0,0:13:10.55,0:13:12.95,Default,,0,0,0,,これから
 Dialogue: 0,0:13:13.71,0:13:16.85,Default,,0,0,0,,東の逆襲だ！
+Dialogue: 0,0:14:50.30,0:14:54.80,Default,,0,0,0,,
+Dialogue: 0,0:14:56.75,0:14:59.50,Default,,0,0,0,,
+Dialogue: 0,0:14:59.50,0:15:02.70,Default,,0,0,0,,
+Dialogue: 0,0:15:03.48,0:15:05.85,Default,,0,0,0,,
+Dialogue: 0,0:15:25.65,0:15:27.55,Default,,0,0,0,,
+Dialogue: 0,0:15:27.55,0:15:30.35,Default,,0,0,0,,
+Dialogue: 0,0:15:36.50,0:15:38.35,Default,,0,0,0,,
+Dialogue: 0,0:15:38.35,0:15:39.75,Default,,0,0,0,,
+Dialogue: 0,0:15:39.75,0:15:41.75,Default,,0,0,0,,
+Dialogue: 0,0:15:45.85,0:15:47.10,Default,,0,0,0,,
+Dialogue: 0,0:15:47.10,0:15:49.10,Default,,0,0,0,,
+Dialogue: 0,0:15:49.10,0:15:51.90,Default,,0,0,0,,
+Dialogue: 0,0:15:51.90,0:15:54.25,Default,,0,0,0,,
+Dialogue: 0,0:15:54.25,0:15:56.25,Default,,0,0,0,,
+Dialogue: 0,0:15:56.25,0:15:58.25,Default,,0,0,0,,
+Dialogue: 0,0:16:07.20,0:16:09.25,Default,,0,0,0,,
+Dialogue: 0,0:16:09.25,0:16:11.05,Default,,0,0,0,,
+Dialogue: 0,0:16:11.05,0:16:13.05,Default,,0,0,0,,
+Dialogue: 0,0:16:13.05,0:16:15.55,Default,,0,0,0,,
+Dialogue: 0,0:16:35.05,0:16:36.95,Default,,0,0,0,,完全なムダヅモ
+Dialogue: 0,0:16:36.95,0:16:39.75,Default,,0,0,0,,
+Dialogue: 0,0:16:55.65,0:16:58.28,Default,,0,0,0,,
+Dialogue: 0,0:17:01.41,0:17:02.70,Default,,0,0,0,,
+Dialogue: 0,0:17:02.70,0:17:06.70,Default,,0,0,0,,
+Dialogue: 0,0:17:06.70,0:17:09.10,Default,,0,0,0,,
+Dialogue: 0,0:17:20.25,0:17:22.70,Default,,0,0,0,,
+Dialogue: 0,0:17:22.70,0:17:25.20,Default,,0,0,0,,
+Dialogue: 0,0:17:25.20,0:17:28.15,Default,,0,0,0,,
+Dialogue: 0,0:17:29.75,0:17:31.60,Default,,0,0,0,,
+Dialogue: 0,0:17:31.60,0:17:33.60,Default,,0,0,0,,
+Dialogue: 0,0:17:41.10,0:17:43.00,Default,,0,0,0,,
+Dialogue: 0,0:17:43.00,0:17:45.00,Default,,0,0,0,,
+Dialogue: 0,0:17:45.85,0:17:47.85,Default,,0,0,0,,
+Dialogue: 0,0:18:03.40,0:18:06.48,Default,,0,0,0,,
+Dialogue: 0,0:18:06.48,0:18:09.30,Default,,0,0,0,,
+Dialogue: 0,0:18:11.25,0:18:14.15,Default,,0,0,0,,本来はリーチの後に待ちを変えて
+Dialogue: 0,0:18:14.15,0:18:16.15,Default,,0,0,0,,カンをしてはいけない
+Dialogue: 0,0:18:16.15,0:18:18.15,Default,,0,0,0,,違法のカンで
+Dialogue: 0,0:18:18.15,0:18:21.00,Default,,0,0,0,,原田を削りとった！
+Dialogue: 0,0:18:24.50,0:18:27.50,Default,,0,0,0,,
+Dialogue: 0,0:18:27.50,0:18:29.85,Default,,0,0,0,,
+Dialogue: 0,0:18:29.85,0:18:32.70,Default,,0,0,0,,
+Dialogue: 0,0:18:32.70,0:18:36.25,Default,,0,0,0,,
+Dialogue: 0,0:18:36.25,0:18:38.50,Default,,0,0,0,,
+Dialogue: 0,0:18:38.50,0:18:40.90,Default,,0,0,0,,
+Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,
+Dialogue: 0,0:18:45.30,0:18:47.10,Default,,0,0,0,,
+Dialogue: 0,0:18:47.10,0:18:49.70,Default,,0,0,0,,
+Dialogue: 0,0:18:53.35,0:18:56.15,Default,,0,0,0,,
+Dialogue: 0,0:18:56.15,0:18:58.15,Default,,0,0,0,,
+Dialogue: 0,0:18:58.15,0:19:00.85,Default,,0,0,0,,迷彩はリーチの前に作るもの
+Dialogue: 0,0:19:00.85,0:19:02.85,Default,,0,0,0,,それが麻雀の前提条件
+Dialogue: 0,0:19:03.51,0:19:06.85,Default,,0,0,0,,赤木さんは前提そのものをひっくり返した
+Dialogue: 0,0:19:06.85,0:19:08.85,Default,,0,0,0,,逆転の目さえ
+Dialogue: 0,0:19:08.85,0:19:11.20,Default,,0,0,0,,
+Dialogue: 0,0:19:16.70,0:19:23.45,Default,,0,0,0,,
+Dialogue: 0,0:19:32.25,0:19:34.88,Default,,0,0,0,,
+Dialogue: 0,0:19:38.45,0:19:40.10,Default,,0,0,0,,
+Dialogue: 0,0:19:40.10,0:19:42.80,Default,,0,0,0,,
+Dialogue: 0,0:19:44.75,0:19:47.20,Default,,0,0,0,,赤木のノーテンリーチ
+Dialogue: 0,0:19:47.20,0:19:50.85,Default,,0,0,0,,違法カンで流れは東軍に傾きはじめる
+Dialogue: 0,0:19:54.48,0:19:59.20,Default,,0,0,0,,
+Dialogue: 0,0:20:19.15,0:20:21.78,Default,,0,0,0,,
+Dialogue: 0,0:20:26.68,0:20:28.68,Default,,0,0,0,,調子に乗りやがって
+Dialogue: 0,0:20:28.68,0:20:31.65,Default,,0,0,0,,
+Dialogue: 0,0:20:31.65,0:20:34.50,Default,,0,0,0,,
+Dialogue: 0,0:20:34.50,0:20:37.10,Default,,0,0,0,,
+Dialogue: 0,0:20:52.10,0:20:53.80,Default,,0,0,0,,
+Dialogue: 0,0:20:53.80,0:20:57.30,Default,,0,0,0,,
+Dialogue: 0,0:20:57.30,0:21:00.05,Default,,0,0,0,,
+Dialogue: 0,0:21:08.75,0:21:11.45,Default,,0,0,0,,
+Dialogue: 0,0:21:15.38,0:21:18.30,Default,,0,0,0,,どんな勝負手が入っていようと
+Dialogue: 0,0:21:18.30,0:21:22.95,Default,,0,0,0,,残り3000点でビビっとる小僧が打つなら怖くない
+Dialogue: 0,0:21:22.95,0:21:25.30,Default,,0,0,0,,いよいよとなれば
+Dialogue: 0,0:21:25.30,0:21:26.70,Default,,0,0,0,,奴はおりる
+Dialogue: 0,0:21:26.70,0:21:29.30,Default,,0,0,0,,この局は貰った
+Dialogue: 0,0:21:44.15,0:21:47.05,Default,,0,0,0,,
+Dialogue: 0,0:21:56.30,0:21:58.98,Default,,0,0,0,,
+Dialogue: 0,0:22:00.95,0:22:03.25,Default,,0,0,0,,
+Dialogue: 0,0:22:03.25,0:22:07.00,Default,,0,0,0,,
+Dialogue: 0,0:22:07.00,0:22:09.00,Default,,0,0,0,,
+Dialogue: 0,0:22:09.65,0:22:13.20,Default,,0,0,0,,
+Dialogue: 0,0:22:15.15,0:22:18.50,Default,,0,0,0,,
+Dialogue: 0,0:22:18.50,0:22:21.25,Default,,0,0,0,,
+Dialogue: 0,0:22:21.25,0:22:25.35,Default,,0,0,0,,ここは赤木とワシのサシ勝負だ
+Dialogue: 0,0:24:03.40,0:24:06.38,Default,,0,0,0,,
+Dialogue: 0,0:24:15.40,0:24:17.75,Default,,0,0,0,,小僧も聴牌
+Dialogue: 0,0:24:17.75,0:24:19.75,Default,,0,0,0,,染めに行ったか
+Dialogue: 0,0:24:19.75,0:24:21.15,Default,,0,0,0,,面白い
+Dialogue: 0,0:24:21.15,0:24:23.15,Default,,0,0,0,,そんなに死にたきゃ
+Dialogue: 0,0:24:23.15,0:24:25.55,Default,,0,0,0,,討ち取ってやる
+Dialogue: 0,0:25:03.95,0:25:07.25,Default,,0,0,0,,
+Dialogue: 0,0:25:07.25,0:25:09.25,Default,,0,0,0,,
+Dialogue: 0,0:25:09.25,0:25:13.65,Default,,0,0,0,,今まででは考えられない打ち筋
+Dialogue: 0,0:25:18.45,0:25:20.60,Default,,0,0,0,,
+Dialogue: 0,0:25:30.35,0:25:33.40,Default,,0,0,0,,
+Dialogue: 0,0:25:33.40,0:25:36.45,Default,,0,0,0,,
+Dialogue: 0,0:25:36.45,0:25:40.15,Default,,0,0,0,,
+Dialogue: 0,0:25:40.15,0:25:43.70,Default,,0,0,0,,
+Dialogue: 0,0:25:43.70,0:25:46.05,Default,,0,0,0,,
+Dialogue: 0,0:25:46.05,0:25:48.50,Default,,0,0,0,,
+Dialogue: 0,0:25:48.50,0:25:52.10,Default,,0,0,0,,
+Dialogue: 0,0:25:55.50,0:25:57.75,Default,,0,0,0,,
+Dialogue: 0,0:25:59.71,0:26:01.71,Default,,0,0,0,,
+Dialogue: 0,0:26:08.25,0:26:10.00,Default,,0,0,0,,
+Dialogue: 0,0:26:10.00,0:26:12.55,Default,,0,0,0,,
+Dialogue: 0,0:26:12.55,0:26:15.85,Default,,0,0,0,,
+Dialogue: 0,0:26:19.45,0:26:23.75,Default,,0,0,0,,
+Dialogue: 0,0:26:23.75,0:26:27.65,Default,,0,0,0,,
+Dialogue: 0,0:26:28.41,0:26:31.70,Default,,0,0,0,,
+Dialogue: 0,0:26:31.70,0:26:36.60,Default,,0,0,0,,
+Dialogue: 0,0:26:41.50,0:26:44.05,Default,,0,0,0,,
+Dialogue: 0,0:26:44.05,0:26:46.05,Default,,0,0,0,,
+Dialogue: 0,0:26:46.05,0:26:47.95,Default,,0,0,0,,
+Dialogue: 0,0:26:47.95,0:26:49.95,Default,,0,0,0,,
+Dialogue: 0,0:26:49.95,0:26:52.70,Default,,0,0,0,,
+Dialogue: 0,0:26:57.05,0:27:00.00,Default,,0,0,0,,ここまで慎重だった小僧が
+Dialogue: 0,0:27:00.00,0:27:03.25,Default,,0,0,0,,なぜここまで捨て身の打ち回しを
+Dialogue: 0,0:27:03.25,0:27:05.25,Default,,0,0,0,,答えはたぶん
+Dialogue: 0,0:27:05.25,0:27:07.25,Default,,0,0,0,,赤木の手にある
+Dialogue: 0,0:27:08.21,0:27:10.75,Default,,0,0,0,,赤木のあの手
+Dialogue: 0,0:27:10.75,0:27:12.75,Default,,0,0,0,,恐らくブラフ
+Dialogue: 0,0:27:14.71,0:27:18.55,Default,,0,0,0,,赤木は自分の和了などはなからない
+Dialogue: 0,0:27:19.31,0:27:21.31,Default,,0,0,0,,小僧の援護のため、
+Dialogue: 0,0:27:21.31,0:27:23.31,Default,,0,0,0,,身を削っていた
+Dialogue: 0,0:27:23.31,0:27:26.05,Default,,0,0,0,,それが小僧の心をうったんだ
+Dialogue: 0,0:27:26.05,0:27:28.05,Default,,0,0,0,,伝わった
+Dialogue: 0,0:27:29.01,0:27:32.15,Default,,0,0,0,,赤木しげるの究極の感性
+Dialogue: 0,0:27:32.15,0:27:34.15,Default,,0,0,0,,。精神
+Dialogue: 0,0:27:34.98,0:27:37.85,Default,,0,0,0,,まずいな
+Dialogue: 0,0:27:42.61,0:27:44.61,Default,,0,0,0,,ひろゆき
+Dialogue: 0,0:27:46.10,0:27:48.58,Default,,0,0,0,,化けたな
