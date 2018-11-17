@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 257
-Active Line: 287
-Video Position: 50057
+Scroll Position: 84
+Active Line: 108
+Video Position: 16475
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,225 +30,225 @@ Style: small - white,Open Sans Semibold,61,&H00FFFFFF,&H000019FF,&H00020814,&H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.25,Default,,0,0,0,,
-Dialogue: 0,0:00:03.25,0:00:05.25,Default,,0,0,0,,
-Dialogue: 0,0:00:05.25,0:00:07.25,Default,,0,0,0,,
-Dialogue: 0,0:00:07.25,0:00:09.60,Default,,0,0,0,,
-Dialogue: 0,0:00:09.60,0:00:10.75,Default,,0,0,0,,
-Dialogue: 0,0:00:10.75,0:00:12.75,Default,,0,0,0,,
-Dialogue: 0,0:00:15.50,0:00:17.55,Default,,0,0,0,,
-Dialogue: 0,0:00:17.55,0:00:20.10,Default,,0,0,0,,
-Dialogue: 0,0:00:20.95,0:00:24.05,Default,,0,0,0,,1人は1局終わるまで固定
-Dialogue: 0,0:00:24.05,0:00:26.05,Default,,0,0,0,,後の2人は
-Dialogue: 0,0:00:26.05,0:00:29.05,Default,,0,0,0,,10順毎に交代する。
-Dialogue: 0,0:00:30.45,0:00:33.75,Default,,0,0,0,,3人でグルグル交代すると
+Dialogue: 0,0:00:00.00,0:00:03.25,Default,,0,0,0,,Having both Akagi and Ten completes the East team
+Dialogue: 0,0:00:03.25,0:00:05.25,Default,,0,0,0,,I'm a laughing stock
+Dialogue: 0,0:00:05.25,0:00:07.25,Default,,0,0,0,,It's a tough game\NSo be tough
+Dialogue: 0,0:00:07.25,0:00:09.60,Default,,0,0,0,,Not a single flaw or mark
+Dialogue: 0,0:00:09.60,0:00:10.75,Default,,0,0,0,,Ginji is out!
+Dialogue: 0,0:00:10.75,0:00:12.75,Default,,0,0,0,,I'm done
+Dialogue: 0,0:00:15.50,0:00:17.55,Default,,0,0,0,,Okay?
+Dialogue: 0,0:00:17.55,0:00:20.10,Default,,0,0,0,,There's three of you left
+Dialogue: 0,0:00:20.95,0:00:24.05,Default,,0,0,0,,One of you will play throughout each match1人は1局終わるまで固定
+Dialogue: 0,0:00:24.05,0:00:26.05,Default,,0,0,0,,And the other two後の2人は
+Dialogue: 0,0:00:26.05,0:00:29.05,Default,,0,0,0,,Will change places on the 10th turn10順毎に交代する。
+Dialogue: 0,0:00:30.45,0:00:33.75,Default,,0,0,0,,The three of you rotating3人でグルグル交代すると
 Dialogue: 0,0:00:33.75,0:00:36.45,Default,,0,0,0,,牌の見せ合いになってまうやろ
-Dialogue: 0,0:00:37.95,0:00:40.41,Default,,0,0,0,,
-Dialogue: 0,0:00:40.41,0:00:42.41,Default,,0,0,0,,
-Dialogue: 0,0:00:42.41,0:00:44.41,Default,,0,0,0,,
-Dialogue: 0,0:00:44.41,0:00:46.41,Default,,0,0,0,,
+Dialogue: 0,0:00:37.95,0:00:40.41,Default,,0,0,0,,Hey
+Dialogue: 0,0:00:40.41,0:00:42.41,Default,,0,0,0,,Agreed?
+Dialogue: 0,0:00:42.41,0:00:44.41,Default,,0,0,0,,Yes
+Dialogue: 0,0:00:44.41,0:00:46.41,Default,,0,0,0,,Agreed
 Dialogue: 0,0:00:47.41,0:00:52.68,Default,,0,0,0,,
-Dialogue: 0,0:00:58.50,0:01:02.75,Default,,0,0,0,,まさか、銀さんが消えるなんて
-Dialogue: 0,0:01:07.15,0:01:09.00,Default,,0,0,0,,
-Dialogue: 0,0:01:09.00,0:01:11.00,Default,,0,0,0,,
-Dialogue: 0,0:01:12.55,0:01:15.55,Default,,0,0,0,,赤木はドラが僧我に流れ
-Dialogue: 0,0:01:21.65,0:01:23.81,Default,,0,0,0,,
-Dialogue: 0,0:01:26.55,0:01:28.25,Default,,0,0,0,,
-Dialogue: 0,0:01:28.25,0:01:30.25,Default,,0,0,0,,
-Dialogue: 0,0:01:30.25,0:01:32.50,Default,,0,0,0,,
-Dialogue: 0,0:01:32.50,0:01:34.80,Default,,0,0,0,,
-Dialogue: 0,0:01:34.80,0:01:36.80,Default,,0,0,0,,
-Dialogue: 0,0:01:40.98,0:01:43.40,Default,,0,0,0,,
-Dialogue: 0,0:01:43.40,0:01:46.35,Default,,0,0,0,,
-Dialogue: 0,0:01:46.35,0:01:48.65,Default,,0,0,0,,
-Dialogue: 0,0:01:50.35,0:01:53.40,Default,,0,0,0,,
-Dialogue: 0,0:01:53.40,0:01:57.45,Default,,0,0,0,,
-Dialogue: 0,0:01:57.45,0:01:59.90,Default,,0,0,0,,
-Dialogue: 0,0:01:59.90,0:02:01.90,Default,,0,0,0,,ツキがなかったな。
-Dialogue: 0,0:02:03.45,0:02:05.45,Default,,0,0,0,,
-Dialogue: 0,0:02:06.35,0:02:10.25,Default,,0,0,0,,お前の待ちはすでに死んでいる
-Dialogue: 0,0:02:16.70,0:02:18.25,Default,,0,0,0,,
-Dialogue: 0,0:02:18.25,0:02:22.40,Default,,0,0,0,,
-Dialogue: 0,0:02:30.25,0:02:32.85,Default,,0,0,0,,受け取れ赤木
-Dialogue: 0,0:02:32.85,0:02:36.40,Default,,0,0,0,,
-Dialogue: 0,0:02:53.00,0:02:56.05,Default,,0,0,0,,
-Dialogue: 0,0:02:56.05,0:02:59.15,Default,,0,0,0,,
-Dialogue: 0,0:03:01.08,0:03:03.45,Default,,0,0,0,,ここからがみもの
-Dialogue: 0,0:03:03.45,0:03:07.45,Default,,0,0,0,,赤木はこういう挑発的な真似をされて
-Dialogue: 0,0:03:07.45,0:03:10.80,Default,,0,0,0,,黙って引き下がる男じゃない
-Dialogue: 0,0:03:10.80,0:03:16.15,Default,,0,0,0,,この送ったドラ、上がれるものなら上がってみろ
-Dialogue: 0,0:03:19.60,0:03:21.25,Default,,0,0,0,,やなりな
-Dialogue: 0,0:03:21.25,0:03:24.00,Default,,0,0,0,,小僧がこの場にいるからだ
-Dialogue: 0,0:03:24.00,0:03:26.65,Default,,0,0,0,,
-Dialogue: 0,0:03:26.65,0:03:29.40,Default,,0,0,0,,
-Dialogue: 0,0:03:29.40,0:03:32.55,Default,,0,0,0,,
-Dialogue: 0,0:03:32.55,0:03:34.35,Default,,0,0,0,,
-Dialogue: 0,0:03:34.35,0:03:37.40,Default,,0,0,0,,
-Dialogue: 0,0:03:56.35,0:03:59.28,Default,,0,0,0,,引いた
-Dialogue: 0,0:03:59.28,0:04:01.28,Default,,0,0,0,,
-Dialogue: 0,0:04:03.95,0:04:07.08,Default,,0,0,0,,
-Dialogue: 0,0:04:12.78,0:04:16.15,Default,,0,0,0,,
-Dialogue: 0,0:04:16.15,0:04:18.15,Default,,0,0,0,,
-Dialogue: 0,0:04:18.35,0:04:21.75,Default,,0,0,0,,和了るべき時に和了っていかないと
-Dialogue: 0,0:04:22.41,0:04:24.85,Default,,0,0,0,,泣きを見るというのが
-Dialogue: 0,0:04:24.85,0:04:26.85,Default,,0,0,0,,勝負というものだな
-Dialogue: 0,0:04:28.81,0:04:31.40,Default,,0,0,0,,赤木よ
-Dialogue: 0,0:04:31.40,0:04:34.50,Default,,0,0,0,,目を覚ましな
-Dialogue: 0,0:04:34.50,0:04:38.50,Default,,0,0,0,,他人の尻拭いなんて真似してると
-Dialogue: 0,0:04:38.50,0:04:40.50,Default,,0,0,0,,死ぬぞ
+Dialogue: 0,0:00:58.50,0:01:02.75,Default,,0,0,0,,Holy shit. Ginji's goneまさか、銀さんが消えるなんて
+Dialogue: 0,0:01:07.15,0:01:09.00,Default,,0,0,0,,Pon
+Dialogue: 0,0:01:09.00,0:01:11.00,Default,,0,0,0,,a 7 Man dora
+Dialogue: 0,0:01:12.55,0:01:15.55,Default,,0,0,0,,The dora have been just coming to Sogaドラが僧我に流れ
+Dialogue: 0,0:01:21.65,0:01:23.81,Default,,0,0,0,,Riichi
+Dialogue: 0,0:01:26.55,0:01:28.25,Default,,0,0,0,,Soga in the current 4th game
+Dialogue: 0,0:01:28.25,0:01:30.25,Default,,0,0,0,,Is aiming for a chitoitsu
+Dialogue: 0,0:01:30.25,0:01:32.50,Default,,0,0,0,,declaring Riichi on a dora haitei draw
+Dialogue: 0,0:01:32.50,0:01:34.80,Default,,0,0,0,,there's a possibility of a dora pair
+Dialogue: 0,0:01:34.80,0:01:36.80,Default,,0,0,0,,which makes a Mangan (確定）
+Dialogue: 0,0:01:40.98,0:01:43.40,Default,,0,0,0,,the fact that i've got 3 dora
+Dialogue: 0,0:01:43.40,0:01:46.35,Default,,0,0,0,,means there's but one in that fag's hand
+Dialogue: 0,0:01:46.35,0:01:48.65,Default,,0,0,0,,he's on a single "naked" wait for a dora
+Dialogue: 0,0:01:50.35,0:01:53.40,Default,,0,0,0,,since he's on a dora wait, if he draws it he's sure to have a haneman win
+Dialogue: 0,0:01:53.40,0:01:57.45,Default,,0,0,0,,but in my play I've accumulated 3 dora
+Dialogue: 0,0:01:57.45,0:01:59.90,Default,,0,0,0,,Soga's wait vanishes
+Dialogue: 0,0:01:59.90,0:02:01.90,Default,,0,0,0,,Just unlucky I guessツキがなかったな。
+Dialogue: 0,0:02:03.45,0:02:05.45,Default,,0,0,0,,Riichi
+Dialogue: 0,0:02:06.35,0:02:10.25,Default,,0,0,0,,Your wait is already deadお前の待ちはすでに死んでいる
+Dialogue: 0,0:02:16.70,0:02:18.25,Default,,0,0,0,,I see
+Dialogue: 0,0:02:18.25,0:02:22.40,Default,,0,0,0,,He's accumulated 3 dora, hadn't he
+Dialogue: 0,0:02:30.25,0:02:32.85,Default,,0,0,0,,Take it, Akagi
+Dialogue: 0,0:02:32.85,0:02:36.40,Default,,0,0,0,,It's a gift from me
+Dialogue: 0,0:02:53.00,0:02:56.05,Default,,0,0,0,,The 4th dora tile?
+Dialogue: 0,0:02:56.05,0:02:59.15,Default,,0,0,0,,You did that, didn't you Soga
+Dialogue: 0,0:03:01.08,0:03:03.45,Default,,0,0,0,,THIS now is something to see
+Dialogue: 0,0:03:03.45,0:03:07.45,Default,,0,0,0,,I'm deliberately provoking Akagi
+Dialogue: 0,0:03:07.45,0:03:10.80,Default,,0,0,0,,And he's not the kind to back down
+Dialogue: 0,0:03:10.80,0:03:16.15,Default,,0,0,0,,He'll try to use that dora I sent him to win
+Dialogue: 0,0:03:19.60,0:03:21.25,Default,,0,0,0,,as i thought
+Dialogue: 0,0:03:21.25,0:03:24.00,Default,,0,0,0,,The kid is careless at the table小僧がこの場にいるからだ
+Dialogue: 0,0:03:24.00,0:03:26.65,Default,,0,0,0,,Akagi's hand, with an Ippatsu Tsumo
+Dialogue: 0,0:03:26.65,0:03:29.40,Default,,0,0,0,,With 4 dora he's got a Haneman
+Dialogue: 0,0:03:29.40,0:03:32.55,Default,,0,0,0,,But if he wins, he'll drop the Kid's points to 1,000
+Dialogue: 0,0:03:32.55,0:03:34.35,Default,,0,0,0,,Therefore
+Dialogue: 0,0:03:34.35,0:03:37.40,Default,,0,0,0,,He'll let the win pass
+Dialogue: 0,0:03:56.35,0:03:59.28,Default,,0,0,0,,I drew it
+Dialogue: 0,0:03:59.28,0:04:01.28,Default,,0,0,0,,Tsumo
+Dialogue: 0,0:04:03.95,0:04:07.08,Default,,0,0,0,,It's about time
+Dialogue: 0,0:04:12.35,0:04:16.15,Default,,0,0,0,,Chitoitsu Tsumo with 2 Ura-Dora
+Dialogue: 0,0:04:16.15,0:04:18.15,Default,,0,0,0,,Haneman
+Dialogue: 0,0:04:18.35,0:04:21.75,Default,,0,0,0,,You've got to win when you should
+Dialogue: 0,0:04:22.41,0:04:24.85,Default,,0,0,0,,I see you calling tiles, but
+Dialogue: 0,0:04:24.85,0:04:26.85,Default,,0,0,0,,But winning's the thing, isn't it
+Dialogue: 0,0:04:28.81,0:04:31.40,Default,,0,0,0,,Akagi, sweetie
+Dialogue: 0,0:04:31.40,0:04:34.50,Default,,0,0,0,,wake up darling
+Dialogue: 0,0:04:34.50,0:04:38.50,Default,,0,0,0,,stop screwing around and wiping other people's ass for them
+Dialogue: 0,0:04:38.50,0:04:40.50,Default,,0,0,0,,You'll end up dead
 Dialogue: 0,0:04:48.25,0:04:51.58,Default,,0,0,0,,
-Dialogue: 0,0:04:51.85,0:04:53.70,Default,,0,0,0,,僧我の跳満以降
-Dialogue: 0,0:04:53.70,0:04:56.45,Default,,0,0,0,,流れが西に傾き
-Dialogue: 0,0:04:58.41,0:05:00.41,Default,,0,0,0,,
-Dialogue: 0,0:05:00.41,0:05:03.75,Default,,0,0,0,,
-Dialogue: 0,0:05:04.88,0:05:06.88,Default,,0,0,0,,
+Dialogue: 0,0:04:51.85,0:04:53.70,Default,,0,0,0,,Since Soga's Haneman
+Dialogue: 0,0:04:53.70,0:04:56.45,Default,,0,0,0,,The game flow has been on the West side
+Dialogue: 0,0:04:58.41,0:05:00.41,Default,,0,0,0,,OhhhKAY
+Dialogue: 0,0:05:00.41,0:05:03.75,Default,,0,0,0,,Tsumo. Tanpin, Sansyoku, one Dora
+Dialogue: 0,0:05:04.88,0:05:06.88,Default,,0,0,0,,Haneman
 Dialogue: 0,0:05:09.91,0:05:14.10,Default,,0,0,0,,
-Dialogue: 0,0:05:18.78,0:05:20.78,Default,,0,0,0,,
-Dialogue: 0,0:05:29.08,0:05:31.08,Default,,0,0,0,,
-Dialogue: 0,0:05:31.08,0:05:33.08,Default,,0,0,0,,
-Dialogue: 0,0:05:35.85,0:05:39.10,Default,,0,0,0,,
-Dialogue: 0,0:05:39.10,0:05:41.10,Default,,0,0,0,,
-Dialogue: 0,0:05:41.10,0:05:44.05,Default,,0,0,0,,
-Dialogue: 0,0:05:44.05,0:05:46.95,Default,,0,0,0,,
+Dialogue: 0,0:05:18.78,0:05:20.78,Default,,0,0,0,,Tsumo
+Dialogue: 0,0:05:29.08,0:05:31.08,Default,,0,0,0,,with an additional dora
+Dialogue: 0,0:05:31.08,0:05:33.08,Default,,0,0,0,,A Baiman win
+Dialogue: 0,0:05:35.85,0:05:39.10,Default,,0,0,0,,Getting a tsumo win while I'm dealer
+Dialogue: 0,0:05:39.10,0:05:41.10,Default,,0,0,0,,hits me for double the points
+Dialogue: 0,0:05:41.10,0:05:44.05,Default,,0,0,0,,and it delivers damage to the enemy too
+Dialogue: 0,0:05:44.05,0:05:46.95,Default,,0,0,0,,Soga's tsumo win affects everyone, whether you like it or not
 Dialogue: 0,0:05:46.95,0:05:51.60,Default,,0,0,0,,
-Dialogue: 0,0:05:51.60,0:05:54.15,Default,,0,0,0,,ひろゆきはもう
-Dialogue: 0,0:05:54.15,0:05:57.60,Default,,0,0,0,,崖っぷち
+Dialogue: 0,0:05:51.60,0:05:54.15,Default,,0,0,0,,And Hiroyuki's already...
+Dialogue: 0,0:05:54.15,0:05:57.60,Default,,0,0,0,,On the edge of the cliff
 Dialogue: 0,0:07:06.51,0:07:09.90,Default,,0,0,0,,
-Dialogue: 0,0:07:14.15,0:07:16.85,Default,,0,0,0,,
-Dialogue: 0,0:07:27.30,0:07:28.80,Default,,0,0,0,,
-Dialogue: 0,0:07:28.80,0:07:33.30,Default,,0,0,0,,
-Dialogue: 0,0:07:33.30,0:07:35.85,Default,,0,0,0,,
-Dialogue: 0,0:07:56.90,0:08:00.55,Default,,0,0,0,,
-Dialogue: 0,0:08:00.55,0:08:03.65,Default,,0,0,0,,
-Dialogue: 0,0:08:03.65,0:08:06.10,Default,,0,0,0,,
-Dialogue: 0,0:08:23.40,0:08:26.25,Default,,0,0,0,,
-Dialogue: 0,0:08:27.15,0:08:30.35,Default,,0,0,0,,
-Dialogue: 0,0:08:30.35,0:08:31.90,Default,,0,0,0,,
-Dialogue: 0,0:08:31.90,0:08:33.90,Default,,0,0,0,,
-Dialogue: 0,0:08:33.90,0:08:35.35,Default,,0,0,0,,
-Dialogue: 0,0:08:35.35,0:08:37.90,Default,,0,0,0,,
-Dialogue: 0,0:08:37.90,0:08:39.55,Default,,0,0,0,,
-Dialogue: 0,0:08:39.55,0:08:41.55,Default,,0,0,0,,
-Dialogue: 0,0:08:41.55,0:08:43.55,Default,,0,0,0,,
-Dialogue: 0,0:08:43.55,0:08:45.55,Default,,0,0,0,,
-Dialogue: 0,0:08:45.55,0:08:48.10,Default,,0,0,0,,
-Dialogue: 0,0:08:50.20,0:08:52.85,Default,,0,0,0,,凌いだ
-Dialogue: 0,0:08:52.85,0:08:55.60,Default,,0,0,0,,赤木さんのプレッシャーに原田が屈した
-Dialogue: 0,0:08:55.60,0:08:58.90,Default,,0,0,0,,赤木さんの薄気味悪い捨て牌と気迫に押され
-Dialogue: 0,0:08:58.90,0:09:00.90,Default,,0,0,0,,和了らざるおえなかった
-Dialogue: 0,0:09:05.10,0:09:06.30,Default,,0,0,0,,ブラフ
-Dialogue: 0,0:09:06.30,0:09:09.15,Default,,0,0,0,,リーチをかけた
-Dialogue: 0,0:09:09.15,0:09:12.90,Default,,0,0,0,,ノーテンリーチであり、流局になれ
-Dialogue: 0,0:09:12.90,0:09:15.35,Default,,0,0,0,,8000点の罰符になっていた
-Dialogue: 0,0:09:15.35,0:09:19.10,Default,,0,0,0,,自爆覚悟のノーテンリーチ
+Dialogue: 0,0:07:14.15,0:07:16.85,Default,,0,0,0,,One more tile and I'm in Tenpai (Haru)
+Dialogue: 0,0:07:27.30,0:07:28.80,Default,,0,0,0,,Got it
+Dialogue: 0,0:07:28.80,0:07:33.30,Default,,0,0,0,,But If I declare Riichi, I don't think the 6 or 9 Man will come out
+Dialogue: 0,0:07:33.30,0:07:35.85,Default,,0,0,0,,DAMATEN (forgo Riichi)
+Dialogue: 0,0:07:56.90,0:08:00.55,Default,,0,0,0,,Akagi ought to have already noted my Chanta hand
+Dialogue: 0,0:08:00.55,0:08:03.65,Default,,0,0,0,,despite whatever he's noticed, he might discard the Green Dragon
+Dialogue: 0,0:08:03.65,0:08:06.10,Default,,0,0,0,,this hand is big enough
+Dialogue: 0,0:08:23.40,0:08:26.25,Default,,0,0,0,,Riichi
+Dialogue: 0,0:08:27.15,0:08:30.35,Default,,0,0,0,,Declaring Riichi with an extremely dangerous dora
+Dialogue: 0,0:08:30.35,0:08:31.90,Default,,0,0,0,,He's got a Sansyoku
+Dialogue: 0,0:08:31.90,0:08:33.90,Default,,0,0,0,,or Chiniitsou
+Dialogue: 0,0:08:33.90,0:08:35.35,Default,,0,0,0,,FUCK
+Dialogue: 0,0:08:35.35,0:08:37.90,Default,,0,0,0,,With that 6 Man I've only got a Mangan hand
+Dialogue: 0,0:08:37.90,0:08:39.55,Default,,0,0,0,,But right now
+Dialogue: 0,0:08:39.55,0:08:41.55,Default,,0,0,0,,I've got no choice but to take it
+Dialogue: 0,0:08:41.55,0:08:43.55,Default,,0,0,0,,Ron
+Dialogue: 0,0:08:43.55,0:08:45.55,Default,,0,0,0,,South, Red Dragon, one dora
+Dialogue: 0,0:08:45.55,0:08:48.10,Default,,0,0,0,,6,400 points
+Dialogue: 0,0:08:50.20,0:08:52.85,Default,,0,0,0,,We survived
+Dialogue: 0,0:08:52.85,0:08:55.60,Default,,0,0,0,,Harada flinched under Akagi's pressure
+Dialogue: 0,0:08:55.60,0:08:58.90,Default,,0,0,0,,Akagi's odd discards overcame his spirit
+Dialogue: 0,0:08:58.90,0:09:00.90,Default,,0,0,0,,Akagi wasn't ready to go out at all
+Dialogue: 0,0:09:05.10,0:09:06.30,Default,,0,0,0,,It was a bluff
+Dialogue: 0,0:09:06.30,0:09:09.15,Default,,0,0,0,,If his Riichi were revealed...
+Dialogue: 0,0:09:09.15,0:09:12.90,Default,,0,0,0,,or if the match came to a draw, his fake riichi would be found out
+Dialogue: 0,0:09:12.90,0:09:15.35,Default,,0,0,0,,that would mean an 8,000 point penalty
+Dialogue: 0,0:09:15.35,0:09:19.10,Default,,0,0,0,,A NO TENPAI SUICIDE RIICHI
 Dialogue: 0,0:09:21.05,0:09:25.55,Default,,0,0,0,,
-Dialogue: 0,0:09:29.50,0:09:32.25,Default,,0,0,0,,
-Dialogue: 0,0:09:36.50,0:09:39.28,Default,,0,0,0,,
-Dialogue: 0,0:09:40.65,0:09:43.25,Default,,0,0,0,,
-Dialogue: 0,0:10:24.85,0:10:27.81,Default,,0,0,0,,やりやがった
-Dialogue: 0,0:10:33.95,0:10:35.35,Default,,0,0,0,,
-Dialogue: 0,0:10:35.35,0:10:37.25,Default,,0,0,0,,
-Dialogue: 0,0:10:37.25,0:10:39.65,Default,,0,0,0,,
-Dialogue: 0,0:10:39.95,0:10:43.20,Default,,0,0,0,,
-Dialogue: 0,0:10:43.81,0:10:46.85,Default,,0,0,0,,
+Dialogue: 0,0:09:29.50,0:09:32.25,Default,,0,0,0,,Chii
+Dialogue: 0,0:09:36.50,0:09:39.28,Default,,0,0,0,,Pon
+Dialogue: 0,0:09:40.65,0:09:43.25,Default,,0,0,0,,A Sou (bamboo) only hand?
+Dialogue: 0,0:10:24.85,0:10:27.81,Default,,0,0,0,,They did itやりやがった
+Dialogue: 0,0:10:33.95,0:10:35.35,Default,,0,0,0,,I drew it
+Dialogue: 0,0:10:35.35,0:10:37.25,Default,,0,0,0,,I'm in tenpai if I discard a 7 Man
+Dialogue: 0,0:10:37.25,0:10:39.65,Default,,0,0,0,,but as they swapped tiles I can't discard it
+Dialogue: 0,0:10:39.95,0:10:43.20,Default,,0,0,0,,Soga was passed something like a Dora hidden triplet
+Dialogue: 0,0:10:43.81,0:10:46.85,Default,,0,0,0,,If he wins it's a tanyao with 3 dora
 Dialogue: 0,0:10:46.85,0:10:50.40,Default,,0,0,0,,
-Dialogue: 0,0:10:58.25,0:11:00.25,Default,,0,0,0,,
-Dialogue: 0,0:11:00.25,0:11:03.10,Default,,0,0,0,,
-Dialogue: 0,0:11:03.75,0:11:05.35,Default,,0,0,0,,
-Dialogue: 0,0:11:05.35,0:11:06.80,Default,,0,0,0,,なぜ？
+Dialogue: 0,0:10:58.25,0:11:00.25,Default,,0,0,0,,I absolutely can't deal into his hand
+Dialogue: 0,0:11:00.25,0:11:03.10,Default,,0,0,0,,They're playing damn dirty Mahjong
+Dialogue: 0,0:11:03.75,0:11:05.35,Default,,0,0,0,,Pon
+Dialogue: 0,0:11:05.35,0:11:06.80,Default,,0,0,0,,W-why?なぜ？
 Dialogue: 0,0:11:06.80,0:11:10.55,Default,,0,0,0,,
 Dialogue: 0,0:11:10.55,0:11:15.65,Default,,0,0,0,,安全牌の9筒は抱えておいたほうが？
-Dialogue: 0,0:11:16.81,0:11:18.45,Default,,0,0,0,,まさか、
-Dialogue: 0,0:11:18.45,0:11:20.45,Default,,0,0,0,,気付いていないのか！？
-Dialogue: 0,0:11:20.45,0:11:23.95,Default,,0,0,0,,席替えのタイミングで原田のすり替え
-Dialogue: 0,0:11:32.75,0:11:34.75,Default,,0,0,0,,ロン
-Dialogue: 0,0:11:36.25,0:11:38.25,Default,,0,0,0,,断么九ドラ3
-Dialogue: 0,0:11:38.25,0:11:40.25,Default,,0,0,0,,満貫や
-Dialogue: 0,0:11:43.98,0:11:45.98,Default,,0,0,0,,どういうことだ？
-Dialogue: 0,0:11:45.98,0:11:47.98,Default,,0,0,0,,
-Dialogue: 0,0:11:48.81,0:11:52.35,Default,,0,0,0,,何がドラ3だって？
-Dialogue: 0,0:12:00.18,0:12:02.55,Default,,0,0,0,,ドラがすり替えられいた
-Dialogue: 0,0:12:08.35,0:12:10.35,Default,,0,0,0,,おどれっ！！
-Dialogue: 0,0:12:16.95,0:12:20.65,Default,,0,0,0,,まさかドラ表示自体をすり替えるとは
-Dialogue: 0,0:12:22.61,0:12:25.65,Default,,0,0,0,,あの一瞬でそんな発想は・・・
-Dialogue: 0,0:12:27.61,0:12:29.61,Default,,0,0,0,,俺の意志じゃなく
-Dialogue: 0,0:12:29.61,0:12:32.45,Default,,0,0,0,,ただ手が走っただけだ
-Dialogue: 0,0:12:36.05,0:12:39.15,Default,,0,0,0,,勝負の最中は頭など使わず
-Dialogue: 0,0:12:39.15,0:12:40.90,Default,,0,0,0,,ただ感じて
-Dialogue: 0,0:12:40.90,0:12:42.90,Default,,0,0,0,,準ずればいいのさ
-Dialogue: 0,0:12:42.90,0:12:44.90,Default,,0,0,0,,準ずれ
-Dialogue: 0,0:12:44.90,0:12:48.60,Default,,0,0,0,,今この時しか無いという好機に準ずる
-Dialogue: 0,0:12:48.60,0:12:51.20,Default,,0,0,0,,その気持が好機を呼び、
-Dialogue: 0,0:12:51.20,0:12:54.10,Default,,0,0,0,,はぐくみ、育てる
-Dialogue: 0,0:12:54.10,0:12:56.10,Default,,0,0,0,,結果的に
-Dialogue: 0,0:12:56.10,0:12:59.30,Default,,0,0,0,,勝ちへの道を開く
-Dialogue: 0,0:13:04.11,0:13:06.40,Default,,0,0,0,,この好機
-Dialogue: 0,0:13:07.41,0:13:10.55,Default,,0,0,0,,逃しちゃならねぇ！
-Dialogue: 0,0:13:10.55,0:13:12.95,Default,,0,0,0,,これから
-Dialogue: 0,0:13:13.71,0:13:16.85,Default,,0,0,0,,東の逆襲だ！
+Dialogue: 0,0:11:16.81,0:11:18.45,Default,,0,0,0,,Holy shitまさか、
+Dialogue: 0,0:11:18.45,0:11:20.45,Default,,0,0,0,,He didn't notice?気付いていないのか！？
+Dialogue: 0,0:11:20.45,0:11:23.95,Default,,0,0,0,,He didn't see Harada swap the tiles when changing seats!席替えのタイミングで原田のすり替え
+Dialogue: 0,0:11:32.75,0:11:34.75,Default,,0,0,0,,Ronロン
+Dialogue: 0,0:11:36.25,0:11:38.25,Default,,0,0,0,,Tanyao with 3 dora断么九ドラ3
+Dialogue: 0,0:11:38.25,0:11:40.25,Default,,0,0,0,,Mangan満貫や
+Dialogue: 0,0:11:43.98,0:11:45.98,Default,,0,0,0,,How you figure that?どういうことだ？
+Dialogue: 0,0:11:45.98,0:11:47.98,Default,,0,0,0,,Hunh?
+Dialogue: 0,0:11:48.81,0:11:52.35,Default,,0,0,0,,How have you got 3 dora?何がドラ3だって？
+Dialogue: 0,0:12:00.18,0:12:02.55,Default,,0,0,0,,THE DORA CHANGEDドラがすり替えられいた
+Dialogue: 0,0:12:08.35,0:12:10.35,Default,,0,0,0,,YOU FUUUUUUUU----おどれっ！！
+Dialogue: 0,0:12:16.95,0:12:20.65,Default,,0,0,0,,Just imagine, swapping the dora indicator!まさかドラ表示自体をすり替えるとは
+Dialogue: 0,0:12:22.61,0:12:25.65,Default,,0,0,0,,To imagine that in a mere instant...あの一瞬でそんな発想は・・・
+Dialogue: 0,0:12:27.61,0:12:29.61,Default,,0,0,0,,I didn't intend to do that俺の意志じゃなく
+Dialogue: 0,0:12:29.61,0:12:32.45,Default,,0,0,0,,Just my hands moved on their ownただ手が走っただけだ
+Dialogue: 0,0:12:36.05,0:12:39.15,Default,,0,0,0,,In the midst of a game I seldom use my head勝負の最中は頭など使わず
+Dialogue: 0,0:12:39.15,0:12:40.90,Default,,0,0,0,,just my gutsただ感じて
+Dialogue: 0,0:12:40.90,0:12:42.90,Default,,0,0,0,,I just follow them準ずればいいのさ
+Dialogue: 0,0:12:42.90,0:12:44.90,Default,,0,0,0,,follow準ずれ
+Dialogue: 0,0:12:44.90,0:12:48.60,Default,,0,0,0,,At this moment I just followed a chance opportunity今この時しか無いという好機に準ずる
+Dialogue: 0,0:12:48.60,0:12:51.20,Default,,0,0,0,,and by the feeling, call opportunityその気持が好機を呼び、
+Dialogue: 0,0:12:51.20,0:12:54.10,Default,,0,0,0,,Cultivate it, raise it upはぐくみ、育てる
+Dialogue: 0,0:12:54.10,0:12:56.10,Default,,0,0,0,,the result結果的に
+Dialogue: 0,0:12:56.10,0:12:59.30,Default,,0,0,0,,you open the door to victory勝ちへの道を開く
+Dialogue: 0,0:13:04.11,0:13:06.40,Default,,0,0,0,,"This chance"この好機
+Dialogue: 0,0:13:07.41,0:13:10.55,Default,,0,0,0,,It WON'T escape us逃しちゃならねぇ！
+Dialogue: 0,0:13:10.55,0:13:12.95,Default,,0,0,0,,from here onこれから
+Dialogue: 0,0:13:13.71,0:13:16.85,Default,,0,0,0,,The East team's counterattack begins!東の逆襲だ！
 Dialogue: 0,0:14:50.30,0:14:54.80,Default,,0,0,0,,
-Dialogue: 0,0:14:56.75,0:14:59.50,Default,,0,0,0,,
-Dialogue: 0,0:14:59.50,0:15:02.70,Default,,0,0,0,,
-Dialogue: 0,0:15:03.48,0:15:05.85,Default,,0,0,0,,
-Dialogue: 0,0:15:25.65,0:15:27.55,Default,,0,0,0,,
-Dialogue: 0,0:15:27.55,0:15:30.35,Default,,0,0,0,,
-Dialogue: 0,0:15:36.50,0:15:38.35,Default,,0,0,0,,
-Dialogue: 0,0:15:38.35,0:15:39.75,Default,,0,0,0,,
-Dialogue: 0,0:15:39.75,0:15:41.75,Default,,0,0,0,,
-Dialogue: 0,0:15:45.85,0:15:47.10,Default,,0,0,0,,
-Dialogue: 0,0:15:47.10,0:15:49.10,Default,,0,0,0,,
-Dialogue: 0,0:15:49.10,0:15:51.90,Default,,0,0,0,,
-Dialogue: 0,0:15:51.90,0:15:54.25,Default,,0,0,0,,
-Dialogue: 0,0:15:54.25,0:15:56.25,Default,,0,0,0,,
-Dialogue: 0,0:15:56.25,0:15:58.25,Default,,0,0,0,,
-Dialogue: 0,0:16:07.20,0:16:09.25,Default,,0,0,0,,
-Dialogue: 0,0:16:09.25,0:16:11.05,Default,,0,0,0,,
-Dialogue: 0,0:16:11.05,0:16:13.05,Default,,0,0,0,,
-Dialogue: 0,0:16:13.05,0:16:15.55,Default,,0,0,0,,
-Dialogue: 0,0:16:35.05,0:16:36.95,Default,,0,0,0,,完全なムダヅモ
-Dialogue: 0,0:16:36.95,0:16:39.75,Default,,0,0,0,,
-Dialogue: 0,0:16:55.65,0:16:58.28,Default,,0,0,0,,
-Dialogue: 0,0:17:01.41,0:17:02.70,Default,,0,0,0,,
-Dialogue: 0,0:17:02.70,0:17:06.70,Default,,0,0,0,,
-Dialogue: 0,0:17:06.70,0:17:09.10,Default,,0,0,0,,
-Dialogue: 0,0:17:20.25,0:17:22.70,Default,,0,0,0,,
-Dialogue: 0,0:17:22.70,0:17:25.20,Default,,0,0,0,,
-Dialogue: 0,0:17:25.20,0:17:28.15,Default,,0,0,0,,
-Dialogue: 0,0:17:29.75,0:17:31.60,Default,,0,0,0,,
+Dialogue: 0,0:14:56.75,0:14:59.50,Default,,0,0,0,,He's drew a great hand
+Dialogue: 0,0:14:59.50,0:15:02.70,Default,,0,0,0,,SanAnKou, Green Dragon and one dora
+Dialogue: 0,0:15:03.48,0:15:05.85,Default,,0,0,0,,Even without declaring Riichi it's certainly a Mangan hand
+Dialogue: 0,0:15:25.65,0:15:27.55,Default,,0,0,0,,He drew a 4 Man
+Dialogue: 0,0:15:27.55,0:15:30.35,Default,,0,0,0,,He'll declare a closed Kan, I guess
+Dialogue: 0,0:15:36.50,0:15:38.35,Default,,0,0,0,,H-he DIDN'T KAN!?!?!
+Dialogue: 0,0:15:38.35,0:15:39.75,Default,,0,0,0,,W-why?
+Dialogue: 0,0:15:39.75,0:15:41.75,Default,,0,0,0,,Riichi
+Dialogue: 0,0:15:45.85,0:15:47.10,Default,,0,0,0,,It can't be!
+Dialogue: 0,0:15:47.10,0:15:49.10,Default,,0,0,0,,A 2-5 wait?
+Dialogue: 0,0:15:49.10,0:15:51.90,Default,,0,0,0,,that valuable SanAnKou just vanished!
+Dialogue: 0,0:15:51.90,0:15:54.25,Default,,0,0,0,,He's got a Riichi, Green Dragon, 1 Dora hand
+Dialogue: 0,0:15:54.25,0:15:56.25,Default,,0,0,0,,A mere 6,400 point hand
+Dialogue: 0,0:15:56.25,0:15:58.25,Default,,0,0,0,,WHY?
+Dialogue: 0,0:16:07.20,0:16:09.25,Default,,0,0,0,,I see what's going on
+Dialogue: 0,0:16:09.25,0:16:11.05,Default,,0,0,0,,Harada's playing defensively
+Dialogue: 0,0:16:11.05,0:16:13.05,Default,,0,0,0,,playing consecutive safe tiles
+Dialogue: 0,0:16:13.05,0:16:15.55,Default,,0,0,0,,The West team won't deal into his hand!
+Dialogue: 0,0:16:35.05,0:16:36.95,Default,,0,0,0,,He's got the very definition of a useless draw
+Dialogue: 0,0:16:36.95,0:16:39.75,Default,,0,0,0,,He can't possibly draw a 2-5 Man
+Dialogue: 0,0:16:55.65,0:16:58.28,Default,,0,0,0,,Kan
+Dialogue: 0,0:17:01.41,0:17:02.70,Default,,0,0,0,,Kan?
+Dialogue: 0,0:17:02.70,0:17:06.70,Default,,0,0,0,,But Akagi's probably waiting on Man tiles
+Dialogue: 0,0:17:06.70,0:17:09.10,Default,,0,0,0,,There's no reason why he should discard that tile!
+Dialogue: 0,0:17:20.25,0:17:22.70,Default,,0,0,0,,I've got a safe North Wind tile, but...
+Dialogue: 0,0:17:22.70,0:17:25.20,Default,,0,0,0,,I've got a dora and kan-dora in my hand
+Dialogue: 0,0:17:25.20,0:17:28.15,Default,,0,0,0,,If I draw the North Wind I've got a Haneman hand
+Dialogue: 0,0:17:29.75,0:17:31.60,Default,,0,0,0,,He shouldn't be any problem
 Dialogue: 0,0:17:31.60,0:17:33.60,Default,,0,0,0,,
-Dialogue: 0,0:17:41.10,0:17:43.00,Default,,0,0,0,,
-Dialogue: 0,0:17:43.00,0:17:45.00,Default,,0,0,0,,
-Dialogue: 0,0:17:45.85,0:17:47.85,Default,,0,0,0,,
-Dialogue: 0,0:18:03.40,0:18:06.48,Default,,0,0,0,,
-Dialogue: 0,0:18:06.48,0:18:09.30,Default,,0,0,0,,
-Dialogue: 0,0:18:11.25,0:18:14.15,Default,,0,0,0,,本来はリーチの後に待ちを変えて
-Dialogue: 0,0:18:14.15,0:18:16.15,Default,,0,0,0,,カンをしてはいけない
-Dialogue: 0,0:18:16.15,0:18:18.15,Default,,0,0,0,,違法のカンで
-Dialogue: 0,0:18:18.15,0:18:21.00,Default,,0,0,0,,原田を削りとった！
-Dialogue: 0,0:18:24.50,0:18:27.50,Default,,0,0,0,,
-Dialogue: 0,0:18:27.50,0:18:29.85,Default,,0,0,0,,
-Dialogue: 0,0:18:29.85,0:18:32.70,Default,,0,0,0,,
-Dialogue: 0,0:18:32.70,0:18:36.25,Default,,0,0,0,,
-Dialogue: 0,0:18:36.25,0:18:38.50,Default,,0,0,0,,
-Dialogue: 0,0:18:38.50,0:18:40.90,Default,,0,0,0,,
-Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,
-Dialogue: 0,0:18:45.30,0:18:47.10,Default,,0,0,0,,
-Dialogue: 0,0:18:47.10,0:18:49.70,Default,,0,0,0,,
-Dialogue: 0,0:18:53.35,0:18:56.15,Default,,0,0,0,,
-Dialogue: 0,0:18:56.15,0:18:58.15,Default,,0,0,0,,
-Dialogue: 0,0:18:58.15,0:19:00.85,Default,,0,0,0,,迷彩はリーチの前に作るもの
-Dialogue: 0,0:19:00.85,0:19:02.85,Default,,0,0,0,,それが麻雀の前提条件
-Dialogue: 0,0:19:03.51,0:19:06.85,Default,,0,0,0,,赤木さんは前提そのものをひっくり返した
-Dialogue: 0,0:19:06.85,0:19:08.85,Default,,0,0,0,,逆転の目さえ
-Dialogue: 0,0:19:08.85,0:19:11.20,Default,,0,0,0,,
+Dialogue: 0,0:17:41.10,0:17:43.00,Default,,0,0,0,,What?
+Dialogue: 0,0:17:43.00,0:17:45.00,Default,,0,0,0,,too bad
+Dialogue: 0,0:17:45.85,0:17:47.85,Default,,0,0,0,,but that's it
+Dialogue: 0,0:18:03.40,0:18:06.48,Default,,0,0,0,,No Ura-dora
+Dialogue: 0,0:18:06.48,0:18:09.30,Default,,0,0,0,,It's only a Mangan hand
+Dialogue: 0,0:18:11.25,0:18:14.15,Default,,0,0,0,,He changed his wait AFTER declaring riichi
+Dialogue: 0,0:18:14.15,0:18:16.15,Default,,0,0,0,,So he couldn't declare Kan
+Dialogue: 0,0:18:16.15,0:18:18.15,Default,,0,0,0,,Using an illegal Kan
+Dialogue: 0,0:18:18.15,0:18:21.00,Default,,0,0,0,,He scalped Harada!
+Dialogue: 0,0:18:24.50,0:18:27.50,Default,,0,0,0,,From the West team's perspective it was difficult to tell the Kan was illegal
+Dialogue: 0,0:18:27.50,0:18:29.85,Default,,0,0,0,,When he put the tile into his hand
+Dialogue: 0,0:18:29.85,0:18:32.70,Default,,0,0,0,,The possibility of a Kan had returned to his hand
+Dialogue: 0,0:18:32.70,0:18:36.25,Default,,0,0,0,,because after that there ware certainly 4 tiles in his Kan
+Dialogue: 0,0:18:36.25,0:18:38.50,Default,,0,0,0,,His movements were so fluid
+Dialogue: 0,0:18:38.50,0:18:40.90,Default,,0,0,0,,there was nothing amiss
+Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,with an illegal Kan
+Dialogue: 0,0:18:45.30,0:18:47.10,Default,,0,0,0,,from a 2-5 Man wait...
+Dialogue: 0,0:18:47.10,0:18:49.70,Default,,0,0,0,,to a 1 Sou single tile wait
+Dialogue: 0,0:18:53.35,0:18:56.15,Default,,0,0,0,,From his previously discarded 2 Sou
+Dialogue: 0,0:18:56.15,0:18:58.15,Default,,0,0,0,,he couldn't dodge a 1 Sou wait
+Dialogue: 0,0:18:58.15,0:19:00.85,Default,,0,0,0,,Camouflage is what you do before you delcare riichi
+Dialogue: 0,0:19:00.85,0:19:02.85,Default,,0,0,0,,It's a prerequisite in Mahjong
+Dialogue: 0,0:19:03.51,0:19:06.85,Default,,0,0,0,,Akagi turned that requirement itself on its head
+Dialogue: 0,0:19:06.85,0:19:08.85,Default,,0,0,0,,an upset itself in disguise
+Dialogue: 0,0:19:08.85,0:19:11.20,Default,,0,0,0,,A 1 Sou "naked" wait
 Dialogue: 0,0:19:16.70,0:19:23.45,Default,,0,0,0,,
-Dialogue: 0,0:19:32.25,0:19:34.88,Default,,0,0,0,,
-Dialogue: 0,0:19:38.45,0:19:40.10,Default,,0,0,0,,
-Dialogue: 0,0:19:40.10,0:19:42.80,Default,,0,0,0,,
-Dialogue: 0,0:19:44.75,0:19:47.20,Default,,0,0,0,,赤木のノーテンリーチ
-Dialogue: 0,0:19:47.20,0:19:50.85,Default,,0,0,0,,違法カンで流れは東軍に傾きはじめる
+Dialogue: 0,0:19:32.25,0:19:34.88,Default,,0,0,0,,Ron
+Dialogue: 0,0:19:38.45,0:19:40.10,Default,,0,0,0,,Jyunchan, SanSyoku
+Dialogue: 0,0:19:40.10,0:19:42.80,Default,,0,0,0,,With dealer bonus it's 12,000 points
+Dialogue: 0,0:19:44.75,0:19:47.20,Default,,0,0,0,,Akagi's declaring Riichi when not in tenpai...赤木のノーテンリーチ
+Dialogue: 0,0:19:47.20,0:19:50.85,Default,,0,0,0,,and Illegal Kan has begun to tilt the game flow to the East team違法カンで流れは東軍に傾きはじめる
 Dialogue: 0,0:19:54.48,0:19:59.20,Default,,0,0,0,,
-Dialogue: 0,0:20:19.15,0:20:21.78,Default,,0,0,0,,
+Dialogue: 0,0:20:19.15,0:20:21.78,Default,,0,0,0,,Pon
 Dialogue: 0,0:20:26.68,0:20:28.68,Default,,0,0,0,,調子に乗りやがって
 Dialogue: 0,0:20:28.68,0:20:31.65,Default,,0,0,0,,
 Dialogue: 0,0:20:31.65,0:20:34.50,Default,,0,0,0,,
