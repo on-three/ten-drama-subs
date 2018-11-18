@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 84
-Active Line: 108
-Video Position: 16475
+Scroll Position: 183
+Active Line: 206
+Video Position: 34225
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,49 +145,49 @@ Dialogue: 0,0:09:21.05,0:09:25.55,Default,,0,0,0,,
 Dialogue: 0,0:09:29.50,0:09:32.25,Default,,0,0,0,,Chii
 Dialogue: 0,0:09:36.50,0:09:39.28,Default,,0,0,0,,Pon
 Dialogue: 0,0:09:40.65,0:09:43.25,Default,,0,0,0,,A Sou (bamboo) only hand?
-Dialogue: 0,0:10:24.85,0:10:27.81,Default,,0,0,0,,They did itやりやがった
-Dialogue: 0,0:10:33.95,0:10:35.35,Default,,0,0,0,,I drew it
-Dialogue: 0,0:10:35.35,0:10:37.25,Default,,0,0,0,,I'm in tenpai if I discard a 7 Man
+Dialogue: 0,0:10:24.85,0:10:27.81,Default,,0,0,0,,They fucking did it
+Dialogue: 0,0:10:33.95,0:10:35.35,Default,,0,0,0,,I've got tenpai
+Dialogue: 0,0:10:35.35,0:10:37.25,Default,,0,0,0,,That is, if I discard 7 Man i'm in Tenpai
 Dialogue: 0,0:10:37.25,0:10:39.65,Default,,0,0,0,,but as they swapped tiles I can't discard it
 Dialogue: 0,0:10:39.95,0:10:43.20,Default,,0,0,0,,Soga was passed something like a Dora hidden triplet
-Dialogue: 0,0:10:43.81,0:10:46.85,Default,,0,0,0,,If he wins it's a tanyao with 3 dora
-Dialogue: 0,0:10:46.85,0:10:50.40,Default,,0,0,0,,
+Dialogue: 0,0:10:43.81,0:10:46.85,Default,,0,0,0,,Aiming to win with a tanyao with 3 dora
+Dialogue: 0,0:10:46.85,0:10:50.40,Default,,0,0,0,,so Tanyao tiles he hasn't discarded won't pass
 Dialogue: 0,0:10:58.25,0:11:00.25,Default,,0,0,0,,I absolutely can't deal into his hand
 Dialogue: 0,0:11:00.25,0:11:03.10,Default,,0,0,0,,They're playing damn dirty Mahjong
 Dialogue: 0,0:11:03.75,0:11:05.35,Default,,0,0,0,,Pon
-Dialogue: 0,0:11:05.35,0:11:06.80,Default,,0,0,0,,W-why?なぜ？
-Dialogue: 0,0:11:06.80,0:11:10.55,Default,,0,0,0,,
-Dialogue: 0,0:11:10.55,0:11:15.65,Default,,0,0,0,,安全牌の9筒は抱えておいたほうが？
-Dialogue: 0,0:11:16.81,0:11:18.45,Default,,0,0,0,,Holy shitまさか、
-Dialogue: 0,0:11:18.45,0:11:20.45,Default,,0,0,0,,He didn't notice?気付いていないのか！？
-Dialogue: 0,0:11:20.45,0:11:23.95,Default,,0,0,0,,He didn't see Harada swap the tiles when changing seats!席替えのタイミングで原田のすり替え
-Dialogue: 0,0:11:32.75,0:11:34.75,Default,,0,0,0,,Ronロン
-Dialogue: 0,0:11:36.25,0:11:38.25,Default,,0,0,0,,Tanyao with 3 dora断么九ドラ3
-Dialogue: 0,0:11:38.25,0:11:40.25,Default,,0,0,0,,Mangan満貫や
-Dialogue: 0,0:11:43.98,0:11:45.98,Default,,0,0,0,,How you figure that?どういうことだ？
+Dialogue: 0,0:11:05.35,0:11:06.80,Default,,0,0,0,,W-why?
+Dialogue: 0,0:11:06.80,0:11:10.55,Default,,0,0,0,,After that tile switch, what Harada's waiting on is tough to pin down
+Dialogue: 0,0:11:10.55,0:11:15.65,Default,,0,0,0,,Rather than Pon that 9 Sou safe tile, wouldn't it be better to hold onto it?
+Dialogue: 0,0:11:16.81,0:11:18.45,Default,,0,0,0,,Holy shit
+Dialogue: 0,0:11:18.45,0:11:20.45,Default,,0,0,0,,He didn't notice the swap?
+Dialogue: 0,0:11:20.45,0:11:23.95,Default,,0,0,0,,He didn't see Harada swap the tiles when changing seats!
+Dialogue: 0,0:11:32.75,0:11:34.75,Default,,0,0,0,,Ron
+Dialogue: 0,0:11:36.25,0:11:38.25,Default,,0,0,0,,Tanyao with 3 dora
+Dialogue: 0,0:11:38.25,0:11:40.25,Default,,0,0,0,,Mangan-ya
+Dialogue: 0,0:11:43.98,0:11:45.98,Default,,0,0,0,,How you figure that?
 Dialogue: 0,0:11:45.98,0:11:47.98,Default,,0,0,0,,Hunh?
-Dialogue: 0,0:11:48.81,0:11:52.35,Default,,0,0,0,,How have you got 3 dora?何がドラ3だって？
-Dialogue: 0,0:12:00.18,0:12:02.55,Default,,0,0,0,,THE DORA CHANGEDドラがすり替えられいた
-Dialogue: 0,0:12:08.35,0:12:10.35,Default,,0,0,0,,YOU FUUUUUUUU----おどれっ！！
-Dialogue: 0,0:12:16.95,0:12:20.65,Default,,0,0,0,,Just imagine, swapping the dora indicator!まさかドラ表示自体をすり替えるとは
-Dialogue: 0,0:12:22.61,0:12:25.65,Default,,0,0,0,,To imagine that in a mere instant...あの一瞬でそんな発想は・・・
-Dialogue: 0,0:12:27.61,0:12:29.61,Default,,0,0,0,,I didn't intend to do that俺の意志じゃなく
-Dialogue: 0,0:12:29.61,0:12:32.45,Default,,0,0,0,,Just my hands moved on their ownただ手が走っただけだ
-Dialogue: 0,0:12:36.05,0:12:39.15,Default,,0,0,0,,In the midst of a game I seldom use my head勝負の最中は頭など使わず
-Dialogue: 0,0:12:39.15,0:12:40.90,Default,,0,0,0,,just my gutsただ感じて
-Dialogue: 0,0:12:40.90,0:12:42.90,Default,,0,0,0,,I just follow them準ずればいいのさ
-Dialogue: 0,0:12:42.90,0:12:44.90,Default,,0,0,0,,follow準ずれ
-Dialogue: 0,0:12:44.90,0:12:48.60,Default,,0,0,0,,At this moment I just followed a chance opportunity今この時しか無いという好機に準ずる
-Dialogue: 0,0:12:48.60,0:12:51.20,Default,,0,0,0,,and by the feeling, call opportunityその気持が好機を呼び、
-Dialogue: 0,0:12:51.20,0:12:54.10,Default,,0,0,0,,Cultivate it, raise it upはぐくみ、育てる
-Dialogue: 0,0:12:54.10,0:12:56.10,Default,,0,0,0,,the result結果的に
-Dialogue: 0,0:12:56.10,0:12:59.30,Default,,0,0,0,,you open the door to victory勝ちへの道を開く
-Dialogue: 0,0:13:04.11,0:13:06.40,Default,,0,0,0,,"This chance"この好機
-Dialogue: 0,0:13:07.41,0:13:10.55,Default,,0,0,0,,It WON'T escape us逃しちゃならねぇ！
-Dialogue: 0,0:13:10.55,0:13:12.95,Default,,0,0,0,,from here onこれから
-Dialogue: 0,0:13:13.71,0:13:16.85,Default,,0,0,0,,The East team's counterattack begins!東の逆襲だ！
+Dialogue: 0,0:11:48.81,0:11:52.35,Default,,0,0,0,,How have you got 3 dora?
+Dialogue: 0,0:12:00.18,0:12:02.55,Default,,0,0,0,,HE SWAPPED THE DORA
+Dialogue: 0,0:12:08.35,0:12:10.35,Default,,0,0,0,,YOU FUUUUUUUU----
+Dialogue: 0,0:12:16.95,0:12:20.65,Default,,0,0,0,,Hell, swapping the dora indicator like that
+Dialogue: 0,0:12:22.61,0:12:25.65,Default,,0,0,0,,To imagine that in a mere instant...
+Dialogue: 0,0:12:27.61,0:12:29.61,Default,,0,0,0,,That wasn't a conscious decision
+Dialogue: 0,0:12:29.61,0:12:32.45,Default,,0,0,0,,My hands were moving on their own
+Dialogue: 0,0:12:36.05,0:12:39.15,Default,,0,0,0,,In the midst of a game I seldom use my head
+Dialogue: 0,0:12:39.15,0:12:40.90,Default,,0,0,0,,just my guts
+Dialogue: 0,0:12:40.90,0:12:42.90,Default,,0,0,0,,follow them above all else
+Dialogue: 0,0:12:42.90,0:12:44.90,Default,,0,0,0,,follow your gut instinct?
+Dialogue: 0,0:12:44.90,0:12:48.60,Default,,0,0,0,,The only opportunity you have to follow chance is in THE NOW
+Dialogue: 0,0:12:48.60,0:12:51.20,Default,,0,0,0,,The feelings in your gut summon opportunity
+Dialogue: 0,0:12:51.20,0:12:54.10,Default,,0,0,0,,Cultivate them, raise them up
+Dialogue: 0,0:12:54.10,0:12:56.10,Default,,0,0,0,,the result
+Dialogue: 0,0:12:56.10,0:12:59.30,Default,,0,0,0,,you'll open the door to victory
+Dialogue: 0,0:13:04.11,0:13:06.40,Default,,0,0,0,,And THIS opportunity
+Dialogue: 0,0:13:07.41,0:13:10.55,Default,,0,0,0,,It WON'T escape us
+Dialogue: 0,0:13:10.55,0:13:12.95,Default,,0,0,0,,from here on out
+Dialogue: 0,0:13:13.71,0:13:16.85,Default,,0,0,0,,The East team's counterattack begins!
 Dialogue: 0,0:14:50.30,0:14:54.80,Default,,0,0,0,,
-Dialogue: 0,0:14:56.75,0:14:59.50,Default,,0,0,0,,He's drew a great hand
+Dialogue: 0,0:14:56.75,0:14:59.50,Default,,0,0,0,,I've got a great hand
 Dialogue: 0,0:14:59.50,0:15:02.70,Default,,0,0,0,,SanAnKou, Green Dragon and one dora
 Dialogue: 0,0:15:03.48,0:15:05.85,Default,,0,0,0,,Even without declaring Riichi it's certainly a Mangan hand
 Dialogue: 0,0:15:25.65,0:15:27.55,Default,,0,0,0,,He drew a 4 Man
@@ -215,7 +215,7 @@ Dialogue: 0,0:17:20.25,0:17:22.70,Default,,0,0,0,,I've got a safe North Wind til
 Dialogue: 0,0:17:22.70,0:17:25.20,Default,,0,0,0,,I've got a dora and kan-dora in my hand
 Dialogue: 0,0:17:25.20,0:17:28.15,Default,,0,0,0,,If I draw the North Wind I've got a Haneman hand
 Dialogue: 0,0:17:29.75,0:17:31.60,Default,,0,0,0,,He shouldn't be any problem
-Dialogue: 0,0:17:31.60,0:17:33.60,Default,,0,0,0,,
+Dialogue: 0,0:17:31.60,0:17:33.60,Default,,0,0,0,,If I discard a low 4 Sou
 Dialogue: 0,0:17:41.10,0:17:43.00,Default,,0,0,0,,What?
 Dialogue: 0,0:17:43.00,0:17:45.00,Default,,0,0,0,,too bad
 Dialogue: 0,0:17:45.85,0:17:47.85,Default,,0,0,0,,but that's it
@@ -230,13 +230,13 @@ Dialogue: 0,0:18:27.50,0:18:29.85,Default,,0,0,0,,When he put the tile into his 
 Dialogue: 0,0:18:29.85,0:18:32.70,Default,,0,0,0,,The possibility of a Kan had returned to his hand
 Dialogue: 0,0:18:32.70,0:18:36.25,Default,,0,0,0,,because after that there ware certainly 4 tiles in his Kan
 Dialogue: 0,0:18:36.25,0:18:38.50,Default,,0,0,0,,His movements were so fluid
-Dialogue: 0,0:18:38.50,0:18:40.90,Default,,0,0,0,,there was nothing amiss
-Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,with an illegal Kan
+Dialogue: 0,0:18:38.50,0:18:40.90,Default,,0,0,0,,It looked like there was nothing amiss
+Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,With an illegal Kan
 Dialogue: 0,0:18:45.30,0:18:47.10,Default,,0,0,0,,from a 2-5 Man wait...
-Dialogue: 0,0:18:47.10,0:18:49.70,Default,,0,0,0,,to a 1 Sou single tile wait
+Dialogue: 0,0:18:47.10,0:18:49.70,Default,,0,0,0,,he went to a 1 Sou single tile wait
 Dialogue: 0,0:18:53.35,0:18:56.15,Default,,0,0,0,,From his previously discarded 2 Sou
-Dialogue: 0,0:18:56.15,0:18:58.15,Default,,0,0,0,,he couldn't dodge a 1 Sou wait
-Dialogue: 0,0:18:58.15,0:19:00.85,Default,,0,0,0,,Camouflage is what you do before you delcare riichi
+Dialogue: 0,0:18:56.15,0:18:58.15,Default,,0,0,0,,Harada couldn't dodge a 1 Sou wait
+Dialogue: 0,0:18:58.15,0:19:00.85,Default,,0,0,0,,CAMOUFLAGE is what you do before you delcare riichi
 Dialogue: 0,0:19:00.85,0:19:02.85,Default,,0,0,0,,It's a prerequisite in Mahjong
 Dialogue: 0,0:19:03.51,0:19:06.85,Default,,0,0,0,,Akagi turned that requirement itself on its head
 Dialogue: 0,0:19:06.85,0:19:08.85,Default,,0,0,0,,an upset itself in disguise
@@ -246,7 +246,7 @@ Dialogue: 0,0:19:32.25,0:19:34.88,Default,,0,0,0,,Ron
 Dialogue: 0,0:19:38.45,0:19:40.10,Default,,0,0,0,,Jyunchan, SanSyoku
 Dialogue: 0,0:19:40.10,0:19:42.80,Default,,0,0,0,,With dealer bonus it's 12,000 points
 Dialogue: 0,0:19:44.75,0:19:47.20,Default,,0,0,0,,Akagi's declaring Riichi when not in tenpai...赤木のノーテンリーチ
-Dialogue: 0,0:19:47.20,0:19:50.85,Default,,0,0,0,,and Illegal Kan has begun to tilt the game flow to the East team違法カンで流れは東軍に傾きはじめる
+Dialogue: 0,0:19:47.20,0:19:50.85,Default,,0,0,0,,and that Illegal Kan has begun to tilt the game flow to the East team違法カンで流れは東軍に傾きはじめる
 Dialogue: 0,0:19:54.48,0:19:59.20,Default,,0,0,0,,
 Dialogue: 0,0:20:19.15,0:20:21.78,Default,,0,0,0,,Pon
 Dialogue: 0,0:20:26.68,0:20:28.68,Default,,0,0,0,,調子に乗りやがって
