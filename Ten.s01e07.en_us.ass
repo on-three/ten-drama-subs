@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 183
-Active Line: 206
-Video Position: 34225
+Video Zoom Percent: 0.375000
+Scroll Position: 268
+Active Line: 284
+Video Position: 49624
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -245,76 +245,76 @@ Dialogue: 0,0:19:16.70,0:19:23.45,Default,,0,0,0,,
 Dialogue: 0,0:19:32.25,0:19:34.88,Default,,0,0,0,,Ron
 Dialogue: 0,0:19:38.45,0:19:40.10,Default,,0,0,0,,Jyunchan, SanSyoku
 Dialogue: 0,0:19:40.10,0:19:42.80,Default,,0,0,0,,With dealer bonus it's 12,000 points
-Dialogue: 0,0:19:44.75,0:19:47.20,Default,,0,0,0,,Akagi's declaring Riichi when not in tenpai...赤木のノーテンリーチ
+Dialogue: 0,0:19:44.75,0:19:47.20,Default,,0,0,0,,Akagi's declared Riichi when not in tenpai...赤木のノーテンリーチ
 Dialogue: 0,0:19:47.20,0:19:50.85,Default,,0,0,0,,and that Illegal Kan has begun to tilt the game flow to the East team違法カンで流れは東軍に傾きはじめる
 Dialogue: 0,0:19:54.48,0:19:59.20,Default,,0,0,0,,
 Dialogue: 0,0:20:19.15,0:20:21.78,Default,,0,0,0,,Pon
-Dialogue: 0,0:20:26.68,0:20:28.68,Default,,0,0,0,,調子に乗りやがって
-Dialogue: 0,0:20:28.68,0:20:31.65,Default,,0,0,0,,
-Dialogue: 0,0:20:31.65,0:20:34.50,Default,,0,0,0,,
-Dialogue: 0,0:20:34.50,0:20:37.10,Default,,0,0,0,,
-Dialogue: 0,0:20:52.10,0:20:53.80,Default,,0,0,0,,
-Dialogue: 0,0:20:53.80,0:20:57.30,Default,,0,0,0,,
-Dialogue: 0,0:20:57.30,0:21:00.05,Default,,0,0,0,,
-Dialogue: 0,0:21:08.75,0:21:11.45,Default,,0,0,0,,
-Dialogue: 0,0:21:15.38,0:21:18.30,Default,,0,0,0,,どんな勝負手が入っていようと
-Dialogue: 0,0:21:18.30,0:21:22.95,Default,,0,0,0,,残り3000点でビビっとる小僧が打つなら怖くない
-Dialogue: 0,0:21:22.95,0:21:25.30,Default,,0,0,0,,いよいよとなれば
-Dialogue: 0,0:21:25.30,0:21:26.70,Default,,0,0,0,,奴はおりる
-Dialogue: 0,0:21:26.70,0:21:29.30,Default,,0,0,0,,この局は貰った
-Dialogue: 0,0:21:44.15,0:21:47.05,Default,,0,0,0,,
-Dialogue: 0,0:21:56.30,0:21:58.98,Default,,0,0,0,,
-Dialogue: 0,0:22:00.95,0:22:03.25,Default,,0,0,0,,
-Dialogue: 0,0:22:03.25,0:22:07.00,Default,,0,0,0,,
-Dialogue: 0,0:22:07.00,0:22:09.00,Default,,0,0,0,,
-Dialogue: 0,0:22:09.65,0:22:13.20,Default,,0,0,0,,
-Dialogue: 0,0:22:15.15,0:22:18.50,Default,,0,0,0,,
-Dialogue: 0,0:22:18.50,0:22:21.25,Default,,0,0,0,,
-Dialogue: 0,0:22:21.25,0:22:25.35,Default,,0,0,0,,ここは赤木とワシのサシ勝負だ
-Dialogue: 0,0:24:03.40,0:24:06.38,Default,,0,0,0,,
-Dialogue: 0,0:24:15.40,0:24:17.75,Default,,0,0,0,,小僧も聴牌
-Dialogue: 0,0:24:17.75,0:24:19.75,Default,,0,0,0,,染めに行ったか
-Dialogue: 0,0:24:19.75,0:24:21.15,Default,,0,0,0,,面白い
-Dialogue: 0,0:24:21.15,0:24:23.15,Default,,0,0,0,,そんなに死にたきゃ
-Dialogue: 0,0:24:23.15,0:24:25.55,Default,,0,0,0,,討ち取ってやる
-Dialogue: 0,0:25:03.95,0:25:07.25,Default,,0,0,0,,
-Dialogue: 0,0:25:07.25,0:25:09.25,Default,,0,0,0,,
-Dialogue: 0,0:25:09.25,0:25:13.65,Default,,0,0,0,,今まででは考えられない打ち筋
-Dialogue: 0,0:25:18.45,0:25:20.60,Default,,0,0,0,,
-Dialogue: 0,0:25:30.35,0:25:33.40,Default,,0,0,0,,
-Dialogue: 0,0:25:33.40,0:25:36.45,Default,,0,0,0,,
-Dialogue: 0,0:25:36.45,0:25:40.15,Default,,0,0,0,,
-Dialogue: 0,0:25:40.15,0:25:43.70,Default,,0,0,0,,
-Dialogue: 0,0:25:43.70,0:25:46.05,Default,,0,0,0,,
-Dialogue: 0,0:25:46.05,0:25:48.50,Default,,0,0,0,,
-Dialogue: 0,0:25:48.50,0:25:52.10,Default,,0,0,0,,
-Dialogue: 0,0:25:55.50,0:25:57.75,Default,,0,0,0,,
-Dialogue: 0,0:25:59.71,0:26:01.71,Default,,0,0,0,,
-Dialogue: 0,0:26:08.25,0:26:10.00,Default,,0,0,0,,
-Dialogue: 0,0:26:10.00,0:26:12.55,Default,,0,0,0,,
-Dialogue: 0,0:26:12.55,0:26:15.85,Default,,0,0,0,,
-Dialogue: 0,0:26:19.45,0:26:23.75,Default,,0,0,0,,
-Dialogue: 0,0:26:23.75,0:26:27.65,Default,,0,0,0,,
-Dialogue: 0,0:26:28.41,0:26:31.70,Default,,0,0,0,,
+Dialogue: 0,0:20:26.68,0:20:28.68,Default,,0,0,0,,He's was getting cocky調子に乗りやがって
+Dialogue: 0,0:20:28.68,0:20:31.65,Default,,0,0,0,,Going for a toitoi or honiisou hand
+Dialogue: 0,0:20:31.65,0:20:34.50,Default,,0,0,0,,by putting together East and West triplets
+Dialogue: 0,0:20:34.50,0:20:37.10,Default,,0,0,0,,he's guaranteed a Mangan hand
+Dialogue: 0,0:20:52.10,0:20:53.80,Default,,0,0,0,,I'm in Tenpai
+Dialogue: 0,0:20:53.80,0:20:57.30,Default,,0,0,0,,But if chitoitsu hand doesn't get any Dora
+Dialogue: 0,0:20:57.30,0:21:00.05,Default,,0,0,0,,it won't even amount to a Mangan
+Dialogue: 0,0:21:08.75,0:21:11.45,Default,,0,0,0,,Kan
+Dialogue: 0,0:21:15.38,0:21:18.30,Default,,0,0,0,,whatever the contest...どんな勝負手が入っていようと
+Dialogue: 0,0:21:18.30,0:21:22.95,Default,,0,0,0,,I ain't afraid what some pipsqueak with only 3000 points left plays残り3000点でビビっとる小僧が打つなら怖くない
+Dialogue: 0,0:21:22.95,0:21:25.30,Default,,0,0,0,,whatever happensいよいよとなれば
+Dialogue: 0,0:21:25.30,0:21:26.70,Default,,0,0,0,,he'll lose奴はおりる
+Dialogue: 0,0:21:26.70,0:21:29.30,Default,,0,0,0,,I've got this roundこの局は貰った
+Dialogue: 0,0:21:44.15,0:21:47.05,Default,,0,0,0,,Pon
+Dialogue: 0,0:21:56.30,0:21:58.98,Default,,0,0,0,,Pon
+Dialogue: 0,0:22:00.95,0:22:03.25,Default,,0,0,0,,A Tanyao or Sansyoku?
+Dialogue: 0,0:22:03.25,0:22:07.00,Default,,0,0,0,,Moreover the remaining 5 pin dora
+Dialogue: 0,0:22:07.00,0:22:09.00,Default,,0,0,0,,Three dora
+Dialogue: 0,0:22:09.65,0:22:13.20,Default,,0,0,0,,If he's gathered up a Toitoi it's a baiman hand
+Dialogue: 0,0:22:15.15,0:22:18.50,Default,,0,0,0,,Okaay. With this tile I've got a Tanyao
+Dialogue: 0,0:22:18.50,0:22:21.25,Default,,0,0,0,,a Mangan without even declaring Riichi
+Dialogue: 0,0:22:21.25,0:22:25.35,Default,,0,0,0,,This hand is a fight between me and Akagiここは赤木とワシのサシ勝負だ
+Dialogue: 0,0:24:03.40,0:24:06.38,Default,,0,0,0,,Pon
+Dialogue: 0,0:24:15.40,0:24:17.75,Default,,0,0,0,,The brat's also in Tenpai小僧も聴牌
+Dialogue: 0,0:24:17.75,0:24:19.75,Default,,0,0,0,,He's going for a single suit hand染めに行ったか
+Dialogue: 0,0:24:19.75,0:24:21.15,Default,,0,0,0,,Interesting面白い
+Dialogue: 0,0:24:21.15,0:24:23.15,Default,,0,0,0,,He wants to die that badlyそんなに死にたきゃ
+Dialogue: 0,0:24:23.15,0:24:25.55,Default,,0,0,0,,I'll knock him out of the game討ち取ってやる
+Dialogue: 0,0:25:03.95,0:25:07.25,Default,,0,0,0,,Harada looks like he's holding a Pinzu (dots) Honisou hand
+Dialogue: 0,0:25:07.25,0:25:09.25,Default,,0,0,0,,and they expect him to discard a 5 pin?
+Dialogue: 0,0:25:09.25,0:25:13.65,Default,,0,0,0,,this is unlike any style of play I've ever thought of今まででは考えられない打ち筋
+Dialogue: 0,0:25:18.45,0:25:20.60,Default,,0,0,0,,Pon
+Dialogue: 0,0:25:30.35,0:25:33.40,Default,,0,0,0,,It can't be helped but I have to discard the 3 Sou
+Dialogue: 0,0:25:33.40,0:25:36.45,Default,,0,0,0,,but that previous 5 Pin discard
+Dialogue: 0,0:25:36.45,0:25:40.15,Default,,0,0,0,,Considering the kid's honisou the 3 Sou is extremely dangerous
+Dialogue: 0,0:25:40.15,0:25:43.70,Default,,0,0,0,,Harada could be in tenpai
+Dialogue: 0,0:25:43.70,0:25:46.05,Default,,0,0,0,,I'll choose to deal into his hand
+Dialogue: 0,0:25:46.05,0:25:48.50,Default,,0,0,0,,If i get a 2 Pin
+Dialogue: 0,0:25:48.50,0:25:52.10,Default,,0,0,0,,Here I've got not choice but to do what's useless
+Dialogue: 0,0:25:55.50,0:25:57.75,Default,,0,0,0,,Ron
+Dialogue: 0,0:25:59.71,0:26:01.71,Default,,0,0,0,,Ron
+Dialogue: 0,0:26:08.25,0:26:10.00,Default,,0,0,0,,Head Bump
+Dialogue: 0,0:26:10.00,0:26:12.55,Default,,0,0,0,,East West Toitoi 3 Dora
+Dialogue: 0,0:26:12.55,0:26:15.85,Default,,0,0,0,,A Haneman win
+Dialogue: 0,0:26:19.45,0:26:23.75,Default,,0,0,0,,Even though Hiroyuki had 4 Dora he avoided declaring Kan
+Dialogue: 0,0:26:23.75,0:26:27.65,Default,,0,0,0,,aiming to win via a much more effective single tile wait
+Dialogue: 0,0:26:28.41,0:26:31.70,Default,,0,0,0,,Thus Hiroyuki chose a 2 Pin wait
 Dialogue: 0,0:26:31.70,0:26:36.60,Default,,0,0,0,,
-Dialogue: 0,0:26:41.50,0:26:44.05,Default,,0,0,0,,
-Dialogue: 0,0:26:44.05,0:26:46.05,Default,,0,0,0,,
-Dialogue: 0,0:26:46.05,0:26:47.95,Default,,0,0,0,,
-Dialogue: 0,0:26:47.95,0:26:49.95,Default,,0,0,0,,
-Dialogue: 0,0:26:49.95,0:26:52.70,Default,,0,0,0,,
-Dialogue: 0,0:26:57.05,0:27:00.00,Default,,0,0,0,,ここまで慎重だった小僧が
-Dialogue: 0,0:27:00.00,0:27:03.25,Default,,0,0,0,,なぜここまで捨て身の打ち回しを
-Dialogue: 0,0:27:03.25,0:27:05.25,Default,,0,0,0,,答えはたぶん
-Dialogue: 0,0:27:05.25,0:27:07.25,Default,,0,0,0,,赤木の手にある
-Dialogue: 0,0:27:08.21,0:27:10.75,Default,,0,0,0,,赤木のあの手
-Dialogue: 0,0:27:10.75,0:27:12.75,Default,,0,0,0,,恐らくブラフ
-Dialogue: 0,0:27:14.71,0:27:18.55,Default,,0,0,0,,赤木は自分の和了などはなからない
-Dialogue: 0,0:27:19.31,0:27:21.31,Default,,0,0,0,,小僧の援護のため、
-Dialogue: 0,0:27:21.31,0:27:23.31,Default,,0,0,0,,身を削っていた
-Dialogue: 0,0:27:23.31,0:27:26.05,Default,,0,0,0,,それが小僧の心をうったんだ
-Dialogue: 0,0:27:26.05,0:27:28.05,Default,,0,0,0,,伝わった
-Dialogue: 0,0:27:29.01,0:27:32.15,Default,,0,0,0,,赤木しげるの究極の感性
-Dialogue: 0,0:27:32.15,0:27:34.15,Default,,0,0,0,,。精神
-Dialogue: 0,0:27:34.98,0:27:37.85,Default,,0,0,0,,まずいな
-Dialogue: 0,0:27:42.61,0:27:44.61,Default,,0,0,0,,ひろゆき
-Dialogue: 0,0:27:46.10,0:27:48.58,Default,,0,0,0,,化けたな
+Dialogue: 0,0:26:41.50,0:26:44.05,Default,,0,0,0,,Discarding one of his dora...
+Dialogue: 0,0:26:44.05,0:26:46.05,Default,,0,0,0,,someone winning here would mean his instant death
+Dialogue: 0,0:26:46.05,0:26:47.95,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:26:47.95,0:26:49.95,Default,,0,0,0,,...what if it passed?
+Dialogue: 0,0:26:49.95,0:26:52.70,Default,,0,0,0,,the ULTIMATE camouflage
+Dialogue: 0,0:26:57.05,0:27:00.00,Default,,0,0,0,,the kid's been cautious up to now, ここまで慎重だった小僧が
+Dialogue: 0,0:27:00.00,0:27:03.25,Default,,0,0,0,,How can he now play putting his life on the line?なぜここまで捨て身の打ち回しを
+Dialogue: 0,0:27:03.25,0:27:05.25,Default,,0,0,0,,Maybe the answer...答えはたぶん
+Dialogue: 0,0:27:05.25,0:27:07.25,Default,,0,0,0,,is in Akagi's hand赤木の手にある
+Dialogue: 0,0:27:08.21,0:27:10.75,Default,,0,0,0,,that hand there赤木のあの手
+Dialogue: 0,0:27:10.75,0:27:12.75,Default,,0,0,0,,is a bluff恐らくブラフ
+Dialogue: 0,0:27:14.71,0:27:18.55,Default,,0,0,0,,Akagi wasn't aiming for a win himself赤木は自分の和了などはなからない
+Dialogue: 0,0:27:19.31,0:27:21.31,Default,,0,0,0,,but rather to protect the kid小僧の援護のため、
+Dialogue: 0,0:27:21.31,0:27:23.31,Default,,0,0,0,,He's shielded him身を削っていた
+Dialogue: 0,0:27:23.31,0:27:26.05,Default,,0,0,0,,and that's emboldened the kidそれが小僧の心をうったんだ
+Dialogue: 0,0:27:26.05,0:27:28.05,Default,,0,0,0,,It's been transmitted伝わった
+Dialogue: 0,0:27:29.01,0:27:32.15,Default,,0,0,0,,The ultimate sensibility of an Akagi Shigeru赤木しげるの究極の感性
+Dialogue: 0,0:27:32.15,0:27:34.15,Default,,0,0,0,,his spirit精神
+Dialogue: 0,0:27:34.98,0:27:37.85,Default,,0,0,0,,This ain't goodまずいな
+Dialogue: 0,0:27:42.61,0:27:44.61,Default,,0,0,0,,Hiroyukuひろゆき
+Dialogue: 0,0:27:46.10,0:27:48.58,Default,,0,0,0,,He's become SOMETHING ELSE ENTIRELY化けたな
