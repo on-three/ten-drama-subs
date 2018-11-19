@@ -15,19 +15,18 @@ Audio File: ../../incoming/ten.fukumoto.drama/ドラマPrv ｢天_快★男☆�
 Video File: ../../incoming/ten.fukumoto.drama/ドラマPrv ｢天_快★男☆児｣ #01 第1話 ［HD高画質］-x6uo14b.mp4
 Video AR Mode: 4
 Video AR Value: 1.766667
-Video Zoom Percent: 0.625000
-Scroll Position: 225
-Active Line: 246
-Video Position: 42753
+Video Zoom Percent: 0.500000
+Scroll Position: 24
+Active Line: 48
+Video Position: 9295
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,42,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.4,0.6,2,10,10,10,1
-Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: black-large,Arial,35,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: cyan,Arial,42,&H00FFFF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Open Sans Semibold,36,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: default - cyan,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default - white,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default - red,Open Sans Semibold,36,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: small - white,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -36,51 +35,51 @@ Dialogue: 0,0:00:15.58,0:00:17.58,Default,,0,0,0,,Riichi Mahjong Minami\NThis bu
 Dialogue: 0,0:00:40.28,0:00:43.05,Default,,0,0,0,,Ron.
 Dialogue: 0,0:00:44.11,0:00:46.11,Default,,0,0,0,,8 Thousand points
 Dialogue: 0,0:00:46.85,0:00:48.97,Default,,0,0,0,,Again!?
-Dialogue: 0,0:00:48.97,0:00:50.97,Default,,0,0,0,,He's defeated all the regulars.
+Dialogue: 0,0:00:48.97,0:00:50.97,Default,,0,0,0,,He's defeated all the regulars
 Dialogue: 0,0:00:50.97,0:00:52.97,Default,,0,0,0,,Are you a pro, breh?
-Dialogue: 0,0:00:52.97,0:00:54.97,Default,,0,0,0,,No.
-Dialogue: 0,0:00:54.97,0:00:57.65,Default,,0,0,0,,I just learned probability at university.
-Dialogue: 0,0:00:57.65,0:00:59.91,Default,,0,0,0,,It's good to use in Mahjong.
-Dialogue: 0,0:00:59.91,0:01:01.54,Default,,0,0,0,,It gives you perspective.
-Dialogue: 0,0:01:01.54,0:01:03.00,Default,,0,0,0,,Perspective?
+Dialogue: 0,0:00:52.97,0:00:54.97,Default,,0,0,0,,No
+Dialogue: 0,0:00:54.97,0:00:57.65,Default,,0,0,0,,While I was learning probability at university
+Dialogue: 0,0:00:57.65,0:00:59.91,Default,,0,0,0,,I wondered what would happen if it were applied to Mahjong
+Dialogue: 0,0:00:59.91,0:01:01.54,Default,,0,0,0,,It wanted to try an experiment
+Dialogue: 0,0:01:01.54,0:01:03.00,Default,,0,0,0,,Experiment?
 Dialogue: 0,0:01:03.00,0:01:05.45,Default,,0,0,0,,There are a total of 136 tiles in Mahjong.
 Dialogue: 0,0:01:05.45,0:01:08.74,Default,,0,0,0,,There's a 3% chance of drawing the tile you want.
 Dialogue: 0,0:01:08.74,0:01:11.82,Default,,0,0,0,,With such a low probability, what will happen?
 Dialogue: 0,0:01:13.01,0:01:15.01,Default,,0,0,0,,And that's it.
-Dialogue: 0,0:01:15.01,0:01:18.17,Default,,0,0,0,,Well, I've had enough.
-Dialogue: 0,0:01:28.28,0:01:30.98,Default,,0,0,0,,Who'll play next?
-Dialogue: 0,0:01:32.71,0:01:34.95,Default,,0,0,0,,Get Ten.
+Dialogue: 0,0:01:15.01,0:01:18.17,Default,,0,0,0,,Well, I've had enough
+Dialogue: 0,0:01:28.28,0:01:30.98,Default,,0,0,0,,Will one of you play next?
+Dialogue: 0,0:01:32.71,0:01:34.95,Default,,0,0,0,,Get Ten
 Dialogue: 0,0:01:36.41,0:01:38.41,Default,,0,0,0,,ShinMiyaTei Restaurant
 Dialogue: 0,0:01:48.68,0:01:51.31,Default,,0,0,0,,Hey. Yakisoba up
-Dialogue: 0,0:01:53.00,0:01:55.71,Default,,0,0,0,,Ten, here's your yakisoba. Sorry for the wait.
-Dialogue: 0,0:02:10.88,0:02:13.45,Default,,0,0,0,,Ten!
+Dialogue: 0,0:01:53.00,0:01:55.71,Default,,0,0,0,,Ten, here's your soba with sauce. Sorry for the wait.
+Dialogue: 0,0:02:10.88,0:02:13.45,Default,,0,0,0,,Ten! You've got to come with me!
 Dialogue: 0,0:02:13.45,0:02:15.45,Default,,0,0,0,,Can't you see what I'm doing?
 Dialogue: 0,0:02:15.45,0:02:17.45,Default,,0,0,0,,Right now,
-Dialogue: 0,0:02:17.45,0:02:19.45,Default,,0,0,0,,I'm eating yakisoba.
+Dialogue: 0,0:02:17.45,0:02:19.45,Default,,0,0,0,,I'm eating yakisoba
 Dialogue: 0,0:02:19.45,0:02:22.37,Default,,0,0,0,,You're eating yakisoba NOW?
 Dialogue: 0,0:02:22.37,0:02:24.37,Default,,0,0,0,,Have you ever eaten it yourself?
 Dialogue: 0,0:02:25.55,0:02:27.55,Default,,0,0,0,,In my entire life
 Dialogue: 0,0:02:27.55,0:02:29.55,Default,,0,0,0,,the yakisoba at this place
-Dialogue: 0,0:02:29.55,0:02:31.55,Default,,0,0,0,,is the best on the planet.
-Dialogue: 0,0:02:31.51,0:02:33.51,Default,,0,0,0,,Okay. Okay. I get it. On the planet.
-Dialogue: 0,0:02:33.51,0:02:36.05,Default,,0,0,0,,Save us! I'm not exactly sure but...
-Dialogue: 0,0:02:36.05,0:02:39.82,Default,,0,0,0,,He's strong and won against everyone.
+Dialogue: 0,0:02:29.55,0:02:31.55,Default,,0,0,0,,is the best on the planet
+Dialogue: 0,0:02:31.51,0:02:33.51,Default,,0,0,0,,Okay. Okay. After you eat...
+Dialogue: 0,0:02:33.51,0:02:36.05,Default,,0,0,0,,Come play! He's a young guy but...
+Dialogue: 0,0:02:36.05,0:02:39.82,Default,,0,0,0,,he's really strong and took the all regulars to the cleaners!
 Dialogue: 0,0:02:41.78,0:02:43.78,Default,,0,0,0,,What kind of guy is it?
-Dialogue: 0,0:02:43.78,0:02:47.31,Default,,0,0,0,,He's as precise as a computer. No weaknesses.
-Dialogue: 0,0:03:01.68,0:03:04.25,Default,,0,0,0,,Pops. Thanks for the grub.
-Dialogue: 0,0:03:04.25,0:03:06.25,Default,,0,0,0,,Thank you Ten.
-Dialogue: 0,0:03:24.05,0:03:26.75,Default,,0,0,0,,Ron.
-Dialogue: 0,0:03:26.75,0:03:28.75,Default,,0,0,0,,5,100 points.
-Dialogue: 0,0:03:28.75,0:03:30.75,Default,,0,0,0,,Shit.
-Dialogue: 0,0:03:30.75,0:03:33.22,Default,,0,0,0,,Looks like I've got to quit.
-Dialogue: 0,0:03:38.48,0:03:41.54,Default,,0,0,0,,Oh, you'r sure winning ain't you.
-Dialogue: 0,0:03:55.65,0:03:58.94,Default,,0,0,0,,Will you play me?
-Dialogue: 0,0:04:05.78,0:04:11.22,cyan,,0,0,0,,{\pos(425.6,97.2)}#/tv/shows bible study and thermos discussion society presents:
+Dialogue: 0,0:02:43.78,0:02:47.31,Default,,0,0,0,,He's as precise as a computer, with no weaknesses!
+Dialogue: 0,0:03:01.68,0:03:04.25,Default,,0,0,0,,Pops. Thanks for the grub
+Dialogue: 0,0:03:04.25,0:03:06.25,Default,,0,0,0,,Thank you Ten
+Dialogue: 0,0:03:24.05,0:03:26.75,Default,,0,0,0,,Ron
+Dialogue: 0,0:03:26.75,0:03:28.75,Default,,0,0,0,,5,100 points
+Dialogue: 0,0:03:28.75,0:03:30.75,Default,,0,0,0,,Shit
+Dialogue: 0,0:03:30.75,0:03:33.22,Default,,0,0,0,,Looks like I've got to quit
+Dialogue: 0,0:03:38.48,0:03:41.54,Default,,0,0,0,,Oh, you're sure winning ain't you
+Dialogue: 0,0:03:55.65,0:03:58.94,Default,,0,0,0,,Will you play ME?
+Dialogue: 0,0:04:04.91,0:04:12.60,default - cyan,,0,0,0,,{\pos(425.6,97.2)}#/tv/shows bible study and thermos discussion goup presents:
 Dialogue: 0,0:04:16.98,0:04:18.98,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
 Dialogue: 0,0:04:25.31,0:04:27.31,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:04:34.15,0:04:36.15,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:05:08.41,0:05:10.41,Default,,0,0,0,,{\pos(438.4,287.6)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
-Dialogue: 0,0:05:08.41,0:05:10.41,white-large,,0,0,0,,{\pos(422.4,409.2)}Episode 1
+Dialogue: 0,0:05:07.61,0:05:09.85,Default,,0,0,0,,{\pos(438.4,287.6)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
+Dialogue: 0,0:05:07.61,0:05:09.85,Default - white,,0,0,0,,{\pos(422.4,409.2)}Episode 1
 Dialogue: 0,0:05:10.41,0:05:13.68,Default,,0,0,0,,So, a wager between you and I?
 Dialogue: 0,0:05:15.65,0:05:18.88,Default,,0,0,0,,I'm confident anything will be fine .Only...
 Dialogue: 0,0:05:20.21,0:05:22.21,Default,,0,0,0,,Let's do a side bet.
@@ -90,31 +89,31 @@ Dialogue: 0,0:05:28.80,0:05:30.80,Default,,0,0,0,,I don't need any money.
 Dialogue: 0,0:05:30.80,0:05:32.40,Default,,0,0,0,,And if you lose?
 Dialogue: 0,0:05:32.40,0:05:35.51,Default,,0,0,0,,I double your winnings.
 Dialogue: 0,0:05:37.48,0:05:40.28,Default,,0,0,0,,You're a ringer, aren't you?
-Dialogue: 0,0:05:40.28,0:05:43.34,Default,,0,0,0,,Yeah. I guess.
+Dialogue: 0,0:05:40.28,0:05:43.34,Default,,0,0,0,,Yeah. Something like that.
 Dialogue: 0,0:05:43.34,0:05:46.54,Default,,0,0,0,,I've been wanting to meet someone like you.
-Dialogue: 0,0:05:46.54,0:05:49.62,Default,,0,0,0,,I can't be beaten in Mahjong,
-Dialogue: 0,0:05:49.62,0:05:53.37,Default,,0,0,0,,therefore I've thought of becoming a ringer myself.
+Dialogue: 0,0:05:46.54,0:05:49.62,Default,,0,0,0,,As I haven't yet beenbeaten in Mahjong,
+Dialogue: 0,0:05:49.62,0:05:53.37,Default,,0,0,0,,I thought I could become a ringer myself僕も代打ちにでもなろうかと思っていた
 Dialogue: 0,0:05:53.37,0:05:57.14,Default,,0,0,0,,Well then it's decided.
 Dialogue: 0,0:05:57.14,0:05:59.14,Default,,0,0,0,,At the table over there?
-Dialogue: 0,0:06:02.71,0:06:05.74,Default,,0,0,0,,A non-automatic table must be so he can cheat.
-Dialogue: 0,0:06:05.74,0:06:07.62,Default,,0,0,0,,That's got to be it.
-Dialogue: 0,0:06:07.62,0:06:12.40,Default,,0,0,0,,If he didn't do that he wouldn't be sure to beat someone he doesn't know.
-Dialogue: 0,0:06:13.34,0:06:15.75,Default,,0,0,0,,Hand stacking tiles is no problem?
-Dialogue: 0,0:06:15.75,0:06:18.20,Default,,0,0,0,,No.
-Dialogue: 0,0:06:18.20,0:06:20.20,Default,,0,0,0,,No problem.
-Dialogue: 0,0:06:23.18,0:06:25.18,Default,,0,0,0,,East Round 1
+Dialogue: 0,0:06:02.71,0:06:05.74,Default,,0,0,0,,A non-automatic table must be so he can cheat
+Dialogue: 0,0:06:05.74,0:06:07.62,Default,,0,0,0,,That's got to be it
+Dialogue: 0,0:06:07.62,0:06:12.40,Default,,0,0,0,,If he didn't do that he couldn't be sure to beat someone he doesn't know
+Dialogue: 0,0:06:13.34,0:06:15.75,Default,,0,0,0,,Hand stacking tiles isn't a problem is it?
+Dialogue: 0,0:06:15.75,0:06:18.20,Default,,0,0,0,,No
+Dialogue: 0,0:06:18.20,0:06:20.20,Default,,0,0,0,,No problem
+Dialogue: 0,0:06:22.88,0:06:27.31,Default - white,,0,0,0,,{\pos(720,384)}East Round 1
 Dialogue: 0,0:06:37.51,0:06:42.65,Default,,0,0,0,,The contest is one East South round, and whoever has more points wins, even if its merely 100 more.
 Dialogue: 0,0:06:42.65,0:06:45.94,Default,,0,0,0,,First I have to make sure there's no cheating.
 Dialogue: 0,0:06:55.65,0:06:58.85,Default,,0,0,0,,I can't do a single wait on an undiscarded tile, but...
-Dialogue: 0,0:06:58.85,0:07:01.28,Default,,0,0,0,,
+Dialogue: 0,0:06:58.85,0:07:01.28,Default,,0,0,0,,I'll apply some pressure
 Dialogue: 0,0:07:02.65,0:07:04.65,Default,,0,0,0,,Riichi.
 Dialogue: 0,0:07:19.31,0:07:22.08,Default,,0,0,0,,Ron.
 Dialogue: 0,0:07:22.08,0:07:25.28,Default,,0,0,0,,12,000 points.
-Dialogue: 0,0:07:36.28,0:07:38.28,Default,,0,0,0,,South Round 1
+Dialogue: 0,0:07:35.41,0:07:40.71,Default - white,,0,0,0,,{\pos(710,388)}South Round 1
 Dialogue: 0,0:07:49.00,0:07:51.78,Default,,0,0,0,,Ron.
 Dialogue: 0,0:07:52.77,0:07:55.15,Default,,0,0,0,,8,000 points.
-Dialogue: 0,0:08:01.62,0:08:05.91,Default,,0,0,0,,What's with this character? The silent type.
-Dialogue: 0,0:08:05.91,0:08:09.02,Default,,0,0,0,,South Round 2
+Dialogue: 0,0:08:01.62,0:08:05.91,Default,,0,0,0,,What's with this character? The silent type.口ほどにもないやつだな
+Dialogue: 0,0:08:06.21,0:08:10.45,Default - white,,0,0,0,,{\pos(708,384)}South Round 2
 Dialogue: 0,0:08:10.98,0:08:12.98,Default,,0,0,0,,Pon.
 Dialogue: 0,0:08:22.25,0:08:24.95,Default,,0,0,0,,Ron.
 Dialogue: 0,0:08:24.95,0:08:26.95,Default,,0,0,0,,12,000 points.
@@ -129,14 +128,14 @@ Dialogue: 0,0:09:17.55,0:09:19.55,Default,,0,0,0,,Ah. I got this.
 Dialogue: 0,0:09:28.20,0:09:33.05,Default,,0,0,0,,Tenhou Chuuren PouTou\N(Nine gates completed on Dealer's first tile draw)
 Dialogue: 0,0:09:37.17,0:09:39.78,Default,,0,0,0,,He did it!
 Dialogue: 0,0:09:39.78,0:09:42.57,Default,,0,0,0,,Typical Ten. It's a complete reversal of 90,000 points!
-Dialogue: 0,0:09:45.17,0:09:47.68,Default,,0,0,0,,This is not possible. You cheated.
+Dialogue: 0,0:09:45.17,0:09:47.68,Default,,0,0,0,,This is not possible! You cheated!
 Dialogue: 0,0:09:47.68,0:09:50.22,Default,,0,0,0,,Will you admit it?
-Dialogue: 0,0:09:50.22,0:09:52.22,Default,,0,0,0,,Oh yes.
+Dialogue: 0,0:09:50.22,0:09:52.22,Default,,0,0,0,,Is that how it is?
 Dialogue: 0,0:09:56.45,0:10:00.45,Default,,0,0,0,,Mahjong
 Dialogue: 0,0:10:00.45,0:10:03.80,Default,,0,0,0,,is a truly fearsome thing isn't it?
-Dialogue: 0,0:10:23.71,0:10:27.91,Default,,0,0,0,,Just hold on a second.\NAdmit you cheated.
+Dialogue: 0,0:10:23.71,0:10:27.91,Default,,0,0,0,,Just hold on a second.\NAdmit you cheated
 Dialogue: 0,0:10:27.91,0:10:29.42,Default,,0,0,0,,Cheat?
-Dialogue: 0,0:10:29.42,0:10:33.14,Default,,0,0,0,,When you arranged your hand the tile wall in front of you moved a tiny amount.
+Dialogue: 0,0:10:29.42,0:10:33.14,Default,,0,0,0,,When you arranged your hand the tile wall in front of you moved a tiny amount
 Dialogue: 0,0:10:33.14,0:10:35.14,Default,,0,0,0,,Somehow or orther it was a brilliant trick of the tiles.
 Dialogue: 0,0:10:35.14,0:10:39.37,Default,,0,0,0,,Aren't you, a pro, embarrassed to do something so childish?
 Dialogue: 0,0:10:42.71,0:10:45.85,Default,,0,0,0,,A sneaky underworld guy like you
@@ -153,142 +152,142 @@ Dialogue: 0,0:11:18.00,0:11:22.71,Default,,0,0,0,,People bet more than their liv
 Dialogue: 0,0:11:22.71,0:11:26.34,Default,,0,0,0,,Whether by guile or cheating outright
 Dialogue: 0,0:11:26.34,0:11:30.00,Default,,0,0,0,,You have to win by any means necessary.
 Dialogue: 0,0:11:30.00,0:11:32.97,Default,,0,0,0,,Are you happy to win such a low victory?
-Dialogue: 0,0:11:32.97,0:11:35.71,Default,,0,0,0,,Can you be content playing the Mahjong of a charlatan?
+Dialogue: 0,0:11:32.97,0:11:35.71,Default,,0,0,0,,How can you be content playing the Mahjong of a charlatan?
 Dialogue: 0,0:11:35.71,0:11:37.71,Default,,0,0,0,,That
-Dialogue: 0,0:11:37.71,0:11:39.71,Default,,0,0,0,,is being a Pro.
+Dialogue: 0,0:11:37.71,0:11:39.71,Default,,0,0,0,,is being a Pro
 Dialogue: 0,0:11:43.08,0:11:45.81,Default,,0,0,0,,It's regrettable but,
-Dialogue: 0,0:11:45.81,0:11:49.60,Default,,0,0,0,,The sweet world you imagine is very far from the truth.
-Dialogue: 0,0:11:52.75,0:11:55.71,Default,,0,0,0,,You're no use.
+Dialogue: 0,0:11:45.81,0:11:49.60,Default,,0,0,0,,The sweet world you imagine is very far from the truth
+Dialogue: 0,0:11:52.75,0:11:55.71,Default,,0,0,0,,I got no use for you
 Dialogue: 0,0:12:02.17,0:12:05.15,Default,,0,0,0,,I watched your Mahjong very closely.
 Dialogue: 0,0:12:07.11,0:12:10.51,Default,,0,0,0,,In that match, Ten did cheat.
 Dialogue: 0,0:12:10.51,0:12:12.51,Default,,0,0,0,,You won.
 Dialogue: 0,0:12:13.41,0:12:15.41,Default,,0,0,0,,Your ability...
 Dialogue: 0,0:12:15.41,0:12:18.45,Default,,0,0,0,,Won't you test it once more?
-Dialogue: 0,0:12:26.14,0:12:28.05,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:12:28.05,0:12:31.51,Default,,0,0,0,,Oh Sawada! Please, please.
-Dialogue: 0,0:12:32.71,0:12:35.80,Default,,0,0,0,,The player for this time
-Dialogue: 0,0:12:35.80,0:12:36.81,Default,,0,0,0,,Player?
-Dialogue: 0,0:12:36.81,0:12:39.68,Default,,0,0,0,,Boy, he's a young one.
-Dialogue: 0,0:12:39.68,0:12:41.68,Default,,0,0,0,,I've seen him play.
+Dialogue: 0,0:12:26.14,0:12:28.05,Default,,0,0,0,,Excuse me
+Dialogue: 0,0:12:28.05,0:12:31.51,Default,,0,0,0,,Oh Sawada! Come in, come in
+Dialogue: 0,0:12:32.71,0:12:35.80,Default,,0,0,0,,This is our ringer for the game
+Dialogue: 0,0:12:35.80,0:12:36.81,Default,,0,0,0,,Ringer?
+Dialogue: 0,0:12:36.81,0:12:39.68,Default,,0,0,0,,Boy, he's a young one
+Dialogue: 0,0:12:39.68,0:12:41.68,Default,,0,0,0,,He's got the chops
 Dialogue: 0,0:12:41.68,0:12:43.68,Default,,0,0,0,,Ah. What's this about?
-Dialogue: 0,0:12:43.68,0:12:46.25,Default,,0,0,0,,I'm a real estate agent.
-Dialogue: 0,0:12:46.25,0:12:48.25,Default,,0,0,0,,Call me Maruo.
-Dialogue: 0,0:12:48.25,0:12:50.25,Default,,0,0,0,,I'm Igou.
-Dialogue: 0,0:12:51.97,0:12:55.21,Default,,0,0,0,,Really, this is about a deed.
-Dialogue: 0,0:12:55.21,0:12:57.21,Default,,0,0,0,,and you'll play Mahjong.
-Dialogue: 0,0:12:57.21,0:13:00.02,Default,,0,0,0,,Is it a deed for a plot of land?
+Dialogue: 0,0:12:43.68,0:12:46.25,Default,,0,0,0,,I'm in real estate
+Dialogue: 0,0:12:46.25,0:12:48.25,Default,,0,0,0,,Call me Maruo
+Dialogue: 0,0:12:48.25,0:12:50.25,Default,,0,0,0,,I'm Igawa
+Dialogue: 0,0:12:51.97,0:12:55.21,Default,,0,0,0,,Really, this is about a deed
+Dialogue: 0,0:12:55.21,0:12:57.21,Default,,0,0,0,,and you'll play Mahjong for it
+Dialogue: 0,0:12:57.21,0:13:00.02,Default,,0,0,0,,a deed for a... plot of land?
 Dialogue: 0,0:13:00.02,0:13:03.08,Default,,0,0,0,,Yeah. I'm looking to get his fortune.
-Dialogue: 0,0:13:03.08,0:13:06.71,Default,,0,0,0,,I already own half of his home and property by gambling and debt.
+Dialogue: 0,0:13:03.08,0:13:06.71,Default,,0,0,0,,I already own half of his home and property by gambling and debt
 Dialogue: 0,0:13:06.71,0:13:09.17,Default,,0,0,0,,And the remaining half,
 Dialogue: 0,0:13:09.17,0:13:11.77,Default,,0,0,0,,will be dealt with by Mahjong.
-Dialogue: 0,0:13:11.77,0:13:15.08,Default,,0,0,0,,Sawada found you for your strength in Mahjong.
-Dialogue: 0,0:13:17.05,0:13:19.05,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:13:11.77,0:13:15.08,Default,,0,0,0,,Sawada found you for your strength in Mahjong
+Dialogue: 0,0:13:17.05,0:13:19.05,Default,,0,0,0,,Sorry
 Dialogue: 0,0:13:19.05,0:13:21.05,Default,,0,0,0,,Yes?
-Dialogue: 0,0:13:21.05,0:13:23.05,Default,,0,0,0,,Hello, this is Maruo.
-Dialogue: 0,0:13:26.51,0:13:31.00,Default,,0,0,0,,These guys are pure trash, but they're the most powerful gang right now.
-Dialogue: 0,0:13:32.21,0:13:34.21,Default,,0,0,0,,We've got to take shelter where we can.
-Dialogue: 0,0:13:34.88,0:13:38.08,Default,,0,0,0,,Even if it means protecting garbage like that.
+Dialogue: 0,0:13:21.05,0:13:23.05,Default,,0,0,0,,Hello, this is Maruo
+Dialogue: 0,0:13:26.51,0:13:31.00,Default,,0,0,0,,These guys are pure trash, but they're the most powerful gang right now
+Dialogue: 0,0:13:32.21,0:13:34.21,Default,,0,0,0,,We've got to take shelter where we can
+Dialogue: 0,0:13:34.88,0:13:38.08,Default,,0,0,0,,Even if it means protecting garbage like that
 Dialogue: 0,0:13:39.15,0:13:41.17,Default,,0,0,0,,But in such an important deal can I..
-Dialogue: 0,0:13:41.17,0:13:44.71,Default,,0,0,0,,Stop right there. It's clear to me.
-Dialogue: 0,0:13:45.01,0:13:48.57,Default,,0,0,0,,I've seen a lot of ringers before now.
-Dialogue: 0,0:13:48.57,0:13:52.94,Default,,0,0,0,,You've got an ability far beyond that crowd.
-Dialogue: 0,0:13:53.88,0:13:57.11,Default,,0,0,0,,Have confidence in your own Mahjong.
-Dialogue: 0,0:13:57.11,0:13:59.11,Default,,0,0,0,,I'm betting on you.
+Dialogue: 0,0:13:41.17,0:13:44.71,Default,,0,0,0,,Stop right there. It's KONW
+Dialogue: 0,0:13:45.01,0:13:48.57,Default,,0,0,0,,I've seen a lot of ringers before now
+Dialogue: 0,0:13:48.57,0:13:52.94,Default,,0,0,0,,You're hiding an ability far beyond that crowdお前はそいつらを凌駕する可能性を秘めている
+Dialogue: 0,0:13:53.88,0:13:57.11,Default,,0,0,0,,Have confidence in your own Mahjong
+Dialogue: 0,0:13:57.11,0:13:59.11,Default,,0,0,0,,I'm betting on you
 Dialogue: 0,0:14:00.11,0:14:02.11,Default,,0,0,0,,You can do it, can't you?
 Dialogue: 0,0:14:04.58,0:14:07.80,Default,,0,0,0,,Being a ringer,
-Dialogue: 0,0:14:07.80,0:14:11.62,Default,,0,0,0,,Is the business of shouldering the burden of other people's lives.
-Dialogue: 0,0:14:11.62,0:14:13.62,Default,,0,0,0,,You're no use.
+Dialogue: 0,0:14:07.80,0:14:11.62,Default,,0,0,0,,Is the business of shouldering the burden of other people's lives
+Dialogue: 0,0:14:11.62,0:14:13.62,Default,,0,0,0,,I got no use for you
 Dialogue: 0,0:14:15.58,0:14:17.58,Default,,0,0,0,,Yes.
-Dialogue: 0,0:14:29.31,0:14:31.08,Default,,0,0,0,,Please, Igou-chan.
+Dialogue: 0,0:14:29.31,0:14:31.08,Default,,0,0,0,,Please, Igawa-chan.
 Dialogue: 0,0:14:31.08,0:14:35.45,Default,,0,0,0,,After you take his shop, how about a victory celebration?
-Dialogue: 0,0:14:38.41,0:14:40.41,Default,,0,0,0,,Keep your mind on the game.
+Dialogue: 0,0:14:38.41,0:14:40.41,Default,,0,0,0,,Keep your mind on the game
 Dialogue: 0,0:14:41.31,0:14:43.31,Default,,0,0,0,,Yes.
-Dialogue: 0,0:14:49.17,0:14:51.20,Default,,0,0,0,,Sorry I'm late.
+Dialogue: 0,0:14:49.17,0:14:51.20,Default,,0,0,0,,Sorry I'm late
 Dialogue: 0,0:14:51.20,0:14:52.88,Default,,0,0,0,,Nakanishi!
 Dialogue: 0,0:14:52.88,0:14:56.08,Default,,0,0,0,,Did you bring the deed like a good boy?
-Dialogue: 0,0:14:58.68,0:15:00.68,Default,,0,0,0,,It's here.
+Dialogue: 0,0:14:58.68,0:15:00.68,Default,,0,0,0,,It's here
 Dialogue: 0,0:15:00.68,0:15:04.14,Default,,0,0,0,,And your friend?
-Dialogue: 0,0:15:15.14,0:15:17.91,Default,,0,0,0,,Ten.
-Dialogue: 0,0:15:22.71,0:15:25.17,Default,,0,0,0,,Perfect.
-Dialogue: 0,0:15:26.88,0:15:29.15,Default,,0,0,0,,I've wanted to see a contest against you one more time.
-Dialogue: 0,0:15:35.41,0:15:37.82,Default,,0,0,0,,And this time I won't lose.
-Dialogue: 0,0:15:37.82,0:15:40.57,Default,,0,0,0,,Whatever your cheats.
+Dialogue: 0,0:15:15.14,0:15:17.91,Default,,0,0,0,,Ten!
+Dialogue: 0,0:15:22.71,0:15:25.17,Default,,0,0,0,,Perfect
+Dialogue: 0,0:15:26.88,0:15:29.15,Default,,0,0,0,,I've wanted to see a contest against you one more time
+Dialogue: 0,0:15:35.41,0:15:37.82,Default,,0,0,0,,And this time I won't lose
+Dialogue: 0,0:15:37.82,0:15:40.57,Default,,0,0,0,,Whatever your cheats
 Dialogue: 0,0:15:47.51,0:15:50.68,Default,,0,0,0,,The contest is 5 East South rounds.
 Dialogue: 0,0:15:50.68,0:15:53.77,Default,,0,0,0,,The winner is the first to take 3 rounds.
-Dialogue: 0,0:15:54.35,0:15:56.35,Default,,0,0,0,,One thing.
+Dialogue: 0,0:15:54.35,0:15:56.35,Default,,0,0,0,,One thing
 Dialogue: 0,0:15:57.61,0:15:59.61,Default,,0,0,0,,Me and Hiroyuki...
-Dialogue: 0,0:15:59.61,0:16:01.61,Default,,0,0,0,,Make the game the difference between our points.
+Dialogue: 0,0:15:59.61,0:16:01.61,Default,,0,0,0,,make the game the difference between our points.
 Dialogue: 0,0:16:04.88,0:16:07.58,Default,,0,0,0,,What will you do?
-Dialogue: 0,0:16:07.58,0:16:10.48,Default,,0,0,0,,Nothing. It's no problem.
-Dialogue: 0,0:16:11.01,0:16:14.08,Default,,0,0,0,,Well, then. It's decided.
+Dialogue: 0,0:16:07.58,0:16:10.48,Default,,0,0,0,,Nothing. It's no problem
+Dialogue: 0,0:16:11.01,0:16:14.08,Default,,0,0,0,,Well, then. It's decided
 Dialogue: 0,0:16:14.08,0:16:17.40,Default,,0,0,0,,Ten. Just what are you plotting?
-Dialogue: 0,0:16:28.05,0:16:30.05,Default,,0,0,0,,First Game\NEast Round One
-Dialogue: 0,0:16:38.95,0:16:42.68,Default,,0,0,0,,In this situation, Ten can't possibly cheat.
-Dialogue: 0,0:16:42.68,0:16:45.05,Default,,0,0,0,,I ought to be vigilant against anything he does.
+Dialogue: 0,0:16:26.95,0:16:32.18,Default - white,,0,0,0,,{\pos(148,346)}First Game\NEast Round One
+Dialogue: 0,0:16:38.95,0:16:42.68,Default,,0,0,0,,In this situation, Ten can't possibly cheat
+Dialogue: 0,0:16:42.68,0:16:45.05,Default,,0,0,0,,I ought to be vigilant against anything he does
 Dialogue: 0,0:16:45.05,0:16:47.05,Default,,0,0,0,,But this Nakanishi guy...
 Dialogue: 0,0:17:05.62,0:17:08.38,Default,,0,0,0,,Chi.
-Dialogue: 0,0:17:11.02,0:17:13.98,Default,,0,0,0,,He's collecting Man tiles, hunh?
-Dialogue: 0,0:17:21.65,0:17:24.74,Default,,0,0,0,,Oh, you've already got enough of them.
-Dialogue: 0,0:17:48.45,0:17:50.20,Default,,0,0,0,,I'm not in Tenpai.
-Dialogue: 0,0:17:50.20,0:17:52.20,Default,,0,0,0,,And I'm not in Tenpai.
-Dialogue: 0,0:18:01.51,0:18:03.51,Default,,0,0,0,,First Game\NEast Round 3
-Dialogue: 0,0:18:27.71,0:18:30.55,Default,,0,0,0,,This time he's collecting Pin tiles.
+Dialogue: 0,0:17:11.02,0:17:13.98,Default,,0,0,0,,A Man (character tile) single suit hand, hunh?
+Dialogue: 0,0:17:21.65,0:17:24.74,Default,,0,0,0,,Oh, you've already got enough of them
+Dialogue: 0,0:17:48.45,0:17:50.20,Default,,0,0,0,,I'm not in Tenpai
+Dialogue: 0,0:17:50.20,0:17:52.20,Default,,0,0,0,,And I'm not in Tenpai
+Dialogue: 0,0:18:00.31,0:18:03.75,Default - white,,0,0,0,,{\pos(732,350)}First Game\NEast Round 3
+Dialogue: 0,0:18:27.71,0:18:30.55,Default,,0,0,0,,This time he's collecting Pin (dot) tiles
 Dialogue: 0,0:19:16.51,0:19:19.25,Default,,0,0,0,,Discarding the Dora tile after he drew it?
-Dialogue: 0,0:19:19.25,0:19:23.11,Default,,0,0,0,,He couldn't make such dangerous discards from a worthless hand so often.
-Dialogue: 0,0:19:23.11,0:19:25.65,Default,,0,0,0,,As I thought. He's about to win.
-Dialogue: 0,0:19:41.11,0:19:43.17,Default,,0,0,0,,Damn.
-Dialogue: 0,0:19:44.68,0:19:46.68,Default,,0,0,0,,I can't discard Pin tiles.
+Dialogue: 0,0:19:19.25,0:19:23.11,Default,,0,0,0,,He couldn't make such dangerous discards from a worthless hand so often
+Dialogue: 0,0:19:23.11,0:19:25.65,Default,,0,0,0,,As I thought. He's about to win
+Dialogue: 0,0:19:41.11,0:19:43.17,Default,,0,0,0,,Damn
+Dialogue: 0,0:19:44.68,0:19:46.68,Default,,0,0,0,,I can't discard Pin tiles
 Dialogue: 0,0:19:46.68,0:19:50.60,Default,,0,0,0,,And I can't discard from this meld near the Dora.
-Dialogue: 0,0:19:53.15,0:19:55.15,Default,,0,0,0,,It can't be helped.
-Dialogue: 0,0:19:59.48,0:20:02.21,Default,,0,0,0,,Ron.
-Dialogue: 0,0:20:02.21,0:20:04.21,Default,,0,0,0,,7,700 points.
-Dialogue: 0,0:20:06.48,0:20:08.98,Default,,0,0,0,,What a shit break.
-Dialogue: 0,0:20:15.11,0:20:17.11,Default,,0,0,0,,First Game\NSouth Round 4
+Dialogue: 0,0:19:53.15,0:19:55.15,Default,,0,0,0,,It can't be helped
+Dialogue: 0,0:19:59.48,0:20:02.21,Default,,0,0,0,,Ron
+Dialogue: 0,0:20:02.21,0:20:04.21,Default,,0,0,0,,7,700 points
+Dialogue: 0,0:20:06.48,0:20:08.98,Default,,0,0,0,,What a shit break
+Dialogue: 0,0:20:13.78,0:20:17.21,Default - white,,0,0,0,,{\pos(124,350)}First Game\NSouth Round 4
 Dialogue: 0,0:20:33.34,0:20:35.98,Default,,0,0,0,,Pon.
-Dialogue: 0,0:20:44.40,0:20:47.05,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:21:05.74,0:21:08.61,Default,,0,0,0,,He discarded the Dora within one turn of Sawada's Riichi.
-Dialogue: 0,0:21:09.18,0:21:11.88,Default,,0,0,0,,Ordinarily no one would consider that.
-Dialogue: 0,0:21:11.88,0:21:15.00,Default,,0,0,0,,He's certainly set a trap.
-Dialogue: 0,0:21:39.65,0:21:42.51,Default,,0,0,0,,Ron.
-Dialogue: 0,0:21:43.78,0:21:45.78,Default,,0,0,0,,2,000 points.
-Dialogue: 0,0:21:55.74,0:21:58.31,Default,,0,0,0,,If you play so sluggishly, you'll lose.
-Dialogue: 0,0:21:59.31,0:22:02.65,Default,,0,0,0,,He's confusing you.
-Dialogue: 0,0:22:02.65,0:22:05.51,Default,,0,0,0,,It's a fearsome thing.
+Dialogue: 0,0:20:44.40,0:20:47.05,Default,,0,0,0,,Riichi
+Dialogue: 0,0:21:05.74,0:21:08.61,Default,,0,0,0,,He discarded the Dora within one turn of Sawada's Riichi
+Dialogue: 0,0:21:09.18,0:21:11.88,Default,,0,0,0,,Ordinarily no one would consider discarding that
+Dialogue: 0,0:21:11.88,0:21:15.00,Default,,0,0,0,,Nakanishi's certainly got a single suit hand
+Dialogue: 0,0:21:39.65,0:21:42.51,Default,,0,0,0,,Ron
+Dialogue: 0,0:21:43.78,0:21:45.78,Default,,0,0,0,,2,000 points
+Dialogue: 0,0:21:55.74,0:21:58.31,Default,,0,0,0,,If you play so sluggishly, you'll lose
+Dialogue: 0,0:21:59.31,0:22:02.65,Default,,0,0,0,,He's confusing youこいつらむちゃくちゃやってやがる
+Dialogue: 0,0:22:02.65,0:22:05.51,Default,,0,0,0,,It's a fearsome thing。怖いもの知らずだ
 Dialogue: 0,0:22:05.51,0:22:07.51,Default,,0,0,0,,Please help me!
-Dialogue: 0,0:22:07.51,0:22:09.51,Default,,0,0,0,,Ten-chan.
+Dialogue: 0,0:22:07.51,0:22:09.51,Default,,0,0,0,,Ten!
 Dialogue: 0,0:22:09.51,0:22:14.25,Default,,0,0,0,,My dead mother left this place to me!
 Dialogue: 0,0:22:14.25,0:22:17.22,Default,,0,0,0,,PLEASE!
 Dialogue: 0,0:22:18.15,0:22:21.28,Default,,0,0,0,,I'll do it since I owe you.
 Dialogue: 0,0:22:21.28,0:22:24.57,Default,,0,0,0,,You've led an honest, straightforward life...
 Dialogue: 0,0:22:24.57,0:22:27.85,Default,,0,0,0,,How could you gamble it all away?
-Dialogue: 0,0:22:28.78,0:22:31.88,Default,,0,0,0,,Basically I was tricked.
-Dialogue: 0,0:22:31.88,0:22:35.51,Default,,0,0,0,,I was cheated out of everything in a light game of poker.
+Dialogue: 0,0:22:28.78,0:22:31.88,Default,,0,0,0,,Basically I was tricked
+Dialogue: 0,0:22:31.88,0:22:35.51,Default,,0,0,0,,I was cheated out of everything in a light game of poker
 Dialogue: 0,0:22:35.51,0:22:38.28,Default,,0,0,0,,Before I noticed they had half my shop!
-Dialogue: 0,0:22:38.28,0:22:40.28,Default,,0,0,0,,Of course.
-Dialogue: 0,0:22:40.28,0:22:44.28,Default,,0,0,0,,It's a gample you can't win against.
+Dialogue: 0,0:22:38.28,0:22:40.28,Default,,0,0,0,,Of course
+Dialogue: 0,0:22:40.28,0:22:44.28,Default,,0,0,0,,All things considered, you just can't beat them
 Dialogue: 0,0:22:44.28,0:22:46.28,Default,,0,0,0,,PLEASE!
 Dialogue: 0,0:22:46.28,0:22:48.28,Default,,0,0,0,,Please save me!
 Dialogue: 0,0:22:50.78,0:22:53.26,Default,,0,0,0,,Ten. I'm pleading with you!
-Dialogue: 0,0:23:06.91,0:23:09.25,Default,,0,0,0,,Pops.
-Dialogue: 0,0:23:09.25,0:23:12.34,Default,,0,0,0,,Can you become a heretic?
-Dialogue: 0,0:23:12.34,0:23:14.34,Default,,0,0,0,,A heretic?
-Dialogue: 0,0:23:15.17,0:23:18.48,Default,,0,0,0,,Up to now you've led an honest, straightforward life.
-Dialogue: 0,0:23:18.48,0:23:21.42,Default,,0,0,0,,But that's no good for this contest.
-Dialogue: 0,0:23:23.38,0:23:26.31,Default,,0,0,0,,This shop, your land..
+Dialogue: 0,0:23:06.91,0:23:09.25,Default,,0,0,0,,Pops
+Dialogue: 0,0:23:09.25,0:23:12.34,Default,,0,0,0,,Can you become a {\b1\i1}heretic{\b0\i0}?
+Dialogue: 0,0:23:12.34,0:23:14.34,Default,,0,0,0,,A... heretic?
+Dialogue: 0,0:23:15.17,0:23:18.48,Default,,0,0,0,,Up to now you've led an honest, straightforward life
+Dialogue: 0,0:23:18.48,0:23:21.42,Default,,0,0,0,,But that's no good for this contest
+Dialogue: 0,0:23:23.38,0:23:26.31,Default,,0,0,0,,This shop, your land...
 Dialogue: 0,0:23:26.31,0:23:29.37,Default,,0,0,0,,If you don't want them to be stolen
-Dialogue: 0,0:23:29.37,0:23:33.42,Default,,0,0,0,,become a heretical, UNORTHODOX player for me.
-Dialogue: 0,0:23:40.94,0:23:45.11,Default,,0,0,0,,Ten has been encouraging Nakanishi's single suit hands.
-Dialogue: 0,0:23:45.11,0:23:48.34,Default,,0,0,0,,And it's been entirely a bluff.
-Dialogue: 0,0:23:49.61,0:23:51.61,Default,,0,0,0,,Only,
-Dialogue: 0,0:23:51.61,0:23:55.02,Default,,0,0,0,,They've put his shop on the line.
-Dialogue: 0,0:23:55.02,0:23:57.02,Default,,0,0,0,,Nakanishi...
-Dialogue: 0,0:23:57.02,0:24:00.28,Default,,0,0,0,,It's a bluff burned into his soul.
-Dialogue: 0,0:24:00.28,0:24:02.42,Default,,0,0,0,,And when you carry it this far
-Dialogue: 0,0:24:02.42,0:24:07.28,Default,,0,0,0,,It's not a matter of catching people in tricks or anything like that.
-Dialogue: 0,0:24:07.28,0:24:10.40,Default,,0,0,0,,I'd call it more "divine"
-Dialogue: 0,0:24:10.40,0:24:12.40,Default,,0,0,0,,A direct attack.
-Dialogue: 0,0:24:12.40,0:24:15.48,Default,,0,0,0,,you might call it "madness."
-Dialogue: 0,0:24:15.48,0:24:18.00,Default,,0,0,0,,They're willing to lose it all.
-Dialogue: 0,0:24:19.95,0:24:23.80,Default,,0,0,0,,I don't know what we do next.
-Dialogue: 0,0:24:43.22,0:24:45.98,Default,,0,0,0,,Well then. Round two.
+Dialogue: 0,0:23:29.37,0:23:33.42,Default,,0,0,0,,become a heretical, UNORTHODOX player for me
+Dialogue: 0,0:23:40.94,0:23:45.11,Default,,0,0,0,,{\pos(424,94)}Ten knows Nakanishi has been faking single suit hands
+Dialogue: 0,0:23:45.11,0:23:48.34,Default,,0,0,0,,{\pos(414,60)}it's all been a bluff
+Dialogue: 0,0:23:49.61,0:23:51.61,Default,,0,0,0,,{\pos(418,66)}Only,
+Dialogue: 0,0:23:51.61,0:23:55.02,Default,,0,0,0,,{\pos(418,56)}They've put his shop on the line
+Dialogue: 0,0:23:55.02,0:23:57.02,Default,,0,0,0,,{\pos(408,48)}Nakanishi...
+Dialogue: 0,0:23:57.02,0:24:00.28,Default,,0,0,0,,{\pos(424,54)}It's a bluff burned into his soul.
+Dialogue: 0,0:24:00.28,0:24:02.42,Default,,0,0,0,,{\pos(426,50)}And when you carry something like that this far
+Dialogue: 0,0:24:02.42,0:24:07.28,Default,,0,0,0,,{\pos(422,86)}It's not a matter of catching people in tricks or anything like that.
+Dialogue: 0,0:24:07.28,0:24:10.40,Default,,0,0,0,,{\pos(430,54)}I'd call it more "divine"
+Dialogue: 0,0:24:10.40,0:24:12.40,Default,,0,0,0,,{\pos(424,48)}A direct attack.
+Dialogue: 0,0:24:12.40,0:24:15.48,Default,,0,0,0,,{\pos(422,48)}you might call it "madness."
+Dialogue: 0,0:24:15.48,0:24:18.00,Default,,0,0,0,,{\pos(422,46)}They're willing to lose it all
+Dialogue: 0,0:24:19.95,0:24:23.80,Default,,0,0,0,,{\pos(428,48)}I don't know what we do next
+Dialogue: 0,0:24:43.22,0:24:45.98,Default,,0,0,0,,{\pos(416,44)}Well then. Round two
 Dialogue: 0,0:24:47.08,0:24:49.08,Default,,0,0,0,,Shall we begin?
