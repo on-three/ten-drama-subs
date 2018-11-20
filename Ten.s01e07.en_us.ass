@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 273
-Active Line: 289
-Video Position: 48122
+Scroll Position: 78
+Active Line: 97
+Video Position: 12679
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -120,10 +120,14 @@ Dialogue: 0,0:05:46.95,0:05:51.60,Default,,0,0,0,,The difference in points betwe
 Dialogue: 0,0:05:51.60,0:05:54.15,Default,,0,0,0,,And Hiroyuki's already...
 Dialogue: 0,0:05:54.15,0:05:57.60,Default,,0,0,0,,On the edge of a cliff
 Dialogue: 0,0:06:00.48,0:06:07.70,default - cyan,,0,0,0,,{\pos(952,103.667)}#/tv/shows Shalom TV Viewing club presents
-Dialogue: 0,0:06:11.31,0:06:13.11,Default,,0,0,0,,Ten Takeshi
-Dialogue: 0,0:06:19.95,0:06:21.75,Default,,0,0,0,,Igawa Hiroyuki
-Dialogue: 0,0:06:28.61,0:06:30.41,Default,,0,0,0,,Akagi Shigeru
+Dialogue: 0,0:06:11.31,0:06:13.11,Default - red,,0,0,0,,{\pos(309.334,939.666)}Goro Takeshi
+Dialogue: 0,0:06:11.31,0:06:13.11,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
+Dialogue: 0,0:06:19.95,0:06:21.75,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
+Dialogue: 0,0:06:19.95,0:06:21.75,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
+Dialogue: 0,0:06:28.61,0:06:30.41,Default - red,,0,0,0,,{\pos(437.333,1057)}Yoshida Eisaku
+Dialogue: 0,0:06:28.61,0:06:30.41,Default - white,,0,0,0,,{\pos(744,758.333)}Akagi Shigeru
 Dialogue: 0,0:07:02.61,0:07:04.61,Default - white,,0,0,0,,{\pos(976,909)}Episode 7
+Dialogue: 0,0:07:02.61,0:07:04.61,Default,,0,0,0,,{\pos(962.667,649)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
 Dialogue: 0,0:07:05.58,0:07:10.95,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 12000{\c&HFFFFFF&} Hiroyuki: 3000\NAkagi: 16000
 Dialogue: 0,0:07:05.58,0:07:10.95,small - white,,0,0,0,,{\pos(1222.667,183)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 11000
 Dialogue: 0,0:07:05.58,0:07:10.95,small - white,,0,0,0,,{\pos(1667.333,798.333)}Game 7\NEast Round 2
