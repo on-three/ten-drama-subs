@@ -34,9 +34,9 @@ MP4 := $(VIDEO_DIR)/$(EN_NAME).mp4
 FFMPEG := ffmpeg
 UPLOAD := tovps
 GEN_MKV := ./gen.mkv.sh
+MPV := mpv
 
 all: $(MKV)
-
 
 # if i need to convert from .flv to .mp4 this rule helps
 mp4:
@@ -53,3 +53,5 @@ $(MKV): $(MP4) $(ASS_EN)
 upload:
 	$(UPLOAD) $(MKV)
 
+play:
+	$(MPV) $(MKV)
