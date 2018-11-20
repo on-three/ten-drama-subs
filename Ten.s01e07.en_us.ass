@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
 Scroll Position: 78
-Active Line: 97
-Video Position: 12679
+Active Line: 92
+Video Position: 11452
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -120,7 +120,7 @@ Dialogue: 0,0:05:46.95,0:05:51.60,Default,,0,0,0,,The difference in points betwe
 Dialogue: 0,0:05:51.60,0:05:54.15,Default,,0,0,0,,And Hiroyuki's already...
 Dialogue: 0,0:05:54.15,0:05:57.60,Default,,0,0,0,,On the edge of a cliff
 Dialogue: 0,0:06:00.48,0:06:07.70,default - cyan,,0,0,0,,{\pos(952,103.667)}#/tv/shows Shalom TV Viewing club presents
-Dialogue: 0,0:06:11.31,0:06:13.11,Default - red,,0,0,0,,{\pos(309.334,939.666)}Goro Takeshi
+Dialogue: 0,0:06:11.31,0:06:13.11,Default - red,,0,0,0,,{\pos(309.334,939.666)}Kishitani Goro
 Dialogue: 0,0:06:11.31,0:06:13.11,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
 Dialogue: 0,0:06:19.95,0:06:21.75,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
 Dialogue: 0,0:06:19.95,0:06:21.75,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
