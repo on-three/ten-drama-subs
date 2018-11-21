@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/ドラマPrv ｢天_快★男☆�
 Video AR Mode: 4
 Video AR Value: 1.766667
 Video Zoom Percent: 0.500000
-Scroll Position: 24
-Active Line: 48
-Video Position: 9295
+Scroll Position: 3
+Active Line: 10
+Video Position: 1846
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +40,7 @@ Dialogue: 0,0:00:50.97,0:00:52.97,Default,,0,0,0,,Are you a pro, breh?
 Dialogue: 0,0:00:52.97,0:00:54.97,Default,,0,0,0,,No
 Dialogue: 0,0:00:54.97,0:00:57.65,Default,,0,0,0,,While I was learning probability at university
 Dialogue: 0,0:00:57.65,0:00:59.91,Default,,0,0,0,,I wondered what would happen if it were applied to Mahjong
-Dialogue: 0,0:00:59.91,0:01:01.54,Default,,0,0,0,,It wanted to try an experiment
+Dialogue: 0,0:00:59.91,0:01:01.54,Default,,0,0,0,,I wanted to try an experiment
 Dialogue: 0,0:01:01.54,0:01:03.00,Default,,0,0,0,,Experiment?
 Dialogue: 0,0:01:03.00,0:01:05.45,Default,,0,0,0,,There are a total of 136 tiles in Mahjong.
 Dialogue: 0,0:01:05.45,0:01:08.74,Default,,0,0,0,,There's a 3% chance of drawing the tile you want.
@@ -75,7 +75,7 @@ Dialogue: 0,0:03:30.75,0:03:33.22,Default,,0,0,0,,Looks like I've got to quit
 Dialogue: 0,0:03:38.48,0:03:41.54,Default,,0,0,0,,Oh, you're sure winning ain't you
 Dialogue: 0,0:03:55.65,0:03:58.94,Default,,0,0,0,,Will you play ME?
 Dialogue: 0,0:04:04.91,0:04:12.60,default - cyan,,0,0,0,,{\pos(425.6,97.2)}#/tv/shows bible study and thermos discussion goup presents:
-Dialogue: 0,0:04:16.98,0:04:18.98,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
+Dialogue: 0,0:04:16.98,0:04:18.98,Default,,0,0,0,,Kishitani Goro as Ten Takeshi
 Dialogue: 0,0:04:25.31,0:04:27.31,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
 Dialogue: 0,0:04:34.15,0:04:36.15,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
 Dialogue: 0,0:05:07.61,0:05:09.85,Default,,0,0,0,,{\pos(438.4,287.6)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
@@ -92,7 +92,7 @@ Dialogue: 0,0:05:37.48,0:05:40.28,Default,,0,0,0,,You're a ringer, aren't you?
 Dialogue: 0,0:05:40.28,0:05:43.34,Default,,0,0,0,,Yeah. Something like that.
 Dialogue: 0,0:05:43.34,0:05:46.54,Default,,0,0,0,,I've been wanting to meet someone like you.
 Dialogue: 0,0:05:46.54,0:05:49.62,Default,,0,0,0,,As I haven't yet beenbeaten in Mahjong,
-Dialogue: 0,0:05:49.62,0:05:53.37,Default,,0,0,0,,I thought I could become a ringer myself僕も代打ちにでもなろうかと思っていた
+Dialogue: 0,0:05:49.62,0:05:53.37,Default,,0,0,0,,I thought I could become a ringer myself
 Dialogue: 0,0:05:53.37,0:05:57.14,Default,,0,0,0,,Well then it's decided.
 Dialogue: 0,0:05:57.14,0:05:59.14,Default,,0,0,0,,At the table over there?
 Dialogue: 0,0:06:02.71,0:06:05.74,Default,,0,0,0,,A non-automatic table must be so he can cheat
@@ -112,7 +112,7 @@ Dialogue: 0,0:07:22.08,0:07:25.28,Default,,0,0,0,,12,000 points.
 Dialogue: 0,0:07:35.41,0:07:40.71,Default - white,,0,0,0,,{\pos(710,388)}South Round 1
 Dialogue: 0,0:07:49.00,0:07:51.78,Default,,0,0,0,,Ron.
 Dialogue: 0,0:07:52.77,0:07:55.15,Default,,0,0,0,,8,000 points.
-Dialogue: 0,0:08:01.62,0:08:05.91,Default,,0,0,0,,What's with this character? The silent type.口ほどにもないやつだな
+Dialogue: 0,0:08:01.62,0:08:05.91,Default,,0,0,0,,What's with this character? The silent type.
 Dialogue: 0,0:08:06.21,0:08:10.45,Default - white,,0,0,0,,{\pos(708,384)}South Round 2
 Dialogue: 0,0:08:10.98,0:08:12.98,Default,,0,0,0,,Pon.
 Dialogue: 0,0:08:22.25,0:08:24.95,Default,,0,0,0,,Ron.
@@ -190,7 +190,7 @@ Dialogue: 0,0:13:34.88,0:13:38.08,Default,,0,0,0,,Even if it means protecting ga
 Dialogue: 0,0:13:39.15,0:13:41.17,Default,,0,0,0,,But in such an important deal can I..
 Dialogue: 0,0:13:41.17,0:13:44.71,Default,,0,0,0,,Stop right there. It's KONW
 Dialogue: 0,0:13:45.01,0:13:48.57,Default,,0,0,0,,I've seen a lot of ringers before now
-Dialogue: 0,0:13:48.57,0:13:52.94,Default,,0,0,0,,You're hiding an ability far beyond that crowdお前はそいつらを凌駕する可能性を秘めている
+Dialogue: 0,0:13:48.57,0:13:52.94,Default,,0,0,0,,You're hiding an ability far beyond that crowd
 Dialogue: 0,0:13:53.88,0:13:57.11,Default,,0,0,0,,Have confidence in your own Mahjong
 Dialogue: 0,0:13:57.11,0:13:59.11,Default,,0,0,0,,I'm betting on you
 Dialogue: 0,0:14:00.11,0:14:02.11,Default,,0,0,0,,You can do it, can't you?
@@ -251,13 +251,13 @@ Dialogue: 0,0:21:11.88,0:21:15.00,Default,,0,0,0,,Nakanishi's certainly got a si
 Dialogue: 0,0:21:39.65,0:21:42.51,Default,,0,0,0,,Ron
 Dialogue: 0,0:21:43.78,0:21:45.78,Default,,0,0,0,,2,000 points
 Dialogue: 0,0:21:55.74,0:21:58.31,Default,,0,0,0,,If you play so sluggishly, you'll lose
-Dialogue: 0,0:21:59.31,0:22:02.65,Default,,0,0,0,,He's confusing youこいつらむちゃくちゃやってやがる
-Dialogue: 0,0:22:02.65,0:22:05.51,Default,,0,0,0,,It's a fearsome thing。怖いもの知らずだ
+Dialogue: 0,0:21:59.31,0:22:02.65,Default,,0,0,0,,He's confusing you
+Dialogue: 0,0:22:02.65,0:22:05.51,Default,,0,0,0,,What you don't know is scaring you
 Dialogue: 0,0:22:05.51,0:22:07.51,Default,,0,0,0,,Please help me!
-Dialogue: 0,0:22:07.51,0:22:09.51,Default,,0,0,0,,Ten!
-Dialogue: 0,0:22:09.51,0:22:14.25,Default,,0,0,0,,My dead mother left this place to me!
+Dialogue: 0,0:22:07.51,0:22:09.10,Default,,0,0,0,,Ten!
+Dialogue: 0,0:22:09.30,0:22:14.25,Default,,0,0,0,,I need a ringer because my dead mom left this place to me
 Dialogue: 0,0:22:14.25,0:22:17.22,Default,,0,0,0,,PLEASE!
-Dialogue: 0,0:22:18.15,0:22:21.28,Default,,0,0,0,,I'll do it since I owe you.
+Dialogue: 0,0:22:18.15,0:22:21.28,Default,,0,0,0,,I'll do it since I owe you
 Dialogue: 0,0:22:21.28,0:22:24.57,Default,,0,0,0,,You've led an honest, straightforward life...
 Dialogue: 0,0:22:24.57,0:22:27.85,Default,,0,0,0,,How could you gamble it all away?
 Dialogue: 0,0:22:28.78,0:22:31.88,Default,,0,0,0,,Basically I was tricked
@@ -291,3 +291,7 @@ Dialogue: 0,0:24:15.48,0:24:18.00,Default,,0,0,0,,{\pos(422,46)}They're willing 
 Dialogue: 0,0:24:19.95,0:24:23.80,Default,,0,0,0,,{\pos(428,48)}I don't know what we do next
 Dialogue: 0,0:24:43.22,0:24:45.98,Default,,0,0,0,,{\pos(416,44)}Well then. Round two
 Dialogue: 0,0:24:47.08,0:24:49.08,Default,,0,0,0,,Shall we begin?
+Dialogue: 0,0:24:49.70,0:24:53.35,Default,,0,0,0,,People can obtain what they desire through HOPE
+Dialogue: 0,0:24:53.35,0:24:55.00,Default,,0,0,0,,BUT IN GAMBLING IT'S JUST THE OPPOSITE
+Dialogue: 0,0:24:55.00,0:24:56.20,Default,,0,0,0,,How did he read my discards?
+Dialogue: 0,0:24:56.20,0:24:58.95,Default,,0,0,0,,That's the Mahjong level I'm at
