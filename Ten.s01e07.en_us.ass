@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 78
-Active Line: 92
-Video Position: 11452
+Video Zoom Percent: 0.250000
+Scroll Position: 70
+Active Line: 88
+Video Position: 10409
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,12 +78,12 @@ Dialogue: 0,0:02:56.05,0:02:59.15,Default,,0,0,0,,You did that, didn't you Soga
 Dialogue: 0,0:03:01.08,0:03:03.45,Default,,0,0,0,,THIS now is something to see
 Dialogue: 0,0:03:03.45,0:03:07.45,Default,,0,0,0,,I'm deliberately provoking Akagi
 Dialogue: 0,0:03:07.45,0:03:10.80,Default,,0,0,0,,And he's not the kind to back down
-Dialogue: 0,0:03:10.80,0:03:16.15,Default,,0,0,0,,He'll try to use that dora I gave him to win
+Dialogue: 0,0:03:10.80,0:03:16.15,Default,,0,0,0,,Let's see if he'll try to use that dora I gave him to win
 Dialogue: 0,0:03:19.60,0:03:21.25,Default,,0,0,0,,as i thought
 Dialogue: 0,0:03:21.25,0:03:24.00,Default,,0,0,0,,The kid's at the table
-Dialogue: 0,0:03:24.00,0:03:26.65,Default,,0,0,0,,Akagi's hand, with an Ippatsu Tsumo
-Dialogue: 0,0:03:26.65,0:03:29.40,Default,,0,0,0,,and 4 dora, he's got a Haneman
-Dialogue: 0,0:03:29.40,0:03:32.55,Default,,0,0,0,,But if he wins, he'll drop the Kid's points to 1,000
+Dialogue: 0,0:03:24.00,0:03:26.65,Default,,0,0,0,,Akagi's hand, with an Ippatsu Tsumo,
+Dialogue: 0,0:03:26.65,0:03:29.40,Default,,0,0,0,,and 4 dora, it's a Haneman
+Dialogue: 0,0:03:29.40,0:03:32.55,Default,,0,0,0,,But if he wins, he'll drop the kid's points to 1,000
 Dialogue: 0,0:03:32.55,0:03:34.35,Default,,0,0,0,,Therefore...
 Dialogue: 0,0:03:34.35,0:03:37.40,Default,,0,0,0,,he'll let the win pass
 Dialogue: 0,0:03:56.35,0:03:59.28,Default,,0,0,0,,I drew it
@@ -95,7 +95,7 @@ Dialogue: 0,0:04:18.35,0:04:21.75,Default,,0,0,0,,You've got to win when you can
 Dialogue: 0,0:04:22.41,0:04:24.85,Default,,0,0,0,,I see you calling tiles, but
 Dialogue: 0,0:04:24.85,0:04:26.85,Default,,0,0,0,,But winning's the thing, isn't it?
 Dialogue: 0,0:04:28.81,0:04:31.40,Default,,0,0,0,,Akagi, sweetie
-Dialogue: 0,0:04:31.40,0:04:34.50,Default,,0,0,0,,wake up darling
+Dialogue: 0,0:04:31.40,0:04:34.50,Default,,0,0,0,,open your eyes
 Dialogue: 0,0:04:34.50,0:04:38.50,Default,,0,0,0,,stop screwing around and wiping other people's ass for them
 Dialogue: 0,0:04:38.50,0:04:40.50,Default,,0,0,0,,You'll end up dead
 Dialogue: 0,0:04:48.25,0:04:51.58,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: {\c&H0019FF&}19000{\c&HFFFFFF&} Hiroyuki: 7000\NAkagi: {\c&H0000FF&}22000
@@ -113,19 +113,23 @@ Dialogue: 0,0:05:18.78,0:05:20.78,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:05:29.08,0:05:31.08,Default,,0,0,0,,with an additional dora
 Dialogue: 0,0:05:31.08,0:05:33.08,Default,,0,0,0,,A Baiman win
 Dialogue: 0,0:05:35.85,0:05:39.10,Default,,0,0,0,,Getting a tsumo win while I'm dealer
-Dialogue: 0,0:05:39.10,0:05:41.10,Default,,0,0,0,,hits me for double the points
-Dialogue: 0,0:05:41.10,0:05:44.05,Default,,0,0,0,,but it delivers damage to the enemy too
-Dialogue: 0,0:05:44.05,0:05:46.95,Default,,0,0,0,,Soga's tsumo win affects everyone, whether he likes it or not
-Dialogue: 0,0:05:46.95,0:05:51.60,Default,,0,0,0,,The difference in points between the east and west is now so great, that gives us no advantage
-Dialogue: 0,0:05:51.60,0:05:54.15,Default,,0,0,0,,And Hiroyuki's already...
-Dialogue: 0,0:05:54.15,0:05:57.60,Default,,0,0,0,,On the edge of a cliff
-Dialogue: 0,0:06:00.48,0:06:07.70,default - cyan,,0,0,0,,{\pos(952,103.667)}#/tv/shows Shalom TV Viewing club presents
+Dialogue: 0,0:05:39.10,0:05:41.10,Default,,0,0,0,,{\pos(940,801)}hits me for double the points
+Dialogue: 0,0:05:39.71,0:05:46.98,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: {\c&H0000FF&}12000{\c&HFFFFFF&} Hiroyuki: {\c&H0019FF&}3000{\c&HFFFFFF&}\NAkagi: 16000
+Dialogue: 0,0:05:39.71,0:05:46.98,small - white,,0,0,0,,{\pos(1222.667,183)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: {\c&H0000FF&}11000
+Dialogue: 0,0:05:41.10,0:05:44.05,Default,,0,0,0,,{\pos(952,749)}but it delivers damage to the enemy too
+Dialogue: 0,0:05:44.05,0:05:46.95,Default,,0,0,0,,{\pos(940,777)}despite everything, Soga still took the win
+Dialogue: 0,0:05:46.95,0:05:51.60,Default,,0,0,0,,{\pos(960,797)}Preventing us from overcoming the vast difference in points between east and west takes priority
+Dialogue: 0,0:05:51.60,0:05:54.15,Default,,0,0,0,,and now Hiroyuki is...
+Dialogue: 0,0:05:54.15,0:05:57.60,Default,,0,0,0,,on the edge of a cliff
+Dialogue: 0,0:06:00.48,0:06:07.70,default - cyan,,0,0,0,,{\pos(952,103.667)}#/tv/shows Shabbos Goys and Golems present:
 Dialogue: 0,0:06:11.31,0:06:13.11,Default - red,,0,0,0,,{\pos(309.334,939.666)}Kishitani Goro
 Dialogue: 0,0:06:11.31,0:06:13.11,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
 Dialogue: 0,0:06:19.95,0:06:21.75,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
 Dialogue: 0,0:06:19.95,0:06:21.75,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
 Dialogue: 0,0:06:28.61,0:06:30.41,Default - red,,0,0,0,,{\pos(437.333,1057)}Yoshida Eisaku
 Dialogue: 0,0:06:28.61,0:06:30.41,Default - white,,0,0,0,,{\pos(744,758.333)}Akagi Shigeru
+Dialogue: 0,0:06:55.80,0:06:59.25,Default,,0,0,0,,{\pos(980,109)}#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:06:59.25,0:07:02.61,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
 Dialogue: 0,0:07:02.61,0:07:04.61,Default - white,,0,0,0,,{\pos(976,909)}Episode 7
 Dialogue: 0,0:07:02.61,0:07:04.61,Default,,0,0,0,,{\pos(962.667,649)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
 Dialogue: 0,0:07:05.58,0:07:10.95,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 12000{\c&HFFFFFF&} Hiroyuki: 3000\NAkagi: 16000
@@ -152,10 +156,10 @@ Dialogue: 0,0:08:45.55,0:08:48.10,Default,,0,0,0,,6,400 points
 Dialogue: 0,0:08:50.20,0:08:52.85,Default,,0,0,0,,We survived
 Dialogue: 0,0:08:52.85,0:08:55.60,Default,,0,0,0,,Harada flinched under Akagi's pressure
 Dialogue: 0,0:08:55.60,0:08:58.90,Default,,0,0,0,,Akagi's odd discards overcame his spirit
-Dialogue: 0,0:08:58.90,0:09:00.90,Default,,0,0,0,,Akagi wasn't in Tenpai at all
+Dialogue: 0,0:08:58.90,0:09:00.90,Default,,0,0,0,,Akagi declared Riichi when he wasn't ready to go out
 Dialogue: 0,0:09:05.10,0:09:06.30,Default,,0,0,0,,It was a bluff
-Dialogue: 0,0:09:06.30,0:09:09.15,Default,,0,0,0,,If his Riichi were revealed...
-Dialogue: 0,0:09:09.15,0:09:12.90,Default,,0,0,0,,or if the match came to a draw, his fake riichi would be found out
+Dialogue: 0,0:09:06.30,0:09:09.15,Default,,0,0,0,,For good or ill,
+Dialogue: 0,0:09:09.15,0:09:12.90,Default,,0,0,0,,If the witness came by or if the match came to a draw, his fake riichi would be found out
 Dialogue: 0,0:09:12.90,0:09:15.35,Default,,0,0,0,,that would mean an 8,000 point penalty
 Dialogue: 0,0:09:15.35,0:09:19.10,Default,,0,0,0,,A NO TENPAI SUICIDE RIICHI
 Dialogue: 0,0:09:21.05,0:09:26.95,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 12000{\c&HFFFFFF&} Hiroyuki: 3000\NAkagi: 16000
@@ -244,13 +248,13 @@ Dialogue: 0,0:18:03.40,0:18:06.48,Default,,0,0,0,,No Ura-dora
 Dialogue: 0,0:18:06.48,0:18:09.30,Default,,0,0,0,,It's only a Mangan hand
 Dialogue: 0,0:18:11.25,0:18:14.15,Default,,0,0,0,,He changed his wait AFTER declaring riichi
 Dialogue: 0,0:18:14.15,0:18:16.15,Default,,0,0,0,,So he couldn't declare Kan
-Dialogue: 0,0:18:16.15,0:18:18.15,Default,,0,0,0,,Using an illegal Kan
+Dialogue: 0,0:18:16.15,0:18:18.15,Default,,0,0,0,,then, using an ILLEGAL Kan
 Dialogue: 0,0:18:18.15,0:18:21.00,Default,,0,0,0,,He scalped Harada!
 Dialogue: 0,0:18:24.50,0:18:27.50,Default,,0,0,0,,It was difficult to notice from the West team's perspective
 Dialogue: 0,0:18:27.50,0:18:29.85,Default,,0,0,0,,while the tile he actually drew was hidden in his palm
 Dialogue: 0,0:18:29.85,0:18:32.70,Default,,0,0,0,,he returned the tile he could actually Kan with to his hand
 Dialogue: 0,0:18:32.70,0:18:36.25,Default,,0,0,0,,there were then unmistakably 4 tiles to Kan in his hand
-Dialogue: 0,0:18:36.25,0:18:38.50,Default,,0,0,0,,His movements were so fluid
+Dialogue: 0,0:18:36.25,0:18:38.50,Default,,0,0,0,,With movements were so fluid
 Dialogue: 0,0:18:38.50,0:18:40.90,Default,,0,0,0,,It looked like there was nothing amiss
 Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,With this illegal Kan
 Dialogue: 0,0:18:45.30,0:18:47.10,Default,,0,0,0,,from a 2-5 Man wait...
@@ -274,7 +278,7 @@ Dialogue: 0,0:19:54.48,0:19:59.20,small - white,,0,0,0,,{\pos(418,183)}East Team
 Dialogue: 0,0:19:54.48,0:19:59.20,small - white,,0,0,0,,{\pos(1222.667,183)}West Team\NHarada:7000 Mitsui:{\c&H0019FF&} 5000{\c&HFFFFFF&}\NSoga: 25000 Nakatsu: 11000
 Dialogue: 0,0:19:54.48,0:19:59.20,small - white,,0,0,0,,{\pos(1667.333,798.333)}Game 9\NEast Round 3
 Dialogue: 0,0:20:19.15,0:20:21.78,Default,,0,0,0,,Pon
-Dialogue: 0,0:20:26.68,0:20:28.68,Default,,0,0,0,,He's was getting cocky調子に乗りやがって
+Dialogue: 0,0:20:26.68,0:20:28.68,Default,,0,0,0,,He's getting cocky
 Dialogue: 0,0:20:28.68,0:20:31.65,Default,,0,0,0,,Going for a toitoi or honiisou hand
 Dialogue: 0,0:20:31.65,0:20:34.50,Default,,0,0,0,,by putting together East and West triplets
 Dialogue: 0,0:20:34.50,0:20:37.10,Default,,0,0,0,,he's guaranteed a Mangan hand
@@ -306,40 +310,41 @@ Dialogue: 0,0:25:03.95,0:25:07.25,Default,,0,0,0,,Harada looks like he's holding
 Dialogue: 0,0:25:07.25,0:25:09.25,Default,,0,0,0,,and they expect him to discard a 5 pin?
 Dialogue: 0,0:25:09.25,0:25:13.65,Default,,0,0,0,,that's a style of play I've ever thought of before
 Dialogue: 0,0:25:18.45,0:25:20.60,Default,,0,0,0,,Pon
-Dialogue: 0,0:25:30.35,0:25:33.40,Default,,0,0,0,,It can't be helped but I have to discard the 3 Sou
+Dialogue: 0,0:25:30.35,0:25:33.40,Default,,0,0,0,,If I discard the 3 Sou I'll take the hand...
 Dialogue: 0,0:25:33.40,0:25:36.45,Default,,0,0,0,,but that previous 5 Pin discard
 Dialogue: 0,0:25:36.45,0:25:40.15,Default,,0,0,0,,Considering the kid's honisou the 3 Sou is extremely dangerous
 Dialogue: 0,0:25:40.15,0:25:43.70,Default,,0,0,0,,Harada could be in tenpai
 Dialogue: 0,0:25:43.70,0:25:46.05,Default,,0,0,0,,I'll choose to deal into his hand
 Dialogue: 0,0:25:46.05,0:25:48.50,Default,,0,0,0,,I'll discard a 2 Pin
-Dialogue: 0,0:25:48.50,0:25:52.10,Default,,0,0,0,,Here I've got not choice but to do what's useless
+Dialogue: 0,0:25:48.50,0:25:52.10,Default,,0,0,0,,At this point I've got to do what I've got to do
 Dialogue: 0,0:25:55.50,0:25:57.75,Default,,0,0,0,,Ron
 Dialogue: 0,0:25:59.71,0:26:01.71,Default,,0,0,0,,Ron
 Dialogue: 0,0:26:08.25,0:26:10.00,Default,,0,0,0,,Head Bump
+Dialogue: 0,0:26:08.25,0:26:14.15,default - cyan,,0,0,0,,{\pos(956,437)}Head Bump or Atamahane(頭跳ね): In the case of two Ron calls, awarding the Ron to the player closest to the discarder, in wind order. This is in contrast to the Double Ron (or Triple Ron) rule which allows multiple point payouts on simultaneous Ron calls.
 Dialogue: 0,0:26:10.00,0:26:12.55,Default,,0,0,0,,East West Toitoi 3 Dora
 Dialogue: 0,0:26:12.55,0:26:15.85,Default,,0,0,0,,A Haneman win
-Dialogue: 0,0:26:19.45,0:26:23.75,Default,,0,0,0,,Even though Hiroyuki had 4 Dora he avoided declaring Kan
+Dialogue: 0,0:26:19.45,0:26:23.75,Default,,0,0,0,,{\pos(968,825)}Even though Hiroyuki had 4 Dora he avoided declaring Kan
 Dialogue: 0,0:26:23.75,0:26:27.65,Default,,0,0,0,,aiming to win via a much more effective single tile wait
-Dialogue: 0,0:26:28.41,0:26:31.70,Default,,0,0,0,,Thus Hiroyuki chose a 2 Pin wait
-Dialogue: 0,0:26:31.70,0:26:36.60,Default,,0,0,0,,As Hiroyuki  SEEMED to have a sou honisou, it wasn't a likely wait
-Dialogue: 0,0:26:41.50,0:26:44.05,Default,,0,0,0,,Discarding one of his dora...
-Dialogue: 0,0:26:44.05,0:26:46.05,Default,,0,0,0,,a direct hit here would mean instant death
-Dialogue: 0,0:26:46.05,0:26:47.95,Default,,0,0,0,,HOWEVER
-Dialogue: 0,0:26:47.95,0:26:49.95,Default,,0,0,0,,...what if it passed?
-Dialogue: 0,0:26:49.95,0:26:52.70,Default,,0,0,0,,the ULTIMATE camouflage
+Dialogue: 0,0:26:28.41,0:26:31.70,Default,,0,0,0,,{\pos(980,908)}Thus Hiroyuki chose a 2 Pin wait
+Dialogue: 0,0:26:31.70,0:26:36.60,Default,,0,0,0,,{\pos(1052,841)}As Hiroyuki  SEEMED to have a sou honisou, it wasn't a likely wait
+Dialogue: 0,0:26:41.50,0:26:44.05,Default,,0,0,0,,{\pos(1008,869)}Discarding one of his dora...
+Dialogue: 0,0:26:44.05,0:26:46.05,Default,,0,0,0,,{\pos(980,885)}a direct hit here would mean instant death
+Dialogue: 0,0:26:46.05,0:26:47.95,Default,,0,0,0,,{\pos(976,877)}HOWEVER
+Dialogue: 0,0:26:47.95,0:26:49.95,Default,,0,0,0,,{\pos(956,877)}...what if it passed?
+Dialogue: 0,0:26:49.95,0:26:52.70,Default,,0,0,0,,it becomes the ULTIMATE camouflage
 Dialogue: 0,0:26:57.05,0:27:00.00,Default,,0,0,0,,the kid's been cautious up to now
 Dialogue: 0,0:27:00.00,0:27:03.25,Default,,0,0,0,,How can he now play putting his life on the line?
 Dialogue: 0,0:27:03.25,0:27:05.25,Default,,0,0,0,,Maybe the answer...
 Dialogue: 0,0:27:05.25,0:27:07.25,Default,,0,0,0,,is in Akagi's hand
 Dialogue: 0,0:27:08.21,0:27:10.75,Default,,0,0,0,,that hand there
 Dialogue: 0,0:27:10.75,0:27:12.75,Default,,0,0,0,,is a bluff
-Dialogue: 0,0:27:14.71,0:27:18.55,Default,,0,0,0,,Akagi wasn't aiming for a win himself
-Dialogue: 0,0:27:19.31,0:27:21.31,Default,,0,0,0,,but rather to protect the kid
-Dialogue: 0,0:27:21.31,0:27:23.31,Default,,0,0,0,,He's shielded him
-Dialogue: 0,0:27:23.31,0:27:26.05,Default,,0,0,0,,and that's emboldened the kid
-Dialogue: 0,0:27:26.05,0:27:28.05,Default,,0,0,0,,It's been transmitted
-Dialogue: 0,0:27:29.01,0:27:32.15,Default,,0,0,0,,The ultimate sensibility of an Akagi Shigeru
-Dialogue: 0,0:27:32.15,0:27:34.15,Default,,0,0,0,,his spirit
-Dialogue: 0,0:27:34.98,0:27:37.85,Default,,0,0,0,,This ain't good
-Dialogue: 0,0:27:42.61,0:27:44.61,Default,,0,0,0,,Hiroyuku
-Dialogue: 0,0:27:46.10,0:27:48.58,Default,,0,0,0,,HE'S TRANSFORMED
+Dialogue: 0,0:27:14.71,0:27:18.55,Default,,0,0,0,,{\pos(956,841)}Akagi wasn't aiming for a win himself
+Dialogue: 0,0:27:19.31,0:27:21.31,Default,,0,0,0,,{\pos(944,793)}but rather to protect the kid
+Dialogue: 0,0:27:21.31,0:27:23.31,Default,,0,0,0,,{\pos(948,793)}He's shielded him
+Dialogue: 0,0:27:23.31,0:27:26.05,Default,,0,0,0,,{\pos(948,829)}and that's emboldened the kid
+Dialogue: 0,0:27:26.05,0:27:28.05,Default,,0,0,0,,{\pos(956,797)}It's been transmitted
+Dialogue: 0,0:27:29.01,0:27:32.15,Default,,0,0,0,,{\pos(956,753)}The ultimate sensibility of an Akagi Shigeru
+Dialogue: 0,0:27:32.15,0:27:34.15,Default,,0,0,0,,{\pos(976,785)}his spirit
+Dialogue: 0,0:27:34.98,0:27:37.85,Default,,0,0,0,,{\pos(972,761)}This ain't good
+Dialogue: 0,0:27:42.61,0:27:44.61,Default,,0,0,0,,{\pos(936,865)}Hiroyuku
+Dialogue: 0,0:27:46.10,0:27:48.58,Default,,0,0,0,,{\pos(940,841)}HE'S TRANSFORMED
