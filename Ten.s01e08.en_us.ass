@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: /home/on-three/incoming/ten.fukumoto.drama/Ten.s01e08.mp4
-Video File: /home/on-three/incoming/ten.fukumoto.drama/Ten.s01e08.mp4
+Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e08.mp4
+Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e08.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 240
-Active Line: 265
-Video Position: 49634
+Scroll Position: 135
+Active Line: 166
+Video Position: 39019
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,172 +30,172 @@ Style: small - white,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.85,Default,,0,0,0,,
-Dialogue: 0,0:00:04.85,0:00:06.25,Default,,0,0,0,,
-Dialogue: 0,0:00:06.25,0:00:08.25,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:04.85,Default,,0,0,0,,Camouflage before Riichi\NThat's a Mahjong PREREQUISITE
+Dialogue: 0,0:00:04.85,0:00:06.25,Default,,0,0,0,,Hiroyuki,
+Dialogue: 0,0:00:06.25,0:00:08.25,Default,,0,0,0,,You've TRANSFORMED
 Dialogue: 0,0:00:10.98,0:00:16.01,Default,,0,0,0,,
-Dialogue: 0,0:00:20.20,0:00:22.98,Default,,0,0,0,,小僧が調子に乗ってきた以上、
-Dialogue: 0,0:00:22.98,0:00:25.90,Default,,0,0,0,,こっちもスキをみせられん
-Dialogue: 0,0:00:28.41,0:00:30.41,Default,,0,0,0,,
-Dialogue: 0,0:00:46.05,0:00:50.15,Default,,0,0,0,,
-Dialogue: 0,0:00:53.75,0:00:56.10,Default,,0,0,0,,無理はするな
-Dialogue: 0,0:00:56.10,0:00:59.50,Default,,0,0,0,,調子に乗って振り込めば
-Dialogue: 0,0:00:59.50,0:01:01.50,Default,,0,0,0,,全ては終わる
-Dialogue: 0,0:01:11.10,0:01:14.11,Default,,0,0,0,,
-Dialogue: 0,0:01:14.11,0:01:15.65,Default,,0,0,0,,
-Dialogue: 0,0:01:15.65,0:01:18.75,Default,,0,0,0,,
-Dialogue: 0,0:01:48.35,0:01:49.95,Default,,0,0,0,,
-Dialogue: 0,0:01:49.95,0:01:51.95,Default,,0,0,0,,
-Dialogue: 0,0:01:59.90,0:02:03.05,Default,,0,0,0,,
-Dialogue: 0,0:02:06.90,0:02:09.30,Default,,0,0,0,,
-Dialogue: 0,0:02:09.30,0:02:11.30,Default,,0,0,0,,
+Dialogue: 0,0:00:20.20,0:00:22.98,Default,,0,0,0,,Kid's getting carried away
+Dialogue: 0,0:00:22.98,0:00:25.90,Default,,0,0,0,,I won't let my weakness be seen eitherこっちもスキをみせられん(causative passive)
+Dialogue: 0,0:00:28.41,0:00:30.41,Default,,0,0,0,,Raaaaychi
+Dialogue: 0,0:00:46.05,0:00:50.15,Default,,0,0,0,,So, If I declare Riichi I've got a Mangan, hunh?
+Dialogue: 0,0:00:53.75,0:00:56.10,Default,,0,0,0,,No. It would be no use
+Dialogue: 0,0:00:56.10,0:00:59.50,Default,,0,0,0,,If I get carried away and declare Riichi, I'll deal into somone's hand調子に乗って振り込めば
+Dialogue: 0,0:00:59.50,0:01:01.50,Default,,0,0,0,,And then it's all over
+Dialogue: 0,0:01:11.10,0:01:14.11,Default,,0,0,0,,Riichi
+Dialogue: 0,0:01:14.11,0:01:15.65,Default,,0,0,0,,And there it is
+Dialogue: 0,0:01:15.65,0:01:18.75,Default,,0,0,0,,Ten's in Tenpai too
+Dialogue: 0,0:01:48.35,0:01:49.95,Default,,0,0,0,,There it is!
+Dialogue: 0,0:01:49.95,0:01:51.95,Default,,0,0,0,,Soga's winning tile
+Dialogue: 0,0:01:59.90,0:02:03.05,Default,,0,0,0,,Ehhh?\NHe won't take it?!?
+Dialogue: 0,0:02:06.90,0:02:09.30,Default,,0,0,0,,Why did he let the win pass?
+Dialogue: 0,0:02:09.30,0:02:11.30,Default,,0,0,0,,A direct hit off Ten
 Dialogue: 0,0:02:11.30,0:02:14.25,Default,,0,0,0,,
-Dialogue: 0,0:02:31.05,0:02:34.11,Default,,0,0,0,,
-Dialogue: 0,0:02:37.95,0:02:41.10,Default,,0,0,0,,
-Dialogue: 0,0:02:41.10,0:02:43.10,Default,,0,0,0,,
-Dialogue: 0,0:02:43.10,0:02:45.90,Default,,0,0,0,,
-Dialogue: 0,0:02:46.25,0:02:48.88,Default,,0,0,0,,
-Dialogue: 0,0:02:52.00,0:02:54.41,Default,,0,0,0,,
-Dialogue: 0,0:02:54.41,0:02:56.10,Default,,0,0,0,,
-Dialogue: 0,0:02:56.10,0:02:59.30,Default,,0,0,0,,
-Dialogue: 0,0:03:01.18,0:03:03.18,Default,,0,0,0,,
-Dialogue: 0,0:03:03.88,0:03:07.90,Default,,0,0,0,,
-Dialogue: 0,0:03:07.90,0:03:09.35,Default,,0,0,0,,
-Dialogue: 0,0:03:09.35,0:03:12.85,Default,,0,0,0,,ひろゆきの点棒を削る
-Dialogue: 0,0:03:12.85,0:03:15.45,Default,,0,0,0,,ひろゆきの点が無くなれば
-Dialogue: 0,0:03:15.45,0:03:17.90,Default,,0,0,0,,天と赤木はツモ和了り出来なくなる
-Dialogue: 0,0:03:17.90,0:03:19.90,Default,,0,0,0,,その方が良いと判断して
-Dialogue: 0,0:03:19.90,0:03:23.10,Default,,0,0,0,,執念でツモ和了りしやがった
-Dialogue: 0,0:05:39.50,0:05:42.78,Default,,0,0,0,,
-Dialogue: 0,0:05:42.78,0:05:44.60,Default,,0,0,0,,
+Dialogue: 0,0:02:31.05,0:02:34.11,Default,,0,0,0,,And NOW
+Dialogue: 0,0:02:37.95,0:02:41.10,Default,,0,0,0,,Mentanpin Tsumo
+Dialogue: 0,0:02:41.10,0:02:43.10,Default,,0,0,0,,Aaaand
+Dialogue: 0,0:02:43.10,0:02:45.90,Default,,0,0,0,,any additional Ura-dora?
+Dialogue: 0,0:02:46.25,0:02:48.88,Default,,0,0,0,,FUCK YES
+Dialogue: 0,0:02:52.00,0:02:54.41,Default,,0,0,0,,A Mangan hand
+Dialogue: 0,0:02:54.41,0:02:56.10,Default,,0,0,0,,It can't be
+Dialogue: 0,0:02:56.10,0:02:59.30,Default,,0,0,0,,Soga could have won off Tens 7 Pin discard
+Dialogue: 0,0:03:01.18,0:03:03.18,Default,,0,0,0,,This is unthinkable
+Dialogue: 0,0:03:03.88,0:03:07.90,Default,,0,0,0,,He purposefully waited after passing on my discard
+Dialogue: 0,0:03:07.90,0:03:09.35,Default,,0,0,0,,His goal:
+Dialogue: 0,0:03:09.35,0:03:12.85,Default,,0,0,0,,To cut down Hiroyuki's pointsひろゆきの点棒を削る
+Dialogue: 0,0:03:12.85,0:03:15.45,Default,,0,0,0,,If Hiroyuki falls to just 1000 pointsひろゆきの点が無くなれば
+Dialogue: 0,0:03:15.45,0:03:17.90,Default,,0,0,0,,then neither I nor Akagi can declare Tsumo anymore天と赤木はツモ和了り出来なくなる
+Dialogue: 0,0:03:17.90,0:03:19.90,Default,,0,0,0,,He decided that was the preferable outcomeその方が良いと判断して
+Dialogue: 0,0:03:19.90,0:03:23.10,Default,,0,0,0,,And persistently sought a Tsumo執念でツモ和了りしやがった
+Dialogue: 0,0:05:39.50,0:05:42.78,Default,,0,0,0,,Harada is mos probably holding a Pinzu (dots) Honisou 
+Dialogue: 0,0:05:42.78,0:05:44.60,Default,,0,0,0,,So here, should I discard my 7 Sou (bamboo)?
 Dialogue: 0,0:05:44.60,0:05:47.60,Default,,0,0,0,,
 Dialogue: 0,0:05:56.85,0:05:59.35,Default,,0,0,0,,
 Dialogue: 0,0:05:59.35,0:06:01.35,Default,,0,0,0,,
-Dialogue: 0,0:06:27.45,0:06:30.81,Default,,0,0,0,,
-Dialogue: 0,0:06:30.81,0:06:34.25,Default,,0,0,0,,
+Dialogue: 0,0:06:27.45,0:06:30.81,Default,,0,0,0,,Only a Tatehon hand?(closed multi color)
+Dialogue: 0,0:06:30.81,0:06:34.25,Default,,0,0,0,,This won't amount to a Mangan hand
 Dialogue: 0,0:06:41.05,0:06:44.15,Default,,0,0,0,,
-Dialogue: 0,0:06:46.85,0:06:48.10,Default,,0,0,0,,
-Dialogue: 0,0:06:48.10,0:06:52.40,Default,,0,0,0,,
-Dialogue: 0,0:07:06.20,0:07:08.55,Default,,0,0,0,,
-Dialogue: 0,0:07:08.55,0:07:11.35,Default,,0,0,0,,こちらはロスが多い
-Dialogue: 0,0:07:11.35,0:07:15.05,Default,,0,0,0,,
-Dialogue: 0,0:07:15.05,0:07:17.90,Default,,0,0,0,,
-Dialogue: 0,0:07:18.85,0:07:21.35,Default,,0,0,0,,和了り逃しか
-Dialogue: 0,0:07:22.18,0:07:23.65,Default,,0,0,0,,いや、
-Dialogue: 0,0:07:23.65,0:07:25.65,Default,,0,0,0,,ミスじゃない
-Dialogue: 0,0:07:25.65,0:07:27.20,Default,,0,0,0,,
-Dialogue: 0,0:07:27.20,0:07:28.78,Default,,0,0,0,,この手、
-Dialogue: 0,0:07:28.78,0:07:31.85,Default,,0,0,0,,後一手で化ける
-Dialogue: 0,0:07:31.85,0:07:34.25,Default,,0,0,0,,
+Dialogue: 0,0:06:46.85,0:06:48.10,Default,,0,0,0,,However
+Dialogue: 0,0:06:48.10,0:06:52.40,Default,,0,0,0,,If Hiroyuki igets a 1 or 4 Pin, it might just come out
+Dialogue: 0,0:07:06.20,0:07:08.55,Default,,0,0,0,,Looks like Harada's in Tenpai
+Dialogue: 0,0:07:08.55,0:07:11.35,Default,,0,0,0,,If that happens then the loss to this side should be largeこちらはロスが多い
+Dialogue: 0,0:07:11.35,0:07:15.05,Default,,0,0,0,,If I had discarded a 7 Sou from this hand
+Dialogue: 0,0:07:15.05,0:07:17.90,Default,,0,0,0,,I'd be in Tenpai with this 1 Pin draw
+Dialogue: 0,0:07:18.85,0:07:21.35,Default,,0,0,0,,The win escaped?和了り逃しか
+Dialogue: 0,0:07:22.18,0:07:23.65,Default,,0,0,0,,Noいや、
+Dialogue: 0,0:07:23.65,0:07:25.65,Default,,0,0,0,,It wasn't a mistake at allミスじゃない
+Dialogue: 0,0:07:25.65,0:07:27.20,Default,,0,0,0,,hunh?
+Dialogue: 0,0:07:27.20,0:07:28.78,Default,,0,0,0,,This hand,この手、
+Dialogue: 0,0:07:28.78,0:07:31.85,Default,,0,0,0,,Will soon CHANGE後一手で化ける
+Dialogue: 0,0:07:31.85,0:07:34.25,Default,,0,0,0,,A Jyunchan Ryanpeikou???
 Dialogue: 0,0:07:34.25,0:07:39.05,Default,,0,0,0,,
-Dialogue: 0,0:07:39.05,0:07:41.80,Default,,0,0,0,,そんな牌引いてきたらまさに鬼ヅモだ
+Dialogue: 0,0:07:39.05,0:07:41.80,Default,,0,0,0,,He he drew something like that it would naturally be a DEMONIC drawそんな牌引いてきたらまさに鬼ヅモだ
 Dialogue: 0,0:07:41.80,0:07:44.10,Default,,0,0,0,,
-Dialogue: 0,0:07:50.55,0:07:53.21,Default,,0,0,0,,
-Dialogue: 0,0:07:58.90,0:08:01.55,Default,,0,0,0,,
-Dialogue: 0,0:08:05.30,0:08:07.40,Default,,0,0,0,,
+Dialogue: 0,0:07:50.55,0:07:53.21,Default,,0,0,0,,My god...
+Dialogue: 0,0:07:58.90,0:08:01.55,Default,,0,0,0,,H-he DREW IT
+Dialogue: 0,0:08:05.30,0:08:07.40,Default,,0,0,0,,So, now they change
 Dialogue: 0,0:08:07.40,0:08:11.80,Default,,0,0,0,,
-Dialogue: 0,0:08:13.75,0:08:15.35,Default,,0,0,0,,まずい
-Dialogue: 0,0:08:15.35,0:08:19.15,Default,,0,0,0,,天側の捨て牌。確実に大物の手が入っとる
-Dialogue: 0,0:08:30.25,0:08:32.20,Default,,0,0,0,,
-Dialogue: 0,0:08:32.20,0:08:34.20,Default,,0,0,0,,
-Dialogue: 0,0:08:34.20,0:08:36.20,Default,,0,0,0,,
-Dialogue: 0,0:08:36.88,0:08:39.55,Default,,0,0,0,,ひろゆき、
-Dialogue: 0,0:08:39.55,0:08:42.20,Default,,0,0,0,,悪いな
-Dialogue: 0,0:08:42.20,0:08:45.40,Default,,0,0,0,,ここは無茶させてもらう
-Dialogue: 0,0:08:49.65,0:08:51.85,Default,,0,0,0,,予感がする、
-Dialogue: 0,0:08:51.85,0:08:54.40,Default,,0,0,0,,地の鼓動、
-Dialogue: 0,0:08:54.40,0:08:56.40,Default,,0,0,0,,この龍
-Dialogue: 0,0:08:56.40,0:08:59.05,Default,,0,0,0,,地に潜らせる
-Dialogue: 0,0:09:02.50,0:09:04.40,Default,,0,0,0,,
-Dialogue: 0,0:09:07.75,0:09:09.45,Default,,0,0,0,,めちゃくちゃだ
-Dialogue: 0,0:09:09.45,0:09:12.25,Default,,0,0,0,,これでジュンチャンも二盃口も消えた、
-Dialogue: 0,0:09:12.25,0:09:14.55,Default,,0,0,0,,なぜ？
-Dialogue: 0,0:09:28.95,0:09:31.00,Default,,0,0,0,,阿久津は間違いなく聴牌、
-Dialogue: 0,0:09:31.00,0:09:34.80,Default,,0,0,0,,このままだと間違いなく東が討ち取られる
-Dialogue: 0,0:09:50.55,0:09:52.85,Default,,0,0,0,,
-Dialogue: 0,0:10:40.10,0:10:43.65,Default,,0,0,0,,
-Dialogue: 0,0:10:50.90,0:10:53.30,Default,,0,0,0,,駄目か？
-Dialogue: 0,0:11:14.70,0:11:16.80,Default,,0,0,0,,
-Dialogue: 0,0:11:52.45,0:11:55.51,Default,,0,0,0,,龍が地を割った
-Dialogue: 0,0:12:00.55,0:12:02.70,Default,,0,0,0,,
-Dialogue: 0,0:12:10.85,0:12:14.20,Default,,0,0,0,,
-Dialogue: 0,0:12:16.20,0:12:17.70,Default,,0,0,0,,
-Dialogue: 0,0:12:17.70,0:12:20.70,Default,,0,0,0,,
-Dialogue: 0,0:12:20.70,0:12:24.05,Default,,0,0,0,,
-Dialogue: 0,0:12:24.05,0:12:29.35,Default,,0,0,0,,あの手牌から四暗刻への道のりはあまりに細く険しかった
-Dialogue: 0,0:12:29.35,0:12:31.00,Default,,0,0,0,,だが
-Dialogue: 0,0:12:31.00,0:12:33.30,Default,,0,0,0,,そんな道の先にこそ、
-Dialogue: 0,0:12:33.30,0:12:36.75,Default,,0,0,0,,逆転の方法がある
-Dialogue: 0,0:14:07.60,0:14:10.58,Default,,0,0,0,,流れは東
-Dialogue: 0,0:14:10.58,0:14:12.00,Default,,0,0,0,,
-Dialogue: 0,0:14:12.00,0:14:14.45,Default,,0,0,0,,
-Dialogue: 0,0:14:14.45,0:14:17.00,Default,,0,0,0,,
+Dialogue: 0,0:08:13.75,0:08:15.35,Default,,0,0,0,,This is badまずい
+Dialogue: 0,0:08:15.35,0:08:19.15,Default,,0,0,0,,Ten's discards show he's got a certainly got a large hand天側の捨て牌。確実に大物の手が入っとる
+Dialogue: 0,0:08:30.25,0:08:32.20,Default,,0,0,0,,Alright!
+Dialogue: 0,0:08:32.20,0:08:34.20,Default,,0,0,0,,Ipeikou Tsumo with 2 Dora
+Dialogue: 0,0:08:34.20,0:08:36.20,Default,,0,0,0,,A Mangan win
+Dialogue: 0,0:08:36.88,0:08:39.55,Default,,0,0,0,,Hiroyuki,ひろゆき、
+Dialogue: 0,0:08:39.55,0:08:42.20,Default,,0,0,0,,I'm sorry悪いな
+Dialogue: 0,0:08:42.20,0:08:45.40,Default,,0,0,0,,Let me do what looks crazyここは無茶させてもらう
+Dialogue: 0,0:08:49.65,0:08:51.85,Default,,0,0,0,,I've had a PREMONITION予感がする、
+Dialogue: 0,0:08:51.85,0:08:54.40,Default,,0,0,0,,A pounding in the earth地の鼓動、
+Dialogue: 0,0:08:54.40,0:08:56.40,Default,,0,0,0,,This DRAGONこの龍
+Dialogue: 0,0:08:56.40,0:08:59.05,Default,,0,0,0,,Hidden in the earth地に潜らせる
+Dialogue: 0,0:09:02.50,0:09:04.40,Default,,0,0,0,,Kan
+Dialogue: 0,0:09:07.75,0:09:09.45,Default,,0,0,0,,His hand's a messめちゃくちゃだ
+Dialogue: 0,0:09:09.45,0:09:12.25,Default,,0,0,0,,His chance for either Jyunchan or Ryanpeiko just disappeared!これでジュンチャンも二盃口も消えた、
+Dialogue: 0,0:09:12.25,0:09:14.55,Default,,0,0,0,,Why?なぜ？
+Dialogue: 0,0:09:28.95,0:09:31.00,Default,,0,0,0,,Bakutsu is without doubt in Tenpai阿久津は間違いなく聴牌、
+Dialogue: 0,0:09:31.00,0:09:34.80,Default,,0,0,0,,If he wins he could take out the East teamこのままだと間違いなく東が討ち取られる
+Dialogue: 0,0:09:50.55,0:09:52.85,Default,,0,0,0,,Oh no
+Dialogue: 0,0:10:40.10,0:10:43.65,Default,,0,0,0,,A typical difficult to get SuuAnKou
+Dialogue: 0,0:10:50.90,0:10:53.30,Default,,0,0,0,,Is it no use at all?駄目か？
+Dialogue: 0,0:11:14.70,0:11:16.80,Default,,0,0,0,,Kan
+Dialogue: 0,0:11:52.45,0:11:55.51,Default,,0,0,0,,THE DRAGON HAS PARTED THE EARTH龍が地を割った
+Dialogue: 0,0:12:00.55,0:12:02.70,Default,,0,0,0,,Tsumo
+Dialogue: 0,0:12:10.85,0:12:14.20,Default,,0,0,0,,SuuAnKou
+Dialogue: 0,0:12:16.20,0:12:17.70,Default,,0,0,0,,HE DID IT
+Dialogue: 0,0:12:17.70,0:12:20.70,Default,,0,0,0,,This SuuAnKou lowers Akagi's points to 8000
+Dialogue: 0,0:12:20.70,0:12:24.05,Default,,0,0,0,,but the other two are OUT AT ONE STROKE
+Dialogue: 0,0:12:24.05,0:12:29.35,Default,,0,0,0,,The path to that SuuAnKou was narror and treacherousあの手牌から四暗刻への道のりはあまりに細く険しかった
+Dialogue: 0,0:12:29.35,0:12:31.00,Default,,0,0,0,,HOWEVERだが
+Dialogue: 0,0:12:31.00,0:12:33.30,Default,,0,0,0,,at the END of that pathそんな道の先にこそ、
+Dialogue: 0,0:12:33.30,0:12:36.75,Default,,0,0,0,,Was a way to turn the game around entirely逆転の方法がある
+Dialogue: 0,0:14:07.60,0:14:10.58,Default,,0,0,0,,The east as the flow...流れは東
+Dialogue: 0,0:14:10.58,0:14:12.00,Default,,0,0,0,,don't they
+Dialogue: 0,0:14:12.00,0:14:14.45,Default,,0,0,0,,Aww, it's still okay
+Dialogue: 0,0:14:14.45,0:14:17.00,Default,,0,0,0,,Akagi and Hiroyuki are only just BARELY in the game
 Dialogue: 0,0:14:17.00,0:14:18.80,Default,,0,0,0,,
-Dialogue: 0,0:14:18.80,0:14:21.30,Default,,0,0,0,,アホンダラ！
+Dialogue: 0,0:14:18.80,0:14:21.30,Default,,0,0,0,,FUKKIN RETARD!!!アホンダラ！
 Dialogue: 0,0:14:21.30,0:14:25.35,Default,,0,0,0,,何ヌルいことぬかしとんじゃワリャ！！
-Dialogue: 0,0:14:25.35,0:14:28.40,Default,,0,0,0,,さっきの和了でわかったやろ
-Dialogue: 0,0:14:28.40,0:14:29.80,Default,,0,0,0,,捨て身や
-Dialogue: 0,0:14:29.80,0:14:33.30,Default,,0,0,0,,奴らに点数なんぞ関係ないんじゃ！
-Dialogue: 0,0:14:35.98,0:14:37.98,Default,,0,0,0,,僧我さん、
-Dialogue: 0,0:14:37.98,0:14:40.80,Default,,0,0,0,,もう手段は選ばんでええ
-Dialogue: 0,0:14:40.80,0:14:42.80,Default,,0,0,0,,ええですな？
-Dialogue: 0,0:14:44.45,0:14:47.35,Default,,0,0,0,,あんたの好きでええよ
-Dialogue: 0,0:15:04.60,0:15:07.50,Default,,0,0,0,,いよいよ最終局面ですね
-Dialogue: 0,0:15:07.50,0:15:09.85,Default,,0,0,0,,さっきの天の四暗刻で
-Dialogue: 0,0:15:09.85,0:15:12.20,Default,,0,0,0,,やつらのケツに火がついた
-Dialogue: 0,0:15:12.20,0:15:14.20,Default,,0,0,0,,捨て身で来るだろう
-Dialogue: 0,0:15:15.65,0:15:18.55,Default,,0,0,0,,ここからは理の勝負じゃない
-Dialogue: 0,0:15:18.55,0:15:20.75,Default,,0,0,0,,食うか食われるか
-Dialogue: 0,0:15:20.75,0:15:23.40,Default,,0,0,0,,本能の戦いだ
-Dialogue: 0,0:15:23.40,0:15:25.85,Default,,0,0,0,,すべて
-Dialogue: 0,0:15:25.85,0:15:29.30,Default,,0,0,0,,己の心に委ねろ
+Dialogue: 0,0:14:25.35,0:14:28.40,Default,,0,0,0,,Understand what that win means!さっきの和了でわかったやろ
+Dialogue: 0,0:14:28.40,0:14:29.80,Default,,0,0,0,,They put it all on the line捨て身や
+Dialogue: 0,0:14:29.80,0:14:33.30,Default,,0,0,0,,It's got NOTHING to do with their fucking POINTS!奴らに点数なんぞ関係ないんじゃ！
+Dialogue: 0,0:14:35.98,0:14:37.98,Default,,0,0,0,,Soga僧我さん、
+Dialogue: 0,0:14:37.98,0:14:40.80,Default,,0,0,0,,I've already decided what we have to do, Okay?もう手段は選ばんでええ
+Dialogue: 0,0:14:40.80,0:14:42.80,Default,,0,0,0,,It's okay, isn't it?ええですな？
+Dialogue: 0,0:14:44.45,0:14:47.35,Default,,0,0,0,,As you preferあんたの好きでええよ
+Dialogue: 0,0:15:04.60,0:15:07.50,Default,,0,0,0,,More and more this looks like the last round, doesn't itいよいよ最終局面ですね
+Dialogue: 0,0:15:07.50,0:15:09.85,Default,,0,0,0,,Ten's SuuAnKou just nowさっきの天の四暗刻で
+Dialogue: 0,0:15:09.85,0:15:12.20,Default,,0,0,0,,It lit a fire under those fag's assesやつらのケツに火がついた
+Dialogue: 0,0:15:12.20,0:15:14.20,Default,,0,0,0,,They gonna come at us with everything they got捨て身で来るだろう
+Dialogue: 0,0:15:15.65,0:15:18.55,Default,,0,0,0,,This isn't a reasonable contest any moreここからは理の勝負じゃない
+Dialogue: 0,0:15:18.55,0:15:20.75,Default,,0,0,0,,Eat? Or be eaten?食うか食われるか
+Dialogue: 0,0:15:20.75,0:15:23.40,Default,,0,0,0,,It's an instinctual fight本能の戦いだ
+Dialogue: 0,0:15:23.40,0:15:25.85,Default,,0,0,0,,Everythingすべて
+Dialogue: 0,0:15:25.85,0:15:29.30,Default,,0,0,0,,I'll put my very hert into it己の心に委ねろ
 Dialogue: 0,0:15:36.60,0:15:41.78,Default,,0,0,0,,
-Dialogue: 0,0:16:16.20,0:16:19.01,Default,,0,0,0,,
-Dialogue: 0,0:16:19.01,0:16:20.55,Default,,0,0,0,,
-Dialogue: 0,0:16:20.55,0:16:23.30,Default,,0,0,0,,この局面でのリーチは
-Dialogue: 0,0:16:23.30,0:16:24.85,Default,,0,0,0,,満貫手
-Dialogue: 0,0:16:24.85,0:16:27.55,Default,,0,0,0,,ツモ和了りされたら終わりだ
-Dialogue: 0,0:16:28.98,0:16:31.95,Default,,0,0,0,,早上がりで流すのが一番良いが
-Dialogue: 0,0:16:36.65,0:16:39.30,Default,,0,0,0,,この手では厳しい
-Dialogue: 0,0:16:39.30,0:16:42.20,Default,,0,0,0,,ノーテン罰符が無いのだから、
-Dialogue: 0,0:16:42.20,0:16:45.20,Default,,0,0,0,,振り込まないようにするだけ
+Dialogue: 0,0:16:16.20,0:16:19.01,Default,,0,0,0,,Riichi
+Dialogue: 0,0:16:19.01,0:16:20.55,Default,,0,0,0,,It's come
+Dialogue: 0,0:16:20.55,0:16:23.30,Default,,0,0,0,,The first Riichi of the roundこの局面でのリーチは
+Dialogue: 0,0:16:23.30,0:16:24.85,Default,,0,0,0,,Is first a Mangan hand満貫手
+Dialogue: 0,0:16:24.85,0:16:27.55,Default,,0,0,0,,If he draws his tile, it's overツモ和了りされたら終わりだ
+Dialogue: 0,0:16:28.98,0:16:31.95,Default,,0,0,0,,winning fast with the flow is best早上がりで流すのが一番良いが
+Dialogue: 0,0:16:36.65,0:16:39.30,Default,,0,0,0,,And this hand is a slow one tooこの手では厳しい
+Dialogue: 0,0:16:39.30,0:16:42.20,Default,,0,0,0,,If it's true that this fight is without a "no tenpai penalty"ノーテン罰符が無いのだから、
+Dialogue: 0,0:16:42.20,0:16:45.20,Default,,0,0,0,,I just have to not deal into his hand振り込まないようにするだけ
 Dialogue: 0,0:17:00.70,0:17:03.45,Default,,0,0,0,,shitfuckpiss
-Dialogue: 0,0:17:15.50,0:17:17.80,Default,,0,0,0,,
-Dialogue: 0,0:17:17.80,0:17:19.80,Default,,0,0,0,,
-Dialogue: 0,0:17:20.15,0:17:22.15,Default,,0,0,0,,
+Dialogue: 0,0:17:15.50,0:17:17.80,Default,,0,0,0,,It wasn't an Itsuu
+Dialogue: 0,0:17:17.80,0:17:19.80,Default,,0,0,0,,A 7 Sou single tile wait?
+Dialogue: 0,0:17:20.15,0:17:22.15,Default,,0,0,0,,Why on earth?
 Dialogue: 0,0:17:33.95,0:17:38.15,Default,,0,0,0,,
-Dialogue: 0,0:17:38.15,0:17:40.15,Default,,0,0,0,,
-Dialogue: 0,0:17:42.01,0:17:44.85,Default,,0,0,0,,
-Dialogue: 0,0:17:44.85,0:17:48.20,Default,,0,0,0,,
-Dialogue: 0,0:17:48.20,0:17:52.05,Default,,0,0,0,,
-Dialogue: 0,0:17:52.05,0:17:56.35,Default,,0,0,0,,
-Dialogue: 0,0:17:56.35,0:17:59.40,Default,,0,0,0,,
-Dialogue: 0,0:17:59.40,0:18:01.95,Default,,0,0,0,,
-Dialogue: 0,0:18:01.95,0:18:04.45,Default,,0,0,0,,
-Dialogue: 0,0:18:06.55,0:18:09.35,Default,,0,0,0,,
+Dialogue: 0,0:17:38.15,0:17:40.15,Default,,0,0,0,,Come on!
+Dialogue: 0,0:17:42.01,0:17:44.85,Default,,0,0,0,,I'm in Tenpai
+Dialogue: 0,0:17:44.85,0:17:48.20,Default,,0,0,0,,If I discard the 5 Pin it's a 1/4 Pin wait
+Dialogue: 0,0:17:48.20,0:17:52.05,Default,,0,0,0,,Or if I discard the 3 Pin it's a 2 Pin/White dragon triple wait
+Dialogue: 0,0:17:52.05,0:17:56.35,Default,,0,0,0,,Whatever I do my two White Dragons are dora, plus an Iipeikou
+Dialogue: 0,0:17:56.35,0:17:59.40,Default,,0,0,0,,If I Riichi it's certainly more than Mangan
+Dialogue: 0,0:17:59.40,0:18:01.95,Default,,0,0,0,,There's already two White Dragons discarded
+Dialogue: 0,0:18:01.95,0:18:04.45,Default,,0,0,0,,So it's smooth sailing from here
+Dialogue: 0,0:18:06.55,0:18:09.35,Default,,0,0,0,,Riichi
 Dialogue: 0,0:18:10.85,0:18:12.55,Default,,0,0,0,,
 Dialogue: 0,0:18:12.55,0:18:14.95,Default,,0,0,0,,
 Dialogue: 0,0:18:15.75,0:18:18.15,Default,,0,0,0,,
 Dialogue: 0,0:18:18.15,0:18:21.50,Default,,0,0,0,,
-Dialogue: 0,0:18:21.50,0:18:24.10,Default,,0,0,0,,
-Dialogue: 0,0:18:27.85,0:18:30.78,Default,,0,0,0,,
-Dialogue: 0,0:18:32.80,0:18:35.51,Default,,0,0,0,,白が5枚？
-Dialogue: 0,0:20:07.20,0:20:10.28,Default,,0,0,0,,白が5枚？
-Dialogue: 0,0:20:10.28,0:20:11.78,Default,,0,0,0,,
-Dialogue: 0,0:20:11.78,0:20:15.60,Default,,0,0,0,,
-Dialogue: 0,0:20:15.60,0:20:17.90,Default,,0,0,0,,
-Dialogue: 0,0:20:17.90,0:20:19.35,Default,,0,0,0,,保険か？
-Dialogue: 0,0:20:19.35,0:20:22.70,Default,,0,0,0,,自分達が不利な時、白は五枚あることを告げ、
-Dialogue: 0,0:20:22.70,0:20:25.45,Default,,0,0,0,,その局を無効にするためか
-Dialogue: 0,0:20:25.98,0:20:27.98,Default,,0,0,0,,ふざけやがって
-Dialogue: 0,0:20:27.98,0:20:30.85,Default,,0,0,0,,こんなもの認めらるはずがない
-Dialogue: 0,0:20:32.48,0:20:36.35,Default,,0,0,0,,だが自分の優位を捨てることはない
-Dialogue: 0,0:20:36.35,0:20:39.30,Default,,0,0,0,,和了れば俺の勝ちだ
-Dialogue: 0,0:21:08.50,0:21:10.80,Default,,0,0,0,,
+Dialogue: 0,0:18:21.50,0:18:24.10,Default,,0,0,0,,I WILL DRAW IT
+Dialogue: 0,0:18:27.85,0:18:30.78,Default,,0,0,0,,I CAN'T BE
+Dialogue: 0,0:18:32.80,0:18:35.51,Default,,0,0,0,,FIVE white dragon tiles???白が5枚？
+Dialogue: 0,0:20:07.20,0:20:10.28,Default,,0,0,0,,FIVE white dragon tiles?白が5枚？
+Dialogue: 0,0:20:10.28,0:20:11.78,Default,,0,0,0,,It's the west team
+Dialogue: 0,0:20:11.78,0:20:15.60,Default,,0,0,0,,The West team mixed in an extra White Dragon from the start
+Dialogue: 0,0:20:15.60,0:20:17.90,Default,,0,0,0,,But what are they trying to achieve?
+Dialogue: 0,0:20:17.90,0:20:19.35,Default,,0,0,0,,Is it insurance?保険か？
+Dialogue: 0,0:20:19.35,0:20:22.70,Default,,0,0,0,,At times when you're at a disadvantage, just announcing there's 5 white dragons,自分達が不利な時、白は五枚あることを告げ、
+Dialogue: 0,0:20:22.70,0:20:25.45,Default,,0,0,0,,will invalidate the roundその局を無効にするためか
+Dialogue: 0,0:20:25.98,0:20:27.98,Default,,0,0,0,,You've got to be kiddingふざけやがって
+Dialogue: 0,0:20:27.98,0:20:30.85,Default,,0,0,0,,There's no reason why I have to play along with thisこんなもの認めらるはずがない
+Dialogue: 0,0:20:32.48,0:20:36.35,Default,,0,0,0,,BUT, why should I throw away my advantage?だが自分の優位を捨てることはない
+Dialogue: 0,0:20:36.35,0:20:39.30,Default,,0,0,0,,If I complete my hand, I win和了れば俺の勝ちだ
+Dialogue: 0,0:21:08.50,0:21:10.80,Default,,0,0,0,,Why a North Wind?
 Dialogue: 0,0:21:10.80,0:21:13.85,Default,,0,0,0,,
 Dialogue: 0,0:21:13.85,0:21:18.35,Default,,0,0,0,,
-Dialogue: 0,0:21:19.25,0:21:22.15,Default,,0,0,0,,
-Dialogue: 0,0:21:33.85,0:21:37.35,Default,,0,0,0,,
+Dialogue: 0,0:21:19.25,0:21:22.15,Default,,0,0,0,,A Kokusi Musou?
+Dialogue: 0,0:21:33.85,0:21:37.35,Default,,0,0,0,,Yeah, more and more it's looking that way
 Dialogue: 0,0:21:38.25,0:21:40.65,Default,,0,0,0,,しかし愉快だ
 Dialogue: 0,0:21:40.65,0:21:45.60,Default,,0,0,0,,張ったところでやつは絶対に出ない白待ちにならざる負えない
 Dialogue: 0,0:21:45.60,0:21:49.05,Default,,0,0,0,,残り2枚は俺が持っている
