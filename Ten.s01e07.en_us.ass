@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 333
-Active Line: 339
-Video Position: 50262
+Scroll Position: 42
+Active Line: 62
+Video Position: 7873
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +52,7 @@ Dialogue: 0,0:00:47.41,0:00:52.68,small - white,,0,0,0,,{\pos(1222.667,183)}West
 Dialogue: 0,0:00:47.41,0:00:52.68,small - white,,0,0,0,,{\pos(1667.333,798.333)}Game 6\NEast Round 1
 Dialogue: 0,0:00:58.50,0:01:02.75,Default,,0,0,0,,Holy shit. Ginji's gone
 Dialogue: 0,0:01:07.15,0:01:09.00,Default,,0,0,0,,Pon
-Dialogue: 0,0:01:09.00,0:01:11.00,Default,,0,0,0,,a 7 Man dora
+Dialogue: 0,0:01:09.00,0:01:11.00,Default,,0,0,0,,A 7 Man dora
 Dialogue: 0,0:01:12.55,0:01:15.55,Default,,0,0,0,,The dora have been flowing to Soga
 Dialogue: 0,0:01:21.65,0:01:23.81,Default,,0,0,0,,Riichi
 Dialogue: 0,0:01:26.55,0:01:28.25,Default,,0,0,0,,Soga in this, the 4th round
@@ -75,11 +75,11 @@ Dialogue: 0,0:02:30.25,0:02:32.85,Default,,0,0,0,,Take it, Akagi
 Dialogue: 0,0:02:32.85,0:02:36.40,Default,,0,0,0,,It's a gift from me
 Dialogue: 0,0:02:53.00,0:02:56.05,Default,,0,0,0,,The 4th dora tile?
 Dialogue: 0,0:02:56.05,0:02:59.15,Default,,0,0,0,,You did that, didn't you Soga
-Dialogue: 0,0:03:01.08,0:03:03.45,Default,,0,0,0,,THIS now is something to see
+Dialogue: 0,0:03:01.08,0:03:03.45,Default,,0,0,0,,Now this is something to see
 Dialogue: 0,0:03:03.45,0:03:07.45,Default,,0,0,0,,I'm deliberately provoking Akagi
 Dialogue: 0,0:03:07.45,0:03:10.80,Default,,0,0,0,,And he's not the kind to back down
 Dialogue: 0,0:03:10.80,0:03:16.15,Default,,0,0,0,,Let's see if he'll try to use that dora I gave him to win
-Dialogue: 0,0:03:19.60,0:03:21.25,Default,,0,0,0,,as i thought
+Dialogue: 0,0:03:19.60,0:03:21.25,Default,,0,0,0,,as I thought
 Dialogue: 0,0:03:21.25,0:03:24.00,Default,,0,0,0,,The kid's at the table
 Dialogue: 0,0:03:24.00,0:03:26.65,Default,,0,0,0,,Akagi's hand, with an Ippatsu Tsumo,
 Dialogue: 0,0:03:26.65,0:03:29.40,Default,,0,0,0,,and 4 dora, it's a Haneman
@@ -92,7 +92,7 @@ Dialogue: 0,0:04:03.95,0:04:07.08,Default,,0,0,0,,It's about time
 Dialogue: 0,0:04:12.35,0:04:16.15,Default,,0,0,0,,Chitoitsu Tsumo with 2 Ura-Dora
 Dialogue: 0,0:04:16.15,0:04:18.15,Default,,0,0,0,,Haneman
 Dialogue: 0,0:04:18.35,0:04:21.75,Default,,0,0,0,,You've got to win when you can
-Dialogue: 0,0:04:22.41,0:04:24.85,Default,,0,0,0,,I see you calling tiles, but
+Dialogue: 0,0:04:22.41,0:04:24.85,Default,,0,0,0,,I see you calling tiles...
 Dialogue: 0,0:04:24.85,0:04:26.85,Default,,0,0,0,,But winning's the thing, isn't it?
 Dialogue: 0,0:04:28.81,0:04:31.40,Default,,0,0,0,,Akagi, sweetie
 Dialogue: 0,0:04:31.40,0:04:34.50,Default,,0,0,0,,open your eyes
@@ -370,3 +370,4 @@ Dialogue: 0,0:27:50.13,0:27:51.48,Default,,0,0,0,,YOU FAG!
 Dialogue: 0,0:27:51.48,0:27:53.37,Default,,0,0,0,,I've already decided what we have to do
 Dialogue: 0,0:27:53.37,0:27:55.37,Default,,0,0,0,,This is battle of base instinct
 Dialogue: 0,0:27:55.37,0:27:57.82,Default,,0,0,0,,Abandon yourself entirely to it
+Dialogue: 0,0:27:57.82,0:27:59.82,Default,,0,0,0,,I WON'T ACCEPT THIS KIND OF MAHJONG!
