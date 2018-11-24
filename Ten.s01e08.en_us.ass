@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e08.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 102
-Active Line: 118
-Video Position: 27878
+Scroll Position: 105
+Active Line: 124
+Video Position: 22388
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:04.85,Default,,0,0,0,,Camouflage before Riichi\NThat's a Mahjong PREREQUISITE
 Dialogue: 0,0:00:04.85,0:00:06.25,Default,,0,0,0,,Hiroyuki,
 Dialogue: 0,0:00:06.25,0:00:08.25,Default,,0,0,0,,You've TRANSFORMED
-Dialogue: 0,0:00:10.98,0:00:16.01,Default,,0,0,0,,
+Dialogue: 0,0:00:10.98,0:00:16.01,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 12000 Hiroyuki: 3000\NAkagi: 16000
+Dialogue: 0,0:00:10.98,0:00:16.01,small - white,,0,0,0,,{\pos(1222.667,183)}West Team\NHarada: 7000 Mitsui: 5000\NSoga: 13000 Nakatsu: 11000
+Dialogue: 0,0:00:10.98,0:00:16.01,small - white,,0,0,0,,{\pos(1656,793.333)}Game 9\NSouth Round 2
 Dialogue: 0,0:00:20.20,0:00:22.98,Default,,0,0,0,,The Kid's getting carried away
 Dialogue: 0,0:00:22.98,0:00:25.90,Default,,0,0,0,,I won't let my weakness be seen either
 Dialogue: 0,0:00:28.41,0:00:30.41,Default,,0,0,0,,Raaaaychi
@@ -66,6 +68,36 @@ Dialogue: 0,0:03:12.85,0:03:15.45,Default,,0,0,0,,{\pos(972,816)}If Hiroyuki fal
 Dialogue: 0,0:03:15.45,0:03:17.90,Default,,0,0,0,,{\pos(952,772)}then neither I nor Akagi can declare Tsumo anymore
 Dialogue: 0,0:03:17.90,0:03:19.90,Default,,0,0,0,,{\pos(940,816)}He decided that was preferable
 Dialogue: 0,0:03:19.90,0:03:23.10,Default,,0,0,0,,{\pos(964,796)}And persistently sought a Tsumo
+Dialogue: 0,0:03:36.48,0:03:43.70,default - cyan,,0,0,0,,{\pos(952,103.667)}#/tv/shows Shabbos Goys and Golems present:
+Dialogue: 0,0:03:46.81,0:03:51.60,default - cyan,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
+Dialogue: 0,0:03:46.81,0:03:51.60,Default - white,,0,0,0,,Like a brilliant sun blazing down
+Dialogue: 0,0:03:47.31,0:03:49.11,Default - red,,0,0,0,,{\pos(309.334,939.666)}Kishitani Goro
+Dialogue: 0,0:03:47.31,0:03:49.11,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
+Dialogue: 0,0:03:52.08,0:03:56.26,default - cyan,,0,0,0,,あいつがまた帰ってきた
+Dialogue: 0,0:03:52.08,0:03:56.26,Default - white,,0,0,0,,He's come back again
+Dialogue: 0,0:03:55.95,0:03:57.75,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
+Dialogue: 0,0:03:55.95,0:03:57.75,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
+Dialogue: 0,0:03:57.31,0:04:02.44,default - cyan,,0,0,0,,ざわざわと
+Dialogue: 0,0:03:57.31,0:04:02.44,Default - white,,0,0,0,,with a murmur
+Dialogue: 0,0:04:02.97,0:04:08.08,default - cyan,,0,0,0,,息を殺して
+Dialogue: 0,0:04:02.97,0:04:08.08,Default - white,,0,0,0,,You catch your breath
+Dialogue: 0,0:04:08.08,0:04:13.46,default - cyan,,0,0,0,,誰の肩に止まるかな
+Dialogue: 0,0:04:08.08,0:04:13.46,Default - white,,0,0,0,,Beside who will it stop
+Dialogue: 0,0:04:13.46,0:04:19.46,default - cyan,,0,0,0,,くるくる廻る天道虫
+Dialogue: 0,0:04:13.46,0:04:19.46,Default - white,,0,0,0,,The spinning ladybug
+Dialogue: 0,0:04:19.46,0:04:23.82,default - cyan,,0,0,0,,背中の星が揃ったら
+Dialogue: 0,0:04:19.46,0:04:23.82,Default - white,,0,0,0,,If you catch the stars on her back
+Dialogue: 0,0:04:23.82,0:04:33.73,default - cyan,,0,0,0,,雨上がりの風吹く通りを
+Dialogue: 0,0:04:23.82,0:04:33.73,Default - white,,0,0,0,,Above the rain and windswept street,
+Dialogue: 0,0:04:33.73,0:04:36.00,default - cyan,,0,0,0,,陽が昇った
+Dialogue: 0,0:04:33.73,0:04:36.00,Default - white,,0,0,0,,The sun rises
+Dialogue: 0,0:04:04.61,0:04:06.41,Default - red,,0,0,0,,{\pos(437.333,1057)}Yoshida Eisaku
+Dialogue: 0,0:04:04.61,0:04:06.41,Default - white,,0,0,0,,{\pos(744,758.333)}Akagi Shigeru
+Dialogue: 0,0:04:31.80,0:04:35.25,Default,,0,0,0,,{\pos(980,109)}#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:04:35.25,0:04:38.61,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
+Dialogue: 0,0:04:38.61,0:04:40.61,Default - white,,0,0,0,,{\pos(976,909)}Episode 7
+Dialogue: 0,0:04:38.61,0:04:40.61,Default,,0,0,0,,{\pos(962.667,649)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
+Dialogue: 0,0:04:41.21,0:04:46.18,small - white,,0,0,0,,{\pos(1685.333,780)}Game 10\NEast Round 1
 Dialogue: 0,0:05:39.50,0:05:42.78,Default,,0,0,0,,Harada is most probably holding a Pinzu (dots) Honisou
 Dialogue: 0,0:05:42.78,0:05:44.60,Default,,0,0,0,,So here, should he discard his 7 Sou (bamboo)?
 Dialogue: 0,0:05:44.60,0:05:47.60,Default,,0,0,0,,If he discards the 7 Sou he's one from Tenpai
@@ -122,6 +154,8 @@ Dialogue: 0,0:12:10.85,0:12:14.20,Default,,0,0,0,,SuuAnKou
 Dialogue: 0,0:12:16.20,0:12:17.70,Default,,0,0,0,,He did it!
 Dialogue: 0,0:12:17.70,0:12:20.70,Default,,0,0,0,,This SuuAnKou lowers Akagi's points to 8000
 Dialogue: 0,0:12:20.70,0:12:24.05,Default,,0,0,0,,but the other two are KNOCKED OUT AT ONE STROKE
+Dialogue: 0,0:12:24.01,0:12:29.28,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 12000 Hiroyuki: 1000\NAkagi: {\c&H0019FF&}4000
+Dialogue: 0,0:12:24.01,0:12:29.28,small - white,,0,0,0,,{\pos(1222.667,183)}West Team\NHarada: 5000 Mitsui: {\c&H0000FF&}disqual\N{\c&HFFFFFF&}Soga: 13000 Nakatsu: {\c&H0019FF&}disqual
 Dialogue: 0,0:12:24.05,0:12:29.35,Default,,0,0,0,,{\pos(972,840)}The path to that SuuAnKou was narrow and treacherous
 Dialogue: 0,0:12:29.35,0:12:31.00,Default,,0,0,0,,HOWEVER
 Dialogue: 0,0:12:31.00,0:12:33.30,Default,,0,0,0,,at the very end of that path
