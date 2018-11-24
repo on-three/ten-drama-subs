@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e08.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 254
-Active Line: 270
-Video Position: 50396
+Scroll Position: 135
+Active Line: 3
+Video Position: 480
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -299,5 +299,5 @@ Dialogue: 0,0:27:29.50,0:27:32.50,Default,,0,0,0,,{\pos(980,780)}There's no taki
 Dialogue: 0,0:27:34.45,0:27:37.50,Default,,0,0,0,,{\pos(972,840)}We can only watch now
 Dialogue: 0,0:27:50.30,0:27:52.35,Default,,0,0,0,,Akagi has survived!
 Dialogue: 0,0:27:52.35,0:27:55.30,Default,,0,0,0,,What i'm afraid of is {\b1\i1}who I am{\b0\i0} dying
-Dialogue: 0,0:27:55.30,0:27:57.90,Default,,0,0,0,,Don't avert your eyes from reality
+Dialogue: 0,0:27:55.30,0:27:57.90,Default,,0,0,0,,Don't avert your eyes from anything real
 Dialogue: 0,0:27:57.90,0:27:59.90,Default,,0,0,0,,The way forward opens!
