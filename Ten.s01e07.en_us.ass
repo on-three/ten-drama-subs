@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 70
-Active Line: 87
-Video Position: 10408
+Scroll Position: 333
+Active Line: 339
+Video Position: 50262
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -122,10 +122,28 @@ Dialogue: 0,0:05:46.95,0:05:51.60,Default,,0,0,0,,{\pos(960,797)}Preventing us f
 Dialogue: 0,0:05:51.60,0:05:54.15,Default,,0,0,0,,and now Hiroyuki is...
 Dialogue: 0,0:05:54.15,0:05:57.60,Default,,0,0,0,,on the edge of a cliff
 Dialogue: 0,0:06:00.48,0:06:07.70,default - cyan,,0,0,0,,{\pos(952,103.667)}#/tv/shows Shabbos Goys and Golems present:
+Dialogue: 0,0:06:10.81,0:06:15.60,default - cyan,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
+Dialogue: 0,0:06:10.81,0:06:15.60,Default - white,,0,0,0,,Like a brilliant sun blazing down
 Dialogue: 0,0:06:11.31,0:06:13.11,Default - red,,0,0,0,,{\pos(309.334,939.666)}Kishitani Goro
 Dialogue: 0,0:06:11.31,0:06:13.11,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
+Dialogue: 0,0:06:16.08,0:06:20.26,default - cyan,,0,0,0,,あいつがまた帰ってきた
+Dialogue: 0,0:06:16.08,0:06:20.26,Default - white,,0,0,0,,He's come back again
 Dialogue: 0,0:06:19.95,0:06:21.75,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
 Dialogue: 0,0:06:19.95,0:06:21.75,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
+Dialogue: 0,0:06:21.31,0:06:26.44,default - cyan,,0,0,0,,ざわざわと
+Dialogue: 0,0:06:21.31,0:06:26.44,Default - white,,0,0,0,,with a murmur
+Dialogue: 0,0:06:26.97,0:06:32.08,default - cyan,,0,0,0,,息を殺して
+Dialogue: 0,0:06:26.97,0:06:32.08,Default - white,,0,0,0,,You catch your breath
+Dialogue: 0,0:06:32.08,0:06:37.46,default - cyan,,0,0,0,,誰の肩に止まるかな
+Dialogue: 0,0:06:32.08,0:06:37.46,Default - white,,0,0,0,,Beside who will it stop
+Dialogue: 0,0:06:37.46,0:06:43.46,default - cyan,,0,0,0,,くるくる廻る天道虫
+Dialogue: 0,0:06:37.46,0:06:43.46,Default - white,,0,0,0,,The spinning ladybug
+Dialogue: 0,0:06:43.46,0:06:47.82,default - cyan,,0,0,0,,背中の星が揃ったら
+Dialogue: 0,0:06:43.46,0:06:47.82,Default - white,,0,0,0,,If you catch the stars on her back
+Dialogue: 0,0:06:47.82,0:06:57.73,default - cyan,,0,0,0,,雨上がりの風吹く通りを
+Dialogue: 0,0:06:47.82,0:06:57.73,Default - white,,0,0,0,,After the wind and rains
+Dialogue: 0,0:06:57.73,0:07:00.00,default - cyan,,0,0,0,,陽が昇った
+Dialogue: 0,0:06:57.73,0:07:00.00,Default - white,,0,0,0,,The sun rises
 Dialogue: 0,0:06:28.61,0:06:30.41,Default - red,,0,0,0,,{\pos(437.333,1057)}Yoshida Eisaku
 Dialogue: 0,0:06:28.61,0:06:30.41,Default - white,,0,0,0,,{\pos(744,758.333)}Akagi Shigeru
 Dialogue: 0,0:06:55.80,0:06:59.25,Default,,0,0,0,,{\pos(980,109)}#/tv/shows subs: "They're better than nothing!"
@@ -135,7 +153,7 @@ Dialogue: 0,0:07:02.61,0:07:04.61,Default,,0,0,0,,{\pos(962.667,649)}Ten: Tenho-
 Dialogue: 0,0:07:05.58,0:07:10.95,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 12000{\c&HFFFFFF&} Hiroyuki: 3000\NAkagi: 16000
 Dialogue: 0,0:07:05.58,0:07:10.95,small - white,,0,0,0,,{\pos(1222.667,183)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Nakatsu: 11000
 Dialogue: 0,0:07:05.58,0:07:10.95,small - white,,0,0,0,,{\pos(1667.333,798.333)}Game 7\NEast Round 2
-Dialogue: 0,0:07:14.15,0:07:16.85,Default,,0,0,0,,One more tile and I'm in Tenpai (Haru)
+Dialogue: 0,0:07:14.15,0:07:16.85,Default,,0,0,0,,One more tile and I'm in Tenpai
 Dialogue: 0,0:07:27.30,0:07:28.80,Default,,0,0,0,,Got it
 Dialogue: 0,0:07:28.80,0:07:33.30,Default,,0,0,0,,But If I declare Riichi, I don't think the 6 or 9 Man will come out
 Dialogue: 0,0:07:33.30,0:07:35.85,Default,,0,0,0,,DAMATEN (forgo Riichi)
@@ -239,7 +257,7 @@ Dialogue: 0,0:17:06.70,0:17:09.10,Default,,0,0,0,,There's no reason why he shoul
 Dialogue: 0,0:17:20.25,0:17:22.70,Default,,0,0,0,,I've got a safe North Wind tile, but...
 Dialogue: 0,0:17:22.70,0:17:25.20,Default,,0,0,0,,I've got a dora and kan-dora in my hand
 Dialogue: 0,0:17:25.20,0:17:28.15,Default,,0,0,0,,If I draw the North Wind I've got a Haneman hand
-Dialogue: 0,0:17:29.75,0:17:31.60,Default,,0,0,0,,He shouldn't be any problem
+Dialogue: 0,0:17:29.75,0:17:31.60,Default,,0,0,0,,It shouldn't be any problem...
 Dialogue: 0,0:17:31.60,0:17:33.60,Default,,0,0,0,,If I discard a low 4 Sou
 Dialogue: 0,0:17:41.10,0:17:43.00,Default,,0,0,0,,What?
 Dialogue: 0,0:17:43.00,0:17:45.00,Default,,0,0,0,,too bad
@@ -253,10 +271,10 @@ Dialogue: 0,0:18:18.15,0:18:21.00,Default,,0,0,0,,He scalped Harada!
 Dialogue: 0,0:18:24.50,0:18:27.50,Default,,0,0,0,,It was difficult to notice from the West team's perspective
 Dialogue: 0,0:18:27.50,0:18:29.85,Default,,0,0,0,,while the tile he actually drew was hidden in his palm
 Dialogue: 0,0:18:29.85,0:18:32.70,Default,,0,0,0,,he returned the tile he could actually Kan with to his hand
-Dialogue: 0,0:18:32.70,0:18:36.25,Default,,0,0,0,,there were then unmistakably 4 tiles to Kan in his hand
+Dialogue: 0,0:18:32.70,0:18:36.25,Default,,0,0,0,,So there was unmistakably 4 tiles to Kan in his hand
 Dialogue: 0,0:18:36.25,0:18:38.50,Default,,0,0,0,,With movements were so fluid
 Dialogue: 0,0:18:38.50,0:18:40.90,Default,,0,0,0,,It looked like there was nothing amiss
-Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,With this illegal Kan
+Dialogue: 0,0:18:44.00,0:18:45.30,Default,,0,0,0,,And with this illegal Kan
 Dialogue: 0,0:18:45.30,0:18:47.10,Default,,0,0,0,,from a 2-5 Man wait...
 Dialogue: 0,0:18:47.10,0:18:49.70,Default,,0,0,0,,he instantly went to a 1 Sou single tile wait
 Dialogue: 0,0:18:53.35,0:18:56.15,Default,,0,0,0,,Because to his previously discarded 2 Sou
@@ -308,7 +326,7 @@ Dialogue: 0,0:24:21.15,0:24:23.15,Default,,0,0,0,,He wants to die that badly
 Dialogue: 0,0:24:23.15,0:24:25.55,Default,,0,0,0,,well, I'll knock him out of the game
 Dialogue: 0,0:25:03.95,0:25:07.25,Default,,0,0,0,,Harada looks like he's holding a Pinzu (dots) Honisou hand
 Dialogue: 0,0:25:07.25,0:25:09.25,Default,,0,0,0,,and they expect him to discard a 5 pin?
-Dialogue: 0,0:25:09.25,0:25:13.65,Default,,0,0,0,,that's a style of play I've ever thought of before
+Dialogue: 0,0:25:09.25,0:25:13.65,Default,,0,0,0,,that's a style of play I've never thought of before
 Dialogue: 0,0:25:18.45,0:25:20.60,Default,,0,0,0,,Pon
 Dialogue: 0,0:25:30.35,0:25:33.40,Default,,0,0,0,,If I discard the 3 Sou I'll take the hand...
 Dialogue: 0,0:25:33.40,0:25:36.45,Default,,0,0,0,,but that previous 5 Pin discard
@@ -320,7 +338,7 @@ Dialogue: 0,0:25:48.50,0:25:52.10,Default,,0,0,0,,At this point I've got to do w
 Dialogue: 0,0:25:55.50,0:25:57.75,Default,,0,0,0,,Ron
 Dialogue: 0,0:25:59.71,0:26:01.71,Default,,0,0,0,,Ron
 Dialogue: 0,0:26:08.25,0:26:10.00,Default,,0,0,0,,Head Bump
-Dialogue: 0,0:26:08.25,0:26:14.15,default - cyan,,0,0,0,,{\pos(956,437)}Head Bump or Atamahane(頭跳ね): In the case of two Ron calls, awarding the Ron to the player closest to the discarder, in wind order. This is in contrast to the Double Ron (or Triple Ron) rule which allows multiple point payouts on simultaneous Ron calls.
+Dialogue: 0,0:26:08.25,0:26:14.15,default - cyan,,0,0,0,,{\pos(958.667,914.333)}Head Bump or Atamahane(頭跳ね): In the case of two Ron calls, awarding the Ron to the player closest to the discarder, in wind order. This is in contrast to the Double Ron (or Triple Ron) rule which allows multiple point payouts on simultaneous Ron calls.
 Dialogue: 0,0:26:10.00,0:26:12.55,Default,,0,0,0,,East West Toitoi 3 Dora
 Dialogue: 0,0:26:12.55,0:26:15.85,Default,,0,0,0,,A Haneman win
 Dialogue: 0,0:26:19.45,0:26:23.75,Default,,0,0,0,,{\pos(968,825)}Even though Hiroyuki had 4 Dora he avoided declaring Kan
@@ -346,5 +364,9 @@ Dialogue: 0,0:27:26.05,0:27:28.05,Default,,0,0,0,,{\pos(956,797)}It's been trans
 Dialogue: 0,0:27:29.01,0:27:32.15,Default,,0,0,0,,{\pos(956,753)}The ultimate sensibility of an Akagi Shigeru
 Dialogue: 0,0:27:32.15,0:27:34.15,Default,,0,0,0,,{\pos(976,785)}his spirit
 Dialogue: 0,0:27:34.98,0:27:37.85,Default,,0,0,0,,{\pos(972,761)}This ain't good
-Dialogue: 0,0:27:42.61,0:27:44.61,Default,,0,0,0,,{\pos(936,865)}Hiroyuku
+Dialogue: 0,0:27:42.61,0:27:44.61,Default,,0,0,0,,{\pos(936,865)}Hiroyuki
 Dialogue: 0,0:27:46.10,0:27:48.58,Default,,0,0,0,,{\pos(940,841)}HE'S TRANSFORMED
+Dialogue: 0,0:27:50.13,0:27:51.48,Default,,0,0,0,,YOU FAG!
+Dialogue: 0,0:27:51.48,0:27:53.37,Default,,0,0,0,,I've already decided what we have to do
+Dialogue: 0,0:27:53.37,0:27:55.37,Default,,0,0,0,,This is battle of base instinct
+Dialogue: 0,0:27:55.37,0:27:57.82,Default,,0,0,0,,Abandon yourself entirely to it
