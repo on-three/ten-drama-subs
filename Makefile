@@ -1,6 +1,7 @@
 
 ifndef EP
-$(error episode number is not defined. e.g. EP=02)
+# don't use leading zeroes when defining episode as bash interprets as octal
+$(error episode number is not defined. e.g. EP=2)
 endif
 
 # specify season if necessary (defaults to 01)
@@ -9,10 +10,10 @@ SEASON ?= 01
 SEASON := $(shell printf "%02d\n" $(SEASON))
 
 # sometimes we want ep numbers in form '01' and sometimes just '1'
-EP := $(shell printf "%02d\n" $(EP))
+ZEP := $(shell printf "%02d\n" $(EP))
 NEP := $(shell printf "%01d\n" $(EP))
 
-EN_NAME := Ten.s$(SEASON)e$(EP)
+EN_NAME := Ten.s$(SEASON)e$(ZEP)
 JP_NAME := Ten.天.天和通りの快男児.第$(NEP)話
 
 NAME ?= $(JP_NAME)
