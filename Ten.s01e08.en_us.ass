@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e08.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 105
-Active Line: 124
-Video Position: 22388
+Scroll Position: 161
+Active Line: 179
+Video Position: 32873
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,9 +68,9 @@ Dialogue: 0,0:03:12.85,0:03:15.45,Default,,0,0,0,,{\pos(972,816)}If Hiroyuki fal
 Dialogue: 0,0:03:15.45,0:03:17.90,Default,,0,0,0,,{\pos(952,772)}then neither I nor Akagi can declare Tsumo anymore
 Dialogue: 0,0:03:17.90,0:03:19.90,Default,,0,0,0,,{\pos(940,816)}He decided that was preferable
 Dialogue: 0,0:03:19.90,0:03:23.10,Default,,0,0,0,,{\pos(964,796)}And persistently sought a Tsumo
-Dialogue: 0,0:03:36.48,0:03:43.70,default - cyan,,0,0,0,,{\pos(952,103.667)}#/tv/shows Shabbos Goys and Golems present:
+Dialogue: 0,0:03:36.48,0:03:43.70,default - cyan,,0,0,0,,{\pos(952,191.666)}#/tv/shows Esto El Fin El Grande Padre oy pesentamos:
 Dialogue: 0,0:03:46.81,0:03:51.60,default - cyan,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
-Dialogue: 0,0:03:46.81,0:03:51.60,Default - white,,0,0,0,,Like a brilliant sun blazing down
+Dialogue: 0,0:03:46.81,0:03:51.60,Default - white,,0,0,0,,Blazing hot, like the blistering sun
 Dialogue: 0,0:03:47.31,0:03:49.11,Default - red,,0,0,0,,{\pos(309.334,939.666)}Kishitani Goro
 Dialogue: 0,0:03:47.31,0:03:49.11,Default - white,,0,0,0,,{\pos(800,713)}Ten Takeshi
 Dialogue: 0,0:03:52.08,0:03:56.26,default - cyan,,0,0,0,,あいつがまた帰ってきた
@@ -78,19 +78,19 @@ Dialogue: 0,0:03:52.08,0:03:56.26,Default - white,,0,0,0,,He's come back again
 Dialogue: 0,0:03:55.95,0:03:57.75,Default - red,,0,0,0,,{\pos(1152,931.666)}Furukawa Yuki
 Dialogue: 0,0:03:55.95,0:03:57.75,Default - white,,0,0,0,,{\pos(1138.667,592.999)}Igawa Hiroyuki
 Dialogue: 0,0:03:57.31,0:04:02.44,default - cyan,,0,0,0,,ざわざわと
-Dialogue: 0,0:03:57.31,0:04:02.44,Default - white,,0,0,0,,with a murmur
+Dialogue: 0,0:03:57.31,0:04:02.44,Default - white,,0,0,0,,In anxiety...
 Dialogue: 0,0:04:02.97,0:04:08.08,default - cyan,,0,0,0,,息を殺して
-Dialogue: 0,0:04:02.97,0:04:08.08,Default - white,,0,0,0,,You catch your breath
+Dialogue: 0,0:04:02.97,0:04:08.08,Default - white,,0,0,0,,you hold your breath
 Dialogue: 0,0:04:08.08,0:04:13.46,default - cyan,,0,0,0,,誰の肩に止まるかな
-Dialogue: 0,0:04:08.08,0:04:13.46,Default - white,,0,0,0,,Beside who will it stop
+Dialogue: 0,0:04:08.08,0:04:13.46,Default - white,,0,0,0,,Whose shoulder will it land upon
 Dialogue: 0,0:04:13.46,0:04:19.46,default - cyan,,0,0,0,,くるくる廻る天道虫
-Dialogue: 0,0:04:13.46,0:04:19.46,Default - white,,0,0,0,,The spinning ladybug
+Dialogue: 0,0:04:13.46,0:04:19.46,Default - white,,0,0,0,,Ladybug going round and round
 Dialogue: 0,0:04:19.46,0:04:23.82,default - cyan,,0,0,0,,背中の星が揃ったら
-Dialogue: 0,0:04:19.46,0:04:23.82,Default - white,,0,0,0,,If you catch the stars on her back
+Dialogue: 0,0:04:19.46,0:04:23.82,Default - white,,0,0,0,,When the stars on her back align
 Dialogue: 0,0:04:23.82,0:04:33.73,default - cyan,,0,0,0,,雨上がりの風吹く通りを
-Dialogue: 0,0:04:23.82,0:04:33.73,Default - white,,0,0,0,,Above the rain and windswept street,
+Dialogue: 0,0:04:23.82,0:04:33.73,Default - white,,0,0,0,,After the rain, above the windswept street,
 Dialogue: 0,0:04:33.73,0:04:36.00,default - cyan,,0,0,0,,陽が昇った
-Dialogue: 0,0:04:33.73,0:04:36.00,Default - white,,0,0,0,,The sun rises
+Dialogue: 0,0:04:33.73,0:04:36.00,Default - white,,0,0,0,,The sun rose
 Dialogue: 0,0:04:04.61,0:04:06.41,Default - red,,0,0,0,,{\pos(437.333,1057)}Yoshida Eisaku
 Dialogue: 0,0:04:04.61,0:04:06.41,Default - white,,0,0,0,,{\pos(744,758.333)}Akagi Shigeru
 Dialogue: 0,0:04:31.80,0:04:35.25,Default,,0,0,0,,{\pos(980,109)}#/tv/shows subs: "They're better than nothing!"
@@ -139,7 +139,7 @@ Dialogue: 0,0:08:51.85,0:08:54.40,Default,,0,0,0,,of a pounding within the earth
 Dialogue: 0,0:08:54.40,0:08:56.40,Default,,0,0,0,,of a DRAGON
 Dialogue: 0,0:08:56.40,0:08:59.05,Default,,0,0,0,,sunk deep underground
 Dialogue: 0,0:09:02.50,0:09:04.40,Default,,0,0,0,,Kan
-Dialogue: 0,0:09:07.75,0:09:09.45,Default,,0,0,0,,His hand's a fucking mess
+Dialogue: 0,0:09:07.75,0:09:09.45,Default,,0,0,0,,His hand's all messed up
 Dialogue: 0,0:09:09.45,0:09:12.25,Default,,0,0,0,,His chance for either Jyunchan or Ryanpeiko just vanished!
 Dialogue: 0,0:09:12.25,0:09:14.55,Default,,0,0,0,,Why?
 Dialogue: 0,0:09:28.95,0:09:31.00,Default,,0,0,0,,Akatsu is without doubt in Tenpai
@@ -152,7 +152,7 @@ Dialogue: 0,0:11:52.45,0:11:55.51,Default,,0,0,0,,THE DRAGON HAS SPLIT THE EARTH
 Dialogue: 0,0:12:00.55,0:12:02.70,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:12:10.85,0:12:14.20,Default,,0,0,0,,SuuAnKou
 Dialogue: 0,0:12:16.20,0:12:17.70,Default,,0,0,0,,He did it!
-Dialogue: 0,0:12:17.70,0:12:20.70,Default,,0,0,0,,This SuuAnKou lowers Akagi's points to 8000
+Dialogue: 0,0:12:17.70,0:12:20.70,Default,,0,0,0,,This SuuAnKou lowers Akagi's score by 8,000 points
 Dialogue: 0,0:12:20.70,0:12:24.05,Default,,0,0,0,,but the other two are KNOCKED OUT AT ONE STROKE
 Dialogue: 0,0:12:24.01,0:12:29.28,small - white,,0,0,0,,{\pos(418,183)}East Team\NTen: 12000 Hiroyuki: 1000\NAkagi: {\c&H0019FF&}4000
 Dialogue: 0,0:12:24.01,0:12:29.28,small - white,,0,0,0,,{\pos(1222.667,183)}West Team\NHarada: 5000 Mitsui: {\c&H0000FF&}disqual\N{\c&HFFFFFF&}Soga: 13000 Nakatsu: {\c&H0019FF&}disqual
@@ -183,7 +183,7 @@ Dialogue: 0,0:15:18.55,0:15:20.75,Default,,0,0,0,,Eat? Or be eaten?
 Dialogue: 0,0:15:20.75,0:15:23.40,Default,,0,0,0,,This is a battle of base instinct
 Dialogue: 0,0:15:23.40,0:15:25.85,Default,,0,0,0,,Everything
 Dialogue: 0,0:15:25.85,0:15:29.30,Default,,0,0,0,,Abandon yourself entirely to it
-Dialogue: 0,0:15:36.60,0:15:41.78,Default,,0,0,0,,10th Game\NSouth Round 1
+Dialogue: 0,0:15:36.60,0:15:41.78,small - white,,0,0,0,,{\pos(1674.667,793.333)}10th Game\NSouth Round 1
 Dialogue: 0,0:16:16.20,0:16:19.01,Default,,0,0,0,,Riichi
 Dialogue: 0,0:16:19.01,0:16:20.55,Default,,0,0,0,,It's come
 Dialogue: 0,0:16:20.55,0:16:23.30,Default,,0,0,0,,The first Riichi of the round
@@ -209,7 +209,7 @@ Dialogue: 0,0:18:01.95,0:18:04.45,Default,,0,0,0,,so my decision is straightforw
 Dialogue: 0,0:18:06.55,0:18:09.35,Default,,0,0,0,,Riichi
 Dialogue: 0,0:18:10.85,0:18:12.55,Default,,0,0,0,,With such a readable wait
 Dialogue: 0,0:18:12.55,0:18:14.95,Default,,0,0,0,,I won't be able to get a direct hit
-Dialogue: 0,0:18:15.75,0:18:18.15,Default,,0,0,0,,Naturally the West team won't play it
+Dialogue: 0,0:18:15.75,0:18:18.15,Default,,0,0,0,,Naturally the West team won't deal into it
 Dialogue: 0,0:18:18.15,0:18:21.50,Default,,0,0,0,,But I wasn't expecting that from the start
 Dialogue: 0,0:18:21.50,0:18:24.10,Default,,0,0,0,,I WILL DRAW IT
 Dialogue: 0,0:18:27.85,0:18:30.78,Default,,0,0,0,,IT CAN'T BE!
