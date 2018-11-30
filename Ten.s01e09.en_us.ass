@@ -10,22 +10,23 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: /home/on-three/incoming/ten.fukumoto.drama/Ten.s01e09.mp4
 Video File: /home/on-three/incoming/ten.fukumoto.drama/Ten.s01e09.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 96
-Active Line: 122
-Video Position: 30083
+Video Zoom Percent: 0.375000
+Scroll Position: 114
+Active Line: 123
+Video Position: 32324
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,36,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: default - cyan,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: Default - white,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: Default - red,Open Sans Semibold,36,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: small - white,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default,Open Sans Semibold,81,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: default - cyan,Open Sans Semibold,81,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default - white,Open Sans Semibold,81,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default - red,Open Sans Semibold,81,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: small - white,Open Sans Semibold,61,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -127,10 +128,10 @@ Dialogue: 0,0:12:38.75,0:12:41.82,Default,,0,0,0,,俺は何があろうと
 Dialogue: 0,0:12:41.82,0:12:46.04,Default,,0,0,0,,もひたすら勝ちに拘る
 Dialogue: 0,0:13:19.95,0:13:22.57,Default,,0,0,0,,クリア麻雀、
 Dialogue: 0,0:13:25.15,0:13:29.24,Default,,0,0,0,,点棒のやり取り無しの麻雀でチーム戦
-Dialogue: 0,0:13:29.24,0:13:36.17,Default,,0,0,0,,勝敗は指定した五つの役をクリアしたチームが勝ちというルール
+Dialogue: 0,0:13:29.24,0:13:36.17,Default,,0,0,0,,勝敗は指定した五つの役\Nをクリアしたチームが勝ちというルール
 Dialogue: 0,0:13:36.17,0:13:38.84,Default,,0,0,0,,
 Dialogue: 0,0:13:38.84,0:13:41.33,Default,,0,0,0,,
-Dialogue: 0,0:13:41.33,0:13:45.68,Default,,0,0,0,,一気通貫、三色同順、混全帯么九、七対子、三暗刻、
+Dialogue: 0,0:13:41.33,0:13:45.68,Default,,0,0,0,,一気通貫、三色同順、\N混全帯么九、七対子、三暗刻、
 Dialogue: 0,0:13:45.68,0:13:47.42,Default,,0,0,0,,鳴いても構わない
 Dialogue: 0,0:13:47.42,0:13:49.86,Default,,0,0,0,,ふざけてんのか、
 Dialogue: 0,0:13:49.86,0:13:53.15,Default,,0,0,0,,そんな遊び受けられるわけねぇやろ！
@@ -152,15 +153,29 @@ Dialogue: 0,0:16:28.75,0:16:32.46,Default,,0,0,0,,コツコツと自力で積み
 Dialogue: 0,0:16:32.46,0:16:35.62,Default,,0,0,0,,七対子、三暗刻、
 Dialogue: 0,0:16:35.62,0:16:40.18,Default,,0,0,0,,特に三暗刻は五つの役で一番ハードルが高い役、
 Dialogue: 0,0:16:40.18,0:16:42.80,Default,,0,0,0,,難易度ナンバーワンと言っても言い
-Dialogue: 0,0:00:55.00,0:00:57.00,Default,,0,0,0,,
-Dialogue: 0,0:00:57.00,0:00:59.00,Default,,0,0,0,,
+Dialogue: 0,0:17:50.15,0:17:52.15,Default,,0,0,0,,三暗刻がクリア麻雀の鍵であることは\N西も知っている。俺が暗カンすれば\N逆に三暗刻の目がないと想像するはずだ
+Dialogue: 0,0:20:50.45,0:20:53.45,Default,,0,0,0,,リスクとリターンは背中合わせ
+Dialogue: 0,0:20:53.45,0:20:55.88,Default,,0,0,0,,勝負という漆黒の闇の中、
+Dialogue: 0,0:20:55.88,0:21:00.20,Default,,0,0,0,,恐ろしくとも深く手を差し入れなければならない
+Dialogue: 0,0:23:29.37,0:23:31.81,Default,,0,0,0,,凌いだ
+Dialogue: 0,0:23:16.88,0:23:20.98,Default,,0,0,0,,ここまで点を高くされては差し込みは無理だ
+Dialogue: 0,0:23:33.85,0:23:35.85,Default,,0,0,0,,この小僧が差し込んだら
+Dialogue: 0,0:23:35.85,0:23:37.85,Default,,0,0,0,,残り1000点、
+Dialogue: 0,0:23:37.85,0:23:40.55,Default,,0,0,0,,自殺行為もええとこや
+Dialogue: 0,0:23:40.55,0:23:43.48,Default,,0,0,0,,これで天の三暗刻も消えた
+Dialogue: 0,0:24:39.22,0:24:41.64,Default,,0,0,0,,めちゃくちゃや、
+Dialogue: 0,0:24:41.64,0:24:44.28,Default,,0,0,0,,もっともこんな差し込み天が受けんやろ
+Dialogue: 0,0:24:48.28,0:24:49.98,Default,,0,0,0,,そうか
+Dialogue: 0,0:24:50.75,0:24:53.16,Default,,0,0,0,,それがお前の気持ちなら
+Dialogue: 0,0:24:53.16,0:24:55.16,Default,,0,0,0,,良いだろう
+Dialogue: 0,0:24:55.16,0:24:57.16,Default,,0,0,0,,受けよう
+Dialogue: 0,0:25:14.74,0:25:18.88,Default,,0,0,0,,24000点、
+Dialogue: 0,0:25:18.88,0:25:23.50,Default,,0,0,0,,それと三暗刻クリアだ
+Dialogue: 0,0:25:36.80,0:25:39.65,Default,,0,0,0,,これが俺たちの決意表明、
+Dialogue: 0,0:25:39.65,0:25:42.84,Default,,0,0,0,,どんな現実からも目をそらさない、
+Dialogue: 0,0:25:44.09,0:25:46.82,Default,,0,0,0,,佳境を抱えつつ前へ、
+Dialogue: 0,0:25:47.55,0:25:50.52,Default,,0,0,0,,場を開く
+Dialogue: 0,0:27:08.04,0:27:10.74,Default,,0,0,0,,こんなところで逃げてどうする、
+Dialogue: 0,0:27:10.74,0:27:12.74,Default,,0,0,0,,前を目指せ！
+Dialogue: 0,0:27:12.74,0:27:14.74,Default,,0,0,0,,
 Dialogue: 0,0:00:59.00,0:01:01.00,Default,,0,0,0,,三暗刻がクリア麻雀の鍵であることは西も知っている。俺が暗カンすれば逆に三暗刻の目がないと想像するはずだ
-Dialogue: 0,0:01:01.00,0:01:03.00,Default,,0,0,0,,リスクとリターンは背中合わせ。勝負という漆黒の闇の中、恐ろしくとも深く手を差し入れなければならない
-Dialogue: 0,0:01:03.00,0:01:05.00,Default,,0,0,0,,ここまで点を高くされては差し込みは無理だ」と断念、原田も「凌いだ。この小僧が差し込んだら残り1000点、自殺行為もええとこや。これで天の三暗刻も消えた
-Dialogue: 0,0:01:05.00,0:01:07.00,Default,,0,0,0,,めちゃくちゃや、もっともこんな差し込み天が受けんやろ
-Dialogue: 0,0:01:07.00,0:01:09.00,Default,,0,0,0,,そうか。それがお前の気持ちなら良いだろう。受けよう
-Dialogue: 0,0:01:09.00,0:01:11.00,Default,,0,0,0,,24000点、それと三暗刻クリアだ
-Dialogue: 0,0:01:11.00,0:01:13.00,Default,,0,0,0,,これが俺たちの決意表明、どんな現実からも目をそらさない、佳境を抱えつつ前へ、場を開く
-Dialogue: 0,0:01:13.00,0:01:15.00,Default,,0,0,0,,こんなところで逃げてどうする、前を目指せ！
-Dialogue: 0,0:01:15.00,0:01:17.00,Default,,0,0,0,,リスクとリターンは背中合わせ。勝負という漆黒の闇の中、恐ろしくとも深く手を差し入れなければならない
-Dialogue: 0,0:01:17.00,0:01:19.00,Default,,0,0,0,,これが俺たちの決意表明、どんな現実からも目をそらさない、佳境を抱えつつ前へ、場を開く
