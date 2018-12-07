@@ -16,7 +16,9 @@ Video File: Ten.s01e09.480p.mp4
 Video AR Mode: 4
 Video AR Value: 1.781513
 Video Zoom Percent: 1.500000
-Video Position: 105
+Scroll Position: 498
+Active Line: 510
+Video Position: 47441
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,41 +30,77 @@ Style: small - white,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H00020713,&H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.53,Default,,0,0,0,,(this White Dragon) was declared a 5 Sou by Akagi Shigeru when he decared Ron
+Dialogue: 0,0:00:00.00,0:00:03.53,Default - white,,0,0,0,,五係と呼んでは赤木しげるのよ
+Dialogue: 0,0:00:00.00,0:00:03.53,Default,,0,0,0,,was declared a 5 Sou by Akagi Shigeru when he decared Ron
+Dialogue: 0,0:00:05.96,0:00:08.93,Default - white,,0,0,0,,この悪いギャバルとわけで無さそうだ
 Dialogue: 0,0:00:05.96,0:00:08.93,Default,,0,0,0,,There's a reason this isn't such a wild guess
+Dialogue: 0,0:00:09.73,0:00:11.93,Default - white,,0,0,0,,読みが存在する
 Dialogue: 0,0:00:09.73,0:00:11.93,Default,,0,0,0,,You can read it off the discards
+Dialogue: 0,0:00:12.86,0:00:14.86,Default - white,,0,0,0,,読み？
 Dialogue: 0,0:00:12.86,0:00:14.86,Default,,0,0,0,,There's a reading?
+Dialogue: 0,0:00:14.86,0:00:16.86,Default - white,,0,0,0,,思えってば
 Dialogue: 0,0:00:14.86,0:00:16.86,Default,,0,0,0,,If you think about it,
+Dialogue: 0,0:00:16.86,0:00:18.63,Default - white,,0,0,0,,南一局の
 Dialogue: 0,0:00:16.86,0:00:18.63,Default,,0,0,0,,In South round 1
+Dialogue: 0,0:00:18.63,0:00:20.63,Default - white,,0,0,0,,原田の手
 Dialogue: 0,0:00:18.63,0:00:20.63,Default,,0,0,0,,Harada's hand
+Dialogue: 0,0:00:21.30,0:00:23.46,Default - white,,0,0,0,,確か
 Dialogue: 0,0:00:21.30,0:00:23.46,Default,,0,0,0,,oh, yes
+Dialogue: 0,0:00:24.20,0:00:27.36,Default - white,,0,0,0,,十一巡目に四索をきってのリーチ
 Dialogue: 0,0:00:24.20,0:00:27.36,Default,,0,0,0,,he declared Riichi on the 11th turn by discarding a 4 Sou (bamboo)
+Dialogue: 0,0:00:27.36,0:00:32.23,Default - white,,0,0,0,,しかし結局は引けず。聴牌止まりで流局した
 Dialogue: 0,0:00:27.36,0:00:32.23,Default,,0,0,0,,But in the end he didn't draw his tile.\NThe hand ended as a draw with Harada still in Tenpai
+Dialogue: 0,0:00:32.23,0:00:37.03,Default - white,,0,0,0,,流局後の公開した牌はドラ3を抱えての満貫手
 Dialogue: 0,0:00:32.23,0:00:37.03,Default,,0,0,0,,After the draw, his open hand showed he had 3 dora, a Mangan.
+Dialogue: 0,0:00:37.03,0:00:39.03,Default - white,,0,0,0,,辺７係待ち
 Dialogue: 0,0:00:37.03,0:00:39.03,Default,,0,0,0,,A 7 Sou edge wait
+Dialogue: 0,0:00:40.56,0:00:46.56,Default - white,,0,0,0,,お前、その手を見て何か感じなかったか？
 Dialogue: 0,0:00:40.56,0:00:46.56,Default,,0,0,0,,When you saw that hand, did anything cross your mind?
+Dialogue: 0,0:00:47.93,0:00:49.93,Default - white,,0,0,0,,頭をかすめました
 Dialogue: 0,0:00:47.93,0:00:49.93,Default,,0,0,0,,Just for a moment I thought...
+Dialogue: 0,0:00:49.93,0:00:51.93,Default - white,,0,0,0,,４係でリイチは
 Dialogue: 0,0:00:49.93,0:00:51.93,Default,,0,0,0,,discarding the 4 Sou to declare Riichi...
+Dialogue: 0,0:00:51.93,0:00:53.93,Default - white,,0,0,0,,妙だ何て
 Dialogue: 0,0:00:51.93,0:00:53.93,Default,,0,0,0,,that was very strange
+Dialogue: 0,0:00:53.93,0:00:55.93,Default - white,,0,0,0,,４係手に抱えて
 Dialogue: 0,0:00:53.93,0:00:55.93,Default,,0,0,0,,Keeping the 4 Sou...
+Dialogue: 0,0:00:55.93,0:00:57.93,Default - white,,0,0,0,,８係切っておけば
 Dialogue: 0,0:00:55.93,0:00:57.93,Default,,0,0,0,,and instead discarding the 8 Sou
+Dialogue: 0,0:00:57.93,0:01:00.43,Default - white,,0,0,0,,５係待ちでイッツドラ３
 Dialogue: 0,0:00:57.93,0:01:00.43,Default,,0,0,0,,then the 5 Sou wait would give an {\b1\i1}Ittsu{\b0\i0} with 3 Dora
+Dialogue: 0,0:01:00.43,0:01:02.43,Default - white,,0,0,0,,黙れマンガン
 Dialogue: 0,0:01:00.43,0:01:02.43,Default,,0,0,0,,Mangan without declaring Riichi
+Dialogue: 0,0:01:02.43,0:01:05.63,Default - white,,0,0,0,,明らかに５係待ちを切った事に、 ひっかかった
 Dialogue: 0,0:01:02.43,0:01:05.63,Default,,0,0,0,,Clearly discarding the 5 Sou bothered him
+Dialogue: 0,0:01:05.96,0:01:08.03,Default - white,,0,0,0,,そうだ、
 Dialogue: 0,0:01:05.96,0:01:08.03,Default,,0,0,0,,Didn't it, though
+Dialogue: 0,0:01:08.03,0:01:12.30,Default - white,,0,0,0,,確定している役を蹴ってのリーチ
 Dialogue: 0,0:01:08.03,0:01:12.30,Default,,0,0,0,,throwing away a qualifying Yaku to instead declare Riichi
+Dialogue: 0,0:01:12.30,0:01:15.70,Default - white,,0,0,0,,こんな打ち筋はありえない、
 Dialogue: 0,0:01:12.30,0:01:15.70,Default,,0,0,0,,A most unlikely way to play
+Dialogue: 0,0:01:15.70,0:01:19.96,Default - white,,0,0,0,,原田がそう打った理由、
 Dialogue: 0,0:01:15.70,0:01:19.96,Default,,0,0,0,,The reason why Harada played the way he did,
+Dialogue: 0,0:01:19.96,0:01:23.70,Default - white,,0,0,0,,イッツの待ちが極端に薄いとしていた
 Dialogue: 0,0:01:19.96,0:01:23.70,Default,,0,0,0,,is he decided the chance of the Ittsu wait was extremely slim
+Dialogue: 0,0:01:26.13,0:01:28.00,Default - white,,0,0,0,,あの時
 Dialogue: 0,0:01:26.13,0:01:28.00,Default,,0,0,0,,At that time
+Dialogue: 0,0:01:28.00,0:01:30.00,Default - white,,0,0,0,,多分曽我の手に
 Dialogue: 0,0:01:28.00,0:01:30.00,Default,,0,0,0,,perhaps, in Soga's hand...
+Dialogue: 0,0:01:30.00,0:01:32.06,Default - white,,0,0,0,,５係が何枚かいた
 Dialogue: 0,0:01:30.00,0:01:32.06,Default,,0,0,0,,There might have been a few 5 Sou
+Dialogue: 0,0:01:33.26,0:01:35.93,Default - white,,0,0,0,,当然その情報は原田には入ってる
 Dialogue: 0,0:01:33.26,0:01:35.93,Default,,0,0,0,,Naturally, he provided that information to Harada
+Dialogue: 0,0:01:35.93,0:01:36.96,Default - white,,0,0,0,,そしてそのプラス
 Dialogue: 0,0:01:35.93,0:01:36.96,Default,,0,0,0,,he had that advantage
+Dialogue: 0,0:01:36.96,0:01:39.53,Default - white,,0,0,0,,原田はこんな事も知っていたのかもしれない
 Dialogue: 0,0:01:36.96,0:01:39.53,Default,,0,0,0,,Well, I suppose that Harada just might also have known...
+Dialogue: 0,0:01:39.86,0:01:43.80,Default - white,,0,0,0,,五索の数が四つではなく、
 Dialogue: 0,0:01:39.86,0:01:43.80,Default,,0,0,0,,that there weren't four 5 Sou tiles
+Dialogue: 0,0:01:43.80,0:01:48.56,Default - white,,0,0,0,,全部で三つしか無いと・・・
 Dialogue: 0,0:01:43.80,0:01:48.56,Default,,0,0,0,,that in total, there were only 3...
+Dialogue: 0,0:01:52.50,0:01:54.76,Default - white,,0,0,0,,ジャン箱を開けてくれ
 Dialogue: 0,0:01:52.50,0:01:54.76,Default,,0,0,0,,Open the box
+Dialogue: 0,0:01:57.46,0:01:59.46,Default - white,,0,0,0,,ああ
 Dialogue: 0,0:01:57.46,0:01:59.46,Default,,0,0,0,,Do it
 Dialogue: 0,0:02:02.23,0:02:09.45,default - cyan,,0,0,0,,{\pos(438.4,62.327)}#/tv/shows subs presents
 Dialogue: 0,0:02:12.56,0:02:17.35,default - cyan,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
@@ -93,221 +131,435 @@ Dialogue: 0,0:02:59.48,0:03:01.75,Default - white,,0,0,0,,The sun rose
 Dialogue: 0,0:03:01.00,0:03:04.36,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
 Dialogue: 0,0:03:04.36,0:03:06.36,Default - white,,0,0,0,,{\pos(428,407)}Episode 7
 Dialogue: 0,0:03:04.36,0:03:06.36,Default,,0,0,0,,{\pos(432,297.667)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
+Dialogue: 0,0:03:18.20,0:03:21.63,Default - white,,0,0,0,,でわ
 Dialogue: 0,0:03:18.20,0:03:21.63,Default,,0,0,0,,Well then...
+Dialogue: 0,0:03:40.16,0:03:42.88,Default - white,,0,0,0,,やはり５の４牌の中で
 Dialogue: 0,0:03:40.16,0:03:42.88,Default,,0,0,0,,As we expected, there's a fourth 5 tile inside
+Dialogue: 0,0:03:42.94,0:03:46.20,Default - white,,0,0,0,,なら残だ。５係がある！
 Dialogue: 0,0:03:42.94,0:03:46.20,Default,,0,0,0,,If so, it's in there.\NThere's a 5 Sou (bamboo)!
+Dialogue: 0,0:04:00.23,0:04:02.23,Default - white,,0,0,0,,最後の一人
 Dialogue: 0,0:04:00.23,0:04:02.23,Default,,0,0,0,,And the last one...
+Dialogue: 0,0:04:01.60,0:04:04.66,Default - white,,0,0,0,,もうええわい
 Dialogue: 0,0:04:01.60,0:04:04.66,Default,,0,0,0,,Okaay. Enough already
+Dialogue: 0,0:04:04.76,0:04:06.76,Default - white,,0,0,0,,五筒が出たんや
 Dialogue: 0,0:04:04.76,0:04:06.76,Default,,0,0,0,,There's a 5 Pin there
+Dialogue: 0,0:04:06.76,0:04:11.66,Default - white,,0,0,0,,赤木の待ちには五筒も入っとったやろ
 Dialogue: 0,0:04:06.76,0:04:11.66,Default,,0,0,0,,Akagi was also waiting on a 5 Pin
+Dialogue: 0,0:04:11.66,0:04:15.96,Default - white,,0,0,0,,この五筒で良しとしたるわい。しまえ
 Dialogue: 0,0:04:11.66,0:04:15.96,Default,,0,0,0,,That 5 Pin alone is enough. Case closed
+Dialogue: 0,0:04:15.96,0:04:18.46,Default - white,,0,0,0,,しかし。。。
 Dialogue: 0,0:04:15.96,0:04:18.46,Default,,0,0,0,,B-but...
+Dialogue: 0,0:04:16.56,0:04:18.56,Default - white,,0,0,0,,何や！
 Dialogue: 0,0:04:16.56,0:04:18.56,Default,,0,0,0,,T-the FUCK?!?
+Dialogue: 0,0:04:18.06,0:04:20.06,Default - white,,0,0,0,,最後の
 Dialogue: 0,0:04:18.06,0:04:20.06,Default,,0,0,0,,The last one
+Dialogue: 0,0:04:20.06,0:04:23.20,Default - white,,0,0,0,,一人牌は
 Dialogue: 0,0:04:20.06,0:04:23.20,Default,,0,0,0,,the sole remaining tile
+Dialogue: 0,0:04:26.16,0:04:28.96,Default - white,,0,0,0,,ああ？
 Dialogue: 0,0:04:26.16,0:04:28.96,Default,,0,0,0,,HUNH?
+Dialogue: 0,0:04:36.76,0:04:39.50,Default - white,,0,0,0,,外した。
 Dialogue: 0,0:04:36.76,0:04:39.50,Default,,0,0,0,,He got it wrong!
+Dialogue: 0,0:04:39.50,0:04:41.50,Default - white,,0,0,0,,赤木さんが！
 Dialogue: 0,0:04:39.50,0:04:41.50,Default,,0,0,0,,Akagi got it wrong!
+Dialogue: 0,0:04:42.90,0:04:45.73,Default - white,,0,0,0,,いや、
 Dialogue: 0,0:04:42.90,0:04:45.73,Default,,0,0,0,,No
+Dialogue: 0,0:04:45.73,0:04:50.90,Default - white,,0,0,0,,読みは外れちゃいない
 Dialogue: 0,0:04:45.73,0:04:50.90,Default,,0,0,0,,His reading was flawless
+Dialogue: 0,0:04:50.90,0:04:52.90,Default - white,,0,0,0,,だからこそ原田が
 Dialogue: 0,0:04:50.90,0:04:52.90,Default,,0,0,0,,Because Harada himself...
+Dialogue: 0,0:04:52.90,0:04:54.90,Default - white,,0,0,0,,途中でさじを投げた。
 Dialogue: 0,0:04:52.90,0:04:54.90,Default,,0,0,0,,wanted to give it up half way through
+Dialogue: 0,0:04:57.20,0:05:01.10,Default - white,,0,0,0,,ラストの牌は
 Dialogue: 0,0:04:57.20,0:05:01.10,Default,,0,0,0,,That last tile
+Dialogue: 0,0:05:01.10,0:05:04.48,Default - white,,0,0,0,,五索のはずだったのだ
 Dialogue: 0,0:05:01.10,0:05:04.50,Default,,0,0,0,,it really {\b1\i1}ought{\b0\i0} to have been a 5 sou
+Dialogue: 0,0:05:04.68,0:05:08.20,Default - white,,0,0,0,,なのに現実に現れたのは五萬。
 Dialogue: 0,0:05:04.68,0:05:08.20,Default,,0,0,0,,but in actuality it was 5 MAN
+Dialogue: 0,0:05:08.34,0:05:13.54,Default - white,,0,0,0,,原田は五索と五筒を白とすり替えておけと命じたが、
 Dialogue: 0,0:05:08.34,0:05:13.54,Default,,0,0,0,,Harada had ordered the 5 Sou and 5 Pin swapped with White Dragons
+Dialogue: 0,0:05:13.96,0:05:18.36,Default - white,,0,0,0,,部下が指示を間違え、五索ではなく
 Dialogue: 0,0:05:13.96,0:05:18.36,Default,,0,0,0,,but his underling mistook the order, not using a 5 Sou
+Dialogue: 0,0:05:18.36,0:05:21.76,Default - white,,0,0,0,,五萬とすり替えてしまったんだ
 Dialogue: 0,0:05:18.36,0:05:21.76,Default,,0,0,0,,instead swapping a 5 Man
+Dialogue: 0,0:05:22.76,0:05:28.90,Default - white,,0,0,0,,こんなミスまでは、いくらなんでも予測できない！
 Dialogue: 0,0:05:22.76,0:05:28.90,Default,,0,0,0,,A mistake like that, there's no way to predict it
+Dialogue: 0,0:05:28.90,0:05:31.63,Default - white,,0,0,0,,しかし、問題ありません！
 Dialogue: 0,0:05:28.90,0:05:31.63,Default,,0,0,0,,B-but it doesn't matter!
+Dialogue: 0,0:05:31.63,0:05:34.40,Default - white,,0,0,0,,赤木さんの待ちには五筒もあるんだから
 Dialogue: 0,0:05:31.63,0:05:34.40,Default,,0,0,0,,Akagi was in fact waiting on a 5 Pin as well!
+Dialogue: 0,0:05:34.40,0:05:39.33,Default - white,,0,0,0,,そしてその和了を認めると原田自信も口にしたんだからな！
 Dialogue: 0,0:05:34.40,0:05:39.33,Default,,0,0,0,,The win is confirmed. Harada said it himself!
+Dialogue: 0,0:05:39.33,0:05:44.93,Default - white,,0,0,0,,問題ない。赤木さんの和了は成立する！
 Dialogue: 0,0:05:39.33,0:05:44.93,Default,,0,0,0,,It doesn't matter. Akagi's win is complete!
+Dialogue: 0,0:05:44.93,0:05:48.03,Default - white,,0,0,0,,ああ！それでええわ！
 Dialogue: 0,0:05:44.93,0:05:48.03,Default,,0,0,0,,Okay. Enough already!
+Dialogue: 0,0:05:48.90,0:05:52.96,Default - white,,0,0,0,,原田もこう言ってる！赤木さんは生き残ったんです！
 Dialogue: 0,0:05:48.90,0:05:52.96,Default,,0,0,0,,Harada said it himself! Akagi has survived
+Dialogue: 0,0:05:58.66,0:06:01.90,Default - white,,0,0,0,,ひろゆき・・・
 Dialogue: 0,0:05:58.66,0:06:01.90,Default,,0,0,0,,Hiroyuki...
+Dialogue: 0,0:06:01.90,0:06:03.90,Default - white,,0,0,0,,同じことだ
 Dialogue: 0,0:06:01.90,0:06:03.90,Default,,0,0,0,,It's all one
+Dialogue: 0,0:06:05.86,0:06:09.20,Default - white,,0,0,0,,原田がなんと言おうと関係ない
 Dialogue: 0,0:06:05.86,0:06:09.20,Default,,0,0,0,,What Harada says has nothing to do with it
+Dialogue: 0,0:06:09.20,0:06:13.73,Default - white,,0,0,0,,俺は五索をロンと言い、余った牌にその五索はなかった
 Dialogue: 0,0:06:09.20,0:06:13.73,Default,,0,0,0,,I declared a Ron on a 5 Sou\NAnd the missing tile wasn't a 5 Sou
+Dialogue: 0,0:06:13.73,0:06:17.33,Default - white,,0,0,0,,俺はその結果がすべてと考える
 Dialogue: 0,0:06:13.73,0:06:17.33,Default,,0,0,0,,To me, the result is all that matters
+Dialogue: 0,0:06:21.30,0:06:26.43,Default - white,,0,0,0,,俺はいらねぇんだよ。そんな和了
 Dialogue: 0,0:06:21.30,0:06:26.43,Default,,0,0,0,,I don't need it. Winning like that
+Dialogue: 0,0:06:26.43,0:06:28.43,Default - white,,0,0,0,,アカギさん！
 Dialogue: 0,0:06:26.43,0:06:28.43,Default,,0,0,0,,Akagi!
+Dialogue: 0,0:06:31.60,0:06:34.13,Default - white,,0,0,0,,原田！
 Dialogue: 0,0:06:31.60,0:06:34.13,Default,,0,0,0,,Harada
+Dialogue: 0,0:06:34.13,0:06:38.66,Default - white,,0,0,0,,久しぶりにこっちに戻ってきたが、
 Dialogue: 0,0:06:34.13,0:06:38.66,Default,,0,0,0,,It's been a while since I've been here
+Dialogue: 0,0:06:38.66,0:06:41.70,Default - white,,0,0,0,,楽しかったよ
 Dialogue: 0,0:06:38.66,0:06:41.70,Default,,0,0,0,,Was fun
+Dialogue: 0,0:06:53.43,0:06:57.50,Default - white,,0,0,0,,赤木らしい身のひき方や
 Dialogue: 0,0:06:53.43,0:06:57.50,Default,,0,0,0,,A most interesting man
+Dialogue: 0,0:06:58.15,0:07:00.15,Default - white,,0,0,0,,だがノーテン！
 Dialogue: 0,0:06:58.15,0:07:00.15,Default,,0,0,0,,But no one is in Tenpai!
+Dialogue: 0,0:07:01.05,0:07:03.35,Default - white,,0,0,0,,まだ勝負はついとらんぞ
 Dialogue: 0,0:07:01.05,0:07:03.35,Default,,0,0,0,,The contest isn't over yet
+Dialogue: 0,0:07:03.35,0:07:05.65,Default - white,,0,0,0,,決勝は日を改める
 Dialogue: 0,0:07:03.35,0:07:05.65,Default,,0,0,0,,The day of the final will be changed
+Dialogue: 0,0:07:05.65,0:07:09.25,Default - white,,0,0,0,,ルールも仕切り直しや
 Dialogue: 0,0:07:05.65,0:07:09.25,Default,,0,0,0,,and the rules revised
+Dialogue: 0,0:07:09.25,0:07:12.58,Default - white,,0,0,0,,双方が提案するでええな
 Dialogue: 0,0:07:09.25,0:07:12.58,Default,,0,0,0,,both teams can suggest new ones
+Dialogue: 0,0:07:14.55,0:07:16.55,Default - white,,0,0,0,,ああ
 Dialogue: 0,0:07:14.55,0:07:16.55,Default,,0,0,0,,Agreed
+Dialogue: 0,0:08:57.21,0:09:00.21,Default - white,,0,0,0,,俺達は人間の次、
 Dialogue: 0,0:08:57.21,0:09:00.21,Default,,0,0,0,,For all of us, after all this,
+Dialogue: 0,0:09:00.21,0:09:03.38,Default - white,,0,0,0,,いってぇ何になるのかな
 Dialogue: 0,0:09:00.21,0:09:03.38,Default,,0,0,0,,What in the world becomes of us?
+Dialogue: 0,0:09:05.35,0:09:08.51,Default - white,,0,0,0,,人間として俺が滅んだら、
 Dialogue: 0,0:09:05.35,0:09:08.51,Default,,0,0,0,,As I'm a human being I will perish
+Dialogue: 0,0:09:08.51,0:09:10.98,Default - white,,0,0,0,,土塊になって、
 Dialogue: 0,0:09:08.51,0:09:10.98,Default,,0,0,0,,and return to the earth
+Dialogue: 0,0:09:10.98,0:09:13.85,Default - white,,0,0,0,,その後何千年か経って
 Dialogue: 0,0:09:10.98,0:09:13.85,Default,,0,0,0,,And then, after how many thousands of years,
+Dialogue: 0,0:09:13.85,0:09:18.55,Default - white,,0,0,0,,また何かに再生されて、
 Dialogue: 0,0:09:13.85,0:09:18.55,Default,,0,0,0,,we're reborn as something else
+Dialogue: 0,0:09:18.55,0:09:21.45,Default - white,,0,0,0,,海に溶ける微生物か、
 Dialogue: 0,0:09:18.55,0:09:21.45,Default,,0,0,0,,Maybe as microbes spread throughout in the sea
+Dialogue: 0,0:09:21.45,0:09:25.08,Default - white,,0,0,0,,そいつを食う魚か
 Dialogue: 0,0:09:21.45,0:09:25.08,Default,,0,0,0,,to be eaten by some faggy fish
+Dialogue: 0,0:09:25.08,0:09:28.31,Default - white,,0,0,0,,はたまた犬っころか、
 Dialogue: 0,0:09:25.08,0:09:28.31,Default,,0,0,0,,or maybe as some whelp,
+Dialogue: 0,0:09:28.31,0:09:30.31,Default - white,,0,0,0,,鳥か
 Dialogue: 0,0:09:28.31,0:09:30.31,Default,,0,0,0,,or a bird
+Dialogue: 0,0:09:31.48,0:09:34.78,Default - white,,0,0,0,,俺は何時死んだって構わねぇ
 Dialogue: 0,0:09:31.48,0:09:34.78,Default,,0,0,0,,I don't really care when I die
+Dialogue: 0,0:09:34.78,0:09:38.68,Default - white,,0,0,0,,命はまた再生されるんだからな
 Dialogue: 0,0:09:34.78,0:09:38.68,Default,,0,0,0,,because life is reborn
+Dialogue: 0,0:09:40.65,0:09:42.65,Default - white,,0,0,0,,唯一問題なのは
 Dialogue: 0,0:09:40.65,0:09:42.65,Default,,0,0,0,,but the one thing that bothers me
+Dialogue: 0,0:09:42.65,0:09:46.91,Default - white,,0,0,0,,人間として俺がくたばった時、
 Dialogue: 0,0:09:42.65,0:09:46.91,Default,,0,0,0,,when I, as a human being, drop dead
+Dialogue: 0,0:09:46.91,0:09:51.61,Default - white,,0,0,0,,この俺の俺だという気持ち、
 Dialogue: 0,0:09:46.91,0:09:51.61,Default,,0,0,0,,is this feeling of {\b1\i1}who I am{\b0\i0}
+Dialogue: 0,0:09:51.61,0:09:55.38,Default - white,,0,0,0,,その認識がすっ飛ぶ
 Dialogue: 0,0:09:51.61,0:09:55.38,Default,,0,0,0,,that consciousness will vanish
+Dialogue: 0,0:09:55.38,0:09:58.25,Default - white,,0,0,0,,俺が恐れるのは、
 Dialogue: 0,0:09:55.38,0:09:58.25,Default,,0,0,0,,What really scares me
+Dialogue: 0,0:09:58.25,0:10:02.38,Default - white,,0,0,0,,俺が俺でなくなること
 Dialogue: 0,0:09:58.25,0:10:02.38,Default,,0,0,0,,is becoming what I'm not
+Dialogue: 0,0:10:04.35,0:10:06.35,Default - white,,0,0,0,,それだけはごめんだ
 Dialogue: 0,0:10:04.35,0:10:06.35,Default,,0,0,0,,And for that, I'm sorry
+Dialogue: 0,0:10:06.35,0:10:09.08,Default - white,,0,0,0,,わかるか？
 Dialogue: 0,0:10:06.35,0:10:09.08,Default,,0,0,0,,Can you understand?
+Dialogue: 0,0:10:14.71,0:10:17.35,Default - white,,0,0,0,,俺はたとえ勝つにしろ
 Dialogue: 0,0:10:14.71,0:10:17.35,Default,,0,0,0,,Should I win,
+Dialogue: 0,0:10:17.35,0:10:19.05,Default - white,,0,0,0,,負けるにしろ、
 Dialogue: 0,0:10:17.35,0:10:19.05,Default,,0,0,0,,or should I fail,
+Dialogue: 0,0:10:19.05,0:10:21.58,Default - white,,0,0,0,,赤木しげるとして勝ち、
 Dialogue: 0,0:10:19.05,0:10:21.58,Default,,0,0,0,,It's {\b1\i1}Akagi Shigeru{\b0\i0} who won...
+Dialogue: 0,0:10:21.58,0:10:23.58,Default - white,,0,0,0,,負けてぇんだ
 Dialogue: 0,0:10:21.58,0:10:23.58,Default,,0,0,0,,or lost
+Dialogue: 0,0:10:24.78,0:10:28.55,Default - white,,0,0,0,,原田がどうしたとかどうでもいい
 Dialogue: 0,0:10:24.78,0:10:28.55,Default,,0,0,0,,Whatever Harada does is of no consquence
+Dialogue: 0,0:10:28.55,0:10:31.71,Default - white,,0,0,0,,俺はあの時五索として定め、
 Dialogue: 0,0:10:28.55,0:10:31.71,Default,,0,0,0,,I decided that tile was a 5 Sou
+Dialogue: 0,0:10:31.71,0:10:35.51,Default - white,,0,0,0,,あまりの牌に五索がなかった
 Dialogue: 0,0:10:31.71,0:10:35.51,Default,,0,0,0,,and the tile itself wasn't a 5 Sou
+Dialogue: 0,0:10:35.51,0:10:39.38,Default - white,,0,0,0,,その事のみが重要なんだ
 Dialogue: 0,0:10:35.51,0:10:39.38,Default,,0,0,0,,that's the sole thing that's important
+Dialogue: 0,0:10:41.35,0:10:43.35,Default - white,,0,0,0,,天、
 Dialogue: 0,0:10:41.35,0:10:43.35,Default,,0,0,0,,Ten,
+Dialogue: 0,0:10:50.78,0:10:55.21,Default - white,,0,0,0,,頼んだぞ
 Dialogue: 0,0:10:50.78,0:10:55.21,Default,,0,0,0,,It's up to you now
 Dialogue: 0,0:11:10.88,0:11:15.35,Default - white,,0,0,0,,{\pos(428.8,382.865)}Day of the East/West Final
+Dialogue: 0,0:11:18.45,0:11:20.58,Default - white,,0,0,0,,天さん、
 Dialogue: 0,0:11:18.45,0:11:20.58,Default,,0,0,0,,Ten,
+Dialogue: 0,0:11:20.58,0:11:22.58,Default - white,,0,0,0,,ひとつ聞いていいですか？
 Dialogue: 0,0:11:20.58,0:11:22.58,Default,,0,0,0,,Can  I ask you something?
+Dialogue: 0,0:11:23.91,0:11:27.25,Default - white,,0,0,0,,天さんだったらやっぱり、
 Dialogue: 0,0:11:23.91,0:11:27.25,Default,,0,0,0,,If it had been you,
+Dialogue: 0,0:11:27.25,0:11:30.85,Default - white,,0,0,0,,赤木さんと同じようにしてましたか？
 Dialogue: 0,0:11:27.25,0:11:30.85,Default,,0,0,0,,would you have done the same as akagi?
+Dialogue: 0,0:11:34.68,0:11:38.25,Default - white,,0,0,0,,俺は残る
 Dialogue: 0,0:11:34.68,0:11:38.25,Default,,0,0,0,,I remain
+Dialogue: 0,0:11:38.25,0:11:42.31,Default - white,,0,0,0,,残らなきゃ勝てないんだから
 Dialogue: 0,0:11:38.25,0:11:42.31,Default,,0,0,0,,because if you don't remain, you can't win
+Dialogue: 0,0:11:42.31,0:11:44.31,Default - white,,0,0,0,,残る
 Dialogue: 0,0:11:42.31,0:11:44.31,Default,,0,0,0,,Remain
+Dialogue: 0,0:11:47.41,0:11:51.98,Default - white,,0,0,0,,俺は俺。お前はお前。赤木は赤木だ
 Dialogue: 0,0:11:47.41,0:11:51.98,Default,,0,0,0,,I'm me. You're you.\NAkagi is Akagi.
+Dialogue: 0,0:11:51.98,0:11:55.75,Default - white,,0,0,0,,同じ生き方は無理だ
 Dialogue: 0,0:11:51.98,0:11:55.75,Default,,0,0,0,,No one lives the same
+Dialogue: 0,0:11:55.75,0:11:57.75,Default - white,,0,0,0,,今ここ、
 Dialogue: 0,0:11:55.75,0:11:57.75,Default,,0,0,0,,Here and now,
+Dialogue: 0,0:11:57.75,0:12:02.45,Default - white,,0,0,0,,この場所に俺とお前が生き残ってる
 Dialogue: 0,0:11:57.75,0:12:02.45,Default,,0,0,0,,you and I have survived this far
+Dialogue: 0,0:12:02.45,0:12:04.45,Default - white,,0,0,0,,それが全てだ
 Dialogue: 0,0:12:02.45,0:12:04.45,Default,,0,0,0,,and that is everything
+Dialogue: 0,0:12:07.81,0:12:10.15,Default - white,,0,0,0,,少なくとも
 Dialogue: 0,0:12:07.81,0:12:10.15,Default,,0,0,0,,And what's more
+Dialogue: 0,0:12:10.15,0:12:13.21,Default - white,,0,0,0,,俺は何があろうと
 Dialogue: 0,0:12:10.15,0:12:13.21,Default,,0,0,0,,I, above all else,
+Dialogue: 0,0:12:13.21,0:12:17.45,Default - white,,0,0,0,,もひたすら勝ちに拘る
 Dialogue: 0,0:12:13.21,0:12:17.45,Default,,0,0,0,,concentrate wholeheartedly on victory
+Dialogue: 0,0:12:18.05,0:12:22.25,Default - white,,0,0,0,,だから西にあるルールを提案する
 Dialogue: 0,0:12:18.05,0:12:22.25,Default,,0,0,0,,and to that end I'll suggest a certain rule to the West team
+Dialogue: 0,0:12:22.25,0:12:32.85,Default - white,,0,0,0,,このルールのはお前の理詰めのセンス活かされやすい
 Dialogue: 0,0:12:22.25,0:12:32.85,Default,,0,0,0,,a rule which can best play to your logical nature
+Dialogue: 0,0:12:34.68,0:12:38.75,Default - white,,0,0,0,,天さん、
 Dialogue: 0,0:12:34.68,0:12:38.75,Default,,0,0,0,,Mr. Ten, we've been waiting for you.\NThis way please
+Dialogue: 0,0:12:45.85,0:12:48.48,Default - white,,0,0,0,,クリア麻雀？
 Dialogue: 0,0:12:45.85,0:12:48.48,Default,,0,0,0,,"Clear" Mahjong?
+Dialogue: 0,0:12:48.48,0:12:50.48,Default - white,,0,0,0,,何やそれ？
 Dialogue: 0,0:12:48.48,0:12:50.48,Default,,0,0,0,,What is that?
+Dialogue: 0,0:12:51.05,0:12:55.15,Default - white,,0,0,0,,点棒のやり取り無しの麻雀でチーム戦
 Dialogue: 0,0:12:51.05,0:12:55.15,Default,,0,0,0,,It's a Mahjong team variant that does without trading points
+Dialogue: 0,0:12:55.15,0:13:02.08,Default - white,,0,0,0,,勝敗は指定した五つの役\Nをクリアしたチームが勝ちというルール
 Dialogue: 0,0:12:55.15,0:13:02.08,Default,,0,0,0,,It's a rule which awards victory to the team who clears 5 agreed upon Yaku
+Dialogue: 0,0:13:02.08,0:13:04.75,Default - white,,0,0,0,,クリアすベキ役は
 Dialogue: 0,0:13:02.08,0:13:04.75,Default,,0,0,0,,The Yaku one must clear...
+Dialogue: 0,0:13:04.75,0:13:07.21,Default - white,,0,0,0,,しおの2翻役
 Dialogue: 0,0:13:04.75,0:13:07.21,Default,,0,0,0,,are certain 2 Han Yaku
+Dialogue: 0,0:13:07.21,0:13:11.58,Default - white,,0,0,0,,一気通貫、三色同順、\N混全帯么九、七対子、三暗刻、
 Dialogue: 0,0:13:07.21,0:13:11.58,Default,,0,0,0,,Ittsu, Sansyoku, Chanta, Chtoitsu, SanAnKou
+Dialogue: 0,0:13:11.58,0:13:13.31,Default - white,,0,0,0,,鳴いても構わない
 Dialogue: 0,0:13:11.58,0:13:13.31,Default,,0,0,0,,Calling tiles is allowed
+Dialogue: 0,0:13:13.31,0:13:15.75,Default - white,,0,0,0,,ふざけてんのか、
 Dialogue: 0,0:13:13.31,0:13:15.75,Default,,0,0,0,,Are you joking?
+Dialogue: 0,0:13:15.75,0:13:19.05,Default - white,,0,0,0,,そんな遊び受けられるわけねぇやろ！
 Dialogue: 0,0:13:15.75,0:13:19.05,Default,,0,0,0,,There's no reason why we have to agree to a foolish game like that!
+Dialogue: 0,0:13:19.05,0:13:21.05,Default - white,,0,0,0,,やかましい！
 Dialogue: 0,0:13:19.05,0:13:21.05,Default,,0,0,0,,Quiet!
+Dialogue: 0,0:13:24.35,0:13:27.21,Default - white,,0,0,0,,ええやろ。認めたるわい
 Dialogue: 0,0:13:24.35,0:13:27.21,Default,,0,0,0,,It's fine. We agree
+Dialogue: 0,0:13:29.48,0:13:31.48,Default - white,,0,0,0,,そっちは？
 Dialogue: 0,0:13:29.48,0:13:31.48,Default,,0,0,0,,And your side?
+Dialogue: 0,0:13:31.48,0:13:34.41,Default - white,,0,0,0,,通常の点棒制や、
 Dialogue: 0,0:13:31.48,0:13:34.41,Default,,0,0,0,,The normal point system,
+Dialogue: 0,0:13:34.41,0:13:37.81,Default - white,,0,0,0,,箱割れした人間を出したチームの負けや
 Dialogue: 0,0:13:34.41,0:13:37.81,Default,,0,0,0,,If a member goes bankrupt, that team loses.
+Dialogue: 0,0:13:37.81,0:13:41.55,Default - white,,0,0,0,,運任せにならんようにな
 Dialogue: 0,0:13:37.81,0:13:41.55,Default,,0,0,0,,So it's not just pure luck
+Dialogue: 0,0:13:42.11,0:13:44.11,Default - white,,0,0,0,,じゃあ
 Dialogue: 0,0:13:42.11,0:13:44.11,Default,,0,0,0,,Well, then
+Dialogue: 0,0:13:44.11,0:13:47.75,Default - white,,0,0,0,,お互いのルールを併せた戦い方でいいか？
 Dialogue: 0,0:13:44.11,0:13:47.75,Default,,0,0,0,,You're okay playing with both these rules together?
+Dialogue: 0,0:13:49.08,0:13:51.45,Default - white,,0,0,0,,かまわん
 Dialogue: 0,0:13:49.08,0:13:51.45,Default,,0,0,0,,Fine
+Dialogue: 0,0:13:52.95,0:13:55.95,Default - white,,0,0,0,,くだらんルールを提案しよって
 Dialogue: 0,0:13:52.95,0:13:55.95,Default,,0,0,0,,Proposing an idiotic rule like that
+Dialogue: 0,0:13:55.95,0:13:59.48,Default - white,,0,0,0,,追い込まれとる証拠やな
 Dialogue: 0,0:13:55.95,0:13:59.48,Default,,0,0,0,,is proof enough they're cornered
+Dialogue: 0,0:15:33.75,0:15:36.48,Default - white,,0,0,0,,クリアすべき五つの役は
 Dialogue: 0,0:15:33.75,0:15:36.48,Default,,0,0,0,,The Yaku which must be cleared...
+Dialogue: 0,0:15:36.48,0:15:38.48,Default - white,,0,0,0,,大まかに二つに分けられる
 Dialogue: 0,0:15:36.48,0:15:38.48,Default,,0,0,0,,can largely be separated into two groups
+Dialogue: 0,0:15:40.08,0:15:44.01,Default - white,,0,0,0,,ひとつはチーム戦による差込など援護が可能なもの、
 Dialogue: 0,0:15:40.08,0:15:44.01,Default,,0,0,0,,the first group, because it's a team game, offers protection against direct hits
+Dialogue: 0,0:15:44.01,0:15:48.08,Default - white,,0,0,0,,機動力があり、鳴くことができる足の早い役、
 Dialogue: 0,0:15:44.01,0:15:48.08,Default,,0,0,0,,they are mobile, quick Yaku for which you can call tiles
+Dialogue: 0,0:15:48.08,0:15:53.45,Default - white,,0,0,0,,一気通貫、三色同順、混全帯么九などがそうだ
 Dialogue: 0,0:15:48.08,0:15:53.45,Default,,0,0,0,,these are Ittsu, Sansyoku, and Chanta
+Dialogue: 0,0:15:53.45,0:15:54.65,Default - white,,0,0,0,,もう一方は
 Dialogue: 0,0:15:53.45,0:15:54.65,Default,,0,0,0,,And on the other hand...
+Dialogue: 0,0:15:54.65,0:15:58.35,Default - white,,0,0,0,,コツコツと自力で積み上げていくしか無い足の遅い役、
 Dialogue: 0,0:15:54.65,0:15:58.35,Default,,0,0,0,,there are laborious Yaku which you must construct on your own
+Dialogue: 0,0:15:58.35,0:16:01.51,Default - white,,0,0,0,,七対子、三暗刻、
 Dialogue: 0,0:15:58.35,0:16:01.51,Default,,0,0,0,,namely, Chitoitsu and SanAnKou
+Dialogue: 0,0:16:01.51,0:16:06.08,Default - white,,0,0,0,,特に三暗刻は五つの役で一番ハードルが高い役、
 Dialogue: 0,0:16:01.51,0:16:06.08,Default,,0,0,0,,specifically, of all five, SanAnKou is the biggest hurdle
+Dialogue: 0,0:16:06.08,0:16:08.68,Default - white,,0,0,0,,難易度ナンバーワンと言ってもいい
 Dialogue: 0,0:16:06.08,0:16:08.68,Default,,0,0,0,,You might say it has the number one level of difficulty
+Dialogue: 0,0:16:58.85,0:17:02.05,Default - white,,0,0,0,,ポン
 Dialogue: 0,0:16:58.85,0:17:02.05,Default,,0,0,0,,Pon
+Dialogue: 0,0:17:08.31,0:17:11.05,Default - white,,0,0,0,,染めてか？
 Dialogue: 0,0:17:08.31,0:17:11.05,Default,,0,0,0,,A single suit hand？
+Dialogue: 0,0:17:22.72,0:17:25.32,Default - white,,0,0,0,,カン
 Dialogue: 0,0:17:22.72,0:17:25.32,Default,,0,0,0,,Kan
+Dialogue: 0,0:17:37.38,0:17:42.26,Default - white,,0,0,0,,三暗刻がクリア麻雀の鍵であることは\N西も知っている。
 Dialogue: 0,0:17:37.38,0:17:42.26,Default,,0,0,0,,The South team knows full well that SanAnKou is the key to Clear Mahjong.
+Dialogue: 0,0:17:42.26,0:17:44.14,Default - white,,0,0,0,,俺が暗カンすれば
 Dialogue: 0,0:17:42.26,0:17:44.14,Default,,0,0,0,,So If I declare a closed Kan,
+Dialogue: 0,0:17:44.14,0:17:48.08,Default - white,,0,0,0,,逆に三暗刻の目がないと想像するはずだ
 Dialogue: 0,0:17:44.14,0:17:48.08,Default,,0,0,0,,to the contrary, they ought to imagine I don't see the true worth a SanAnKou
+Dialogue: 0,0:18:03.24,0:18:06.15,Default - white,,0,0,0,,曽我は清一色か？
 Dialogue: 0,0:18:03.24,0:18:06.15,Default,,0,0,0,,Soga's going for a Chinisou?
+Dialogue: 0,0:18:06.15,0:18:09.02,Default - white,,0,0,0,,だがこの二フーの目の暗カンは
 Dialogue: 0,0:18:06.15,0:18:09.02,Default,,0,0,0,,But if I declare a 2nd closed Kan
+Dialogue: 0,0:18:09.02,0:18:11.92,Default - white,,0,0,0,,さすがに三暗刻狙い悟られる
 Dialogue: 0,0:18:09.02,0:18:11.92,Default,,0,0,0,,as you'd expect, they'll perceive I'm aiming for a SanAnKou
+Dialogue: 0,0:18:17.20,0:18:19.22,Default - white,,0,0,0,,チー
 Dialogue: 0,0:18:17.20,0:18:19.22,Default,,0,0,0,,Chii
+Dialogue: 0,0:18:40.65,0:18:45.25,Default - white,,0,0,0,,キター！！\N確定三暗刻
 Dialogue: 0,0:18:40.65,0:18:45.25,Default,,0,0,0,,Got it!\NA confirmed SanAnKou
+Dialogue: 0,0:18:49.05,0:18:51.75,Default - white,,0,0,0,,残る3係が二舞のみ
 Dialogue: 0,0:18:49.05,0:18:51.75,Default,,0,0,0,,There's only two 3 Sou tiles left
+Dialogue: 0,0:18:52.15,0:18:53.91,Default - white,,0,0,0,,最悪の待ちだが
 Dialogue: 0,0:18:52.15,0:18:53.91,Default,,0,0,0,,a terrible wait,
+Dialogue: 0,0:18:53.91,0:18:56.15,Default - white,,0,0,0,,ひろゆきが３係を持ってさいれば
 Dialogue: 0,0:18:53.91,0:18:56.15,Default,,0,0,0,,but if Hiroyuki has a 3 Sou
+Dialogue: 0,0:18:56.15,0:18:58.78,Default - white,,0,0,0,,差し込みで三暗刻がなる
 Dialogue: 0,0:18:56.15,0:18:58.78,Default,,0,0,0,,and deals it into my hand,\Nmy SanAnKou is complete
+Dialogue: 0,0:19:06.11,0:19:09.85,Default - white,,0,0,0,,ひろゆき、\N３係は持ってないか？
 Dialogue: 0,0:19:06.11,0:19:09.85,Default,,0,0,0,,Hiroyuki,\NDo you have any 3 Sou?
+Dialogue: 0,0:19:11.08,0:19:13.45,Default - white,,0,0,0,,係は持っていません
 Dialogue: 0,0:19:11.08,0:19:13.45,Default,,0,0,0,,I don't have any
+Dialogue: 0,0:19:14.58,0:19:16.98,Default - white,,0,0,0,,そずは何を持ってる？
 Dialogue: 0,0:19:14.58,0:19:16.98,Default,,0,0,0,,What Sou tiles do you have?
+Dialogue: 0,0:19:18.95,0:19:22.21,Default - white,,0,0,0,,５係、７係、９係
 Dialogue: 0,0:19:18.95,0:19:22.21,Default,,0,0,0,,5 Sou, 7 Sou, 9 Sou
+Dialogue: 0,0:19:23.01,0:19:25.01,Default - white,,0,0,0,,後は１満です
 Dialogue: 0,0:19:23.01,0:19:25.01,Default,,0,0,0,,After that, 1 Man
+Dialogue: 0,0:19:25.01,0:19:27.48,Default - white,,0,0,0,,差し込みは無理か？
 Dialogue: 0,0:19:25.01,0:19:27.48,Default,,0,0,0,,Can he deal into my hand at all?
+Dialogue: 0,0:19:28.15,0:19:29.58,Default - white,,0,0,0,,となると
 Dialogue: 0,0:19:28.15,0:19:29.58,Default,,0,0,0,,As far as that's concerned
+Dialogue: 0,0:19:29.58,0:19:32.25,Default - white,,0,0,0,,残るわずか二枚のこの３・６待ちで
 Dialogue: 0,0:19:29.58,0:19:32.25,Default,,0,0,0,,there's merely two tiles left on this 3/6 wait
+Dialogue: 0,0:19:32.25,0:19:34.95,Default - white,,0,0,0,,上がりまで持って行くほぼ不可能
 Dialogue: 0,0:19:32.25,0:19:34.95,Default,,0,0,0,,just waiting for a win is almost impossible
+Dialogue: 0,0:19:39.48,0:19:42.55,Default - white,,0,0,0,,間違いないなら奴らソウずに染めて
 Dialogue: 0,0:19:39.48,0:19:42.55,Default,,0,0,0,,Without doubt he's got a Sou (Bamboo) single suit hand
+Dialogue: 0,0:19:42.55,0:19:46.28,Default - white,,0,0,0,,あのさらした二鳴きの牌を見れば誰が見ても明らか
 Dialogue: 0,0:19:42.55,0:19:46.28,Default,,0,0,0,,Anyone can clearly see this from his two exposed calls
+Dialogue: 0,0:19:46.28,0:19:49.51,Default - white,,0,0,0,,４・５ソウの両面??危険だ
 Dialogue: 0,0:19:46.28,0:19:49.51,Default,,0,0,0,,There's a danger he's on a 4 or 5 Sou double sided wait
+Dialogue: 0,0:19:49.51,0:19:51.35,Default - white,,0,0,0,,だが
 Dialogue: 0,0:19:49.51,0:19:51.35,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:19:51.35,0:19:54.28,Default - white,,0,0,0,,それでもここ行くしか無い
 Dialogue: 0,0:19:51.35,0:19:54.28,Default,,0,0,0,,this is the path I must take
+Dialogue: 0,0:20:18.48,0:20:20.81,Default - white,,0,0,0,,チイ
 Dialogue: 0,0:20:18.48,0:20:20.81,Default,,0,0,0,,Chi
+Dialogue: 0,0:20:28.65,0:20:32.48,Default - white,,0,0,0,,振ったらハネ満はおろかやバイ満というリスク確かに大きい
 Dialogue: 0,0:20:28.65,0:20:32.48,Default,,0,0,0,,If I deal into his hand the risk of a foolish Haneman or Baiman hit is huge
+Dialogue: 0,0:20:32.48,0:20:34.45,Default - white,,0,0,0,,だが
 Dialogue: 0,0:20:32.48,0:20:34.45,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:20:34.45,0:20:37.45,Default - white,,0,0,0,,リスクとリターンは背中合わせ
 Dialogue: 0,0:20:34.45,0:20:37.45,Default,,0,0,0,,Risk and Return are two sides of the same coin
+Dialogue: 0,0:20:37.45,0:20:39.88,Default - white,,0,0,0,,勝負という漆黒の闇の中、
 Dialogue: 0,0:20:37.45,0:20:39.88,Default,,0,0,0,,Into the jet black darkness of the game
+Dialogue: 0,0:20:39.88,0:20:44.18,Default - white,,0,0,0,,恐ろしくとも深く手を差し入れなければならない
 Dialogue: 0,0:20:39.88,0:20:44.18,Default,,0,0,0,,you have to stick your hand into the terrifying deeps
+Dialogue: 0,0:21:13.15,0:21:15.78,Default - white,,0,0,0,,通った
 Dialogue: 0,0:21:13.15,0:21:15.78,Default,,0,0,0,,It... passed
+Dialogue: 0,0:21:15.78,0:21:19.38,Default - white,,0,0,0,,後はこの５ソウにひろゆきが差し込みだけ
 Dialogue: 0,0:21:15.78,0:21:19.38,Default,,0,0,0,,Afterwards, all Hiroyuki must do is deal in with his 5 Sou
+Dialogue: 0,0:21:23.25,0:21:25.95,Default - white,,0,0,0,,単なる中のみで
 Dialogue: 0,0:21:23.25,0:21:25.95,Default,,0,0,0,,Judging merely by that Red Dragon
+Dialogue: 0,0:21:25.95,0:21:30.61,Default - white,,0,0,0,,僧伽さんの清一色に本命のドラ落して向かっていくはずがない
 Dialogue: 0,0:21:25.95,0:21:30.61,Default,,0,0,0,,he ought not be discarding dora which are likely to complete Soga's Chinisou
+Dialogue: 0,0:21:30.61,0:21:33.98,Default - white,,0,0,0,,何か大物手を聴牌った
 Dialogue: 0,0:21:30.61,0:21:33.98,Default,,0,0,0,,He's in tenpai for a huge hand
+Dialogue: 0,0:21:37.85,0:21:41.71,Default - white,,0,0,0,,三暗刻か？
 Dialogue: 0,0:21:37.85,0:21:41.71,Default,,0,0,0,,A SanAnKou?
+Dialogue: 0,0:21:46.05,0:21:47.81,Default - white,,0,0,0,,ほっとけは次巡で
 Dialogue: 0,0:21:46.05,0:21:47.81,Default,,0,0,0,,If I leave it be for one turn
+Dialogue: 0,0:21:47.81,0:21:51.45,Default - white,,0,0,0,,おそらく小僧は差し込んだ終わりや
 Dialogue: 0,0:21:47.81,0:21:51.45,Default,,0,0,0,,and the kid deals into it, it's over
+Dialogue: 0,0:21:59.91,0:22:02.78,Default - white,,0,0,0,,待ってよ！
 Dialogue: 0,0:21:59.91,0:22:02.78,Default,,0,0,0,,One moment now
+Dialogue: 0,0:22:06.58,0:22:09.68,Default - white,,0,0,0,,カン
 Dialogue: 0,0:22:06.58,0:22:09.68,Default,,0,0,0,,Kan
+Dialogue: 0,0:22:30.11,0:22:32.98,Default - white,,0,0,0,,カン
 Dialogue: 0,0:22:30.11,0:22:32.98,Default,,0,0,0,,Kan!
+Dialogue: 0,0:22:47.85,0:22:50.11,Default - white,,0,0,0,,原田の2回のドラ表示時
 Dialogue: 0,0:22:47.85,0:22:50.11,Default,,0,0,0,,When Harada flipped those two Dora indicators
+Dialogue: 0,0:22:50.11,0:22:53.85,Default - white,,0,0,0,,持っていた摺り替え、天さんにドラを乗せ出来た
 Dialogue: 0,0:22:50.11,0:22:53.85,Default,,0,0,0,,he swapped in tiles he had, giving Dora to Ten
+Dialogue: 0,0:22:57.58,0:23:00.88,Default - white,,0,0,0,,暗カンの中でドラ字、三倍満
 Dialogue: 0,0:22:57.58,0:23:00.88,Default,,0,0,0,,With his hidden Red Dragon Kan, it's a SanBaiMan hand
+Dialogue: 0,0:23:00.88,0:23:04.98,Default - white,,0,0,0,,ここまで点を高くされては差し込みは無理だ
 Dialogue: 0,0:23:00.88,0:23:04.98,Default,,0,0,0,,As the point value is so high, he can't deal into it
+Dialogue: 0,0:23:12.06,0:23:14.49,Default - white,,0,0,0,,凌いだ
 Dialogue: 0,0:23:12.06,0:23:14.49,Default,,0,0,0,,We survived
+Dialogue: 0,0:23:16.53,0:23:18.53,Default - white,,0,0,0,,この小僧が差し込んだら
 Dialogue: 0,0:23:16.53,0:23:18.53,Default,,0,0,0,,If the kid were to deal into that
+Dialogue: 0,0:23:18.53,0:23:20.53,Default - white,,0,0,0,,残り1000点、
 Dialogue: 0,0:23:18.53,0:23:20.53,Default,,0,0,0,,he'd only have 1000 points left
+Dialogue: 0,0:23:20.53,0:23:23.23,Default - white,,0,0,0,,自殺行為もええとこや
 Dialogue: 0,0:23:20.53,0:23:23.23,Default,,0,0,0,,pretty much an act of suicide
+Dialogue: 0,0:23:23.23,0:23:26.16,Default - white,,0,0,0,,これで天の三暗刻も消えた
 Dialogue: 0,0:23:23.23,0:23:26.16,Default,,0,0,0,,and thus Ten's SanAnKou is no more
+Dialogue: 0,0:23:28.13,0:23:30.76,Default - white,,0,0,0,,後は曽我さんが４揃って
 Dialogue: 0,0:23:28.13,0:23:30.76,Default,,0,0,0,,Afterwards Soga will collect a 4 Sou
+Dialogue: 0,0:23:30.76,0:23:33.26,Default - white,,0,0,0,,私が上りそれで蹴りや
 Dialogue: 0,0:23:30.76,0:23:33.26,Default,,0,0,0,,or I'll complete my hand and knock you out
+Dialogue: 0,0:23:33.26,0:23:35.26,Default - white,,0,0,0,,問題いない
 Dialogue: 0,0:23:33.26,0:23:35.26,Default,,0,0,0,,no problem
+Dialogue: 0,0:23:49.26,0:23:53.13,Default - white,,0,0,0,,さあ、小僧。取ったと先回
 Dialogue: 0,0:23:49.26,0:23:53.13,Default,,0,0,0,,Come on, kid. I won it last turn
+Dialogue: 0,0:24:21.32,0:24:23.76,Default - white,,0,0,0,,めちゃくちゃや、
 Dialogue: 0,0:24:21.32,0:24:23.76,Default,,0,0,0,,that's crazy!
+Dialogue: 0,0:24:23.76,0:24:26.39,Default - white,,0,0,0,,もっともこんな差し込み天が受けんやろ
 Dialogue: 0,0:24:23.76,0:24:26.39,Default,,0,0,0,,Anyway, Ten won't even accept that direct hit
+Dialogue: 0,0:24:30.39,0:24:32.09,Default - white,,0,0,0,,そうか
 Dialogue: 0,0:24:30.39,0:24:32.09,Default,,0,0,0,,Is that the way it is?
+Dialogue: 0,0:24:32.86,0:24:35.26,Default - white,,0,0,0,,それがお前の気持ちなら
 Dialogue: 0,0:24:32.86,0:24:35.26,Default,,0,0,0,,Well, if that's your gut feeling
+Dialogue: 0,0:24:35.26,0:24:37.26,Default - white,,0,0,0,,良いだろう
 Dialogue: 0,0:24:35.26,0:24:37.26,Default,,0,0,0,,it's okay then
+Dialogue: 0,0:24:37.26,0:24:39.26,Default - white,,0,0,0,,受けよう
 Dialogue: 0,0:24:37.26,0:24:39.26,Default,,0,0,0,,I'll take it
+Dialogue: 0,0:24:51.09,0:24:54.22,Default - white,,0,0,0,,ロン
 Dialogue: 0,0:24:51.09,0:24:54.22,Default,,0,0,0,,Ron
+Dialogue: 0,0:24:57.66,0:24:59.34,Default - white,,0,0,0,,24000点、
 Dialogue: 0,0:24:57.66,0:24:59.34,Default,,0,0,0,,24,000 points
+Dialogue: 0,0:24:59.34,0:25:03.42,Default - white,,0,0,0,,それと三暗刻クリアだ
 Dialogue: 0,0:24:59.34,0:25:03.42,Default,,0,0,0,,and SanAnKou has been cleared
 Dialogue: 0,0:25:16.58,0:25:22.31,small - white,,0,0,0,,{\pos(192,81.559)}West Team:\NHarada: 25000 Soga: 25000
 Dialogue: 0,0:25:16.58,0:25:22.31,small - white,,0,0,0,,{\pos(638.4,76.751)}East Team:\NTen: {\c&H00FF00&}49000{\c&HFFFFFF&} Hiroyuki: {\c&H0000FF&}1000
+Dialogue: 0,0:25:16.69,0:25:19.56,Default - white,,0,0,0,,{\pos(420.8,392.481)}これが俺たちの決意表明、
 Dialogue: 0,0:25:16.69,0:25:19.56,Default,,0,0,0,,{\pos(428.8,337.99)}this is an expression of our determination
+Dialogue: 0,0:25:19.56,0:25:22.76,Default - white,,0,0,0,,{\pos(424,384.468)}どんな現実からも目をそらさない、
 Dialogue: 0,0:25:19.56,0:25:22.76,Default,,0,0,0,,{\pos(425.6,342.798)}Without averting our eyes from hard facts,
+Dialogue: 0,0:25:23.99,0:25:26.72,Default - white,,0,0,0,,佳境を抱えつつ前へ、
 Dialogue: 0,0:25:23.99,0:25:26.72,Default,,0,0,0,,embrace each crisis while moving forward,
+Dialogue: 0,0:25:27.46,0:25:30.42,Default - white,,0,0,0,,場を開く
 Dialogue: 0,0:25:27.46,0:25:30.42,Default,,0,0,0,,Opening the way
 Dialogue: 0,0:25:32.78,0:25:38.00,Default - white,,0,0,0,,{\s1}SanAnKou{\s0}\NChitoitsu\NChanta\NSanSyoku\NIttsu
+Dialogue: 0,0:25:32.78,0:25:38.00,Default,,0,0,0,,{\s1}三暗刻{\s0},\N七対子,\N混全帯么九,\N三色同順,\N一気通貫
 Dialogue: 0,0:25:38.68,0:25:42.68,Default - white,,0,0,0,,{\pos(435.2,394.084)}East Round 2
+Dialogue: 0,0:26:18.90,0:26:21.36,Default - white,,0,0,0,,最悪配牌だ救われた
 Dialogue: 0,0:26:18.90,0:26:21.36,Default,,0,0,0,,An awful starting hand, well beyond saving
+Dialogue: 0,0:26:21.36,0:26:24.16,Default - white,,0,0,0,,南をけば、この局流せん
 Dialogue: 0,0:26:21.36,0:26:24.16,Default,,0,0,0,,If he discards a South wind, the hand will not continue
+Dialogue: 0,0:26:54.82,0:26:57.52,Default - white,,0,0,0,,こんなところで逃げてどうする、
 Dialogue: 0,0:26:54.82,0:26:57.52,Default,,0,0,0,,How do you retreat from such a position?
+Dialogue: 0,0:26:57.52,0:26:59.52,Default - white,,0,0,0,,前を目指せ！
 Dialogue: 0,0:26:57.52,0:26:59.52,Default,,0,0,0,,Advance!
+Dialogue: 0,0:29:46.75,0:29:49.05,Default - white,,0,0,0,,これで勝負着いていの
 Dialogue: 0,0:29:46.75,0:29:49.05,Default,,0,0,0,,And with that, the match is over!
+Dialogue: 0,0:29:49.05,0:29:51.05,Default - white,,0,0,0,,今きった白は6枚目の白だ
 Dialogue: 0,0:29:49.05,0:29:51.05,Default,,0,0,0,,What I just discarded was the 6th White Dragon !
+Dialogue: 0,0:29:51.05,0:29:52.42,Default - white,,0,0,0,,頭ハネだと
 Dialogue: 0,0:29:51.05,0:29:52.42,Default,,0,0,0,,Head bump?
+Dialogue: 0,0:29:52.42,0:29:54.65,Default - white,,0,0,0,,俺はひろゆきがきった牌を白ではなく
 Dialogue: 0,0:29:52.42,0:29:54.65,Default,,0,0,0,,This White Dragon Hiroyuki discarded wasn't a White Dragon at all
+Dialogue: 0,0:29:54.65,0:29:56.75,Default - white,,0,0,0,,その割を食った牌と定め
 Dialogue: 0,0:29:54.65,0:29:56.75,Default,,0,0,0,,I declared Ron on
+Dialogue: 0,0:29:56.75,0:29:57.92,Default - white,,0,0,0,,ロンと言ったのさ
 Dialogue: 0,0:29:56.75,0:29:57.92,Default,,0,0,0,,the missing tile that discard was destined to be
+Dialogue: 0,0:29:57.92,0:30:01.55,Default - white,,0,0,0,,もしジャン箱から出た牌が五索やなかったら、
 Dialogue: 0,0:29:57.92,0:30:01.55,Default,,0,0,0,,If there isn't a 5 Sou(bamboo) in that Mahjong case
+Dialogue: 0,0:30:01.55,0:30:03.55,Default - white,,0,0,0,,チョンボでオドレが飛ぶぞ！
 Dialogue: 0,0:30:01.55,0:30:03.55,Default,,0,0,0,,the point penalty KNOCKS YOU THE FUCK OUT!
+Dialogue: 0,0:30:05.12,0:30:07.12,Default - white,,0,0,0,,この摺り替えた牌は
 Dialogue: 0,0:30:05.12,0:30:07.12,Default,,0,0,0,,This swapped tile
