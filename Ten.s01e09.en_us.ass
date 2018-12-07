@@ -16,7 +16,8 @@ Video File: Ten.s01e09.480p.mp4
 Video AR Mode: 4
 Video AR Value: 1.781513
 Video Zoom Percent: 1.500000
-Video Position: 105
+Active Line: 1
+Video Position: 179
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,10 +30,10 @@ Style: small - white,Open Sans Semibold,27,&H00FFFFFF,&H000000FF,&H00020713,&H00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.53,Default,,0,0,0,,(this White Dragon) was declared a 5 Sou by Akagi Shigeru when he decared Ron
-Dialogue: 0,0:00:05.96,0:00:08.93,Default,,0,0,0,,There's a reason this isn't such a wild guess
+Dialogue: 0,0:00:05.96,0:00:08.93,Default,,0,0,0,,There's a reason that isn't such a wild guess
 Dialogue: 0,0:00:09.73,0:00:11.93,Default,,0,0,0,,You can read it off the discards
 Dialogue: 0,0:00:12.86,0:00:14.86,Default,,0,0,0,,There's a reading?
-Dialogue: 0,0:00:14.86,0:00:16.86,Default,,0,0,0,,If you think about it,
+Dialogue: 0,0:00:14.86,0:00:16.86,Default,,0,0,0,,Don't you remember?
 Dialogue: 0,0:00:16.86,0:00:18.63,Default,,0,0,0,,In South round 1
 Dialogue: 0,0:00:18.63,0:00:20.63,Default,,0,0,0,,Harada's hand
 Dialogue: 0,0:00:21.30,0:00:23.46,Default,,0,0,0,,oh, yes
@@ -174,9 +175,9 @@ Dialogue: 0,0:10:41.35,0:10:43.35,Default,,0,0,0,,Ten,
 Dialogue: 0,0:10:50.78,0:10:55.21,Default,,0,0,0,,It's up to you now
 Dialogue: 0,0:11:10.88,0:11:15.35,Default - white,,0,0,0,,{\pos(428.8,382.865)}Day of the East/West Final
 Dialogue: 0,0:11:18.45,0:11:20.58,Default,,0,0,0,,Ten,
-Dialogue: 0,0:11:20.58,0:11:22.58,Default,,0,0,0,,Can  I ask you something?
+Dialogue: 0,0:11:20.58,0:11:22.58,Default,,0,0,0,,Can I ask you something?
 Dialogue: 0,0:11:23.91,0:11:27.25,Default,,0,0,0,,If it had been you,
-Dialogue: 0,0:11:27.25,0:11:30.85,Default,,0,0,0,,would you have done the same as akagi?
+Dialogue: 0,0:11:27.25,0:11:30.85,Default,,0,0,0,,would you have done the same as Akagi?
 Dialogue: 0,0:11:34.68,0:11:38.25,Default,,0,0,0,,I remain
 Dialogue: 0,0:11:38.25,0:11:42.31,Default,,0,0,0,,because if you don't remain, you can't win
 Dialogue: 0,0:11:42.31,0:11:44.31,Default,,0,0,0,,Remain
@@ -268,10 +269,10 @@ Dialogue: 0,0:21:47.81,0:21:51.45,Default,,0,0,0,,and the kid deals into it, it'
 Dialogue: 0,0:21:59.91,0:22:02.78,Default,,0,0,0,,One moment now
 Dialogue: 0,0:22:06.58,0:22:09.68,Default,,0,0,0,,Kan
 Dialogue: 0,0:22:30.11,0:22:32.98,Default,,0,0,0,,Kan!
-Dialogue: 0,0:22:47.85,0:22:50.11,Default,,0,0,0,,When Harada flipped those two Dora indicators
-Dialogue: 0,0:22:50.11,0:22:53.85,Default,,0,0,0,,he swapped in tiles he had, giving Dora to Ten
-Dialogue: 0,0:22:57.58,0:23:00.88,Default,,0,0,0,,With his hidden Red Dragon Kan, it's a SanBaiMan hand
-Dialogue: 0,0:23:00.88,0:23:04.98,Default,,0,0,0,,As the point value is so high, he can't deal into it
+Dialogue: 0,0:22:46.50,0:22:48.80,Default,,0,0,0,,When Harada flipped those two Dora indicators
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,he swapped in tiles he had, giving Dora to Ten
+Dialogue: 0,0:22:56.78,0:23:00.00,Default,,0,0,0,,With his hidden Red Dragon Kan, it's a SanBaiMan hand
+Dialogue: 0,0:23:00.16,0:23:05.14,Default,,0,0,0,,As the point value is so high, he can't deal into it
 Dialogue: 0,0:23:12.06,0:23:14.49,Default,,0,0,0,,We survived
 Dialogue: 0,0:23:16.53,0:23:18.53,Default,,0,0,0,,If the kid were to deal into that
 Dialogue: 0,0:23:18.53,0:23:20.53,Default,,0,0,0,,he'd only have 1000 points left
@@ -280,7 +281,7 @@ Dialogue: 0,0:23:23.23,0:23:26.16,Default,,0,0,0,,and thus Ten's SanAnKou is no 
 Dialogue: 0,0:23:28.13,0:23:30.76,Default,,0,0,0,,Afterwards Soga will collect a 4 Sou
 Dialogue: 0,0:23:30.76,0:23:33.26,Default,,0,0,0,,or I'll complete my hand and knock you out
 Dialogue: 0,0:23:33.26,0:23:35.26,Default,,0,0,0,,no problem
-Dialogue: 0,0:23:49.26,0:23:53.13,Default,,0,0,0,,Come on, kid. I won it last turn
+Dialogue: 0,0:23:48.44,0:23:53.13,Default,,0,0,0,,Come on, kid. I took this hand last turn
 Dialogue: 0,0:24:21.32,0:24:23.76,Default,,0,0,0,,that's crazy!
 Dialogue: 0,0:24:23.76,0:24:26.39,Default,,0,0,0,,Anyway, Ten won't even accept that direct hit
 Dialogue: 0,0:24:30.39,0:24:32.09,Default,,0,0,0,,Is that the way it is?
@@ -292,13 +293,13 @@ Dialogue: 0,0:24:57.66,0:24:59.34,Default,,0,0,0,,24,000 points
 Dialogue: 0,0:24:59.34,0:25:03.42,Default,,0,0,0,,and SanAnKou has been cleared
 Dialogue: 0,0:25:16.58,0:25:22.31,small - white,,0,0,0,,{\pos(192,81.559)}West Team:\NHarada: 25000 Soga: 25000
 Dialogue: 0,0:25:16.58,0:25:22.31,small - white,,0,0,0,,{\pos(638.4,76.751)}East Team:\NTen: {\c&H00FF00&}49000{\c&HFFFFFF&} Hiroyuki: {\c&H0000FF&}1000
-Dialogue: 0,0:25:16.69,0:25:19.56,Default,,0,0,0,,{\pos(428.8,337.99)}this is an expression of our determination
-Dialogue: 0,0:25:19.56,0:25:22.76,Default,,0,0,0,,{\pos(425.6,342.798)}Without averting our eyes from hard facts,
+Dialogue: 0,0:25:16.69,0:25:19.56,Default,,0,0,0,,{\pos(423.467,384.657)}this is an expression of our determination
+Dialogue: 0,0:25:19.56,0:25:22.76,Default,,0,0,0,,{\pos(422.933,396.131)}Without averting our eyes from hard facts,
 Dialogue: 0,0:25:23.99,0:25:26.72,Default,,0,0,0,,embrace each crisis while moving forward,
 Dialogue: 0,0:25:27.46,0:25:30.42,Default,,0,0,0,,Opening the way
 Dialogue: 0,0:25:32.78,0:25:38.00,Default - white,,0,0,0,,{\s1}SanAnKou{\s0}\NChitoitsu\NChanta\NSanSyoku\NIttsu
 Dialogue: 0,0:25:38.68,0:25:42.68,Default - white,,0,0,0,,{\pos(435.2,394.084)}East Round 2
-Dialogue: 0,0:26:18.90,0:26:21.36,Default,,0,0,0,,An awful starting hand, well beyond saving
+Dialogue: 0,0:26:18.90,0:26:21.36,Default,,0,0,0,,{\pos(422.667,385.667)}An awful starting hand, well beyond saving
 Dialogue: 0,0:26:21.36,0:26:24.16,Default,,0,0,0,,If he discards a South wind, the hand will not continue
 Dialogue: 0,0:26:54.82,0:26:57.52,Default,,0,0,0,,How do you retreat from such a position?
 Dialogue: 0,0:26:57.52,0:26:59.52,Default,,0,0,0,,Advance!
