@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../Ten.s01e09.720.mp4
-Video File: ../Ten.s01e09.720.mp4
+Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e09.720.mp4
+Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e09.720.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 59
-Active Line: 70
-Video Position: 6002
+Video Zoom Percent: 0.375000
+Scroll Position: 181
+Active Line: 197
+Video Position: 23707
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,6 +27,8 @@ Style: default - cyan,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H0
 Style: Default - white,.Hiragino Kaku Gothic Interface,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.66666,2,0,0,20,1
 Style: Default - red,Open Sans Semibold,54,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.66666,2,0,0,20,1
 Style: small - white,Open Sans Semibold,41,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.66666,2,0,0,20,1
+Style: default - cyan - with - background,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
+Style: Default - white - with - background,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -76,44 +78,44 @@ Dialogue: 0,0:02:04.96,0:02:09.72,Default,,0,0,0,,that in total, there were only
 Dialogue: 0,0:02:13.66,0:02:15.92,Default,,0,0,0,,Open the box
 Dialogue: 0,0:02:18.62,0:02:20.62,Default,,0,0,0,,Do it
 Dialogue: 0,0:02:23.39,0:02:30.61,default - cyan,,0,0,0,,{\pos(661.736,94.276)}#/tv/shows subs presents
-Dialogue: 0,0:02:33.12,0:02:37.91,default - cyan,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
-Dialogue: 0,0:02:33.12,0:02:37.91,Default - white,,0,0,0,,Blazing hot, like the blistering sun
+Dialogue: 0,0:02:33.12,0:02:37.91,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
+Dialogue: 0,0:02:33.12,0:02:37.91,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
 Dialogue: 0,0:02:33.68,0:02:35.48,Default - red,,0,0,0,,{\pos(205.283,655.967)}Kishitani Goro
 Dialogue: 0,0:02:33.61,0:02:35.48,Default - white,,0,0,0,,{\pos(533.333,476.471)}Ten Takeshi
-Dialogue: 0,0:02:38.39,0:02:42.57,default - cyan,,0,0,0,,あいつがまた帰ってきた
-Dialogue: 0,0:02:38.39,0:02:42.57,Default - white,,0,0,0,,He's come back again
+Dialogue: 0,0:02:38.39,0:02:42.57,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
+Dialogue: 0,0:02:38.39,0:02:42.57,Default - white - with - background,,0,0,0,,He's come back again
 Dialogue: 0,0:02:42.31,0:02:44.11,Default - red,,0,0,0,,{\pos(796.981,609.58)}Furukawa Yuki
 Dialogue: 0,0:02:42.25,0:02:44.11,Default - white,,0,0,0,,{\pos(766.792,387.731)}Igawa Hiroyuki
-Dialogue: 0,0:02:43.62,0:02:48.75,default - cyan,,0,0,0,,ざわざわと
-Dialogue: 0,0:02:43.62,0:02:48.75,Default - white,,0,0,0,,In anxiety...
-Dialogue: 0,0:02:49.28,0:02:54.39,default - cyan,,0,0,0,,息を殺して
-Dialogue: 0,0:02:49.28,0:02:54.39,Default - white,,0,0,0,,you hold your breath
+Dialogue: 0,0:02:43.62,0:02:48.75,default - cyan - with - background,,0,0,0,,ざわざわと
+Dialogue: 0,0:02:43.62,0:02:48.75,Default - white - with - background,,0,0,0,,In anxiety...
+Dialogue: 0,0:02:49.28,0:02:54.39,default - cyan - with - background,,0,0,0,,息を殺して
+Dialogue: 0,0:02:49.28,0:02:54.39,Default - white - with - background,,0,0,0,,you hold your breath
 Dialogue: 0,0:02:50.98,0:02:52.78,Default - red,,0,0,0,,{\pos(207.295,706.387)}Yoshida Eisaku
 Dialogue: 0,0:02:50.98,0:02:52.78,Default - white,,0,0,0,,{\pos(511.195,506.723)}Akagi Shigeru
-Dialogue: 0,0:02:54.39,0:02:59.77,default - cyan,,0,0,0,,誰の肩に止まるかな
-Dialogue: 0,0:02:54.39,0:02:59.77,Default - white,,0,0,0,,Whose shoulder will it land upon
-Dialogue: 0,0:02:59.77,0:03:05.77,default - cyan,,0,0,0,,くるくる廻る天道虫
-Dialogue: 0,0:02:59.77,0:03:05.77,Default - white,,0,0,0,,Ladybug going round and round
-Dialogue: 0,0:03:05.77,0:03:10.13,default - cyan,,0,0,0,,背中の星が揃ったら
-Dialogue: 0,0:03:05.77,0:03:10.13,Default - white,,0,0,0,,When the stars on her back align
-Dialogue: 0,0:03:10.13,0:03:20.04,default - cyan,,0,0,0,,雨上がりの風吹く通りを
-Dialogue: 0,0:03:10.13,0:03:20.04,Default - white,,0,0,0,,After the rain, above the windswept street,
+Dialogue: 0,0:02:54.39,0:02:59.77,default - cyan - with - background,,0,0,0,,誰の肩に止まるかな
+Dialogue: 0,0:02:54.39,0:02:59.77,Default - white - with - background,,0,0,0,,Whose shoulder will it land upon
+Dialogue: 0,0:02:59.77,0:03:05.77,default - cyan - with - background,,0,0,0,,くるくる廻る天道虫
+Dialogue: 0,0:02:59.77,0:03:05.77,Default - white - with - background,,0,0,0,,Ladybug going round and round
+Dialogue: 0,0:03:05.77,0:03:10.13,default - cyan - with - background,,0,0,0,,背中の星が揃ったら
+Dialogue: 0,0:03:05.77,0:03:10.13,Default - white - with - background,,0,0,0,,When the stars on her back align
+Dialogue: 0,0:03:10.13,0:03:20.04,default - cyan - with - background,,0,0,0,,雨上がりの風吹く通りを
+Dialogue: 0,0:03:10.13,0:03:20.04,Default - white - with - background,,0,0,0,,After the rain, above the windswept street,
 Dialogue: 0,0:03:18.11,0:03:21.56,Default,,0,0,0,,{\pos(644.026,87.227)}#/tv/shows subs: "They're better than nothing!"
-Dialogue: 0,0:03:20.04,0:03:22.31,default - cyan,,0,0,0,,陽が昇った
-Dialogue: 0,0:03:20.04,0:03:22.31,Default - white,,0,0,0,,The sun rose
+Dialogue: 0,0:03:20.04,0:03:22.31,default - cyan - with - background,,0,0,0,,陽が昇った
+Dialogue: 0,0:03:20.04,0:03:22.31,Default - white - with - background,,0,0,0,,The sun rose
 Dialogue: 0,0:03:21.56,0:03:24.92,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
-Dialogue: 0,0:03:24.92,0:03:27.25,Default - white,,0,0,0,,{\pos(646.038,615.63)}Episode 7
+Dialogue: 0,0:03:24.92,0:03:27.25,Default - white,,0,0,0,,{\pos(646.038,615.63)}Episode 9
 Dialogue: 0,0:03:24.92,0:03:27.25,Default,,0,0,0,,{\pos(652.075,450.253)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
 Dialogue: 0,0:03:39.36,0:03:42.79,Default,,0,0,0,,Well then...
 Dialogue: 0,0:04:01.07,0:04:03.79,Default,,0,0,0,,As we expected, there's a fourth 5 tile inside
 Dialogue: 0,0:04:03.85,0:04:07.11,Default,,0,0,0,,If so, it's in there.\NThere's a 5 Sou (bamboo)!
 Dialogue: 0,0:04:21.14,0:04:23.14,Default,,0,0,0,,And the last one...
-Dialogue: 0,0:04:22.31,0:04:25.37,Default,,0,0,0,,Okaay. Enough already
+Dialogue: 0,0:04:22.31,0:04:25.37,default - cyan,,0,0,0,,Okaay. Enough already
 Dialogue: 0,0:04:25.47,0:04:27.47,Default,,0,0,0,,There's a 5 Pin there
 Dialogue: 0,0:04:27.47,0:04:32.37,Default,,0,0,0,,Akagi was also waiting on a 5 Pin
 Dialogue: 0,0:04:32.37,0:04:36.67,Default,,0,0,0,,That 5 Pin alone is enough. Case closed
 Dialogue: 0,0:04:36.67,0:04:39.17,Default,,0,0,0,,B-but...
-Dialogue: 0,0:04:37.27,0:04:39.27,Default,,0,0,0,,T-the FUCK?!?
+Dialogue: 0,0:04:37.27,0:04:39.27,default - cyan,,0,0,0,,T-the FUCK?!?
 Dialogue: 0,0:04:38.77,0:04:40.77,Default,,0,0,0,,The last one
 Dialogue: 0,0:04:40.77,0:04:43.91,Default,,0,0,0,,the sole remaining tile
 Dialogue: 0,0:04:46.87,0:04:49.67,Default,,0,0,0,,HUNH?
@@ -225,8 +227,9 @@ Dialogue: 0,0:12:45.66,0:12:48.66,Default,,0,0,0,,Proposing an idiotic rule like
 Dialogue: 0,0:12:48.66,0:12:52.19,Default,,0,0,0,,is proof enough they're cornered
 Dialogue: 0,0:12:58.86,0:13:00.98,Default,,0,0,0,,The Yaku which must be cleared...
 Dialogue: 0,0:13:00.99,0:13:02.99,Default,,0,0,0,,can largely be separated into two groups
-Dialogue: 0,0:13:04.59,0:13:08.52,Default,,0,0,0,,the first group, because it's a team game, offers protection against direct hits
-Dialogue: 0,0:13:08.52,0:13:12.59,Default,,0,0,0,,they are mobile, quick Yaku for which you can call tiles
+Dialogue: 0,0:13:04.59,0:13:08.52,Default,,0,0,0,,{\pos(648,124)}the first group, because it's a team game, offers protection against direct hits
+Dialogue: 0,0:13:05.11,0:13:10.25,Default - white,,0,0,0,,{\pos(632,582.667)}East Round 1
+Dialogue: 0,0:13:08.52,0:13:12.59,Default,,0,0,0,,{\pos(634.667,129.333)}they are mobile, quick Yaku\Nfor which you can call tiles
 Dialogue: 0,0:13:12.59,0:13:17.96,Default,,0,0,0,,these are Ittsu, Sansyoku, and Chanta
 Dialogue: 0,0:13:17.96,0:13:19.16,Default,,0,0,0,,And on the other hand...
 Dialogue: 0,0:13:19.16,0:13:22.86,Default,,0,0,0,,there are laborious Yaku which you must construct on your own
