@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e09.720.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 181
-Active Line: 197
-Video Position: 23707
+Scroll Position: 15
+Active Line: 29
+Video Position: 2603
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,7 +61,7 @@ Dialogue: 0,0:01:15.09,0:01:17.09,Default,,0,0,0,,Keeping the 4 Sou...
 Dialogue: 0,0:01:17.09,0:01:19.09,Default,,0,0,0,,and instead discarding the 8 Sou
 Dialogue: 0,0:01:19.09,0:01:21.59,Default,,0,0,0,,then the 5 Sou wait would give an {\b1\i1}Ittsu{\b0\i0} with 3 Dora
 Dialogue: 0,0:01:21.59,0:01:23.59,Default,,0,0,0,,Mangan without declaring Riichi
-Dialogue: 0,0:01:23.59,0:01:26.79,Default,,0,0,0,,Clearly discarding the 5 Sou bothered him
+Dialogue: 0,0:01:23.59,0:01:26.79,Default,,0,0,0,,Clearly the thought a 5 Sou wait bothered him
 Dialogue: 0,0:01:27.12,0:01:29.19,Default,,0,0,0,,Didn't it, though
 Dialogue: 0,0:01:29.19,0:01:33.46,Default,,0,0,0,,throwing away a qualifying Yaku to instead declare Riichi
 Dialogue: 0,0:01:33.46,0:01:36.86,Default,,0,0,0,,A most unlikely way to play
