@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e10.edited.1080.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 84
-Active Line: 110
-Video Position: 17635
+Scroll Position: 158
+Active Line: 188
+Video Position: 39497
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,7 +38,7 @@ Dialogue: 0,0:00:02.91,0:00:05.53,Default,,0,0,0,,The team that clears them firs
 Dialogue: 0,0:00:05.53,0:00:07.76,Default,,0,0,0,,If that's your gut feeling
 Dialogue: 0,0:00:07.76,0:00:09.76,Default,,0,0,0,,It's okay.\NI'll take it
 Dialogue: 0,0:00:09.76,0:00:12.32,Default,,0,0,0,,Ron.\NSanAnKou cleared
-Dialogue: 0,0:02:40.52,0:02:43.10,Default,,0,0,0,,A head pair?
+Dialogue: 0,0:02:40.52,0:02:43.10,Default,,0,0,0,,I missed a pair?
 Dialogue: 0,0:03:04.91,0:03:06.97,Default,,0,0,0,,Could I get a chitoitsu like this?
 Dialogue: 0,0:03:06.97,0:03:09.34,Default,,0,0,0,,The alternative is a called Tanyao
 Dialogue: 0,0:03:13.36,0:03:15.07,Default,,0,0,0,,Chii
@@ -46,11 +46,11 @@ Dialogue: 0,0:03:27.96,0:03:29.96,Default,,0,0,0,,Pon
 Dialogue: 0,0:03:40.33,0:03:42.33,Default,,0,0,0,,Chii
 Dialogue: 0,0:03:52.88,0:03:54.73,Default,,0,0,0,,Pon
 Dialogue: 0,0:04:01.79,0:04:03.93,Default,,0,0,0,,Pon
-Dialogue: 0,0:04:06.59,0:04:09.51,Default,,0,0,0,,
+Dialogue: 0,0:04:06.59,0:04:09.51,Default,,0,0,0,,Shit!\NMy chance gone in one moment
 Dialogue: 0,0:04:09.51,0:04:12.28,Default,,0,0,0,,Soga's without doubt in Tenpai
 Dialogue: 0,0:04:12.28,0:04:14.04,Default,,0,0,0,,According to his discards...
 Dialogue: 0,0:04:14.04,0:04:15.53,Default,,0,0,0,,his wait is most probably
-Dialogue: 0,0:04:15.53,0:04:17.90,Default,,0,0,0,,3, 6, or 9 Pin?
+Dialogue: 0,0:04:15.53,0:04:17.90,Default,,0,0,0,,a 3, 6 Pin wait
 Dialogue: 0,0:04:24.56,0:04:26.54,Default,,0,0,0,,I'm in Tenpai
 Dialogue: 0,0:04:26.54,0:04:28.86,Default,,0,0,0,,But, it's one step too late
 Dialogue: 0,0:04:28.86,0:04:30.86,Default,,0,0,0,,If I had reached Tenpai just one turn earlier
@@ -60,60 +60,60 @@ Dialogue: 0,0:04:35.37,0:04:37.15,Default,,0,0,0,,a 6 Pin is Soga's winning tile
 Dialogue: 0,0:04:37.15,0:04:38.36,Default,,0,0,0,,He'd Head Bump
 Dialogue: 0,0:04:38.36,0:04:40.36,Default,,0,0,0,,Dealing in is impossible
 Dialogue: 0,0:04:59.60,0:05:01.00,Default - white,,0,0,0,,やつは今
-Dialogue: 0,0:04:59.60,0:05:01.00,Default,,0,0,0,,Now this guy
+Dialogue: 0,0:04:59.60,0:05:01.00,Default,,0,0,0,,Even now the little guy
 Dialogue: 0,0:05:01.00,0:05:04.91,Default - white,,0,0,0,,しくじりながらも懸命になんとかしようとしている
-Dialogue: 0,0:05:01.00,0:05:04.91,Default,,0,0,0,,Failure while doing utmost effort doing
+Dialogue: 0,0:05:01.00,0:05:04.91,Default,,0,0,0,,despite failure, he's trying his utmost
 Dialogue: 0,0:05:04.91,0:05:06.91,Default - white,,0,0,0,,その意気に賭けよう
-Dialogue: 0,0:05:04.91,0:05:06.91,Default,,0,0,0,,betting on that spirit
-Dialogue: 0,0:05:07.63,0:05:10.92,Default,,0,0,0,,There's most probably still one 6 Pin left to draw
+Dialogue: 0,0:05:04.91,0:05:06.91,Default,,0,0,0,,I'll bet on his determination
+Dialogue: 0,0:05:07.63,0:05:10.92,Default,,0,0,0,,There's most probably still one 6 Pin left in the wall
 Dialogue: 0,0:05:28.94,0:05:31.08,Default,,0,0,0,,He got it
 Dialogue: 0,0:05:33.85,0:05:36.49,Default,,0,0,0,,With that last draw the Kid's hand is ready
 Dialogue: 0,0:05:36.49,0:05:38.96,Default,,0,0,0,,If you consider his Chitoitsu fell apart...
 Dialogue: 0,0:05:38.96,0:05:41.92,Default,,0,0,0,,he's waiting on this very 6 Pin or a 9 Pin
-Dialogue: 0,0:05:41.92,0:05:44.94,Default,,0,0,0,,but the character is aiming for a Tanyao
-Dialogue: 0,0:05:44.94,0:05:47.93,Default,,0,0,0,,and right now he can't win off a 6 Pin
+Dialogue: 0,0:05:41.92,0:05:44.94,Default,,0,0,0,,but now he's aiming for a Tanyao
+Dialogue: 0,0:05:44.94,0:05:47.93,Default,,0,0,0,,and at this moment he can't win off a 6 Pin
 Dialogue: 0,0:05:47.93,0:05:51.42,Default,,0,0,0,,according to his discards, Ten certainly has a 6 Pin
 Dialogue: 0,0:05:51.87,0:05:54.51,Default,,0,0,0,,But he's read Soga's wait
 Dialogue: 0,0:05:54.51,0:05:56.51,Default,,0,0,0,,and he can't deal into it
-Dialogue: 0,0:05:56.51,0:05:59.79,Default,,0,0,0,,
+Dialogue: 0,0:05:56.51,0:05:59.79,Default,,0,0,0,,and I just drew the 4th 6Pin!
 Dialogue: 0,0:06:05.31,0:06:07.95,Default,,0,0,0,,The kid's Tanyao is nipped in the bud
 Dialogue: 0,0:06:07.95,0:06:09.72,Default,,0,0,0,,The only remaining ways he could win
-Dialogue: 0,0:06:09.72,0:06:11.72,Default,,0,0,0,,winning off the last draw or the last discard
+Dialogue: 0,0:06:09.72,0:06:11.72,Default,,0,0,0,,is winning off the last draw or the last discard
 Dialogue: 0,0:06:12.41,0:06:14.92,Default,,0,0,0,,I'll erase those hopes as well!
 Dialogue: 0,0:06:22.59,0:06:23.98,Default,,0,0,0,,Chii
 Dialogue: 0,0:06:30.56,0:06:32.35,Default,,0,0,0,,Chii
-Dialogue: 0,0:06:35.55,0:06:36.91,Default,,0,0,0,,
-Dialogue: 0,0:06:36.91,0:06:38.75,Default,,0,0,0,,
-Dialogue: 0,0:06:38.75,0:06:41.31,Default,,0,0,0,,
+Dialogue: 0,0:06:35.55,0:06:36.91,Default,,0,0,0,,Take that
+Dialogue: 0,0:06:36.91,0:06:38.75,Default,,0,0,0,,I've cheated you of a final draw win
+Dialogue: 0,0:06:38.75,0:06:41.31,Default,,0,0,0,,now your win is bugger all
 Dialogue: 0,0:06:43.08,0:06:44.35,Default,,0,0,0,,It's over
 Dialogue: 0,0:06:44.35,0:06:45.88,Default,,0,0,0,,there's two more turns
 Dialogue: 0,0:06:45.88,0:06:48.06,Default,,0,0,0,,but this hand is already done
-Dialogue: 0,0:07:04.32,0:07:06.70,Default,,0,0,0,,entering Tenpai on a 9 Pin edge tile
-Dialogue: 0,0:07:06.70,0:07:09.18,Default,,0,0,0,,9 Pin is the kid's winning tile
-Dialogue: 0,0:07:09.18,0:07:11.18,Default,,0,0,0,,and besides calling the final discard
+Dialogue: 0,0:07:04.32,0:07:06.70,Default,,0,0,0,,If I discard the 9 Pin I'm in Tenpai
+Dialogue: 0,0:07:06.70,0:07:09.18,Default,,0,0,0,,9 Pin is one of the kid's winning tiles
+Dialogue: 0,0:07:09.18,0:07:11.18,Default,,0,0,0,,but outside calling it on the final discard
 Dialogue: 0,0:07:11.18,0:07:13.18,Default,,0,0,0,,the moron's got no Yaku
-Dialogue: 0,0:07:13.18,0:07:15.39,Default,,0,0,0,,
-Dialogue: 0,0:07:15.39,0:07:17.39,Default,,0,0,0,,To the kid, this hand
-Dialogue: 0,0:07:17.39,0:07:19.63,Default,,0,0,0,,will end with a no Tenpai penalty
+Dialogue: 0,0:07:13.18,0:07:15.39,Default,,0,0,0,,therefore If I get into Tenpai
+Dialogue: 0,0:07:15.39,0:07:17.39,Default,,0,0,0,,In this hand, the kid...
+Dialogue: 0,0:07:17.39,0:07:19.63,Default,,0,0,0,,will end up with a no Tenpai penalty
 Dialogue: 0,0:07:19.63,0:07:23.10,Default,,0,0,0,,1,500 or possibly decreased to 1,000 points
-Dialogue: 0,0:07:23.10,0:07:25.66,Default,,0,0,0,,and if that happens in his current state
-Dialogue: 0,0:07:25.66,0:07:28.17,Default,,0,0,0,,
+Dialogue: 0,0:07:23.10,0:07:25.66,Default,,0,0,0,,it's over if that happens in his current state
+Dialogue: 0,0:07:25.66,0:07:28.17,Default,,0,0,0,,the kid's already dead if he deals into a hand
 Dialogue: 0,0:07:28.17,0:07:30.17,Default,,0,0,0,,If that happens
-Dialogue: 0,0:07:30.17,0:07:32.17,Default,,0,0,0,,
+Dialogue: 0,0:07:30.17,0:07:32.17,Default,,0,0,0,,I'll blow him away with a Tsumo
 Dialogue: 0,0:07:32.17,0:07:35.05,Default,,0,0,0,,If that happens losing 500 points is huge
 Dialogue: 0,0:07:38.32,0:07:40.01,Default,,0,0,0,,Pon
-Dialogue: 0,0:07:43.52,0:07:46.04,Default,,0,0,0,,He's still got those
-Dialogue: 0,0:07:46.04,0:07:48.40,Default,,0,0,0,,
-Dialogue: 0,0:07:48.40,0:07:50.40,Default,,0,0,0,,
-Dialogue: 0,0:07:50.40,0:07:52.40,Default,,0,0,0,,
-Dialogue: 0,0:07:52.40,0:07:55.80,Default,,0,0,0,,
+Dialogue: 0,0:07:43.52,0:07:46.04,Default,,0,0,0,,He's still holding onto those?
+Dialogue: 0,0:07:46.04,0:07:48.40,Default,,0,0,0,,The last draw which I took pains to give to Soga
+Dialogue: 0,0:07:48.40,0:07:50.40,Default,,0,0,0,,\NIs with that kid again!
+Dialogue: 0,0:07:50.40,0:07:52.40,Default,,0,0,0,,there's no more 6 Pin tiles to draw
+Dialogue: 0,0:07:52.40,0:07:55.80,Default,,0,0,0,,He's aming to draw the final 9 Pin, isn't he!
 Dialogue: 0,0:07:59.77,0:08:02.01,Default,,0,0,0,,Kan
 Dialogue: 0,0:08:04.62,0:08:06.88,Default,,0,0,0,,A Rinshan replacement draw?
 Dialogue: 0,0:08:06.88,0:08:08.28,Default,,0,0,0,,at any rate
-Dialogue: 0,0:08:08.28,0:08:11.80,Default,,0,0,0,,
-Dialogue: 0,0:08:11.80,0:08:14.94,Default,,0,0,0,,That possibility is so godly slight
+Dialogue: 0,0:08:08.28,0:08:11.80,Default,,0,0,0,,it's all the same if he's betting on a single draw
+Dialogue: 0,0:08:11.80,0:08:14.94,Default,,0,0,0,,That possibility is paper thin
 Dialogue: 0,0:08:21.58,0:08:22.99,Default,,0,0,0,,It's only natural
-Dialogue: 0,0:08:22.99,0:08:25.18,Default,,0,0,0,,the natural conclusion
+Dialogue: 0,0:08:22.99,0:08:25.18,Default,,0,0,0,,the natural outcome
 Dialogue: 0,0:08:33.55,0:08:36.15,Default - white,,0,0,0,,ひろゆき、
 Dialogue: 0,0:08:33.55,0:08:36.15,Default,,0,0,0,,Hiroyuki,
 Dialogue: 0,0:08:36.15,0:08:38.15,Default - white,,0,0,0,,実ったぞ
@@ -125,17 +125,17 @@ Dialogue: 0,0:08:43.58,0:08:45.58,Default,,0,0,0,,what's he on about?
 Dialogue: 0,0:08:51.69,0:08:54.38,Default,,0,0,0,,Kan
 Dialogue: 0,0:08:56.18,0:08:57.92,Default,,0,0,0,,OH FUCK
 Dialogue: 0,0:08:57.92,0:08:59.92,Default,,0,0,0,,Yes...
-Dialogue: 0,0:08:59.92,0:09:02.84,Default,,0,0,0,,
+Dialogue: 0,0:08:59.92,0:09:02.84,Default,,0,0,0,,dealing into a hand doesn't have to come from the discards
 Dialogue: 0,0:09:03.91,0:09:05.91,Default,,0,0,0,,Ron
 Dialogue: 0,0:09:08.46,0:09:10.25,Default,,0,0,0,,ChanKan, 3 Dora
 Dialogue: 0,0:09:10.25,0:09:12.25,Default,,0,0,0,,8,000 points
-Dialogue: 0,0:09:16.46,0:09:18.51,Default,,0,0,0,,
+Dialogue: 0,0:09:16.46,0:09:18.51,Default,,0,0,0,,the FUCK did I do...?
 Dialogue: 0,0:09:18.51,0:09:20.03,Default,,0,0,0,,Pon
-Dialogue: 0,0:09:20.03,0:09:22.51,Default,,0,0,0,,That odd 9 Pin Pon
+Dialogue: 0,0:09:20.03,0:09:22.51,Default,,0,0,0,,Ten's 9 Pin Pon call
 Dialogue: 0,0:09:22.51,0:09:25.07,Default,,0,0,0,,It wasn't a Pon call when he had two tiles
 Dialogue: 0,0:09:25.07,0:09:27.50,Default,,0,0,0,,It was a Pon call when he had THREE
-Dialogue: 0,0:09:27.50,0:09:30.00,Default,,0,0,0,,The Kid, from Ten's hand
-Dialogue: 0,0:09:30.00,0:09:32.43,Default,,0,0,0,,
+Dialogue: 0,0:09:27.50,0:09:30.00,Default,,0,0,0,,Then the Kid, from Ten's hand
+Dialogue: 0,0:09:30.00,0:09:32.43,Default,,0,0,0,,took the remaining 9 Pin!
 Dialogue: 0,0:09:33.91,0:09:35.91,Default - white,,0,0,0,,ひろゆき、
 Dialogue: 0,0:09:33.91,0:09:35.91,Default,,0,0,0,,Hiroyuki,
 Dialogue: 0,0:09:38.75,0:09:40.78,Default - white,,0,0,0,,生き延びたな
@@ -144,78 +144,83 @@ Dialogue: 0,0:09:40.78,0:09:42.78,Default,,0,0,0,,Yes, I did
 Dialogue: 0,0:09:43.81,0:09:46.19,Default,,0,0,0,,Now Hiroyuki has a safety buffer
 Dialogue: 0,0:09:46.19,0:09:47.84,Default,,0,0,0,,
 Dialogue: 0,0:09:47.84,0:09:49.95,Default,,0,0,0,,
-Dialogue: 0,0:09:49.95,0:09:51.95,Default,,0,0,0,,
-Dialogue: 0,0:09:53.91,0:09:55.91,Default,,0,0,0,,
-Dialogue: 0,0:11:40.00,0:11:42.78,Default,,0,0,0,,
-Dialogue: 0,0:11:47.98,0:11:50.81,Default,,0,0,0,,
-Dialogue: 0,0:11:53.07,0:11:55.75,Default,,0,0,0,,
-Dialogue: 0,0:12:07.08,0:12:09.88,Default,,0,0,0,,
-Dialogue: 0,0:12:10.85,0:12:12.85,Default,,0,0,0,,
-Dialogue: 0,0:12:25.50,0:12:26.94,Default,,0,0,0,,
-Dialogue: 0,0:12:26.94,0:12:28.94,Default,,0,0,0,,
-Dialogue: 0,0:12:36.04,0:12:38.98,Default,,0,0,0,,
-Dialogue: 0,0:12:38.98,0:12:40.98,Default,,0,0,0,,
-Dialogue: 0,0:12:47.36,0:12:50.05,Default,,0,0,0,,
-Dialogue: 0,0:12:51.65,0:12:53.65,Default,,0,0,0,,
-Dialogue: 0,0:13:00.60,0:13:02.35,Default,,0,0,0,,
-Dialogue: 0,0:13:02.35,0:13:03.71,Default,,0,0,0,,
-Dialogue: 0,0:13:03.71,0:13:05.34,Default,,0,0,0,,
-Dialogue: 0,0:13:05.34,0:13:07.53,Default,,0,0,0,,
-Dialogue: 0,0:13:15.37,0:13:18.64,Default,,0,0,0,,
-Dialogue: 0,0:13:18.64,0:13:20.12,Default,,0,0,0,,
-Dialogue: 0,0:13:20.12,0:13:22.12,Default,,0,0,0,,
-Dialogue: 0,0:13:22.12,0:13:23.50,Default,,0,0,0,,
-Dialogue: 0,0:13:23.50,0:13:25.10,Default,,0,0,0,,
-Dialogue: 0,0:13:25.10,0:13:26.14,Default,,0,0,0,,
-Dialogue: 0,0:13:26.14,0:13:27.44,Default,,0,0,0,,
-Dialogue: 0,0:13:27.44,0:13:29.93,Default,,0,0,0,,
-Dialogue: 0,0:13:29.93,0:13:31.93,Default,,0,0,0,,
-Dialogue: 0,0:13:31.93,0:13:33.93,Default,,0,0,0,,
-Dialogue: 0,0:13:39.92,0:13:42.11,Default,,0,0,0,,
-Dialogue: 0,0:13:51.95,0:13:54.32,Default,,0,0,0,,
-Dialogue: 0,0:14:04.51,0:14:06.72,Default,,0,0,0,,
-Dialogue: 0,0:14:14.06,0:14:16.75,Default,,0,0,0,,
-Dialogue: 0,0:14:24.83,0:14:27.96,Default,,0,0,0,,
-Dialogue: 0,0:14:29.15,0:14:32.25,Default,,0,0,0,,
-Dialogue: 0,0:14:54.28,0:14:56.44,Default,,0,0,0,,
-Dialogue: 0,0:14:56.44,0:14:58.75,Default,,0,0,0,,
-Dialogue: 0,0:14:58.75,0:15:00.75,Default,,0,0,0,,
-Dialogue: 0,0:15:09.20,0:15:10.88,Default,,0,0,0,,
-Dialogue: 0,0:15:10.88,0:15:13.40,Default,,0,0,0,,
-Dialogue: 0,0:15:14.01,0:15:17.42,Default,,0,0,0,,
-Dialogue: 0,0:15:36.00,0:15:38.43,Default,,0,0,0,,
-Dialogue: 0,0:15:38.43,0:15:40.24,Default,,0,0,0,,
-Dialogue: 0,0:15:40.24,0:15:42.65,Default,,0,0,0,,
-Dialogue: 0,0:15:42.65,0:15:45.20,Default,,0,0,0,,
-Dialogue: 0,0:15:54.19,0:15:57.18,Default,,0,0,0,,
-Dialogue: 0,0:16:11.96,0:16:13.26,Default,,0,0,0,,
-Dialogue: 0,0:16:13.26,0:16:15.48,Default,,0,0,0,,舐めた真似しよって
-Dialogue: 0,0:16:15.48,0:16:18.20,Default,,0,0,0,,
-Dialogue: 0,0:16:18.20,0:16:21.37,Default,,0,0,0,,
-Dialogue: 0,0:16:21.88,0:16:23.98,Default,,0,0,0,,
-Dialogue: 0,0:16:23.98,0:16:26.80,Default,,0,0,0,,
-Dialogue: 0,0:16:31.64,0:16:33.68,Default,,0,0,0,,
-Dialogue: 0,0:16:33.68,0:16:36.46,Default,,0,0,0,,
+Dialogue: 0,0:09:49.95,0:09:51.95,Default,,0,0,0,,an overwhelming advantage
+Dialogue: 0,0:09:53.91,0:09:55.91,Default,,0,0,0,,FUCK SHIT PISS
+Dialogue: 0,0:11:40.00,0:11:42.78,Default,,0,0,0,,Chii
+Dialogue: 0,0:11:47.98,0:11:50.81,Default,,0,0,0,,Ron!
+Dialogue: 0,0:11:53.07,0:11:55.75,Default,,0,0,0,,Ittsuu clear
+Dialogue: 0,0:12:07.08,0:12:09.88,Default,,0,0,0,,Tsumo
+Dialogue: 0,0:12:10.85,0:12:12.85,Default,,0,0,0,,Chitoitsu
+Dialogue: 0,0:12:25.50,0:12:26.94,Default,,0,0,0,,Runnn
+Dialogue: 0,0:12:26.94,0:12:28.94,Default,,0,0,0,,Chitoitsu
+Dialogue: 0,0:12:36.04,0:12:38.98,Default,,0,0,0,,Ron
+Dialogue: 0,0:12:38.98,0:12:40.98,Default,,0,0,0,,Ittsuu
+Dialogue: 0,0:12:47.36,0:12:50.05,Default,,0,0,0,,TSUMO!
+Dialogue: 0,0:12:51.65,0:12:53.65,Default,,0,0,0,,Chanta!!!
+Dialogue: 0,0:13:00.60,0:13:02.35,Default,,0,0,0,,The game's going back and forth
+Dialogue: 0,0:13:02.35,0:13:03.71,Default,,0,0,0,,but as I thought
+Dialogue: 0,0:13:03.71,0:13:05.34,Default,,0,0,0,,Ten's initial win
+Dialogue: 0,0:13:05.34,0:13:07.53,Default,,0,0,0,,that SanAnKou
+Dialogue: 0,0:13:15.37,0:13:18.64,Default,,0,0,0,,After they clear a Chanta and Sansyoku
+Dialogue: 0,0:13:18.64,0:13:20.12,Default,,0,0,0,,if that happens...
+Dialogue: 0,0:13:20.12,0:13:22.12,Default,,0,0,0,,it's ZA ENDO
+Dialogue: 0,0:13:22.12,0:13:23.50,Default,,0,0,0,,The time that remains...
+Dialogue: 0,0:13:23.50,0:13:25.10,Default,,0,0,0,,there's only a little left
+Dialogue: 0,0:13:25.10,0:13:26.14,Default,,0,0,0,,5 or 6 hands
+Dialogue: 0,0:13:26.14,0:13:27.44,Default,,0,0,0,,No...
+Dialogue: 0,0:13:27.44,0:13:29.93,Default,,0,0,0,,less than 2 or 3
+Dialogue: 0,0:13:29.93,0:13:31.93,Default,,0,0,0,,damn SanAnKou
+Dialogue: 0,0:13:31.93,0:13:33.93,Default,,0,0,0,,If I complete a similar SanAnKou...!
+Dialogue: 0,0:13:39.92,0:13:42.11,Default,,0,0,0,,Got it!
+Dialogue: 0,0:13:51.95,0:13:54.32,Default,,0,0,0,,Chii
+Dialogue: 0,0:14:04.51,0:14:06.72,Default,,0,0,0,,Pon
+Dialogue: 0,0:14:14.06,0:14:16.75,Default,,0,0,0,,Ten's fast
+Dialogue: 0,0:14:24.83,0:14:27.96,Default,,0,0,0,,If he can discard a 7 Sou he'll clear SanSyoku
+Dialogue: 0,0:14:29.15,0:14:32.25,Default,,0,0,0,,In this situation he's simply got to discard the 7 Sou
+Dialogue: 0,0:14:54.28,0:14:56.44,Default,,0,0,0,,He's somehow in Tenpai, isn't he
+Dialogue: 0,0:14:56.44,0:14:58.75,Default,,0,0,0,,There's a good chance his wait is above 6 Pin
+Dialogue: 0,0:14:58.75,0:15:00.75,Default,,0,0,0,,Is it Chanta hand?
+Dialogue: 0,0:15:09.20,0:15:10.88,Default,,0,0,0,,He's got it!!!
+Dialogue: 0,0:15:10.88,0:15:13.40,Default,,0,0,0,,If he discards the 8 Pin he's in Tenpai for a SanAnKou
+Dialogue: 0,0:15:14.01,0:15:17.42,Default,,0,0,0,,but it's likely that's the tile the other side is waiting for
+Dialogue: 0,0:15:36.00,0:15:38.43,Default,,0,0,0,,I clearly can't win waiting for an 8 Pin
+Dialogue: 0,0:15:38.43,0:15:40.24,Default,,0,0,0,,If I complete this hand...
+Dialogue: 0,0:15:40.24,0:15:42.65,Default,,0,0,0,,with merely a double South Wind it's only 3,200 points
+Dialogue: 0,0:15:42.65,0:15:45.20,Default,,0,0,0,,and there ain't many turns left
+Dialogue: 0,0:15:54.19,0:15:57.18,Default,,0,0,0,,Kan
+Dialogue: 0,0:16:11.96,0:16:13.26,Default,,0,0,0,,you CLOWN
+Dialogue: 0,0:16:13.26,0:16:15.48,Default - white,,0,0,0,,舐めた真似しよって
+Dialogue: 0,0:16:13.26,0:16:15.48,Default,,0,0,0,,He's making like he's given up!
+Dialogue: 0,0:16:15.48,0:16:18.20,Default,,0,0,0,,Calling Kan on 9 Pin and discarding his 8 Pin
+Dialogue: 0,0:16:18.20,0:16:21.37,Default,,0,0,0,,he passed on the 8 Pin I discarded
+Dialogue: 0,0:16:21.88,0:16:23.98,Default,,0,0,0,,this little act of yours
+Dialogue: 0,0:16:23.98,0:16:26.80,Default,,0,0,0,,I'll make him regret it!
+Dialogue: 0,0:16:31.64,0:16:33.68,Default,,0,0,0,,His hand isn't becoming a SanAnKou
+Dialogue: 0,0:16:33.68,0:16:36.46,Default,,0,0,0,,but a Pinhu, Ipeikou, 2 Dora hand is Mangan
 Dialogue: 0,0:16:36.46,0:16:38.20,Default,,0,0,0,,
-Dialogue: 0,0:16:48.09,0:16:50.57,Default,,0,0,0,,
-Dialogue: 0,0:16:50.57,0:16:52.57,Default,,0,0,0,,
-Dialogue: 0,0:16:52.57,0:16:55.69,Default,,0,0,0,,
-Dialogue: 0,0:16:55.69,0:16:58.43,Default,,0,0,0,,
-Dialogue: 0,0:17:10.32,0:17:11.39,Default,,0,0,0,,
+Dialogue: 0,0:16:48.09,0:16:50.57,Default,,0,0,0,,According to his dicards harada's aiming for SanAnKou
+Dialogue: 0,0:16:50.57,0:16:52.57,Default,,0,0,0,,and Ten a Chanta
+Dialogue: 0,0:16:52.57,0:16:55.69,Default,,0,0,0,,they're both ignoring faster winning hands!
+Dialogue: 0,0:16:55.69,0:16:58.43,Default,,0,0,0,,the idea of "clearing" hands is of more advantage
+Dialogue: 0,0:17:10.32,0:17:11.39,Default,,0,0,0,,oh shiiii
 Dialogue: 0,0:17:11.39,0:17:13.85,Default,,0,0,0,,
-Dialogue: 0,0:17:49.52,0:17:52.18,Default,,0,0,0,,
-Dialogue: 0,0:17:53.29,0:17:55.65,Default,,0,0,0,,
+Dialogue: 0,0:17:49.52,0:17:52.18,Default,,0,0,0,,And with this...
+Dialogue: 0,0:17:53.29,0:17:55.65,Default,,0,0,0,,RON
 Dialogue: 0,0:17:55.65,0:17:57.65,Default,,0,0,0,,
-Dialogue: 0,0:17:59.88,0:18:02.28,Default,,0,0,0,,
-Dialogue: 0,0:18:06.03,0:18:07.95,Default,,0,0,0,,やられた
-Dialogue: 0,0:18:07.95,0:18:09.95,Default,,0,0,0,,万全を尽くした天さんが敗れ、
-Dialogue: 0,0:18:09.95,0:18:12.65,Default,,0,0,0,,一鉄を通した原田が勝った
-Dialogue: 0,0:18:12.65,0:18:17.02,Default,,0,0,0,,すでにこの場は通常の定石確率は通用しない
-Dialogue: 0,0:20:37.04,0:20:39.75,Default,,0,0,0,,
-Dialogue: 0,0:21:39.02,0:21:40.86,Default,,0,0,0,,
-Dialogue: 0,0:21:48.40,0:21:50.81,Default,,0,0,0,,
-Dialogue: 0,0:21:52.58,0:21:54.58,Default,,0,0,0,,
-Dialogue: 0,0:21:54.58,0:21:56.58,Default,,0,0,0,,
+Dialogue: 0,0:17:59.88,0:18:02.28,Default,,0,0,0,,AND SANANKOU CLEARED
+Dialogue: 0,0:18:06.03,0:18:07.95,Default - white,,0,0,0,,やられた
+Dialogue: 0,0:18:06.03,0:18:07.95,Default,,0,0,0,,He's done for
+Dialogue: 0,0:18:07.95,0:18:09.95,Default - white,,0,0,0,,万全を尽くした天さんが敗れ、
+Dialogue: 0,0:18:07.95,0:18:09.95,Default,,0,0,0,,Ten thought he covered all possibilities, but still lost
+Dialogue: 0,0:18:09.95,0:18:12.65,Default - white,,0,0,0,,一鉄を通した原田が勝った
+Dialogue: 0,0:18:09.95,0:18:12.65,Default,,0,0,0,,Harada's Ironclad persistence paid off
+Dialogue: 0,0:18:12.65,0:18:17.02,Default - white,,0,0,0,,すでにこの場は通常の定石確率は通用しない
+Dialogue: 0,0:18:12.65,0:18:17.02,Default,,0,0,0,,by-the-book probabilities are already useless in a game like this
+Dialogue: 0,0:20:37.04,0:20:39.75,Default,,0,0,0,,An absolutely terrible starting hand
+Dialogue: 0,0:21:39.02,0:21:40.86,Default,,0,0,0,,Chii
+Dialogue: 0,0:21:48.40,0:21:50.81,Default,,0,0,0,,Chii
+Dialogue: 0,0:21:52.58,0:21:54.58,Default,,0,0,0,,A SanSyoku?
+Dialogue: 0,0:21:54.58,0:21:56.58,Default,,0,0,0,,h-he's fast!
 Dialogue: 0,0:22:25.90,0:22:27.48,Default,,0,0,0,,
 Dialogue: 0,0:22:27.48,0:22:29.48,Default,,0,0,0,,
 Dialogue: 0,0:22:31.45,0:22:33.76,Default,,0,0,0,,
