@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e10.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 229
-Active Line: 258
-Video Position: 45130
+Scroll Position: 75
+Active Line: 93
+Video Position: 16305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,7 +58,7 @@ Dialogue: 0,0:04:30.86,0:04:33.37,Default,,0,0,0,,Ten could have dealt me a 6 Pi
 Dialogue: 0,0:04:33.37,0:04:35.37,Default,,0,0,0,,but in the current situation
 Dialogue: 0,0:04:35.37,0:04:37.15,Default,,0,0,0,,a 6 Pin is Soga's winning tile
 Dialogue: 0,0:04:37.15,0:04:38.36,Default,,0,0,0,,He'd Head Bump
-Dialogue: 0,0:04:38.36,0:04:40.36,Default,,0,0,0,,Dealing in is impossible
+Dialogue: 0,0:04:38.36,0:04:40.36,Default,,0,0,0,,I absolutely can't deal in
 Dialogue: 0,0:04:59.60,0:05:01.00,Default - white,,0,0,0,,やつは今
 Dialogue: 0,0:04:59.60,0:05:01.00,Default,,0,0,0,,Even now the little guy
 Dialogue: 0,0:05:01.00,0:05:04.91,Default - white,,0,0,0,,しくじりながらも懸命になんとかしようとしている
@@ -80,7 +80,6 @@ Dialogue: 0,0:06:05.31,0:06:07.95,Default,,0,0,0,,The kid's Tanyao is nipped in 
 Dialogue: 0,0:06:07.95,0:06:09.72,Default,,0,0,0,,The only remaining ways he could win
 Dialogue: 0,0:06:09.72,0:06:11.72,Default,,0,0,0,,are winning off the last draw or the last discard
 Dialogue: 0,0:06:12.41,0:06:14.92,Default,,0,0,0,,I'll erase those hopes as well!
-Dialogue: 0,0:06:20.59,0:06:22.59,Default,,0,0,0,,
 Dialogue: 0,0:06:21.09,0:06:22.48,Default,,0,0,0,,Chii
 Dialogue: 0,0:06:29.06,0:06:30.85,Default,,0,0,0,,Chii
 Dialogue: 0,0:06:34.05,0:06:35.41,Default,,0,0,0,,Take that
@@ -113,8 +112,8 @@ Dialogue: 0,0:08:03.12,0:08:05.38,Default,,0,0,0,,A Rinshan replacement draw?
 Dialogue: 0,0:08:05.38,0:08:06.78,Default,,0,0,0,,at any rate
 Dialogue: 0,0:08:06.78,0:08:10.30,Default,,0,0,0,,it's all the same if he's betting on a single draw
 Dialogue: 0,0:08:10.30,0:08:13.44,Default,,0,0,0,,That possibility is paper thin
-Dialogue: 0,0:08:20.08,0:08:21.49,Default,,0,0,0,,It's only natural
-Dialogue: 0,0:08:21.49,0:08:23.68,Default,,0,0,0,,the natural outcome
+Dialogue: 0,0:08:20.08,0:08:21.49,Default,,0,0,0,,It's only natural he didn't draw it
+Dialogue: 0,0:08:21.49,0:08:23.68,Default,,0,0,0,,the natural result
 Dialogue: 0,0:08:32.05,0:08:34.65,Default - white,,0,0,0,,ひろゆき、
 Dialogue: 0,0:08:32.05,0:08:34.65,Default,,0,0,0,,Hiroyuki,
 Dialogue: 0,0:08:34.65,0:08:36.65,Default - white,,0,0,0,,実ったぞ
@@ -126,7 +125,7 @@ Dialogue: 0,0:08:42.08,0:08:44.08,Default,,0,0,0,,what's he on about?
 Dialogue: 0,0:08:50.19,0:08:52.88,Default,,0,0,0,,Kan
 Dialogue: 0,0:08:54.68,0:08:56.42,Default,,0,0,0,,OH FUCK
 Dialogue: 0,0:08:56.42,0:08:58.42,Default,,0,0,0,,Yes...
-Dialogue: 0,0:08:58.42,0:09:01.34,Default,,0,0,0,,dealing into a hand doesn't have to come from the discards
+Dialogue: 0,0:08:58.42,0:09:02.41,Default,,0,0,0,,dealing into a hand doesn't have to come from the discards
 Dialogue: 0,0:09:02.41,0:09:04.41,Default,,0,0,0,,Ron
 Dialogue: 0,0:09:06.96,0:09:08.75,Default,,0,0,0,,ChanKan, 3 Dora
 Dialogue: 0,0:09:08.75,0:09:10.75,Default,,0,0,0,,8,000 points
@@ -147,7 +146,6 @@ Dialogue: 0,0:09:44.69,0:09:46.34,Default,,0,0,0,,
 Dialogue: 0,0:09:46.34,0:09:48.45,Default,,0,0,0,,
 Dialogue: 0,0:09:48.45,0:09:50.45,Default,,0,0,0,,an overwhelming advantage
 Dialogue: 0,0:09:52.41,0:09:54.41,Default,,0,0,0,,FUCK SHIT PISS
-Dialogue: 0,0:10:10.56,0:10:13.55,Default,,0,0,0,,
 Dialogue: 0,0:10:10.50,0:10:13.28,Default,,0,0,0,,Chii
 Dialogue: 0,0:10:18.48,0:10:21.31,Default,,0,0,0,,Ron!
 Dialogue: 0,0:10:23.57,0:10:26.25,Default,,0,0,0,,Ittsuu clear
@@ -223,71 +221,98 @@ Dialogue: 0,0:18:41.52,0:18:43.36,Default,,0,0,0,,Chii
 Dialogue: 0,0:18:50.90,0:18:53.31,Default,,0,0,0,,Chii
 Dialogue: 0,0:18:55.08,0:18:57.08,Default,,0,0,0,,A SanSyoku?
 Dialogue: 0,0:18:57.08,0:18:59.08,Default,,0,0,0,,h-he's fast!
-Dialogue: 0,0:19:28.40,0:19:29.98,Default,,0,0,0,,
-Dialogue: 0,0:19:29.98,0:19:31.98,Default,,0,0,0,,
-Dialogue: 0,0:19:33.95,0:19:36.26,Default,,0,0,0,,
-Dialogue: 0,0:19:36.78,0:19:38.78,Default,,0,0,0,,間に合うのか
-Dialogue: 0,0:19:41.18,0:19:43.18,Default,,0,0,0,,
-Dialogue: 0,0:20:02.45,0:20:05.08,Default,,0,0,0,,まずい、差し込まれたか
-Dialogue: 0,0:20:19.40,0:20:21.77,Default,,0,0,0,,まだ原田は聴牌していない
-Dialogue: 0,0:20:21.77,0:20:24.88,Default,,0,0,0,,天さんの待ちは恐らく索子の下辺り、
-Dialogue: 0,0:20:24.88,0:20:26.44,Default,,0,0,0,,天さんがツモるか
-Dialogue: 0,0:20:26.44,0:20:27.87,Default,,0,0,0,,俺が差し込めれば
-Dialogue: 0,0:20:27.87,0:20:29.87,Default,,0,0,0,,この局は勝てる
-Dialogue: 0,0:20:35.05,0:20:37.61,Default,,0,0,0,,
-Dialogue: 0,0:20:55.84,0:20:57.45,Default,,0,0,0,,
-Dialogue: 0,0:20:57.45,0:20:59.20,Default,,0,0,0,,原田の手の速さを見たら
-Dialogue: 0,0:20:59.20,0:21:02.64,Default,,0,0,0,,欲張らず三色だけでも和了っておくべき
-Dialogue: 0,0:21:34.36,0:21:35.63,Default,,0,0,0,,
-Dialogue: 0,0:21:35.63,0:21:37.48,Default,,0,0,0,,
-Dialogue: 0,0:21:37.48,0:21:39.92,Default,,0,0,0,,
-Dialogue: 0,0:21:44.54,0:21:47.45,Default,,0,0,0,,
-Dialogue: 0,0:21:50.32,0:21:51.63,Default,,0,0,0,,
-Dialogue: 0,0:21:51.63,0:21:54.91,Default,,0,0,0,,
-Dialogue: 0,0:21:58.54,0:22:00.62,Default,,0,0,0,,
-Dialogue: 0,0:22:00.62,0:22:03.60,Default,,0,0,0,,
-Dialogue: 0,0:22:03.60,0:22:05.60,Default,,0,0,0,,
-Dialogue: 0,0:22:05.60,0:22:08.60,Default,,0,0,0,,
-Dialogue: 0,0:22:08.60,0:22:11.34,Default,,0,0,0,,
-Dialogue: 0,0:22:12.33,0:22:14.70,Default,,0,0,0,,
-Dialogue: 0,0:22:16.71,0:22:18.36,Default,,0,0,0,,そうか
-Dialogue: 0,0:22:18.36,0:22:19.87,Default,,0,0,0,,原田の三色、
-Dialogue: 0,0:22:19.87,0:22:22.17,Default,,0,0,0,,そもそもあれが目くらまし
-Dialogue: 0,0:22:24.43,0:22:25.85,Default,,0,0,0,,
-Dialogue: 0,0:22:25.85,0:22:28.73,Default,,0,0,0,,
-Dialogue: 0,0:22:28.73,0:22:30.99,Default,,0,0,0,,
-Dialogue: 0,0:22:30.99,0:22:32.99,Default,,0,0,0,,
-Dialogue: 0,0:22:32.99,0:22:35.80,Default,,0,0,0,,
-Dialogue: 0,0:22:37.87,0:22:40.65,Default,,0,0,0,,
-Dialogue: 0,0:22:40.65,0:22:43.72,Default,,0,0,0,,
-Dialogue: 0,0:22:43.72,0:22:45.71,Default,,0,0,0,,やつらは
-Dialogue: 0,0:22:45.71,0:22:48.35,Default,,0,0,0,,鼻から三色など眼中にない
-Dialogue: 0,0:22:48.35,0:22:51.66,Default,,0,0,0,,点棒で俺を脱落させるつもりだったんだ
-Dialogue: 0,0:22:52.51,0:22:54.22,Default,,0,0,0,,こいつら
-Dialogue: 0,0:22:54.22,0:22:56.52,Default,,0,0,0,,なんて事考えやがる
-Dialogue: 0,0:23:06.54,0:23:09.50,Default,,0,0,0,,ちっ、気付いたか
-Dialogue: 0,0:23:09.50,0:23:12.51,Default,,0,0,0,,きりそうな気配だったのに
-Dialogue: 0,0:23:12.99,0:23:15.02,Default,,0,0,0,,
-Dialogue: 0,0:23:15.02,0:23:17.02,Default,,0,0,0,,
-Dialogue: 0,0:23:19.55,0:23:22.28,Default,,0,0,0,,よくぞ気付いた。ひろゆき
-Dialogue: 0,0:23:28.03,0:23:29.23,Default,,0,0,0,,
-Dialogue: 0,0:23:29.23,0:23:30.76,Default,,0,0,0,,
-Dialogue: 0,0:23:30.76,0:23:32.64,Default,,0,0,0,,
-Dialogue: 0,0:23:32.64,0:23:34.97,Default,,0,0,0,,
-Dialogue: 0,0:23:34.97,0:23:36.54,Default,,0,0,0,,
-Dialogue: 0,0:23:36.54,0:23:39.23,Default,,0,0,0,,
-Dialogue: 0,0:23:39.23,0:23:41.23,Default,,0,0,0,,
-Dialogue: 0,0:23:51.48,0:23:53.44,Default,,0,0,0,,
-Dialogue: 0,0:24:18.09,0:24:19.68,Default,,0,0,0,,こいつら、
-Dialogue: 0,0:24:19.68,0:24:22.25,Default,,0,0,0,,またせこい手を使いやがって
-Dialogue: 0,0:24:22.78,0:24:25.56,Default,,0,0,0,,
-Dialogue: 0,0:24:25.56,0:24:28.33,Default,,0,0,0,,今は最終局面、
-Dialogue: 0,0:24:28.33,0:24:30.33,Default,,0,0,0,,どんな手を使っても
-Dialogue: 0,0:24:30.33,0:24:32.33,Default,,0,0,0,,勝たなきゃいかんのや
-Dialogue: 0,0:24:34.62,0:24:36.76,Default,,0,0,0,,そのリーチ、
-Dialogue: 0,0:24:36.76,0:24:38.76,Default,,0,0,0,,後悔させたるわ
-Dialogue: 0,0:24:54.51,0:24:57.18,Default,,0,0,0,,
-Dialogue: 0,0:24:57.18,0:24:58.48,Default,,0,0,0,,
+Dialogue: 0,0:19:28.40,0:19:29.98,Default,,0,0,0,,He's ready
+Dialogue: 0,0:19:29.98,0:19:31.98,Default,,0,0,0,,In Tenpai for a Sansyoku with 1 Dora
+Dialogue: 0,0:19:33.95,0:19:36.26,Default,,0,0,0,,but Harada is most likely in Tenpai as well
+Dialogue: 0,0:19:36.78,0:19:38.78,Default - white,,0,0,0,,間に合うのか
+Dialogue: 0,0:19:36.78,0:19:38.78,Default,,0,0,0,,Is he in time?
+Dialogue: 0,0:19:41.18,0:19:43.18,Default,,0,0,0,,So he's in Tenpai...
+Dialogue: 0,0:20:02.45,0:20:05.08,Default - white,,0,0,0,,まずい、差し込まれたか
+Dialogue: 0,0:20:02.45,0:20:05.08,Default,,0,0,0,,This is bad. Soga's dealt into Harada's hand
+Dialogue: 0,0:20:19.40,0:20:21.77,Default - white,,0,0,0,,まだ原田は聴牌していない
+Dialogue: 0,0:20:19.40,0:20:21.77,Default,,0,0,0,,Harada must not be in Tenpai yet
+Dialogue: 0,0:20:21.77,0:20:24.88,Default - white,,0,0,0,,天さんの待ちは恐らく索子の下辺り、
+Dialogue: 0,0:20:21.77,0:20:24.88,Default,,0,0,0,,Ten's wait is most likey on lower Sou tiles
+Dialogue: 0,0:20:24.88,0:20:26.44,Default - white,,0,0,0,,天さんがツモるか
+Dialogue: 0,0:20:24.88,0:20:26.44,Default,,0,0,0,,Can Ten draw his winning tile?
+Dialogue: 0,0:20:26.44,0:20:27.87,Default - white,,0,0,0,,俺が差し込めれば
+Dialogue: 0,0:20:26.44,0:20:27.87,Default,,0,0,0,,If I deal into his hand
+Dialogue: 0,0:20:27.87,0:20:29.87,Default - white,,0,0,0,,この局は勝てる
+Dialogue: 0,0:20:27.87,0:20:29.87,Default,,0,0,0,,We can win this hand!
+Dialogue: 0,0:20:35.05,0:20:37.61,Default,,0,0,0,,Got it!
+Dialogue: 0,0:20:55.84,0:20:57.45,Default,,0,0,0,,Why?!?
+Dialogue: 0,0:20:57.45,0:20:59.20,Default - white,,0,0,0,,原田の手の速さを見たら
+Dialogue: 0,0:20:57.45,0:20:59.20,Default,,0,0,0,,Considering Harada's speed
+Dialogue: 0,0:20:59.20,0:21:02.64,Default - white,,0,0,0,,欲張らず三色だけでも和了っておくべき
+Dialogue: 0,0:20:59.20,0:21:04.92,Default,,0,0,0,,He ought not be greedy and just take the SanSyoku win here
+Dialogue: 0,0:21:34.36,0:21:35.63,Default,,0,0,0,,Of course,
+Dialogue: 0,0:21:35.63,0:21:37.48,Default,,0,0,0,,He wants a Chanta AND SanSyoku
+Dialogue: 0,0:21:37.48,0:21:39.92,Default,,0,0,0,,Ten aims to end this in one go
+Dialogue: 0,0:21:44.54,0:21:47.45,Default,,0,0,0,,He can call on THIS tile
+Dialogue: 0,0:21:50.32,0:21:51.63,Default,,0,0,0,,W-wait
+Dialogue: 0,0:21:51.63,0:21:54.91,Default,,0,0,0,,Why did Soga discard that 5 Sou
+Dialogue: 0,0:21:58.54,0:22:00.62,Default,,0,0,0,,If Harada had called that 5 Sou
+Dialogue: 0,0:22:00.62,0:22:03.60,Default,,0,0,0,,We all know it shout have completed his SanSyoku
+Dialogue: 0,0:22:03.60,0:22:05.60,Default,,0,0,0,,But Harada didn't call it!
+Dialogue: 0,0:22:05.60,0:22:08.60,Default,,0,0,0,,The 5 Sou is a clue regarding Harada's SanSyoku
+Dialogue: 0,0:22:08.60,0:22:11.34,Default,,0,0,0,,Soga wouldn't purposefully discard it for nothing
+Dialogue: 0,0:22:12.33,0:22:14.70,Default,,0,0,0,,There's something there...
+Dialogue: 0,0:22:16.71,0:22:18.36,Default - white,,0,0,0,,そうか
+Dialogue: 0,0:22:16.71,0:22:18.36,Default,,0,0,0,,I see!
+Dialogue: 0,0:22:18.36,0:22:19.87,Default - white,,0,0,0,,原田の三色、
+Dialogue: 0,0:22:18.36,0:22:19.87,Default,,0,0,0,,Harada's SanSyoku
+Dialogue: 0,0:22:19.87,0:22:22.17,Default - white,,0,0,0,,そもそもあれが目くらまし
+Dialogue: 0,0:22:19.87,0:22:22.17,Default,,0,0,0,,It was all a smokescreen after all
+Dialogue: 0,0:22:24.43,0:22:25.85,Default,,0,0,0,,Soga's discards...
+Dialogue: 0,0:22:25.85,0:22:28.73,Default,,0,0,0,,at first glance they look like dscards for normal TanYao Pinfu hand
+Dialogue: 0,0:22:28.73,0:22:30.99,Default,,0,0,0,,But if you also consider the 5 Man and 6 Pin Harada called...
+Dialogue: 0,0:22:30.99,0:22:32.99,Default,,0,0,0,,AND the tiles I called
+Dialogue: 0,0:22:32.99,0:22:35.80,Default,,0,0,0,,they're the textbook discards of a Honisou
+Dialogue: 0,0:22:37.87,0:22:40.65,Default,,0,0,0,,Probably a double South Wind Honisou 1 Dora Haneman
+Dialogue: 0,0:22:40.65,0:22:43.72,Default,,0,0,0,,With only 11,300 points, I'll be knocked out
+Dialogue: 0,0:22:43.72,0:22:45.71,Default - white,,0,0,0,,やつらは
+Dialogue: 0,0:22:43.72,0:22:45.71,Default,,0,0,0,,That is to say, these bastards...
+Dialogue: 0,0:22:45.71,0:22:48.35,Default - white,,0,0,0,,鼻から三色など眼中にない
+Dialogue: 0,0:22:45.71,0:22:48.35,Default,,0,0,0,,they've been disregarding a SanSyoku from the start
+Dialogue: 0,0:22:48.35,0:22:51.66,Default - white,,0,0,0,,点棒で俺を脱落させるつもりだったんだ
+Dialogue: 0,0:22:48.35,0:22:51.66,Default,,0,0,0,,Their intention is to knock me out by points
+Dialogue: 0,0:22:52.51,0:22:54.22,Default - white,,0,0,0,,こいつら
+Dialogue: 0,0:22:52.51,0:22:54.22,Default,,0,0,0,,these fucks
+Dialogue: 0,0:22:54.22,0:22:56.52,Default - white,,0,0,0,,なんて事考えやがる
+Dialogue: 0,0:22:54.22,0:22:56.52,Default,,0,0,0,,To think something like that up
+Dialogue: 0,0:23:06.54,0:23:09.50,Default - white,,0,0,0,,ちっ、気付いたか
+Dialogue: 0,0:23:06.54,0:23:09.50,Default,,0,0,0,,Tsk. He's noticed hasn't he
+Dialogue: 0,0:23:09.50,0:23:12.51,Default - white,,0,0,0,,きりそうな気配だったのに
+Dialogue: 0,0:23:09.50,0:23:12.51,Default,,0,0,0,,even though the signs were muddled
+Dialogue: 0,0:23:12.99,0:23:15.02,Default,,0,0,0,,Soga's colorless, odorless...
+Dialogue: 0,0:23:15.02,0:23:17.02,Default,,0,0,0,,closed Honisou wait
+Dialogue: 0,0:23:19.55,0:23:22.28,Default - white,,0,0,0,,よくぞ気付いた。ひろゆき
+Dialogue: 0,0:23:19.55,0:23:22.28,Default,,0,0,0,,Good eye, Hiroyuki
+Dialogue: 0,0:23:28.03,0:23:29.23,Default,,0,0,0,,He got it
+Dialogue: 0,0:23:29.23,0:23:30.76,Default,,0,0,0,,A 1 Sou wait Tenpai
+Dialogue: 0,0:23:30.76,0:23:32.64,Default,,0,0,0,,If he draws a 1 Sou it's a Chanta SanSyoku
+Dialogue: 0,0:23:32.64,0:23:34.97,Default,,0,0,0,,A 4 Sou will also most probably come out in time
+Dialogue: 0,0:23:34.97,0:23:36.54,Default,,0,0,0,,But whether he should Riichi or not...
+Dialogue: 0,0:23:36.54,0:23:39.23,Default,,0,0,0,,those around would become extra vigilant
+Dialogue: 0,0:23:39.23,0:23:41.23,Default,,0,0,0,,the best move is just to stay silent
+Dialogue: 0,0:23:51.48,0:23:53.44,Default,,0,0,0,,Riichi
+Dialogue: 0,0:24:18.09,0:24:19.68,Default - white,,0,0,0,,こいつら、
+Dialogue: 0,0:24:18.09,0:24:19.68,Default,,0,0,0,,Cheating fucks
+Dialogue: 0,0:24:19.68,0:24:22.25,Default - white,,0,0,0,,またせこい手を使いやがって
+Dialogue: 0,0:24:19.68,0:24:22.25,Default,,0,0,0,,yet another underhanded move
+Dialogue: 0,0:24:22.78,0:24:25.56,Default,,0,0,0,,Now I'm in Tenpai with a 3 sided wait
+Dialogue: 0,0:24:25.56,0:24:28.33,Default - white,,0,0,0,,今は最終局面、
+Dialogue: 0,0:24:25.56,0:24:28.33,Default,,0,0,0,,This is the final hand!
+Dialogue: 0,0:24:28.33,0:24:30.33,Default - white,,0,0,0,,どんな手を使っても
+Dialogue: 0,0:24:28.33,0:24:30.33,Default,,0,0,0,,By any means necessary
+Dialogue: 0,0:24:30.33,0:24:32.33,Default - white,,0,0,0,,勝たなきゃいかんのや
+Dialogue: 0,0:24:30.33,0:24:32.33,Default,,0,0,0,,WE MUST WIN
+Dialogue: 0,0:24:34.62,0:24:36.76,Default - white,,0,0,0,,そのリーチ、
+Dialogue: 0,0:24:34.62,0:24:36.76,Default,,0,0,0,,and that Riichi you just declared
+Dialogue: 0,0:24:36.76,0:24:38.76,Default - white,,0,0,0,,後悔させたるわ
+Dialogue: 0,0:24:36.76,0:24:38.76,Default,,0,0,0,,I'll make you regret it
+Dialogue: 0,0:24:54.51,0:24:57.18,Default,,0,0,0,,This is quickly looking like a contest we can win
+Dialogue: 0,0:24:57.18,0:24:58.48,Default,,0,0,0,,Just wait a moment, now
 Dialogue: 0,0:24:58.48,0:25:00.48,Default,,0,0,0,,
-Dialogue: 0,0:25:00.48,0:25:02.36,Default,,0,0,0,,
-Dialogue: 0,0:25:02.36,0:25:04.36,Default,,0,0,0,,
+Dialogue: 0,0:25:00.48,0:25:02.36,Default,,0,0,0,,I'm going to take you down!
+Dialogue: 0,0:25:02.36,0:25:04.36,Default,,0,0,0,,TWO PLAYER MAHJONG
