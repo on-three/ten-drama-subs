@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e10.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 75
-Active Line: 93
-Video Position: 16305
+Scroll Position: 87
+Active Line: 110
+Video Position: 17590
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,17 +62,17 @@ Dialogue: 0,0:04:38.36,0:04:40.36,Default,,0,0,0,,I absolutely can't deal in
 Dialogue: 0,0:04:59.60,0:05:01.00,Default - white,,0,0,0,,やつは今
 Dialogue: 0,0:04:59.60,0:05:01.00,Default,,0,0,0,,Even now the little guy
 Dialogue: 0,0:05:01.00,0:05:04.91,Default - white,,0,0,0,,しくじりながらも懸命になんとかしようとしている
-Dialogue: 0,0:05:01.00,0:05:04.91,Default,,0,0,0,,despite failure, he's trying his utmost
+Dialogue: 0,0:05:01.00,0:05:04.91,Default,,0,0,0,,despite his failure, he's trying his utmost
 Dialogue: 0,0:05:04.91,0:05:06.91,Default - white,,0,0,0,,その意気に賭けよう
 Dialogue: 0,0:05:04.91,0:05:06.91,Default,,0,0,0,,I'll bet on his determination
 Dialogue: 0,0:05:07.63,0:05:10.92,Default,,0,0,0,,There's most probably still one 6 Pin left in the wall
 Dialogue: 0,0:05:28.94,0:05:31.08,Default,,0,0,0,,He got it
 Dialogue: 0,0:05:33.85,0:05:36.49,Default,,0,0,0,,With that last draw the Kid's hand is ready
-Dialogue: 0,0:05:36.49,0:05:38.96,Default,,0,0,0,,If you consider his Chitoitsu fell apart...
+Dialogue: 0,0:05:36.49,0:05:38.96,Default,,0,0,0,,Supposing his Chitoitsu fell apart...
 Dialogue: 0,0:05:38.96,0:05:41.92,Default,,0,0,0,,he's waiting on this very 6 Pin or a 9 Pin
 Dialogue: 0,0:05:41.92,0:05:44.94,Default,,0,0,0,,but now he's aiming for a Tanyao
-Dialogue: 0,0:05:44.94,0:05:47.93,Default,,0,0,0,,and at this moment he can't win off a 6 Pin
-Dialogue: 0,0:05:47.93,0:05:51.42,Default,,0,0,0,,according to his discards, Ten certainly has a 6 Pin
+Dialogue: 0,0:05:44.94,0:05:47.93,Default,,0,0,0,,And at this moment he can't possibly draw a 6 Pin!
+Dialogue: 0,0:05:47.93,0:05:51.42,Default,,0,0,0,,according to his discards, Ten certainly holding a 6 Pin
 Dialogue: 0,0:05:51.87,0:05:54.51,Default,,0,0,0,,But he's read Soga's wait
 Dialogue: 0,0:05:54.51,0:05:56.51,Default,,0,0,0,,and he can't deal into it
 Dialogue: 0,0:05:56.51,0:05:59.79,Default,,0,0,0,,and I just drew the 4th 6Pin!
@@ -142,9 +142,9 @@ Dialogue: 0,0:09:37.25,0:09:39.28,Default - white,,0,0,0,,生き延びたな
 Dialogue: 0,0:09:37.25,0:09:39.28,Default,,0,0,0,,You survived
 Dialogue: 0,0:09:39.28,0:09:41.28,Default,,0,0,0,,Yes, I did
 Dialogue: 0,0:09:42.31,0:09:44.69,Default,,0,0,0,,Now Hiroyuki has a safety buffer
-Dialogue: 0,0:09:44.69,0:09:46.34,Default,,0,0,0,,
-Dialogue: 0,0:09:46.34,0:09:48.45,Default,,0,0,0,,
-Dialogue: 0,0:09:48.45,0:09:50.45,Default,,0,0,0,,an overwhelming advantage
+Dialogue: 0,0:09:44.69,0:09:46.34,Default,,0,0,0,,And thus the biggest difference...
+Dialogue: 0,0:09:46.34,0:09:48.45,Default,,0,0,0,,The East team, having gotten a SanAnKou
+Dialogue: 0,0:09:48.45,0:09:50.45,Default,,0,0,0,,gives them an overwhelming advantage
 Dialogue: 0,0:09:52.41,0:09:54.41,Default,,0,0,0,,FUCK SHIT PISS
 Dialogue: 0,0:10:10.50,0:10:13.28,Default,,0,0,0,,Chii
 Dialogue: 0,0:10:18.48,0:10:21.31,Default,,0,0,0,,Ron!
@@ -304,7 +304,7 @@ Dialogue: 0,0:24:22.78,0:24:25.56,Default,,0,0,0,,Now I'm in Tenpai with a 3 sid
 Dialogue: 0,0:24:25.56,0:24:28.33,Default - white,,0,0,0,,今は最終局面、
 Dialogue: 0,0:24:25.56,0:24:28.33,Default,,0,0,0,,This is the final hand!
 Dialogue: 0,0:24:28.33,0:24:30.33,Default - white,,0,0,0,,どんな手を使っても
-Dialogue: 0,0:24:28.33,0:24:30.33,Default,,0,0,0,,By any means necessary
+Dialogue: 0,0:24:28.33,0:24:30.33,Default,,0,0,0,,By whatever means necessary
 Dialogue: 0,0:24:30.33,0:24:32.33,Default - white,,0,0,0,,勝たなきゃいかんのや
 Dialogue: 0,0:24:30.33,0:24:32.33,Default,,0,0,0,,WE MUST WIN
 Dialogue: 0,0:24:34.62,0:24:36.76,Default - white,,0,0,0,,そのリーチ、
