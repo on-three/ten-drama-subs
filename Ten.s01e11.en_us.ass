@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e11.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 160
-Active Line: 183
-Video Position: 14925
+Scroll Position: 228
+Active Line: 255
+Video Position: 22275
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -184,7 +184,7 @@ Dialogue: 0,0:07:21.90,0:07:24.94,Default,,0,0,0,,I kinda think I know how Harad
 Dialogue: 0,0:07:26.91,0:07:28.91,Default - white,,0,0,0,,恐らくやつは
 Dialogue: 0,0:07:26.91,0:07:28.91,Default,,0,0,0,,In all probability
 Dialogue: 0,0:07:28.91,0:07:31.66,Default - white,,0,0,0,,時を追いかけている
-Dialogue: 0,0:07:28.91,0:07:31.66,Default,,0,0,0,,He's chasing a moment
+Dialogue: 0,0:07:28.91,0:07:31.66,Default,,0,0,0,,he's chasing a moment
 Dialogue: 0,0:07:31.66,0:07:33.66,Default - white,,0,0,0,,時？
 Dialogue: 0,0:07:31.66,0:07:33.66,Default,,0,0,0,,A moment--?
 Dialogue: 0,0:07:33.66,0:07:35.66,Default - white,,0,0,0,,ああ、
@@ -212,79 +212,84 @@ Dialogue: 0,0:08:07.48,0:08:10.38,Default,,0,0,0,,Harada, I dare say...
 Dialogue: 0,0:08:10.38,0:08:12.67,Default - white,,0,0,0,,病気よ
 Dialogue: 0,0:08:10.38,0:08:12.67,Default,,0,0,0,,Is very sick
 Dialogue: 0,0:08:12.67,0:08:14.67,Default - white,,0,0,0,,俺らにはもう、
-Dialogue: 0,0:08:12.67,0:08:14.67,Default,,0,0,0,,To me...
+Dialogue: 0,0:08:12.67,0:08:14.67,Default,,0,0,0,,Honestly...
 Dialogue: 0,0:08:14.67,0:08:17.48,Default - white,,0,0,0,,あまり見当たらないんだ、
 Dialogue: 0,0:08:14.67,0:08:17.48,Default,,0,0,0,,I've scarcely seen anyone more so
 Dialogue: 0,0:08:17.48,0:08:20.96,Default - white,,0,0,0,,他に人が生きる理由なんて
 Dialogue: 0,0:08:17.48,0:08:20.96,Default,,0,0,0,,What else has he to live for?
 Dialogue: 0,0:08:22.75,0:08:26.48,Default - white,,0,0,0,,一瞬でいい。ともかく
-Dialogue: 0,0:08:22.75,0:08:26.48,Default,,0,0,0,,Just a single moment. Well, be that as it may...
+Dialogue: 0,0:08:22.75,0:08:26.48,Default,,0,0,0,,Just that single moment. One way or another
 Dialogue: 0,0:08:26.48,0:08:29.79,Default - white,,0,0,0,,最高を感じたいんだ
 Dialogue: 0,0:08:26.48,0:08:29.79,Default,,0,0,0,,He wants to feel that high again
 Dialogue: 0,0:08:29.79,0:08:32.43,Default - white,,0,0,0,,俺も原田も
 Dialogue: 0,0:08:29.79,0:08:32.43,Default,,0,0,0,,And to both Me and Harada...
 Dialogue: 0,0:08:32.43,0:08:35.48,Default - white,,0,0,0,,もう近くまで来ているのかもしれないな
-Dialogue: 0,0:08:32.43,0:08:35.48,Default,,0,0,0,,It might just coming sooner than you think
+Dialogue: 0,0:08:32.43,0:08:35.48,Default,,0,0,0,,that might be coming sooner than you think
 Dialogue: 0,0:09:48.33,0:09:52.38,Default,,0,0,0,,First and explanation of the 1v1 Mahjong rules
-Dialogue: 0,0:09:52.38,0:09:53.64,Default,,0,0,0,,
-Dialogue: 0,0:09:53.64,0:09:55.88,Default,,0,0,0,,九州の親分衆とたま
-Dialogue: 0,0:09:55.88,0:09:57.88,Default,,0,0,0,,
-Dialogue: 0,0:09:57.88,0:10:00.27,Default,,0,0,0,,映像での説明
-Dialogue: 0,0:10:00.27,0:10:01.72,Default,,0,0,0,,
-Dialogue: 0,0:10:01.05,0:10:02.81,default - cyan,,0,0,0,,
-Dialogue: 0,0:10:03.61,0:10:06.62,Default,,0,0,0,,
-Dialogue: 0,0:10:07.18,0:10:08.73,Default,,0,0,0,,
+Dialogue: 0,0:09:52.38,0:09:53.64,Default,,0,0,0,,From time to time...
+Dialogue: 0,0:09:53.64,0:09:55.88,Default - white,,0,0,0,,九州の親分衆とたま
+Dialogue: 0,0:09:53.64,0:09:55.88,Default,,0,0,0,,For a group of Kyuusyu Bosses
+Dialogue: 0,0:09:55.88,0:09:57.88,Default,,0,0,0,,a mahjong a little changed
+Dialogue: 0,0:09:57.88,0:10:00.27,Default - white,,0,0,0,,映像での説明
+Dialogue: 0,0:09:57.88,0:10:00.27,Default,,0,0,0,,This video will explain the rules
+Dialogue: 0,0:10:00.27,0:10:01.72,Default,,0,0,0,,Yo
+Dialogue: 0,0:10:01.05,0:10:02.81,default - cyan,,0,0,0,,Yessir
+Dialogue: 0,0:10:03.61,0:10:06.62,Default,,0,0,0,,100,000 points
+Dialogue: 0,0:10:07.18,0:10:08.73,Default,,0,0,0,,Tsumo!
 Dialogue: 0,0:10:07.98,0:10:11.18,Default,,0,0,0,,
-Dialogue: 0,0:10:11.18,0:10:14.41,Default,,0,0,0,,
-Dialogue: 0,0:10:14.41,0:10:15.84,Default,,0,0,0,,
+Dialogue: 0,0:10:11.18,0:10:14.41,Default,,0,0,0,,When you win you take points from here
+Dialogue: 0,0:10:14.41,0:10:15.84,Default,,0,0,0,,When the match is over
 Dialogue: 0,0:10:15.84,0:10:19.47,Default,,0,0,0,,
-Dialogue: 0,0:10:19.47,0:10:21.47,Default,,0,0,0,,
-Dialogue: 0,0:10:21.47,0:10:23.47,Default,,0,0,0,,前半ステージA
-Dialogue: 0,0:10:23.47,0:10:26.48,Default,,0,0,0,,
-Dialogue: 0,0:10:26.48,0:10:28.14,Default,,0,0,0,,
-Dialogue: 0,0:10:28.14,0:10:31.52,Default,,0,0,0,,
-Dialogue: 0,0:10:32.08,0:10:33.58,Default,,0,0,0,,
-Dialogue: 0,0:10:33.58,0:10:36.25,Default,,0,0,0,,
-Dialogue: 0,0:10:36.25,0:10:37.93,Default,,0,0,0,,
-Dialogue: 0,0:10:37.93,0:10:39.93,Default,,0,0,0,,
-Dialogue: 0,0:10:39.93,0:10:42.91,Default,,0,0,0,,
-Dialogue: 0,0:10:42.91,0:10:44.68,Default,,0,0,0,,
-Dialogue: 0,0:10:44.68,0:10:47.50,Default,,0,0,0,,
-Dialogue: 0,0:10:47.50,0:10:49.50,Default,,0,0,0,,
-Dialogue: 0,0:10:49.50,0:10:51.72,Default,,0,0,0,,
-Dialogue: 0,0:10:51.72,0:10:53.26,Default,,0,0,0,,
-Dialogue: 0,0:10:53.26,0:10:56.30,Default,,0,0,0,,
-Dialogue: 0,0:10:56.30,0:10:58.72,Default,,0,0,0,,
-Dialogue: 0,0:10:58.72,0:11:02.08,Default,,0,0,0,,
-Dialogue: 0,0:11:02.08,0:11:04.54,Default,,0,0,0,,
-Dialogue: 0,0:11:04.54,0:11:06.54,Default,,0,0,0,,
-Dialogue: 0,0:11:06.54,0:11:09.26,Default,,0,0,0,,
-Dialogue: 0,0:11:09.26,0:11:11.44,Default,,0,0,0,,
-Dialogue: 0,0:11:12.99,0:11:16.08,Default,,0,0,0,,
-Dialogue: 0,0:11:16.08,0:11:17.47,Default,,0,0,0,,
-Dialogue: 0,0:11:17.47,0:11:18.83,Default,,0,0,0,,
-Dialogue: 0,0:11:18.83,0:11:20.83,Default,,0,0,0,,
-Dialogue: 0,0:11:20.83,0:11:23.98,Default,,0,0,0,,
-Dialogue: 0,0:11:23.98,0:11:27.52,Default,,0,0,0,,
-Dialogue: 0,0:11:27.52,0:11:30.97,Default,,0,0,0,,
-Dialogue: 0,0:11:30.97,0:11:32.97,Default,,0,0,0,,
-Dialogue: 0,0:11:35.69,0:11:38.73,Default,,0,0,0,,
-Dialogue: 0,0:11:38.73,0:11:40.73,Default,,0,0,0,,
+Dialogue: 0,0:10:19.47,0:10:21.47,Default,,0,0,0,,This two player Mahjong
+Dialogue: 0,0:10:21.47,0:10:23.47,Default - white,,0,0,0,,前半ステージA
+Dialogue: 0,0:10:21.47,0:10:23.47,Default,,0,0,0,,The first part is Stage A
+Dialogue: 0,0:10:23.47,0:10:26.48,Default,,0,0,0,,And the 2nd part Stage B follows
+Dialogue: 0,0:10:26.48,0:10:28.14,Default,,0,0,0,,First, stage A
+Dialogue: 0,0:10:28.14,0:10:31.52,Default,,0,0,0,,This is like 4 person Mahjong with only 2 players
+Dialogue: 0,0:10:32.08,0:10:33.58,Default,,0,0,0,,Chii
+Dialogue: 0,0:10:33.58,0:10:36.25,Default,,0,0,0,,You can declare Chii off the other player
+Dialogue: 0,0:10:36.25,0:10:37.93,Default,,0,0,0,,It differs as follows
+Dialogue: 0,0:10:37.93,0:10:39.93,Default,,0,0,0,,Whether your hand is open or closed...
+Dialogue: 0,0:10:39.93,0:10:42.91,Default,,0,0,0,,if you're in Tenpai you must declare it
+Dialogue: 0,0:10:42.91,0:10:44.68,Default,,0,0,0,,Tenpai
+Dialogue: 0,0:10:44.68,0:10:47.50,Default,,0,0,0,,If your hand is closed you may also declare Riichi
+Dialogue: 0,0:10:47.50,0:10:49.50,Default,,0,0,0,,Riichi
+Dialogue: 0,0:10:49.50,0:10:51.72,Default,,0,0,0,,Thus ends stage A
+Dialogue: 0,0:10:51.72,0:10:53.26,Default,,0,0,0,,This Mahjong
+Dialogue: 0,0:10:53.26,0:10:56.30,Default,,0,0,0,,At the point when either player declares Tenpai
+Dialogue: 0,0:10:56.30,0:10:58.72,Default,,0,0,0,,The method of play previously followed completely ends
+Dialogue: 0,0:10:58.72,0:11:02.08,Default,,0,0,0,,consequently speed is the greatest advantage
+Dialogue: 0,0:11:02.08,0:11:04.54,Default,,0,0,0,,The 2nd part is Stage B
+Dialogue: 0,0:11:04.54,0:11:06.54,Default,,0,0,0,,The side who hasn't declared Tenpai
+Dialogue: 0,0:11:06.54,0:11:09.26,Default,,0,0,0,,chooses his opponent's next two draws
+Dialogue: 0,0:11:09.26,0:11:11.44,Default,,0,0,0,,the two designated tiles are presented
+Dialogue: 0,0:11:12.99,0:11:16.08,Default,,0,0,0,,if there's a winning tile among the two
+Dialogue: 0,0:11:16.08,0:11:17.47,Default,,0,0,0,,this results in a draw
+Dialogue: 0,0:11:17.47,0:11:18.83,Default,,0,0,0,,the side who would win
+Dialogue: 0,0:11:18.83,0:11:20.83,Default,,0,0,0,,without exceptions must show their hand
+Dialogue: 0,0:11:20.83,0:11:23.98,Default,,0,0,0,,this is to protect against false Tenpai declarations
+Dialogue: 0,0:11:23.98,0:11:27.52,Default,,0,0,0,,If there aren't any winning tiles among the two
+Dialogue: 0,0:11:27.52,0:11:30.97,Default,,0,0,0,,the side declaring tenpai has the right to 5 draws
+Dialogue: 0,0:11:30.97,0:11:32.97,Default,,0,0,0,,Tsumo!
+Dialogue: 0,0:11:35.69,0:11:38.73,Default,,0,0,0,,If they haven't completed their hands in 5 draws
+Dialogue: 0,0:11:38.73,0:11:40.73,Default,,0,0,0,,they go back to the start
 Dialogue: 0,0:11:40.73,0:11:44.24,Default,,0,0,0,,
 Dialogue: 0,0:11:44.24,0:11:46.83,Default,,0,0,0,,
 Dialogue: 0,0:11:46.83,0:11:50.41,Default,,0,0,0,,
 Dialogue: 0,0:11:50.41,0:11:52.41,Default,,0,0,0,,
 Dialogue: 0,0:11:52.41,0:11:54.83,Default,,0,0,0,,
-Dialogue: 0,0:11:56.38,0:11:58.38,Default,,0,0,0,,
-Dialogue: 0,0:11:58.92,0:12:01.63,Default,,0,0,0,,
+Dialogue: 0,0:11:56.38,0:11:58.38,Default,,0,0,0,,There is a single special rule
+Dialogue: 0,0:11:58.92,0:12:01.63,Default,,0,0,0,,If you make SanSyoku with 2 Man
 Dialogue: 0,0:12:01.63,0:12:03.87,Default,,0,0,0,,
 Dialogue: 0,0:12:03.87,0:12:05.87,Default,,0,0,0,,
 Dialogue: 0,0:12:05.87,0:12:08.11,Default,,0,0,0,,
 Dialogue: 0,0:12:08.11,0:12:10.49,Default,,0,0,0,,
-Dialogue: 0,0:12:11.18,0:12:12.72,Default,,0,0,0,,
-Dialogue: 0,0:12:14.72,0:12:17.45,Default,,0,0,0,,
+Dialogue: 0,0:12:11.18,0:12:12.72,Default,,0,0,0,,Tsumo!
+Dialogue: 0,0:12:14.72,0:12:17.45,Default,,0,0,0,,Other rules follow in that manner
 Dialogue: 0,0:12:21.18,0:12:22.48,Default,,0,0,0,,なるほど、
-Dialogue: 0,0:12:22.48,0:12:25.44,Default,,0,0,0,,これは勝負を打つものとしての強運、
+Dialogue: 0,0:12:21.18,0:12:22.48,Default - white,,0,0,0,,Of course
+Dialogue: 0,0:12:22.48,0:12:25.44,Default - white,,0,0,0,,これは勝負を打つものとしての強運、
+Dialogue: 0,0:12:22.48,0:12:25.44,Default,,0,0,0,,It's a style of play addressing luck,
 Dialogue: 0,0:12:25.44,0:12:26.56,Default,,0,0,0,,そして
 Dialogue: 0,0:12:26.56,0:12:29.00,Default,,0,0,0,,二人の人間としての力、
 Dialogue: 0,0:12:29.00,0:12:31.00,Default,,0,0,0,,器が裁かれる
