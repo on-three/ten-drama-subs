@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e11.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e11.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 240
-Active Line: 264
-Video Position: 22470
+Video Zoom Percent: 0.375000
+Scroll Position: 297
+Active Line: 412
+Video Position: 50022
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -162,7 +162,7 @@ Dialogue: 0,0:06:05.68,0:06:07.79,Default - white,,0,0,0,,それだけだ
 Dialogue: 0,0:06:05.68,0:06:07.79,Default,,0,0,0,,that's all it was
 Dialogue: 0,0:06:12.78,0:06:14.86,Default - white,,0,0,0,,これは引き分けということですが？
 Dialogue: 0,0:06:12.78,0:06:14.86,Default,,0,0,0,,Is this some kind of... draw?!?
-Dialogue: 0,0:06:14.25,0:06:16.25,default - cyan,,0,0,0,,USELESS FUCKING MORON
+Dialogue: 0,0:06:14.25,0:06:16.25,default - cyan,,0,0,0,,MOTHER {\b1\i1}FUCKER{\b0\i0}
 Dialogue: 0,0:06:17.40,0:06:22.76,Default - white,,0,0,0,,ここに辿り着くんにどんだけの\N労力と時間を使ったと思っとんねん
 Dialogue: 0,0:06:17.40,0:06:22.76,Default,,0,0,0,,I did not think it would take this exceptional level of effort or time to arrive at this point
 Dialogue: 0,0:06:23.98,0:06:26.03,Default - white,,0,0,0,,決着は付ける
@@ -193,23 +193,23 @@ Dialogue: 0,0:07:31.66,0:07:33.66,Default,,0,0,0,,A moment--?
 Dialogue: 0,0:07:33.66,0:07:35.66,Default - white,,0,0,0,,ああ、
 Dialogue: 0,0:07:33.66,0:07:35.66,Default,,0,0,0,,Yeah
 Dialogue: 0,0:07:36.75,0:07:38.75,Default - white,,0,0,0,,俺も似たような気持ちを
-Dialogue: 0,0:07:36.75,0:07:38.75,Default,,0,0,0,,Like me...
+Dialogue: 0,0:07:36.75,0:07:38.75,Default,,0,0,0,,I feel something similar...
 Dialogue: 0,0:07:38.75,0:07:41.85,Default - white,,0,0,0,,ここ何年か抱えてきたからわかるんだ
-Dialogue: 0,0:07:38.75,0:07:41.85,Default,,0,0,0,,I can see he's carried a burden for so many years
+Dialogue: 0,0:07:38.75,0:07:41.85,Default,,0,0,0,,having carried this burden for a few years, I understand
 Dialogue: 0,0:07:42.89,0:07:46.65,Default - white,,0,0,0,,やつは上り詰めたいのさ
-Dialogue: 0,0:07:42.89,0:07:46.65,Default,,0,0,0,,He's wanted to get to the top
+Dialogue: 0,0:07:42.89,0:07:46.65,Default,,0,0,0,,He wants to get to the top
 Dialogue: 0,0:07:46.65,0:07:48.22,Default - white,,0,0,0,,生涯に一度で良いから
-Dialogue: 0,0:07:46.65,0:07:48.22,Default,,0,0,0,,It's the only good in his entire life
+Dialogue: 0,0:07:46.65,0:07:48.22,Default,,0,0,0,,Just once in your life is enough
 Dialogue: 0,0:07:48.22,0:07:51.45,Default - white,,0,0,0,,最高の時を迎えたいんだよ
-Dialogue: 0,0:07:48.22,0:07:51.45,Default,,0,0,0,,and he wants to reach that pinnacle
+Dialogue: 0,0:07:48.22,0:07:51.45,Default,,0,0,0,,to reach that pinnacle
 Dialogue: 0,0:07:52.78,0:07:55.12,Default - white,,0,0,0,,それはつかの間で
-Dialogue: 0,0:07:52.78,0:07:55.12,Default,,0,0,0,,and in the moment when he's got it
+Dialogue: 0,0:07:52.78,0:07:55.12,Default,,0,0,0,,And in the moment when you've got it
 Dialogue: 0,0:07:55.12,0:07:59.42,Default - white,,0,0,0,,すぐ彼方に消えてしまうような虚ろな感覚、
-Dialogue: 0,0:07:55.12,0:07:59.42,Default,,0,0,0,,he soon feels the hollowness of it slipping away
+Dialogue: 0,0:07:55.12,0:07:59.42,Default,,0,0,0,,you soon feel the hollowness of it slipping away
 Dialogue: 0,0:07:59.42,0:08:03.44,Default - white,,0,0,0,,しかし一度近くまで行った人間にとって、
-Dialogue: 0,0:07:59.42,0:08:03.44,Default,,0,0,0,,but he's only human, and wants to reach it one more time
+Dialogue: 0,0:07:59.42,0:08:03.44,Default,,0,0,0,,To people who get close to that just once...
 Dialogue: 0,0:08:03.44,0:08:06.60,Default - white,,0,0,0,,その充足は圧倒的
-Dialogue: 0,0:08:03.44,0:08:06.60,Default,,0,0,0,,that feeling of satisfaction is so overwhelming
+Dialogue: 0,0:08:03.44,0:08:06.60,Default,,0,0,0,,that feeling of satisfaction is overwhelming
 Dialogue: 0,0:08:07.48,0:08:10.38,Default - white,,0,0,0,,原田も恐らく
 Dialogue: 0,0:08:07.48,0:08:10.38,Default,,0,0,0,,Harada, I dare say...
 Dialogue: 0,0:08:10.38,0:08:12.67,Default - white,,0,0,0,,病気よ
@@ -229,7 +229,7 @@ Dialogue: 0,0:08:29.79,0:08:32.43,Default,,0,0,0,,Harada and I...
 Dialogue: 0,0:08:32.43,0:08:35.48,Default - white,,0,0,0,,もう近くまで来ているのかもしれないな
 Dialogue: 0,0:08:32.43,0:08:35.48,Default,,0,0,0,,we just might be becoming more alike
 Dialogue: 0,0:09:48.33,0:09:52.38,Default,,0,0,0,,First an explanation of the Two Player Mahjong rules
-Dialogue: 0,0:09:52.38,0:09:53.64,Default,,0,0,0,,Once time...
+Dialogue: 0,0:09:52.38,0:09:53.64,Default,,0,0,0,,One time...
 Dialogue: 0,0:09:53.64,0:09:55.88,Default - white,,0,0,0,,九州の親分衆とたま
 Dialogue: 0,0:09:53.64,0:09:55.88,Default,,0,0,0,,I played it with a Kyushu boss
 Dialogue: 0,0:09:55.88,0:09:57.88,Default,,0,0,0,,it's Mahjong that's a little different
@@ -243,18 +243,18 @@ Dialogue: 0,0:10:07.98,0:10:11.18,Default,,0,0,0,,No points are traded between p
 Dialogue: 0,0:10:11.18,0:10:14.41,Default,,0,0,0,,Winning points are merely taken
 Dialogue: 0,0:10:14.41,0:10:15.84,Default,,0,0,0,,When the match is over
 Dialogue: 0,0:10:15.84,0:10:19.47,Default,,0,0,0,,This winner simply has the most points collected
-Dialogue: 0,0:10:19.47,0:10:21.47,Default,,0,0,0,,This two style of two player Mahjong
+Dialogue: 0,0:10:19.47,0:10:21.47,Default,,0,0,0,,This style of two player Mahjong
 Dialogue: 0,0:10:21.47,0:10:23.47,Default - white,,0,0,0,,前半ステージA
 Dialogue: 0,0:10:21.47,0:10:23.47,Default,,0,0,0,,Has a first part called Stage A
 Dialogue: 0,0:10:23.47,0:10:26.48,Default,,0,0,0,,And a second part called Stage B which follows
 Dialogue: 0,0:10:26.48,0:10:28.14,Default,,0,0,0,,First, stage A
 Dialogue: 0,0:10:28.14,0:10:31.52,Default,,0,0,0,,This is like 4 person Mahjong with only 2 players
-Dialogue: 0,0:10:32.08,0:10:33.58,Default,,0,0,0,,Chii
-Dialogue: 0,0:10:33.58,0:10:36.25,Default,,0,0,0,,You can declare Chii off the other player
+Dialogue: 0,0:10:32.08,0:10:33.58,Default - top,,0,0,0,,Chii
+Dialogue: 0,0:10:33.58,0:10:36.25,Default - top,,0,0,0,,You can declare Chii off the other player
 Dialogue: 0,0:10:36.25,0:10:37.93,Default,,0,0,0,,It differs as follows
-Dialogue: 0,0:10:37.93,0:10:39.93,Default,,0,0,0,,Whether your hand is open or closed...
-Dialogue: 0,0:10:39.93,0:10:42.91,Default,,0,0,0,,if you're in Tenpai you must openly declare it
-Dialogue: 0,0:10:42.91,0:10:44.68,Default,,0,0,0,,Tenpai
+Dialogue: 0,0:10:37.93,0:10:39.93,Default - top,,0,0,0,,Whether your hand is open or closed...
+Dialogue: 0,0:10:39.93,0:10:42.91,Default - top,,0,0,0,,if you're in Tenpai you must openly declare it
+Dialogue: 0,0:10:42.91,0:10:44.68,Default - top,,0,0,0,,Tenpai
 Dialogue: 0,0:10:44.68,0:10:47.50,Default,,0,0,0,,If your hand is closed you may also declare Riichi
 Dialogue: 0,0:10:47.50,0:10:49.50,Default,,0,0,0,,Riichi
 Dialogue: 0,0:10:49.50,0:10:51.72,Default,,0,0,0,,Thus ends stage A
@@ -280,9 +280,9 @@ Dialogue: 0,0:11:40.73,0:11:44.24,Default,,0,0,0,,Two tiles are selected to comp
 Dialogue: 0,0:11:44.24,0:11:46.83,Default,,0,0,0,,A successful reading of the hand ends the hand
 Dialogue: 0,0:11:46.83,0:11:50.41,Default,,0,0,0,,and if they can't, the side in Tepai can draw 5 more tiles
 Dialogue: 0,0:11:50.41,0:11:52.41,Default,,0,0,0,,And it repeats in this manner
-Dialogue: 0,0:11:52.41,0:11:54.83,Default,,0,0,0,,in this way remaining one safe tile is returned (???)
+Dialogue: 0,0:11:52.41,0:11:54.83,Default,,0,0,0,,this continues while there are still safe tiles remaining
 Dialogue: 0,0:11:56.38,0:11:58.38,Default,,0,0,0,,There is a single special rule
-Dialogue: 0,0:11:58.92,0:12:01.63,Default,,0,0,0,,If you make SanSyoku with 2 Man
+Dialogue: 0,0:11:58.92,0:12:01.63,Default,,0,0,0,,If, for example, you make SanSyoku with 2 Man
 Dialogue: 0,0:12:01.63,0:12:03.87,Default,,0,0,0,,the hand has wildly different valuations depending on winning tile
 Dialogue: 0,0:12:03.87,0:12:05.87,Default,,0,0,0,,If you draw the lower scoring tile
 Dialogue: 0,0:12:05.87,0:12:08.11,Default,,0,0,0,,you can lay the tile upside down
@@ -298,15 +298,15 @@ Dialogue: 0,0:12:25.44,0:12:26.56,Default,,0,0,0,,and thus
 Dialogue: 0,0:12:26.56,0:12:29.00,Default - white,,0,0,0,,二人の人間としての力、
 Dialogue: 0,0:12:26.56,0:12:29.00,Default,,0,0,0,,their respective power level...
 Dialogue: 0,0:12:29.00,0:12:31.00,Default - white,,0,0,0,,器が裁かれる
-Dialogue: 0,0:12:29.00,0:12:31.00,Default,,0,0,0,,this game is an instrument to judge it
+Dialogue: 0,0:12:29.00,0:12:31.00,Default,,0,0,0,,this game is an instrument to judge them
 Dialogue: 0,0:12:31.00,0:12:32.00,Default,,0,0,0,,And the dealer?
 Dialogue: 0,0:12:32.00,0:12:34.22,Default,,0,0,0,,It's determined at the start by die roll
-Dialogue: 0,0:12:34.22,0:12:36.22,Default,,0,0,0,,And then all hands after that
-Dialogue: 0,0:12:36.22,0:12:38.22,Default,,0,0,0,,
-Dialogue: 0,0:12:38.22,0:12:40.91,Default,,0,0,0,,
-Dialogue: 0,0:12:40.91,0:12:43.28,Default,,0,0,0,,
+Dialogue: 0,0:12:34.22,0:12:36.22,Default,,0,0,0,,And then in the next hand...
+Dialogue: 0,0:12:36.22,0:12:38.22,Default,,0,0,0,,and even the hand after that...
+Dialogue: 0,0:12:38.22,0:12:40.91,Default,,0,0,0,,the person who last won
+Dialogue: 0,0:12:40.91,0:12:43.28,Default,,0,0,0,,will continue being dealer
 Dialogue: 0,0:12:44.01,0:12:45.40,Default,,0,0,0,,That is to say
-Dialogue: 0,0:12:45.40,0:12:47.85,Default,,0,0,0,,When the opponent wins
+Dialogue: 0,0:12:45.40,0:12:47.85,Default,,0,0,0,,if you can't get a win
 Dialogue: 0,0:12:47.85,0:12:50.16,Default,,0,0,0,,The dealership is not transferred
 Dialogue: 0,0:12:50.16,0:12:52.16,Default,,0,0,0,,After that
 Dialogue: 0,0:12:52.16,0:12:54.67,Default,,0,0,0,,Riichi while in Furiten is not allowed
@@ -314,20 +314,20 @@ Dialogue: 0,0:12:54.67,0:12:57.04,Default,,0,0,0,,
 Dialogue: 0,0:12:57.04,0:12:58.52,Default,,0,0,0,,And declaring Kan?
 Dialogue: 0,0:12:58.52,0:13:01.36,Default,,0,0,0,,The same as in normal Mahjong
 Dialogue: 0,0:13:01.36,0:13:03.12,Default,,0,0,0,,be it in either Stage A or B
-Dialogue: 0,0:13:03.12,0:13:05.60,Default,,0,0,0,,
+Dialogue: 0,0:13:03.12,0:13:05.60,Default,,0,0,0,,it's okay as long as it doesn't change your wait
 Dialogue: 0,0:13:07.55,0:13:09.55,Default,,0,0,0,,I understand
-Dialogue: 0,0:13:09.55,0:13:11.23,Default,,0,0,0,,
+Dialogue: 0,0:13:09.55,0:13:11.23,Default,,0,0,0,,Well...
 Dialogue: 0,0:13:11.23,0:13:14.38,Default,,0,0,0,,In closing there's a very important thing to remember
-Dialogue: 0,0:13:14.88,0:13:17.96,Default,,0,0,0,,This contest will take 2 hours!
-Dialogue: 0,0:13:17.96,0:13:21.52,Default,,0,0,0,,
-Dialogue: 0,0:13:30.68,0:13:33.05,Default,,0,0,0,,
-Dialogue: 0,0:13:33.05,0:13:35.66,Default,,0,0,0,,
+Dialogue: 0,0:13:14.88,0:13:17.96,Default,,0,0,0,,This contest is limited to 2 hours!
+Dialogue: 0,0:13:17.96,0:13:21.52,Default,,0,0,0,,When two hours have passed the round we're in is the last one
+Dialogue: 0,0:13:30.68,0:13:33.05,Default,,0,0,0,,First off this clock...
+Dialogue: 0,0:13:33.05,0:13:35.66,Default,,0,0,0,,is set to ring after 100 minutes
 Dialogue: 0,0:13:35.66,0:13:37.00,Default,,0,0,0,,That is,
-Dialogue: 0,0:13:37.00,0:13:41.42,Default,,0,0,0,,the last bell will ring 2 minutes before the end of the match
+Dialogue: 0,0:13:37.00,0:13:41.42,Default,,0,0,0,,the last bell will ring 20 minutes before the end of the match
 Dialogue: 0,0:13:41.42,0:13:42.92,Default,,0,0,0,,At that time
-Dialogue: 0,0:13:42.92,0:13:45.60,Default,,0,0,0,,even if you were to stop the clock
-Dialogue: 0,0:13:45.60,0:13:49.10,Default,,0,0,0,,
-Dialogue: 0,0:13:49.88,0:13:51.64,Default,,0,0,0,,And therefore...
+Dialogue: 0,0:13:42.92,0:13:45.60,Default,,0,0,0,,even if you stop the bell by pressing the top of the clock
+Dialogue: 0,0:13:45.60,0:13:49.10,Default,,0,0,0,,this clock will ring again after 10 minutes
+Dialogue: 0,0:13:49.88,0:13:51.64,Default,,0,0,0,,So therefore...
 Dialogue: 0,0:13:51.64,0:13:54.17,Default,,0,0,0,,20 minutes before the end of the match...
 Dialogue: 0,0:13:54.17,0:13:57.56,Default,,0,0,0,,10 minutes before, and then...
 Dialogue: 0,0:13:58.65,0:14:01.18,Default,,0,0,0,,the final bell
@@ -336,7 +336,7 @@ Dialogue: 0,0:14:05.88,0:14:08.73,Default,,0,0,0,,All you have to judge the pass
 Dialogue: 0,0:14:08.73,0:14:11.69,Default,,0,0,0,,are those three bells
 Dialogue: 0,0:14:11.69,0:14:13.69,Default,,0,0,0,,Fine
 Dialogue: 0,0:14:14.58,0:14:16.58,Default,,0,0,0,,Then let us begin
-Dialogue: 0,0:16:22.01,0:16:23.39,Default,,0,0,0,,He's go it
+Dialogue: 0,0:16:22.01,0:16:23.39,Default,,0,0,0,,He's got it
 Dialogue: 0,0:16:23.39,0:16:25.39,Default,,0,0,0,,One tile from Chanta Tenpai
 Dialogue: 0,0:16:26.49,0:16:28.59,Default,,0,0,0,,If he discards the 4 or 6 Man
 Dialogue: 0,0:16:28.59,0:16:30.59,Default,,0,0,0,,he's in Tenpai
@@ -345,22 +345,22 @@ Dialogue: 0,0:16:44.65,0:16:46.81,Default,,0,0,0,,f-fast!
 Dialogue: 0,0:16:46.81,0:16:48.81,Default,,0,0,0,,Riichi
 Dialogue: 0,0:16:50.35,0:16:53.12,Default,,0,0,0,,From now on we enter Stage B
 Dialogue: 0,0:16:55.08,0:16:58.35,Default,,0,0,0,,
-Dialogue: 0,0:16:58.35,0:17:02.00,Default,,0,0,0,,
-Dialogue: 0,0:17:03.64,0:17:08.43,Default,,0,0,0,,
+Dialogue: 0,0:16:58.35,0:17:02.00,Default,,0,0,0,,There's a high probability he put his hand together with speed as apriority
+Dialogue: 0,0:17:03.64,0:17:08.43,Default,,0,0,0,,consequently, I suspect he's on a double sided wait beside the tile he used to declare Riichi
 Dialogue: 0,0:17:38.52,0:17:41.31,Default,,0,0,0,,Damn
 Dialogue: 0,0:18:01.48,0:18:03.48,Default,,0,0,0,,Tsumo!
 Dialogue: 0,0:18:08.09,0:18:10.95,Default,,0,0,0,,Riizumo (Riichi + Tsumo) with one Dora
 Dialogue: 0,0:18:10.95,0:18:12.95,Default,,0,0,0,,4,000 points
-Dialogue: 0,0:18:15.48,0:18:18.84,Default,,0,0,0,,
-Dialogue: 0,0:18:18.84,0:18:21.28,Default,,0,0,0,,A 3 way wait for a Mentanpin (Riichi + Tanyao + Pinfu) with one Dora
-Dialogue: 0,0:18:21.28,0:18:24.04,Default,,0,0,0,,Why does he have a middle wait?
+Dialogue: 0,0:18:15.48,0:18:18.84,Default,,0,0,0,,If he had kept the 7 Sou and discarded the 1 Sou
+Dialogue: 0,0:18:18.84,0:18:21.28,Default,,0,0,0,,He'd have had a 3 way wait for a Mentanpin (Riichi + Tanyao + Pinfu) with one Dora
+Dialogue: 0,0:18:21.28,0:18:24.04,Default,,0,0,0,,Why did he take a middle wait?
 Dialogue: 0,0:18:55.10,0:18:57.95,Default,,0,0,0,,Tenpai
 Dialogue: 0,0:18:57.95,0:18:59.69,Default,,0,0,0,,He's got it
 Dialogue: 0,0:18:59.69,0:19:01.69,Default,,0,0,0,,And so quickly!
 Dialogue: 0,0:19:05.21,0:19:06.91,Default,,0,0,0,,Riichi
 Dialogue: 0,0:19:06.91,0:19:10.19,Default,,0,0,0,,But why a middle wait on a 7 Man?
 Dialogue: 0,0:19:10.19,0:19:13.80,Default,,0,0,0,,If he discarded the 8 Man he would have had a 4/7 Man double sided wait
-Dialogue: 0,0:19:13.80,0:19:16.43,Default,,0,0,0,,
+Dialogue: 0,0:19:13.80,0:19:16.43,Default,,0,0,0,,it would still be a Pinfu hand
 Dialogue: 0,0:19:32.97,0:19:35.07,Default,,0,0,0,,Hunh?
 Dialogue: 0,0:20:01.07,0:20:03.75,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:20:06.81,0:20:09.84,Default,,0,0,0,,Rizumo, Tanyao is 4,000 points
@@ -369,24 +369,24 @@ Dialogue: 0,0:20:13.56,0:20:15.07,Default,,0,0,0,,I see
 Dialogue: 0,0:20:15.07,0:20:18.44,Default - white,,0,0,0,,この二人麻雀は待ちが悪いほど有利なんだ
 Dialogue: 0,0:20:15.07,0:20:18.44,Default,,0,0,0,,Bad waits have the advantage in this Two Player Mahjong
 Dialogue: 0,0:20:18.44,0:20:20.28,Default - white,,0,0,0,,多面待ちは
-Dialogue: 0,0:20:18.44,0:20:20.28,Default,,0,0,0,,Multi sided waits
+Dialogue: 0,0:20:18.44,0:20:20.28,Default,,0,0,0,,Two sided or multi sided waits...
 Dialogue: 0,0:20:20.28,0:20:22.81,Default - white,,0,0,0,,一つの牌を当てれば済む
-Dialogue: 0,0:20:20.28,0:20:22.81,Default,,0,0,0,,一つの牌を当てれば済む
+Dialogue: 0,0:20:20.28,0:20:22.81,Default,,0,0,0,,are stopped dead by any one of their winning tiles
 Dialogue: 0,0:20:22.81,0:20:24.99,Default - white,,0,0,0,,ので看破しやすい
-Dialogue: 0,0:20:22.81,0:20:24.99,Default,,0,0,0,,They're easy to read
+Dialogue: 0,0:20:22.81,0:20:24.99,Default,,0,0,0,,They're consequently easy to read
 Dialogue: 0,0:20:24.99,0:20:26.81,Default - white,,0,0,0,,単騎待ちなどは
-Dialogue: 0,0:20:24.99,0:20:26.81,Default,,0,0,0,,single or middle waits...
+Dialogue: 0,0:20:24.99,0:20:26.81,Default,,0,0,0,,Single tile or middle waits, however...
 Dialogue: 0,0:20:26.81,0:20:29.08,Default - white,,0,0,0,,一つの牌を当てなければならない
-Dialogue: 0,0:20:26.81,0:20:29.08,Default,,0,0,0,,you've got to complete them with only one tile...
+Dialogue: 0,0:20:26.81,0:20:29.08,Default,,0,0,0,,you've got to complete them with only single tile...
 Dialogue: 0,0:20:29.08,0:20:31.08,Default - white,,0,0,0,,看破しにくい
-Dialogue: 0,0:20:29.08,0:20:31.08,Default,,0,0,0,,but they're difficult to read
+Dialogue: 0,0:20:29.08,0:20:31.08,Default,,0,0,0,,They're difficult to read
 Dialogue: 0,0:22:14.46,0:22:15.72,Default,,0,0,0,,There it is!
 Dialogue: 0,0:22:18.68,0:22:20.65,Default,,0,0,0,,If he completes this huge hand
 Dialogue: 0,0:22:20.65,0:22:23.20,Default,,0,0,0,,The points situation will dramatically change
-Dialogue: 0,0:22:23.20,0:22:25.12,Default,,0,0,0,,In this long battle
-Dialogue: 0,0:22:25.12,0:22:27.12,Default,,0,0,0,,it might even close the book on it
+Dialogue: 0,0:22:23.20,0:22:25.12,Default,,0,0,0,,It might even, perhaps...
+Dialogue: 0,0:22:25.12,0:22:27.12,Default,,0,0,0,,close the book on this long struggle
 Dialogue: 0,0:22:42.40,0:22:44.11,Default,,0,0,0,,Pon
-Dialogue: 0,0:22:52.78,0:22:57.44,Default,,0,0,0,,
+Dialogue: 0,0:22:52.78,0:22:57.44,Default,,0,0,0,,In this way 1, 4, 7 whichever having, Green or Red dragon waits remain
 Dialogue: 0,0:22:58.21,0:23:02.25,Default,,0,0,0,,
 Dialogue: 0,0:23:11.34,0:23:13.45,Default,,0,0,0,,That's the absolute best that could happen!
 Dialogue: 0,0:23:13.45,0:23:15.24,Default,,0,0,0,,If he discards that 3 Pin
@@ -394,59 +394,59 @@ Dialogue: 0,0:23:15.24,0:23:17.64,Default,,0,0,0,,He's in Tenpai with a 1/7 Main
 Dialogue: 0,0:23:27.26,0:23:30.01,Default,,0,0,0,,W-why didn't he declare Tenpai?
 Dialogue: 0,0:23:30.01,0:23:31.08,Default,,0,0,0,,My god
 Dialogue: 0,0:23:31.08,0:23:33.18,Default,,0,0,0,,IS HE GOING FOR A DAISANGEN?
-Dialogue: 0,0:23:37.11,0:23:39.11,Default,,0,0,0,,Harada will also soon be in Tenpai
+Dialogue: 0,0:23:37.11,0:23:39.11,Default,,0,0,0,,Harada will soon be in Tenpai
 Dialogue: 0,0:23:39.11,0:23:41.31,Default,,0,0,0,,You can't do this. Ten!
-Dialogue: 0,0:23:41.31,0:23:44.32,Default,,0,0,0,,Any hand above this won't be in time
-Dialogue: 0,0:23:50.08,0:23:52.68,Default,,0,0,0,,Damn. He's in Furiten
+Dialogue: 0,0:23:41.31,0:23:44.32,Default,,0,0,0,,There isn't time for a hand above this
+Dialogue: 0,0:23:50.08,0:23:52.68,Default,,0,0,0,,Damn. He's in Furiten?
 Dialogue: 0,0:24:20.88,0:24:22.41,Default,,0,0,0,,Amazing
 Dialogue: 0,0:24:22.41,0:24:24.12,Default,,0,0,0,,What a fucking draw!
 Dialogue: 0,0:24:24.12,0:24:27.37,Default,,0,0,0,,That Green Dragon is the last one including the Dora indicator
-Dialogue: 0,0:24:27.37,0:24:29.61,Default,,0,0,0,,
-Dialogue: 0,0:24:30.59,0:24:32.03,Default,,0,0,0,,
-Dialogue: 0,0:24:32.03,0:24:34.94,Default,,0,0,0,,
+Dialogue: 0,0:24:27.37,0:24:29.61,Default,,0,0,0,,To draw it now!
+Dialogue: 0,0:24:30.59,0:24:32.03,Default,,0,0,0,,And because he drew it now...
+Dialogue: 0,0:24:32.03,0:24:34.94,Default,,0,0,0,,Next turn he'll draw single tile wait that can't be read
 Dialogue: 0,0:24:53.00,0:24:54.88,Default,,0,0,0,,Will he declare Riichi?
-Dialogue: 0,0:24:54.88,0:24:56.88,Default,,0,0,0,,
+Dialogue: 0,0:24:54.88,0:24:56.88,Default,,0,0,0,,Don't do it!
 Dialogue: 0,0:25:01.69,0:25:03.21,Default,,0,0,0,,We did it
 Dialogue: 0,0:25:03.21,0:25:05.21,Default,,0,0,0,,No Riichi!
 Dialogue: 0,0:25:08.25,0:25:09.64,Default,,0,0,0,,Kan
 Dialogue: 0,0:25:09.64,0:25:11.64,Default,,0,0,0,,WTF
 Dialogue: 0,0:25:13.39,0:25:15.39,Default,,0,0,0,,Ohhhh...
-Dialogue: 0,0:25:15.39,0:25:18.70,Default,,0,0,0,,
-Dialogue: 0,0:25:18.70,0:25:20.97,Default,,0,0,0,,
-Dialogue: 0,0:25:20.97,0:25:23.72,Default,,0,0,0,,
-Dialogue: 0,0:25:23.72,0:25:26.32,Default,,0,0,0,,
-Dialogue: 0,0:25:30.09,0:25:33.32,Default,,0,0,0,,
+Dialogue: 0,0:25:15.39,0:25:18.70,Default,,0,0,0,,Harada doesn't think Ten has a hidden Green Dragon triplet
+Dialogue: 0,0:25:18.70,0:25:20.97,Default,,0,0,0,,Letting Harada know he's going for a DaiSanGen...
+Dialogue: 0,0:25:20.97,0:25:23.72,Default,,0,0,0,,Harada will choose a Green Dragon to complete it
+Dialogue: 0,0:25:23.72,0:25:26.32,Default,,0,0,0,,that will be his priority
+Dialogue: 0,0:25:30.09,0:25:33.32,Default,,0,0,0,,Ten's single tile wait is the worst possible
 Dialogue: 0,0:25:33.32,0:25:35.05,Default,,0,0,0,,Harada has already discarded one of them
-Dialogue: 0,0:25:35.05,0:25:36.36,Default,,0,0,0,,There's only one remaining
-Dialogue: 0,0:25:36.36,0:25:37.74,Default,,0,0,0,,
-Dialogue: 0,0:25:37.74,0:25:40.24,Default,,0,0,0,,
-Dialogue: 0,0:25:40.24,0:25:42.24,Default,,0,0,0,,
-Dialogue: 0,0:25:42.24,0:25:45.76,Default,,0,0,0,,
-Dialogue: 0,0:25:45.76,0:25:47.76,Default,,0,0,0,,
-Dialogue: 0,0:25:50.81,0:25:53.65,Default,,0,0,0,,
-Dialogue: 0,0:25:53.65,0:25:55.65,Default,,0,0,0,,
+Dialogue: 0,0:25:35.05,0:25:36.36,Default,,0,0,0,,so there's only one remaining
+Dialogue: 0,0:25:36.36,0:25:37.74,Default,,0,0,0,,but he can't wait any more
+Dialogue: 0,0:25:37.74,0:25:40.24,Default,,0,0,0,,If he gives Harada just one more chance...
+Dialogue: 0,0:25:40.24,0:25:42.24,Default,,0,0,0,,he'll for sure declare Riichi
+Dialogue: 0,0:25:42.24,0:25:45.76,Default,,0,0,0,,There's no choice but to take the 5 Man single wait
+Dialogue: 0,0:25:50.81,0:25:53.65,Default,,0,0,0,,T-TEN?!?
+Dialogue: 0,0:25:53.65,0:25:55.65,Default,,0,0,0,,You're STILL waiting?
 Dialogue: 0,0:25:55.65,0:25:57.20,Default - white,,0,0,0,,原田が立直すれば
 Dialogue: 0,0:25:55.65,0:25:57.20,Default,,0,0,0,,If Harada declares Riichi
 Dialogue: 0,0:25:57.20,0:25:59.79,Default - white,,0,0,0,,すべては水泡に帰す
-Dialogue: 0,0:25:57.20,0:25:59.79,Default,,0,0,0,,it will all come to nothing (return to foam)
+Dialogue: 0,0:25:57.20,0:25:59.79,Default,,0,0,0,,all this will come to nothing!
+Dialogue: 0,0:26:15.90,0:26:19.28,Default,,0,0,0,,It's his turn again!
 Dialogue: 0,0:26:26.91,0:26:29.18,Default - white,,0,0,0,,原田、
-Dialogue: 0,0:26:26.91,0:26:29.18,Default,,0,0,0,,Harada,
+Dialogue: 0,0:26:26.91,0:26:29.18,Default - top,,0,0,0,,Harada,
 Dialogue: 0,0:26:29.18,0:26:32.19,Default - white,,0,0,0,,またせたな
-Dialogue: 0,0:26:29.18,0:26:32.19,Default,,0,0,0,,I've kept you waiting
+Dialogue: 0,0:26:29.18,0:26:32.19,Default - top,,0,0,0,,I've kept you waiting
 Dialogue: 0,0:26:34.15,0:26:37.21,Default - white,,0,0,0,,聴牌を宣言する
 Dialogue: 0,0:26:34.15,0:26:37.21,Default,,0,0,0,,I declare Tenpai
 Dialogue: 0,0:27:24.75,0:27:26.27,Default - white,,0,0,0,,馬鹿な！
-Dialogue: 0,0:27:24.75,0:27:26.27,Default,,0,0,0,,That's crazy!
+Dialogue: 0,0:27:24.75,0:27:26.27,Default - top,,0,0,0,,That's crazy!
 Dialogue: 0,0:27:26.27,0:27:27.50,Default - white,,0,0,0,,なぜ萬子？
-Dialogue: 0,0:27:26.27,0:27:27.50,Default,,0,0,0,,Why Man tiles?
+Dialogue: 0,0:27:26.27,0:27:27.50,Default - top,,0,0,0,,Why Man tiles?
 Dialogue: 0,0:27:27.50,0:27:29.50,Default - white,,0,0,0,,なぜ萬子と見抜く？
-Dialogue: 0,0:27:27.50,0:27:29.50,Default,,0,0,0,,How did he know it was Man tiles?
+Dialogue: 0,0:27:27.50,0:27:29.50,Default - top,,0,0,0,,How did he know it was Man tiles?
 Dialogue: 0,0:27:29.50,0:27:31.50,Default - white,,0,0,0,,天さんの捨て牌から
-Dialogue: 0,0:27:29.50,0:27:31.50,Default,,0,0,0,,From Ten's discards...
+Dialogue: 0,0:27:29.50,0:27:31.50,Default - top,,0,0,0,,From Ten's discards...
 Dialogue: 0,0:27:31.50,0:27:33.90,Default - white,,0,0,0,,萬子とは想像しづらい
-Dialogue: 0,0:27:31.50,0:27:33.90,Default,,0,0,0,,it's difficult to imagine it could be Man tiles
+Dialogue: 0,0:27:31.50,0:27:33.90,Default - top,,0,0,0,,it's difficult to imagine it could be Man tiles
 Dialogue: 0,0:27:33.90,0:27:37.07,Default - white,,0,0,0,,萬子を嫌った索子の混一色と読むのが定石
-Dialogue: 0,0:27:33.90,0:27:37.07,Default,,0,0,0,,Looks more like a by-the-book Sou Honisou that doesn't need Man tiles
+Dialogue: 0,0:27:33.90,0:27:37.07,Default - top,,0,0,0,,Looks more like a by-the-book Sou Honisou that doesn't need Man tiles
 Dialogue: 0,0:27:44.91,0:27:46.46,Default,,0,0,0,,
 Dialogue: 0,0:27:46.46,0:27:48.46,Default,,0,0,0,,
 Dialogue: 0,0:27:48.46,0:27:49.71,Default,,0,0,0,,
