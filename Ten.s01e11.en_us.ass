@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e11.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 416
-Active Line: 433
-Video Position: 39799
+Scroll Position: 46
+Active Line: 64
+Video Position: 6566
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,7 +82,7 @@ Dialogue: 0,0:03:04.60,0:03:07.18,Default - white,,0,0,0,,この手に
 Dialogue: 0,0:03:04.60,0:03:07.18,Default,,0,0,0,,In this hand...
 Dialogue: 0,0:03:07.18,0:03:11.32,Default - white,,0,0,0,,裏ドラが一つでも乗れば三倍満
 Dialogue: 0,0:03:07.18,0:03:11.32,Default,,0,0,0,,If I should carry even ONE Ura-Dora, it's a SanBaiMan win
-Dialogue: 0,0:03:11.81,0:03:14.65,Default,,0,0,0,,with only 13,000 points...
+Dialogue: 0,0:03:11.81,0:03:14.65,Default,,0,0,0,,with only 11,300 points...
 Dialogue: 0,0:03:16.01,0:03:18.33,Default - white,,0,0,0,,お前が飛ぶ
 Dialogue: 0,0:03:16.01,0:03:18.33,Default,,0,0,0,,It knocks you out
 Dialogue: 0,0:03:18.33,0:03:21.63,Default,,0,0,0,,HA HA HA HA\NBOTTOM TEXT
@@ -101,7 +101,7 @@ Dialogue: 0,0:03:34.54,0:03:36.33,Default,,0,0,0,,You may have cleared the Yaku
 Dialogue: 0,0:03:36.33,0:03:38.84,Default - white,,0,0,0,,同時に箱割れ者も出し、
 Dialogue: 0,0:03:36.33,0:03:38.84,Default,,0,0,0,,but at the same time cleaned out a teammate
 Dialogue: 0,0:03:38.84,0:03:42.96,Default - white,,0,0,0,,勝ちと負けの条件を同時に達成する可能性があるんや
-Dialogue: 0,0:03:38.84,0:03:42.96,Default,,0,0,0,,It's possible to complete both the conditions of victor and defeat simultaneously
+Dialogue: 0,0:03:38.84,0:03:42.96,Default,,0,0,0,,It's possible to complete both the conditions of victory and defeat simultaneously
 Dialogue: 0,0:03:44.12,0:03:46.88,Default - white,,0,0,0,,すべてはそこの
 Dialogue: 0,0:03:44.12,0:03:46.88,Default,,0,0,0,,And now everything
 Dialogue: 0,0:03:46.88,0:03:49.71,Default - white,,0,0,0,,裏ドラが決する
