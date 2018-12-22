@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e11.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 338
-Active Line: 348
-Video Position: 41467
+Scroll Position: 224
+Active Line: 243
+Video Position: 21560
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -155,12 +155,12 @@ Dialogue: 0,0:08:32.43,0:08:35.48,Default,,0,0,0,,we just might be becoming more
 Dialogue: 0,0:08:39.09,0:08:46.31,Default - top - cyan,,0,0,0,,#/tv/shows subs presents
 Dialogue: 0,0:08:48.82,0:08:53.61,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
 Dialogue: 0,0:08:48.82,0:08:53.61,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
-Dialogue: 0,0:08:49.38,0:08:51.18,Default - red,,0,0,0,,{\pos(309.283,935.967)}Kishitani Goro
 Dialogue: 0,0:08:49.31,0:08:51.18,Default - white,,0,0,0,,{\pos(834.666,711.138)}Ten Takeshi
+Dialogue: 0,0:08:49.38,0:08:51.18,Default - red,,0,0,0,,{\pos(309.283,935.967)}Kishitani Goro
 Dialogue: 0,0:08:54.09,0:08:58.27,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
 Dialogue: 0,0:08:54.09,0:08:58.27,Default - white - with - background,,0,0,0,,He's come back again
-Dialogue: 0,0:08:58.01,0:08:59.81,Default - red,,0,0,0,,{\pos(1146.314,916.247)}Furukawa Yuki
 Dialogue: 0,0:08:57.95,0:08:59.81,Default - white,,0,0,0,,{\pos(1161.459,585.064)}Igawa Hiroyuki
+Dialogue: 0,0:08:58.01,0:08:59.81,Default - red,,0,0,0,,{\pos(1146.314,916.247)}Furukawa Yuki
 Dialogue: 0,0:08:59.32,0:09:04.45,default - cyan - with - background,,0,0,0,,ざわざわと
 Dialogue: 0,0:08:59.32,0:09:04.45,Default - white - with - background,,0,0,0,,In anxiety...
 Dialogue: 0,0:09:04.98,0:09:10.09,default - cyan - with - background,,0,0,0,,息を殺して
@@ -188,100 +188,101 @@ Dialogue: 0,0:09:55.88,0:09:57.88,Default,,0,0,0,,it's Mahjong that's a little d
 Dialogue: 0,0:09:57.88,0:10:00.27,Default,,0,0,0,,This video will explain the rules
 Dialogue: 0,0:10:00.27,0:10:01.72,Default,,0,0,0,,Yo
 Dialogue: 0,0:10:01.05,0:10:02.81,default - cyan,,0,0,0,,Yessir
-Dialogue: 0,0:10:03.61,0:10:06.62,Default,,0,0,0,,100,000 points is placed on another table
 Dialogue: 0,0:10:02.78,0:10:04.51,Default - black,,0,0,0,,{\pos(970.667,686.667)}Two Player Mahjong Baisc Rules
+Dialogue: 0,0:10:03.61,0:10:06.62,Default,,0,0,0,,100,000 points is placed on another table
 Dialogue: 0,0:10:06.65,0:10:11.61,Default - red - small,,0,0,0,,{\pos(517.334,350.666)}West Team
 Dialogue: 0,0:10:06.65,0:10:11.61,Default - blue - small,,0,0,0,,{\pos(1432,342.666)}East Team
-Dialogue: 0,0:10:06.65,0:10:11.61,small - white,,0,0,0,,{\pos(909.333,193.333)}Dora:
-Dialogue: 0,0:10:07.31,0:10:11.61,small - white,,0,0,0,,{\pos(469.333,539.999)}Tsumo:
-Dialogue: 0,0:10:08.11,0:10:11.61,small - white,,0,0,0,,{\pos(1194.666,630.665)}Riizumo, White Dragon, 1 Dora: {\c&H00FF00&}Mangan
-Dialogue: 0,0:10:11.95,0:10:17.38,small - white,,0,0,0,,{\c&H0019FF&\pos(949.334,897.334)}East Team{\b1\c&H00FFD3&} 8000 points {\b0\c&H0019FF&}Awarded
-Dialogue: 0,0:10:21.55,0:10:26.51,Default - white,,0,0,0,,{\pos(962.667,585.333)}First Half: Stage A
-Dialogue: 0,0:10:21.55,0:10:26.51,Default - white,,0,0,0,,{\pos(952,953.333)}Second Half: Stage B
-Dialogue: 0,0:10:27.01,0:10:31.65,small - white,,0,0,0,,{\pos(960,254.666)}First Half: Stage A
-Dialogue: 0,0:10:28.15,0:10:31.65,small - white,,0,0,0,,{\pos(952,878.666)}Two people play in the same way as 4 person Mahjong
-Dialogue: 0,0:10:32.95,0:10:35.75,small - white,,0,0,0,,{\pos(968,870.667)}You ca declare Chii off the player opposite
-Dialogue: 0,0:10:37.91,0:10:44.38,Default - red - small,,0,0,0,,{\pos(320,265.333)}West Team
-Dialogue: 0,0:10:37.91,0:10:44.38,Default - blue - small,,0,0,0,,{\pos(1626.667,265.333)}East Team
-Dialogue: 0,0:10:39.48,0:10:44.38,small - white,,0,0,0,,{\pos(981.333,868)}You must openly declare you are in Tenpai
-Dialogue: 0,0:10:48.78,0:10:51.18,Default - red - small,,0,0,0,,{\pos(341.333,262.666)}West Team
-Dialogue: 0,0:10:48.78,0:10:51.18,Default - blue - small,,0,0,0,,{\pos(1621.333,273.333)}East Team
-Dialogue: 0,0:10:51.31,0:10:58.68,Default - white,,0,0,0,,{\pos(962.667,654.667)}Stage A
-Dialogue: 0,0:10:51.81,0:10:58.68,Default - red,,0,0,0,,{\frz15.23\fscx206\fscy236\pos(978.667,617.334)}Complete
-Dialogue: 0,0:10:53.05,0:10:58.68,small - white,,0,0,0,,{\pos(954.667,748)}When either declares Tenpai, that style of play ends
+Dialogue: 0,0:10:06.65,0:10:11.61,small - white,,0,0,0,,{\pos(909.333,193.333)}{\c&HB8CD9C&}Dora:
 Dialogue: 0,0:10:07.18,0:10:08.73,Default,,0,0,0,,Tsumo!
+Dialogue: 0,0:10:07.31,0:10:11.61,small - white,,0,0,0,,{\pos(469.333,539.999)\c&HB8CD9C&}Tsumo:
 Dialogue: 0,0:10:07.98,0:10:11.18,Default,,0,0,0,,No points are traded between players
+Dialogue: 0,0:10:08.11,0:10:11.61,small - white,,0,0,0,,{\pos(1194.666,630.665)}{\c&HB8CD9C&}Riizumo, White Dragon, 1 Dora: {\c&H3DFBBD&}Mangan
 Dialogue: 0,0:10:11.18,0:10:14.41,Default,,0,0,0,,Winning points are merely taken
+Dialogue: 0,0:10:11.95,0:10:17.38,small - white,,0,0,0,,{\c&H0019FF&\pos(949.334,897.334)}East Team{\b1\c&H2DE7A8&} 8000 points {\b0\c&H0019FF&}Awarded
 Dialogue: 0,0:10:14.41,0:10:15.84,Default,,0,0,0,,When the match is over
 Dialogue: 0,0:10:15.84,0:10:19.47,Default,,0,0,0,,This winner simply has the most points collected
 Dialogue: 0,0:10:19.47,0:10:21.47,Default,,0,0,0,,This style of two player Mahjong
 Dialogue: 0,0:10:21.47,0:10:23.47,Default,,0,0,0,,Has a first part called Stage A
+Dialogue: 0,0:10:21.55,0:10:26.51,Default - white,,0,0,0,,{\pos(962.667,585.333)\c&HF0F1BB&}First Half: Stage A
+Dialogue: 0,0:10:21.55,0:10:26.51,Default - white,,0,0,0,,{\pos(952,953.333)\c&HE8F7B2&}Second Half: Stage B
+Dialogue: 0,0:10:21.55,0:10:26.51,Default - black,,0,0,0,,{\pos(960,124)}2 Person Mahjong Basic Rules
 Dialogue: 0,0:10:23.47,0:10:26.48,Default,,0,0,0,,And a second part called Stage B which follows
 Dialogue: 0,0:10:26.48,0:10:28.14,Default,,0,0,0,,{\pos(1576,1038.667)}First, stage A
+Dialogue: 0,0:10:27.01,0:10:31.65,small - white,,0,0,0,,{\pos(960,254.666)}{\c&HF0F1BB&}First Half: Stage A
 Dialogue: 0,0:10:28.14,0:10:31.52,Default,,0,0,0,,This is like 4 person Mahjong with only 2 players
+Dialogue: 0,0:10:28.15,0:10:31.65,small - white,,0,0,0,,{\pos(952,878.666)}{\c&HF0F1BB&}Two people play in the same way as 4 person Mahjong
 Dialogue: 0,0:10:32.08,0:10:33.58,Default - top,,0,0,0,,Chii
+Dialogue: 0,0:10:32.95,0:10:35.75,small - white,,0,0,0,,{\pos(968,870.667)}{\c&HF0F1BB&}You ca declare Chii off the player opposite
 Dialogue: 0,0:10:33.58,0:10:36.25,Default - top,,0,0,0,,You can declare Chii off the other player
 Dialogue: 0,0:10:36.25,0:10:37.93,Default,,0,0,0,,It differs as follows
+Dialogue: 0,0:10:37.91,0:10:44.38,Default - red - small,,0,0,0,,{\pos(320,265.333)}West Team
+Dialogue: 0,0:10:37.91,0:10:44.38,Default - blue - small,,0,0,0,,{\pos(1626.667,265.333)}East Team
 Dialogue: 0,0:10:37.93,0:10:39.93,Default - top,,0,0,0,,Whether your hand is open or closed...
+Dialogue: 0,0:10:39.48,0:10:44.38,small - white,,0,0,0,,{\pos(981.333,868)}{\c&HF0F1BB&}You must openly declare you are in Tenpai
 Dialogue: 0,0:10:39.93,0:10:42.91,Default - top,,0,0,0,,if you're in Tenpai you must openly declare it
 Dialogue: 0,0:10:42.91,0:10:44.68,Default - top,,0,0,0,,Tenpai
 Dialogue: 0,0:10:44.68,0:10:47.50,Default,,0,0,0,,If your hand is closed you may also declare Riichi
 Dialogue: 0,0:10:47.50,0:10:49.50,Default,,0,0,0,,Riichi
+Dialogue: 0,0:10:48.78,0:10:51.18,Default - red - small,,0,0,0,,{\pos(341.333,262.666)}West Team
+Dialogue: 0,0:10:48.78,0:10:51.18,Default - blue - small,,0,0,0,,{\pos(1621.333,273.333)}East Team
 Dialogue: 0,0:10:49.50,0:10:51.72,Default,,0,0,0,,Thus ends stage A
+Dialogue: 0,0:10:51.31,0:10:58.68,Default - white,,0,0,0,,{\pos(962.667,654.667)\c&H747C56&}Stage A
 Dialogue: 0,0:10:51.72,0:10:53.26,Default,,0,0,0,,In this style of Mahjong
+Dialogue: 0,0:10:51.81,0:10:58.68,Default - red,,0,0,0,,{\frz15.23\fscx206\fscy236\pos(978.667,617.334)\c&H1607B5&}Complete
+Dialogue: 0,0:10:53.05,0:10:58.68,small - white,,0,0,0,,{\pos(954.667,748)\c&HECF1C1&}When either declares Tenpai, that style of play ends
 Dialogue: 0,0:10:53.26,0:10:56.30,Default - top,,0,0,0,,at the point when either player declares Tenpai
 Dialogue: 0,0:10:56.30,0:10:58.72,Default - top,,0,0,0,,The method of play previously followed completely ends
-Dialogue: 0,0:10:58.72,0:11:02.08,Default,,0,0,0,,consequently speed is the greatest advantage
-Dialogue: 0,0:11:02.08,0:11:04.54,Default,,0,0,0,,The 2nd part is Stage B
-Dialogue: 0,0:11:03.31,0:11:06.45,small - white,,0,0,0,,{\pos(930.667,702.667)}2nd Half: Stage B
+Dialogue: 0,0:10:58.72,0:11:02.08,Default,,0,0,0,,consequently speed is of the greatest advantage
 Dialogue: 0,0:11:02.05,0:11:06.45,Default - red - small,,0,0,0,,{\pos(325.334,268.001)}West Team
 Dialogue: 0,0:11:02.05,0:11:06.45,Default - blue - small,,0,0,0,,{\pos(1616.001,273.334)}East Team
-Dialogue: 0,0:11:06.51,0:11:12.98,small - white,,0,0,0,,{\pos(976,868)}Guesses opponents winning tile, presents 2 designated tiles
-Dialogue: 0,0:11:12.98,0:11:20.71,Default - red - small,,0,0,0,,{\pos(336,273.333)}West Team
-Dialogue: 0,0:11:12.98,0:11:20.71,Default - blue - small,,0,0,0,,{\pos(1618.667,273.333)}East Team
-Dialogue: 0,0:11:12.98,0:11:20.71,small - white,,0,0,0,,{\pos(402.667,644)}Desginated Tiles
-Dialogue: 0,0:11:12.98,0:11:20.71,small - white,,0,0,0,,{\pos(1536,649.333)}Winning Tiles
-Dialogue: 0,0:11:16.98,0:11:20.71,Default - white,,0,0,0,,{\pos(933.333,406.666)}Draw
+Dialogue: 0,0:11:02.08,0:11:04.54,Default,,0,0,0,,The 2nd part is Stage B
+Dialogue: 0,0:11:03.31,0:11:06.45,small - white,,0,0,0,,{\c&HEDF6B5&\pos(954.667,678.667)}2nd Half: Stage B
 Dialogue: 0,0:11:04.54,0:11:06.54,Default,,0,0,0,,The side who hasn't declared Tenpai
+Dialogue: 0,0:11:06.51,0:11:12.98,small - white,,0,0,0,,{\pos(976,868)\c&HF4F2BF&}Guesses opponents winning tile, presents 2 designated tiles
 Dialogue: 0,0:11:06.54,0:11:09.26,Default - top,,0,0,0,,Guesses his opponent's winning tiles
 Dialogue: 0,0:11:09.26,0:11:11.44,Default - top,,0,0,0,,Two designated tiles are presented
+Dialogue: 0,0:11:12.98,0:11:20.71,Default - red - small,,0,0,0,,{\pos(336,273.333)}West Team
+Dialogue: 0,0:11:12.98,0:11:20.71,Default - blue - small,,0,0,0,,{\pos(1618.667,273.333)}East Team
+Dialogue: 0,0:11:12.98,0:11:20.71,small - white,,0,0,0,,{\pos(402.667,644)}{\c&HF4F2BF&}Desginated Tiles
+Dialogue: 0,0:11:12.98,0:11:20.71,small - white,,0,0,0,,{\pos(1536,649.333)}{\c&HF4F2BF&}Winning Tiles
 Dialogue: 0,0:11:12.99,0:11:16.08,Default,,0,0,0,,if there's a winning tile among the two
-Dialogue: 0,0:11:23.95,0:11:32.61,Default - red - small,,0,0,0,,{\pos(336,273.333)}West Team
-Dialogue: 0,0:11:23.95,0:11:32.61,Default - blue - small,,0,0,0,,{\pos(1618.667,273.333)}East Team
-Dialogue: 0,0:11:23.95,0:11:32.61,small - white,,0,0,0,,{\pos(402.667,644)}Desginated Tiles
-Dialogue: 0,0:11:23.95,0:11:32.61,small - white,,0,0,0,,{\pos(1536,649.333)}Winning Tiles
-Dialogue: 0,0:11:24.68,0:11:32.61,small - white,,0,0,0,,{\pos(968,51.999)}If among the designated tiles there are no winning tiles
-Dialogue: 0,0:11:27.68,0:11:32.61,Default,,0,0,0,,{\pos(986.667,371.999)}Gets the right to make 5 draws
 Dialogue: 0,0:11:16.08,0:11:17.47,Default,,0,0,0,,the hand ends in a draw
+Dialogue: 0,0:11:16.98,0:11:20.71,Default - white,,0,0,0,,{\pos(933.333,406.666)}Draw
 Dialogue: 0,0:11:17.47,0:11:18.83,Default,,0,0,0,,the side attempting to win...
 Dialogue: 0,0:11:18.83,0:11:20.83,Default,,0,0,0,,must without exceptions show their hand
 Dialogue: 0,0:11:20.83,0:11:23.98,Default,,0,0,0,,this is to protect against false Tenpai declarations
+Dialogue: 0,0:11:23.95,0:11:32.61,Default - red - small,,0,0,0,,{\pos(336,273.333)}West Team
+Dialogue: 0,0:11:23.95,0:11:32.61,Default - blue - small,,0,0,0,,{\pos(1618.667,273.333)}East Team
+Dialogue: 0,0:11:23.95,0:11:32.61,small - white,,0,0,0,,{\pos(402.667,644)}{\c&HF4F2BF&}Desginated Tiles
+Dialogue: 0,0:11:23.95,0:11:32.61,small - white,,0,0,0,,{\pos(1536,649.333)}{\c&HF4F2BF&}Winning Tiles
 Dialogue: 0,0:11:23.98,0:11:27.52,Default,,0,0,0,,If there aren't any winning tiles among the two
+Dialogue: 0,0:11:24.68,0:11:32.61,small - white,,0,0,0,,{\pos(968,51.999)\c&HE7E7C7&}{\c&HF4F2BF&}If among the designated tiles there are no winning tiles
 Dialogue: 0,0:11:27.52,0:11:30.97,Default,,0,0,0,,the side declaring tenpai has the right to 5 draws
+Dialogue: 0,0:11:27.68,0:11:32.61,Default,,0,0,0,,{\pos(986.667,371.999)\c&H3DFBBD&}Gets the right to make 5 draws
 Dialogue: 0,0:11:30.97,0:11:32.97,Default,,0,0,0,,Tsumo!
 Dialogue: 0,0:11:35.69,0:11:38.73,Default,,0,0,0,,If they haven't completed their hands in 5 draws
 Dialogue: 0,0:11:35.71,0:11:42.05,Default - red - small,,0,0,0,,{\pos(336,273.333)}West Team
 Dialogue: 0,0:11:35.71,0:11:42.05,Default - blue - small,,0,0,0,,{\pos(1618.667,273.333)}East Team
-Dialogue: 0,0:11:35.71,0:11:42.05,small - white,,0,0,0,,{\pos(402.667,644)}Desginated Tiles
-Dialogue: 0,0:11:35.71,0:11:42.05,small - white,,0,0,0,,{\pos(1536,649.333)}Winning Tiles
-Dialogue: 0,0:11:35.71,0:11:42.05,small - white,,0,0,0,,{\pos(632,401.332)}Draws
-Dialogue: 0,0:11:37.55,0:11:42.05,Default,,0,0,0,,{\pos(1008,94.666)}5 failed draws
+Dialogue: 0,0:11:35.71,0:11:42.05,small - white,,0,0,0,,{\pos(402.667,644)}{\c&HF4F2BF&}Desginated Tiles
+Dialogue: 0,0:11:35.71,0:11:42.05,small - white,,0,0,0,,{\pos(1536,649.333)}{\c&HF4F2BF&}Winning Tiles
+Dialogue: 0,0:11:35.71,0:11:42.05,small - white,,0,0,0,,{\pos(632,401.332)}{\c&HF4F2BF&}Draws
+Dialogue: 0,0:11:37.55,0:11:42.05,Default,,0,0,0,,{\pos(1008,94.666)\c&H29FBB1&}5 failed draws
 Dialogue: 0,0:11:38.73,0:11:40.73,Default,,0,0,0,,the stage goes back to the start
 Dialogue: 0,0:11:40.73,0:11:44.24,Default,,0,0,0,,Two tiles are selected to complete the Riichi
 Dialogue: 0,0:11:44.24,0:11:46.83,Default,,0,0,0,,A successful reading of the hand ends the hand
 Dialogue: 0,0:11:44.28,0:11:56.08,Default - red - small,,0,0,0,,{\pos(336,273.333)}West Team
 Dialogue: 0,0:11:44.28,0:11:56.08,Default - blue - small,,0,0,0,,{\pos(1618.667,273.333)}East Team
-Dialogue: 0,0:11:44.28,0:11:56.08,small - white,,0,0,0,,{\pos(402.667,644)}Desginated Tiles
-Dialogue: 0,0:11:44.28,0:11:56.08,small - white,,0,0,0,,{\pos(1536,649.333)}Winning Tiles
+Dialogue: 0,0:11:44.28,0:11:56.08,small - white,,0,0,0,,{\pos(402.667,644)}{\c&HF4F2BF&}Desginated Tiles
+Dialogue: 0,0:11:44.28,0:11:56.08,small - white,,0,0,0,,{\pos(1536,649.333)}{\c&HF4F2BF&}Winning Tiles
 Dialogue: 0,0:11:46.83,0:11:50.41,Default,,0,0,0,,and if they can't, the side in Tepai can draw 5 more tiles
-Dialogue: 0,0:11:56.31,0:11:58.65,Default,,0,0,0,,{\pos(978.667,654.667)}Special Rule
-Dialogue: 0,0:11:58.65,0:12:03.75,Default - red - small,,0,0,0,,{\pos(421.333,86.667)}High Score {\c&HFFFFFF&}case:
-Dialogue: 0,0:11:58.65,0:12:03.75,Default - blue - small,,0,0,0,,{\pos(424,582.667)}Low Score {\c&HFFFFFF&}case:
-Dialogue: 0,0:11:58.65,0:12:03.75,small - white,,0,0,0,,{\pos(1381.334,214.667)}Riichi, Tsumo, Sansyoku
-Dialogue: 0,0:11:58.65,0:12:03.75,small - white,,0,0,0,,{\pos(1373.334,692)}Riichi, Tsumo
 Dialogue: 0,0:11:50.41,0:11:52.41,Default,,0,0,0,,And it repeats in this manner
 Dialogue: 0,0:11:52.41,0:11:54.83,Default,,0,0,0,,this continues while there are still safe tiles remaining
+Dialogue: 0,0:11:56.31,0:11:58.65,Default,,0,0,0,,{\pos(978.667,654.667)\c&H14C59B&}Special Rule
 Dialogue: 0,0:11:56.38,0:11:58.38,Default,,0,0,0,,There is a single special rule
+Dialogue: 0,0:11:58.65,0:12:03.75,Default - red - small,,0,0,0,,{\pos(421.333,86.667)}High Score {\c&HF4F2BF&}case:
+Dialogue: 0,0:11:58.65,0:12:03.75,Default - blue - small,,0,0,0,,{\pos(424,582.667)}Low Score {\c&HF4F2BF&}case:
+Dialogue: 0,0:11:58.65,0:12:03.75,small - white,,0,0,0,,{\pos(1381.334,214.667)}{\c&HF4F2BF&}Riichi, Tsumo, Sansyoku
+Dialogue: 0,0:11:58.65,0:12:03.75,small - white,,0,0,0,,{\pos(1373.334,692)}{\c&HF4F2BF&}Riichi, Tsumo
 Dialogue: 0,0:11:58.92,0:12:01.63,Default,,0,0,0,,If, for example, you make SanSyoku with 2 Man
 Dialogue: 0,0:12:01.63,0:12:03.87,Default,,0,0,0,,the hand has wildly different valuations depending on winning tile
 Dialogue: 0,0:12:03.87,0:12:05.87,Default,,0,0,0,,If you draw the lower scoring tile
@@ -291,7 +292,7 @@ Dialogue: 0,0:12:11.18,0:12:12.72,Default,,0,0,0,,Tsumo!
 Dialogue: 0,0:12:12.78,0:12:14.71,Default - black,,0,0,0,,{\pos(978.667,369.333)}2 Person Mahjong Basic Rules
 Dialogue: 0,0:12:12.78,0:12:14.71,Default - red,,0,0,0,,{\pos(962.667,827.999)}fin
 Dialogue: 0,0:12:14.72,0:12:17.45,Default,,0,0,0,,Other rules follow in that manner
-Dialogue: 0,0:12:21.18,0:12:22.48,Default - white,,0,0,0,,Of course
+Dialogue: 0,0:12:21.18,0:12:22.48,Default,,0,0,0,,Of course
 Dialogue: 0,0:12:22.48,0:12:25.44,Default,,0,0,0,,It's a style of play addressing luck,
 Dialogue: 0,0:12:25.44,0:12:26.56,Default,,0,0,0,,and thus
 Dialogue: 0,0:12:26.56,0:12:29.00,Default,,0,0,0,,their respective power levels...
@@ -353,17 +354,17 @@ Dialogue: 0,0:18:08.09,0:18:10.95,Default,,0,0,0,,Riizumo (Riichi + Tsumo) with 
 Dialogue: 0,0:18:10.95,0:18:12.95,Default,,0,0,0,,4,000 points
 Dialogue: 0,0:18:15.48,0:18:18.84,Default,,0,0,0,,If he had kept the 7 Sou and discarded the 1 Sou
 Dialogue: 0,0:18:18.84,0:18:21.28,Default,,0,0,0,,He'd have had a 3 way wait for a Mentanpin (Riichi + Tanyao + Pinfu) with one Dora
+Dialogue: 0,0:18:21.28,0:18:24.04,Default,,0,0,0,,Why did he take a middle wait?
 Dialogue: 0,0:18:28.68,0:18:32.38,Default - white,,0,0,0,,{\pos(1154.667,860)}2nd Game
 Dialogue: 0,0:18:28.68,0:18:32.38,small - white,,0,0,0,,{\pos(1210.667,953.334)} Ten: 0
 Dialogue: 0,0:18:28.68,0:18:32.38,small - white,,0,0,0,,{\pos(1064,1028)\c&H0019FF&}Dealer--> {\c&HFFFFFF&}Harada: {\c&H00FF00&}4000
-Dialogue: 0,0:18:21.28,0:18:24.04,Default,,0,0,0,,Why did he take a middle wait?
 Dialogue: 0,0:18:55.10,0:18:57.95,Default,,0,0,0,,Tenpai
 Dialogue: 0,0:18:57.95,0:18:59.69,Default,,0,0,0,,He's got it
 Dialogue: 0,0:18:59.69,0:19:01.69,Default,,0,0,0,,And so quickly!
 Dialogue: 0,0:19:05.21,0:19:06.91,Default,,0,0,0,,Riichi
 Dialogue: 0,0:19:06.91,0:19:10.19,Default,,0,0,0,,But why a middle wait on a 7 Man?
 Dialogue: 0,0:19:10.19,0:19:13.80,Default,,0,0,0,,If he discarded the 8 Man he would have had a 4/7 Man double sided wait
-Dialogue: 0,0:19:13.80,0:19:16.43,Default,,0,0,0,,it would still be a Pinfu hand
+Dialogue: 0,0:19:13.80,0:19:16.43,Default,,0,0,0,,and it would be Pinfu as well
 Dialogue: 0,0:19:32.97,0:19:35.07,Default,,0,0,0,,Hunh?
 Dialogue: 0,0:20:01.07,0:20:03.75,Default,,0,0,0,,Tsumo
 Dialogue: 0,0:20:06.81,0:20:09.84,Default,,0,0,0,,Rizumo, Tanyao is 4,000 points
@@ -374,10 +375,10 @@ Dialogue: 0,0:20:20.28,0:20:22.81,Default,,0,0,0,,are stopped dead by any one of
 Dialogue: 0,0:20:22.81,0:20:24.99,Default,,0,0,0,,They're consequently easy to read
 Dialogue: 0,0:20:24.99,0:20:26.81,Default,,0,0,0,,Single tile or middle waits, however...
 Dialogue: 0,0:20:26.81,0:20:29.08,Default,,0,0,0,,you've got to complete them with only single tile...
+Dialogue: 0,0:20:29.08,0:20:31.08,Default,,0,0,0,,They're difficult to read
 Dialogue: 0,0:22:06.61,0:22:11.21,Default - white,,0,0,0,,{\pos(736,862.667)}3rd Game
 Dialogue: 0,0:22:06.61,0:22:11.21,small - white,,0,0,0,,{\pos(842.667,948.001)\c&H0019FF&}Dealer--> {\c&HFFFFFF&}Ten: {\c&H00FF00&}4000
 Dialogue: 0,0:22:06.61,0:22:11.21,small - white,,0,0,0,,{\pos(930.667,1036)}Harada: 4000
-Dialogue: 0,0:20:29.08,0:20:31.08,Default,,0,0,0,,They're difficult to read
 Dialogue: 0,0:22:14.46,0:22:15.72,Default,,0,0,0,,There it is!
 Dialogue: 0,0:22:18.68,0:22:20.65,Default,,0,0,0,,If he completes this huge hand
 Dialogue: 0,0:22:20.65,0:22:23.20,Default,,0,0,0,,The points situation will dramatically change
