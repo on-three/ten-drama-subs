@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e11.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 224
-Active Line: 243
-Video Position: 21560
+Scroll Position: 155
+Active Line: 175
+Video Position: 18989
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -207,12 +207,12 @@ Dialogue: 0,0:10:21.55,0:10:26.51,Default - white,,0,0,0,,{\pos(962.667,585.333)
 Dialogue: 0,0:10:21.55,0:10:26.51,Default - white,,0,0,0,,{\pos(952,953.333)\c&HE8F7B2&}Second Half: Stage B
 Dialogue: 0,0:10:21.55,0:10:26.51,Default - black,,0,0,0,,{\pos(960,124)}2 Person Mahjong Basic Rules
 Dialogue: 0,0:10:23.47,0:10:26.48,Default,,0,0,0,,And a second part called Stage B which follows
-Dialogue: 0,0:10:26.48,0:10:28.14,Default,,0,0,0,,{\pos(1576,1038.667)}First, stage A
+Dialogue: 0,0:10:26.48,0:10:28.14,Default,,0,0,0,,First, stage A
 Dialogue: 0,0:10:27.01,0:10:31.65,small - white,,0,0,0,,{\pos(960,254.666)}{\c&HF0F1BB&}First Half: Stage A
 Dialogue: 0,0:10:28.14,0:10:31.52,Default,,0,0,0,,This is like 4 person Mahjong with only 2 players
 Dialogue: 0,0:10:28.15,0:10:31.65,small - white,,0,0,0,,{\pos(952,878.666)}{\c&HF0F1BB&}Two people play in the same way as 4 person Mahjong
 Dialogue: 0,0:10:32.08,0:10:33.58,Default - top,,0,0,0,,Chii
-Dialogue: 0,0:10:32.95,0:10:35.75,small - white,,0,0,0,,{\pos(968,870.667)}{\c&HF0F1BB&}You ca declare Chii off the player opposite
+Dialogue: 0,0:10:32.95,0:10:35.75,small - white,,0,0,0,,{\pos(968,870.667)}{\c&HF0F1BB&}You can declare Chii off the player opposite
 Dialogue: 0,0:10:33.58,0:10:36.25,Default - top,,0,0,0,,You can declare Chii off the other player
 Dialogue: 0,0:10:36.25,0:10:37.93,Default,,0,0,0,,It differs as follows
 Dialogue: 0,0:10:37.91,0:10:44.38,Default - red - small,,0,0,0,,{\pos(320,265.333)}West Team
