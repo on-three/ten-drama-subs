@@ -15,15 +15,15 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e12.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 342
-Active Line: 366
-Video Position: 49825
+Scroll Position: 442
+Active Line: 463
+Video Position: 49766
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Open Sans Semibold,84,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: default - cyan,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: Default - white,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default - white,Open Sans Semibold,84,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: Default - red,Open Sans Semibold,36,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: small - white,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: default - cyan - with - background,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
@@ -58,7 +58,9 @@ Dialogue: 0,0:00:55.64,0:00:57.79,Default,,0,0,0,,
 Dialogue: 0,0:01:21.31,0:01:23.26,Default,,0,0,0,,It's come
 Dialogue: 0,0:01:23.26,0:01:25.13,Default,,0,0,0,,If he draws a Red Dragon with Riichi
 Dialogue: 0,0:01:25.13,0:01:27.13,Default,,0,0,0,,A Riizumo with Red and White Dragons is a Mangan
+Dialogue: 0,0:01:27.13,0:01:28.65,Default - white,,0,0,0,,辿り着くんだ
 Dialogue: 0,0:01:27.13,0:01:28.65,Default,,0,0,0,,He's broken through
+Dialogue: 0,0:01:28.65,0:01:31.29,Default - white,,0,0,0,,懸命に打てば必ず
 Dialogue: 0,0:01:28.65,0:01:31.29,Default,,0,0,0,,If he plays with all his ability, it's unavoidable!
 Dialogue: 0,0:01:36.41,0:01:38.08,Default,,0,0,0,,Harada's one sided wait
 Dialogue: 0,0:01:38.08,0:01:40.75,Default,,0,0,0,,
@@ -71,9 +73,13 @@ Dialogue: 0,0:02:04.54,0:02:06.12,Default,,0,0,0,,Pon
 Dialogue: 0,0:02:09.39,0:02:11.69,Default,,0,0,0,,With that move a Yaku is confirmed
 Dialogue: 0,0:02:11.69,0:02:14.22,Default,,0,0,0,,Afterwards, no matter the tiles, it's best just to get into Tenpai
 Dialogue: 0,0:02:14.22,0:02:16.22,Default,,0,0,0,,It's over
+Dialogue: 0,0:02:22.33,0:02:24.56,Default - white,,0,0,0,,天さんには2つの縛りがある
 Dialogue: 0,0:02:22.33,0:02:24.56,Default,,0,0,0,,Ten has two limitations strangling him
+Dialogue: 0,0:02:24.56,0:02:26.96,Default - white,,0,0,0,,一つは満貫以上の手縛り
 Dialogue: 0,0:02:24.56,0:02:26.96,Default,,0,0,0,,One is making a Mangan hand or greater
-Dialogue: 0,0:02:26.96,0:02:29.45,Default,,0,0,0,,The other is his hand being read in stage B
+Dialogue: 0,0:02:26.96,0:02:29.45,Default - white,,0,0,0,,もう一つはステージBの看破
+Dialogue: 0,0:02:26.96,0:02:29.45,Default,,0,0,0,,The other is his hand being ready in stage B
+Dialogue: 0,0:02:29.45,0:02:31.90,Default - white,,0,0,0,,そのためには強運が必要だ」と分析する
 Dialogue: 0,0:02:29.45,0:02:31.90,Default,,0,0,0,,To that goal he needs godly luck
 Dialogue: 0,0:02:36.91,0:02:38.91,Default,,0,0,0,,Harada's one tile from Tenpai
 Dialogue: 0,0:02:56.81,0:02:58.12,Default,,0,0,0,,This character...
@@ -85,60 +91,88 @@ Dialogue: 0,0:03:34.09,0:03:36.44,Default,,0,0,0,,If I discard the 2 and 4 Sou
 Dialogue: 0,0:03:36.44,0:03:40.12,Default,,0,0,0,,
 Dialogue: 0,0:03:56.22,0:03:57.96,Default,,0,0,0,,What a mistake!
 Dialogue: 0,0:03:57.96,0:04:01.53,Default,,0,0,0,,If he kept the 4 Sou and discarded the 3 Man, he'd be in Tenpai!
-Dialogue: 0,0:04:01.53,0:04:03.28,Default,,0,0,0,,
-Dialogue: 0,0:04:03.28,0:04:05.28,Default,,0,0,0,,
+Dialogue: 0,0:04:01.53,0:04:03.28,Default - white,,0,0,0,,あかん、
+Dialogue: 0,0:04:03.28,0:04:05.28,Default - white,,0,0,0,,狂い始めとる
+Dialogue: 0,0:04:05.28,0:04:06.91,Default - white,,0,0,0,,原田さんの直感
 Dialogue: 0,0:04:05.28,0:04:06.91,Default,,0,0,0,,Harada's gut instincts...
+Dialogue: 0,0:04:06.91,0:04:08.99,Default - white,,0,0,0,,流れが
 Dialogue: 0,0:04:06.91,0:04:08.99,Default,,0,0,0,,have they been washed away?
 Dialogue: 0,0:04:35.16,0:04:36.56,Default,,0,0,0,,T-Ten!
 Dialogue: 0,0:04:36.56,0:04:38.56,Default,,0,0,0,,It's getting more difficult
+Dialogue: 0,0:04:39.75,0:04:40.83,Default - white,,0,0,0,,ひろゆき、
 Dialogue: 0,0:04:39.75,0:04:40.83,Default,,0,0,0,,Hiroyuki...
+Dialogue: 0,0:04:40.83,0:04:42.03,Default - white,,0,0,0,,大丈夫だ
 Dialogue: 0,0:04:40.83,0:04:42.03,Default,,0,0,0,,It's fine
+Dialogue: 0,0:04:42.03,0:04:44.03,Default - white,,0,0,0,,原田も苦しい
 Dialogue: 0,0:04:42.03,0:04:44.03,Default,,0,0,0,,Harada's also having a tough time
+Dialogue: 0,0:04:44.03,0:04:46.51,Default - white,,0,0,0,,まだハレていない
 Dialogue: 0,0:04:44.03,0:04:46.51,Default,,0,0,0,,He hasn't gotten into Tenpai despite calling that West Wind
-Dialogue: 0,0:04:47.31,0:04:52.16,Default,,0,0,0,,
+Dialogue: 0,0:04:47.31,0:04:52.16,Default - white,,0,0,0,,やつの手を見てもそれは明らか
 Dialogue: 0,0:04:52.16,0:04:53.47,Default,,0,0,0,,And what's more...
-Dialogue: 0,0:04:53.47,0:04:55.84,Default,,0,0,0,,
+Dialogue: 0,0:04:53.47,0:04:55.84,Default - white,,0,0,0,,奴ももがいているんだ
 Dialogue: 0,0:05:07.26,0:05:09.47,Default,,0,0,0,,Ten's one tile from Tenpai!
 Dialogue: 0,0:05:09.47,0:05:11.47,Default,,0,0,0,,Draw your tile!
 Dialogue: 0,0:05:21.37,0:05:22.89,Default,,0,0,0,,Shit!
 Dialogue: 0,0:05:36.65,0:05:37.96,Default,,0,0,0,,Come on!
 Dialogue: 0,0:05:37.96,0:05:39.56,Default,,0,0,0,,There's no time!
 Dialogue: 0,0:05:39.56,0:05:41.56,Default,,0,0,0,,If you don't win this...
+Dialogue: 0,0:05:49.53,0:05:51.53,Default - white,,0,0,0,,勝ちは目前なんや、
 Dialogue: 0,0:05:49.53,0:05:51.53,Default,,0,0,0,,Victory is right before me
-Dialogue: 0,0:05:51.53,0:05:53.53,Default,,0,0,0,,
-Dialogue: 0,0:06:04.59,0:06:07.68,Default,,0,0,0,,
-Dialogue: 0,0:06:07.68,0:06:10.17,Default,,0,0,0,,
+Dialogue: 0,0:05:51.53,0:05:53.53,Default - white,,0,0,0,,なんでひけんのんじゃ
+Dialogue: 0,0:06:04.59,0:06:07.68,Default - white,,0,0,0,,鳴かない方が良いに決まってる
+Dialogue: 0,0:06:07.68,0:06:10.17,Default - white,,0,0,0,,俺はただ和了ればいいんじゃない
+Dialogue: 0,0:06:10.17,0:06:12.83,Default - white,,0,0,0,,満貫にたどり着かなければならないんだ
 Dialogue: 0,0:06:10.17,0:06:12.83,Default,,0,0,0,,I have to struggle onwards to a Mangan
+Dialogue: 0,0:06:12.83,0:06:14.19,Default - white,,0,0,0,,だとすれば
 Dialogue: 0,0:06:12.83,0:06:14.19,Default,,0,0,0,,And to do that...
+Dialogue: 0,0:06:14.19,0:06:16.19,Default - white,,0,0,0,,この二索は鳴いちゃいけない
 Dialogue: 0,0:06:14.19,0:06:16.19,Default,,0,0,0,,I can't possibly call that 2 Sou
+Dialogue: 0,0:06:16.52,0:06:18.25,Default - white,,0,0,0,,しかし
 Dialogue: 0,0:06:16.52,0:06:18.25,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:06:18.25,0:06:20.25,Default - white,,0,0,0,,これは直感、
 Dialogue: 0,0:06:18.25,0:06:20.25,Default,,0,0,0,,My Instinct is telling me to
-Dialogue: 0,0:06:20.25,0:06:23.10,Default,,0,0,0,,
+Dialogue: 0,0:06:20.25,0:06:23.10,Default - white,,0,0,0,,あれが唯一運命が与えてくれたチャンス
+Dialogue: 0,0:06:23.10,0:06:25.10,Default - white,,0,0,0,,そんな予感
 Dialogue: 0,0:06:23.10,0:06:25.10,Default,,0,0,0,,Such a price
-Dialogue: 0,0:06:25.71,0:06:28.33,Default,,0,0,0,,
-Dialogue: 0,0:06:28.33,0:06:30.11,Default,,0,0,0,,
+Dialogue: 0,0:06:25.71,0:06:28.33,Default - white,,0,0,0,,何度も何度も思い知らされたことだが、
+Dialogue: 0,0:06:28.33,0:06:30.11,Default - white,,0,0,0,,やはりそう、
+Dialogue: 0,0:06:30.11,0:06:32.11,Default - white,,0,0,0,,逃げるものもまた苦しい
 Dialogue: 0,0:06:30.11,0:06:32.11,Default,,0,0,0,,reatreat is also difficult
+Dialogue: 0,0:06:32.11,0:06:34.57,Default - white,,0,0,0,,有利なものも同じだ、
 Dialogue: 0,0:06:32.11,0:06:34.57,Default,,0,0,0,,It's the same as an advantage
+Dialogue: 0,0:06:34.57,0:06:36.35,Default - white,,0,0,0,,苦しい
 Dialogue: 0,0:06:34.57,0:06:36.35,Default,,0,0,0,,It's difficult
-Dialogue: 0,0:06:36.35,0:06:37.77,Default,,0,0,0,,
+Dialogue: 0,0:06:36.35,0:06:37.77,Default - white,,0,0,0,,だから追うんだ！
+Dialogue: 0,0:06:37.77,0:06:39.20,Default - white,,0,0,0,,可能性を
 Dialogue: 0,0:06:37.77,0:06:39.20,Default,,0,0,0,,the possibility...
+Dialogue: 0,0:06:39.20,0:06:40.08,Default - white,,0,0,0,,捨てるな、
 Dialogue: 0,0:06:39.20,0:06:40.08,Default,,0,0,0,,Don't abandon it
+Dialogue: 0,0:06:40.08,0:06:41.72,Default - white,,0,0,0,,最後の最後まで
 Dialogue: 0,0:06:40.08,0:06:41.72,Default,,0,0,0,,to the absolute end...
+Dialogue: 0,0:06:41.72,0:06:43.72,Default - white,,0,0,0,,勝ちを！
 Dialogue: 0,0:06:41.72,0:06:43.72,Default,,0,0,0,,to Victory!
 Dialogue: 0,0:06:48.59,0:06:51.48,Default,,0,0,0,,Chii
 Dialogue: 0,0:06:54.59,0:06:56.65,Default,,0,0,0,,Ten played it!
 Dialogue: 0,0:06:56.65,0:06:59.23,Default,,0,0,0,,A final unbelievable gamble!
+Dialogue: 0,0:07:01.07,0:07:02.54,Default - white,,0,0,0,,原田、
 Dialogue: 0,0:07:01.07,0:07:02.54,Default,,0,0,0,,Harada
+Dialogue: 0,0:07:02.54,0:07:04.54,Default - white,,0,0,0,,ここまでだ
 Dialogue: 0,0:07:02.54,0:07:04.54,Default,,0,0,0,,this is it
+Dialogue: 0,0:07:09.93,0:07:12.89,Default - white,,0,0,0,,宣言する
 Dialogue: 0,0:07:09.93,0:07:12.89,Default,,0,0,0,,I declare it
+Dialogue: 0,0:07:12.89,0:07:14.89,Default - white,,0,0,0,,聴牌
 Dialogue: 0,0:07:12.89,0:07:14.89,Default,,0,0,0,,Tenpai
 Dialogue: 0,0:08:54.54,0:08:57.38,Default,,0,0,0,,I win Stage A
+Dialogue: 0,0:09:01.45,0:09:04.16,Default - white,,0,0,0,,だがまだ負けたわけやない
 Dialogue: 0,0:09:01.45,0:09:04.16,Default,,0,0,0,,But I'm not through yet
+Dialogue: 0,0:09:04.16,0:09:06.16,Default - white,,0,0,0,,最後の最後、
 Dialogue: 0,0:09:04.16,0:09:06.16,Default,,0,0,0,,to the bitter end
-Dialogue: 0,0:09:06.16,0:09:08.65,Default,,0,0,0,,
+Dialogue: 0,0:09:06.16,0:09:08.65,Default - white,,0,0,0,,天に鳴かせたんはでかい
+Dialogue: 0,0:09:08.65,0:09:10.65,Default - white,,0,0,0,,この鳴きは奴の傷
 Dialogue: 0,0:09:08.65,0:09:10.65,Default,,0,0,0,,That call is his Achillies Heel
+Dialogue: 0,0:09:11.28,0:09:12.68,Default - white,,0,0,0,,あの鳴きで
 Dialogue: 0,0:09:11.28,0:09:12.68,Default,,0,0,0,,Calling that tile...
-Dialogue: 0,0:09:12.68,0:09:16.19,Default,,0,0,0,,
+Dialogue: 0,0:09:12.68,0:09:16.19,Default - white,,0,0,0,,やつの手作りの方向性はかなり明白になった
 Dialogue: 0,0:09:16.48,0:09:20.33,Default,,0,0,0,,Riichi, Ippatsu, Tsumo, and Ura-Dora all became impossible
 Dialogue: 0,0:09:20.33,0:09:21.42,Default,,0,0,0,,That is to say...
 Dialogue: 0,0:09:21.42,0:09:24.44,Default,,0,0,0,,
@@ -161,26 +195,35 @@ Dialogue: 0,0:10:03.26,0:10:05.61,Default,,0,0,0,,
 Dialogue: 0,0:10:05.61,0:10:07.12,Default,,0,0,0,,More than that, first...
 Dialogue: 0,0:10:07.12,0:10:09.12,Default,,0,0,0,,I need to be cautious
 Dialogue: 0,0:10:12.09,0:10:15.41,Default,,0,0,0,,It's HERE
+Dialogue: 0,0:10:45.55,0:10:48.11,Default - white,,0,0,0,,なんやと！？
 Dialogue: 0,0:10:45.55,0:10:48.11,Default,,0,0,0,,The hell is he doing?
 Dialogue: 0,0:10:48.11,0:10:50.11,Default,,0,0,0,,It's a winning tile...
 Dialogue: 0,0:10:50.11,0:10:52.86,Default,,0,0,0,,but I choose not to win with it
 Dialogue: 0,0:10:54.06,0:10:56.38,Default,,0,0,0,,
 Dialogue: 0,0:10:57.15,0:10:59.56,Default,,0,0,0,,HA HA HA HA HA
+Dialogue: 0,0:10:59.56,0:11:01.56,Default - white,,0,0,0,,安目見逃しか、
 Dialogue: 0,0:10:59.56,0:11:01.56,Default,,0,0,0,,To lesiurely let it pass
+Dialogue: 0,0:11:01.56,0:11:03.08,Default - white,,0,0,0,,失ったのう
 Dialogue: 0,0:11:01.56,0:11:03.08,Default,,0,0,0,,He's lost it
-Dialogue: 0,0:11:03.08,0:11:06.59,Default,,0,0,0,,
-Dialogue: 0,0:11:06.59,0:11:09.77,Default,,0,0,0,,
+Dialogue: 0,0:11:03.08,0:11:06.59,Default - white,,0,0,0,,この土壇場で和了牌を引いて和了れんのは最悪や
+Dialogue: 0,0:11:06.59,0:11:09.77,Default - white,,0,0,0,,これでもうそうそうは引けん
+Dialogue: 0,0:11:09.77,0:11:11.77,Default - white,,0,0,0,,引けるもんやない
 Dialogue: 0,0:11:09.77,0:11:11.77,Default,,0,0,0,,He can't draw it!
 Dialogue: 0,0:11:11.77,0:11:13.58,Default,,0,0,0,,To the bitter end...
+Dialogue: 0,0:11:13.58,0:11:15.58,Default - white,,0,0,0,,流れはこっちじゃ
 Dialogue: 0,0:11:13.58,0:11:15.58,Default,,0,0,0,,The game flow's with ME
+Dialogue: 0,0:11:38.16,0:11:40.60,Default - white,,0,0,0,,当然や、
 Dialogue: 0,0:11:38.16,0:11:40.60,Default,,0,0,0,,As exptected
+Dialogue: 0,0:11:40.60,0:11:44.80,Default - white,,0,0,0,,5回のツモで2回も和了牌をツモられてたまるか
 Dialogue: 0,0:11:40.60,0:11:44.80,Default,,0,0,0,,You think you'll get two chances at your 5 draws?
-Dialogue: 0,0:11:45.48,0:11:49.47,Default,,0,0,0,,
+Dialogue: 0,0:11:45.48,0:11:49.47,Default - white,,0,0,0,,やつはあの最初の和了牌を物にできんかった時点で
+Dialogue: 0,0:11:49.47,0:11:51.23,Default - white,,0,0,0,,失ったんや
 Dialogue: 0,0:11:49.47,0:11:51.23,Default,,0,0,0,,You've lost it
-Dialogue: 0,0:11:51.23,0:11:53.23,Default,,0,0,0,,
+Dialogue: 0,0:11:51.23,0:11:53.23,Default - white,,0,0,0,,勝機を
+Dialogue: 0,0:11:53.23,0:11:55.23,Default - white,,0,0,0,,もうチャンスはやれへん
 Dialogue: 0,0:11:53.23,0:11:55.23,Default,,0,0,0,,I won't give you another chance!
-Dialogue: 0,0:11:55.23,0:11:57.72,Default,,0,0,0,,
-Dialogue: 0,0:11:57.72,0:11:59.72,Default,,0,0,0,,
+Dialogue: 0,0:11:55.23,0:11:57.72,Default,,0,0,0,,こんだけの材料があるんや
+Dialogue: 0,0:11:57.72,0:11:59.72,Default - white,,0,0,0,,看破したる
 Dialogue: 0,0:11:59.72,0:12:01.56,Default,,0,0,0,,First off, letting that win pass...
 Dialogue: 0,0:12:01.56,0:12:03.80,Default,,0,0,0,,He's got two or more winning tiles
 Dialogue: 0,0:12:03.80,0:12:05.53,Default,,0,0,0,,
@@ -217,9 +260,10 @@ Dialogue: 0,0:14:02.33,0:14:04.75,Default,,0,0,0,,
 Dialogue: 0,0:14:05.50,0:14:08.03,Default,,0,0,0,,
 Dialogue: 0,0:14:08.03,0:14:10.03,Default,,0,0,0,,arranged like so
 Dialogue: 0,0:14:10.03,0:14:12.03,Default,,0,0,0,,
-Dialogue: 0,0:14:12.03,0:14:14.86,Default,,0,0,0,,
-Dialogue: 0,0:14:14.86,0:14:16.86,Default,,0,0,0,,
+Dialogue: 0,0:14:12.03,0:14:14.86,Default - white,,0,0,0,,思いもかけず手こずったが、
+Dialogue: 0,0:14:14.86,0:14:16.86,Default - white,,0,0,0,,それももう終わりや
 Dialogue: 0,0:14:23.20,0:14:26.01,Default,,0,0,0,,Take this!
+Dialogue: 0,0:14:33.15,0:14:35.60,Default - white,,0,0,0,,アホな
 Dialogue: 0,0:14:33.15,0:14:35.60,Default,,0,0,0,,Idiot
 Dialogue: 0,0:14:38.33,0:14:40.49,Default,,0,0,0,,
 Dialogue: 0,0:14:40.49,0:14:42.49,Default,,0,0,0,,
@@ -234,11 +278,11 @@ Dialogue: 0,0:14:58.75,0:15:00.75,Default,,0,0,0,,That's a Mangan
 Dialogue: 0,0:15:02.24,0:15:04.00,Default,,0,0,0,,I have it!
 Dialogue: 0,0:15:04.00,0:15:06.00,Default,,0,0,0,,Ten's wait is a 1 or 2 Pin
 Dialogue: 0,0:15:06.00,0:15:08.00,Default,,0,0,0,,WITHOUT DOUBT
-Dialogue: 0,0:15:17.13,0:15:19.55,Default,,0,0,0,,
+Dialogue: 0,0:15:17.13,0:15:19.55,Default - white,,0,0,0,,引導じゃ！
 Dialogue: 0,0:15:36.32,0:15:38.06,Default,,0,0,0,,
 Dialogue: 0,0:15:38.06,0:15:40.35,Default,,0,0,0,,
-Dialogue: 0,0:15:40.35,0:15:42.96,Default,,0,0,0,,
-Dialogue: 0,0:15:42.96,0:15:46.14,Default,,0,0,0,,
+Dialogue: 0,0:15:40.35,0:15:42.96,Default - white,,0,0,0,,天は何をした！？
+Dialogue: 0,0:15:42.96,0:15:46.14,Default - white,,0,0,0,,あらゆる可能性は探った
 Dialogue: 0,0:16:12.40,0:16:14.25,Default,,0,0,0,,Kan
 Dialogue: 0,0:16:15.18,0:16:16.65,Default,,0,0,0,,OH FUCK
 Dialogue: 0,0:16:16.65,0:16:18.06,Default,,0,0,0,,
@@ -253,21 +297,29 @@ Dialogue: 0,0:17:05.08,0:17:07.08,Default,,0,0,0,,I'VE WON
 Dialogue: 0,0:17:10.32,0:17:11.93,Default,,0,0,0,,N-no
 Dialogue: 0,0:17:11.93,0:17:13.93,Default,,0,0,0,,WAIT A MOMENT...
 Dialogue: 0,0:17:13.93,0:17:16.19,Default,,0,0,0,,A Red Dragon closed Kan...
+Dialogue: 0,0:17:17.96,0:17:20.33,Default - white,,0,0,0,,そうだ原田
 Dialogue: 0,0:17:17.96,0:17:20.33,Default,,0,0,0,,You're right Harada
-Dialogue: 0,0:17:20.33,0:17:24.01,Default,,0,0,0,,
-Dialogue: 0,0:17:24.01,0:17:25.90,Default,,0,0,0,,
+Dialogue: 0,0:17:20.33,0:17:24.01,Default - white,,0,0,0,,俺が初っ端の2牌目に\N和了牌を引きながら和了らなかったのは、
+Dialogue: 0,0:17:24.01,0:17:25.90,Default - white,,0,0,0,,安目の見逃しではなく、
+Dialogue: 0,0:17:25.90,0:17:28.89,Default - white,,0,0,0,,まだ満貫の手に至らなかったから
 Dialogue: 0,0:17:25.90,0:17:28.89,Default,,0,0,0,,because It didn't give me the conditions for a Mangan
+Dialogue: 0,0:17:28.89,0:17:30.32,Default - white,,0,0,0,,しかし
 Dialogue: 0,0:17:28.89,0:17:30.32,Default,,0,0,0,,HOWEVER
+Dialogue: 0,0:17:30.32,0:17:32.32,Default - white,,0,0,0,,それは今、
 Dialogue: 0,0:17:30.32,0:17:32.32,Default,,0,0,0,,Now
-Dialogue: 0,0:17:32.32,0:17:34.32,Default,,0,0,0,,
+Dialogue: 0,0:17:32.32,0:17:34.32,Default - white,,0,0,0,,成した
 Dialogue: 0,0:17:46.51,0:17:49.55,Default,,0,0,0,,Ten
-Dialogue: 0,0:17:55.45,0:17:58.16,Default,,0,0,0,,
-Dialogue: 0,0:17:59.65,0:18:01.65,Default,,0,0,0,,
-Dialogue: 0,0:18:02.20,0:18:04.83,Default,,0,0,0,,
+Dialogue: 0,0:17:55.45,0:17:58.16,Default - white,,0,0,0,,ただ、尽くす
+Dialogue: 0,0:17:59.65,0:18:01.65,Default - white,,0,0,0,,緩ませない
+Dialogue: 0,0:18:02.20,0:18:04.83,Default - white,,0,0,0,,最善を尽くす
+Dialogue: 0,0:18:06.83,0:18:09.26,Default - white,,0,0,0,,それこそが、
 Dialogue: 0,0:18:06.83,0:18:09.26,Default,,0,0,0,,and with this very thing
-Dialogue: 0,0:18:10.08,0:18:13.16,Default,,0,0,0,,
+Dialogue: 0,0:18:10.08,0:18:13.16,Default - white,,0,0,0,,戦うものの使命
+Dialogue: 0,0:18:16.28,0:18:18.28,Default - white,,0,0,0,,原田、
 Dialogue: 0,0:18:16.28,0:18:18.28,Default,,0,0,0,,HARADA
+Dialogue: 0,0:18:22.44,0:18:25.36,Default - white,,0,0,0,,長かったなー
 Dialogue: 0,0:18:22.44,0:18:25.36,Default,,0,0,0,,It's been a loong time coming!
+Dialogue: 0,0:18:34.00,0:18:36.61,Default - white,,0,0,0,,終了だ！
 Dialogue: 0,0:18:34.00,0:18:36.61,Default,,0,0,0,,The game is over
 Dialogue: 0,0:18:41.50,0:18:44.89,Default,,0,0,0,,Red, White Dragon and 1 Dora
 Dialogue: 0,0:18:44.89,0:18:46.89,Default,,0,0,0,,Mangan
@@ -282,71 +334,108 @@ Dialogue: 0,0:19:08.81,0:19:11.50,Default,,0,0,0,,
 Dialogue: 0,0:19:11.50,0:19:13.21,Default,,0,0,0,,that is to say, it's beyond Fu point reckoning
 Dialogue: 0,0:19:13.21,0:19:16.09,Default,,0,0,0,,at the absolute minimum it qualifies as a Mangan
 Dialogue: 0,0:19:17.91,0:19:19.58,Default,,0,0,0,,s-shit
-Dialogue: 0,0:19:19.58,0:19:23.24,Default,,0,0,0,,
-Dialogue: 0,0:19:23.24,0:19:26.75,Default,,0,0,0,,
+Dialogue: 0,0:19:19.58,0:19:23.24,Default - white,,0,0,0,,満貫イコール4役と言う常識に縛られ、
+Dialogue: 0,0:19:23.24,0:19:26.75,Default - white,,0,0,0,,的はずれな看破を繰り返し、
 Dialogue: 0,0:19:26.75,0:19:29.26,Default,,0,0,0,,
-Dialogue: 0,0:19:29.26,0:19:31.52,Default,,0,0,0,,
-Dialogue: 0,0:19:31.52,0:19:34.46,Default,,0,0,0,,
+Dialogue: 0,0:19:29.26,0:19:31.52,Default - white,,0,0,0,,多面待ちという
+Dialogue: 0,0:19:31.52,0:19:34.46,Default - white,,0,0,0,,幻にも惑わされた
 Dialogue: 0,0:19:34.46,0:19:36.83,Default,,0,0,0,,
 Dialogue: 0,0:19:36.83,0:19:39.85,Default,,0,0,0,,
 Dialogue: 0,0:19:39.85,0:19:43.32,Default,,0,0,0,,
+Dialogue: 0,0:19:50.40,0:19:53.10,Default - white,,0,0,0,,天、
 Dialogue: 0,0:19:50.40,0:19:53.10,Default,,0,0,0,,Ten
+Dialogue: 0,0:19:53.10,0:19:55.71,Default - white,,0,0,0,,ひとつ教えてくれ
 Dialogue: 0,0:19:53.10,0:19:55.71,Default,,0,0,0,,Tell me one thing
-Dialogue: 0,0:19:56.75,0:19:59.56,Default,,0,0,0,,
+Dialogue: 0,0:19:56.75,0:19:59.56,Default - white,,0,0,0,,聴牌の時点では三役、
+Dialogue: 0,0:19:59.56,0:20:01.56,Default - white,,0,0,0,,白と中は
 Dialogue: 0,0:19:59.56,0:20:01.56,Default,,0,0,0,,between White and Red dragon...
+Dialogue: 0,0:20:01.56,0:20:03.56,Default - white,,0,0,0,,残り一枚
 Dialogue: 0,0:20:01.56,0:20:03.56,Default,,0,0,0,,only one of each remained
+Dialogue: 0,0:20:05.82,0:20:09.04,Default - white,,0,0,0,,なんでそんな偶然に賭けたんや？
 Dialogue: 0,0:20:05.82,0:20:09.04,Default,,0,0,0,,HOW did you bet on that probability?
+Dialogue: 0,0:20:09.04,0:20:11.56,Default - white,,0,0,0,,原田、
 Dialogue: 0,0:20:09.04,0:20:11.56,Default,,0,0,0,,Harada
+Dialogue: 0,0:20:13.08,0:20:15.08,Default - white,,0,0,0,,これは偶然じゃない
 Dialogue: 0,0:20:13.08,0:20:15.08,Default,,0,0,0,,That wasn't probability
+Dialogue: 0,0:20:16.54,0:20:19.34,Default - white,,0,0,0,,お前の捨て牌に白と中がなかった
 Dialogue: 0,0:20:16.54,0:20:19.34,Default,,0,0,0,,There weren't any Red or White Dragons in your discards
-Dialogue: 0,0:20:19.34,0:20:23.20,Default,,0,0,0,,
+Dialogue: 0,0:20:19.34,0:20:23.20,Default - white,,0,0,0,,恐らく幅広い一向聴だったお前の手牌に
+Dialogue: 0,0:20:23.20,0:20:25.20,Default - white,,0,0,0,,白と中があることはない
 Dialogue: 0,0:20:23.20,0:20:25.20,Default,,0,0,0,,you also had none
+Dialogue: 0,0:20:25.68,0:20:27.68,Default - white,,0,0,0,,ということは
 Dialogue: 0,0:20:25.68,0:20:27.68,Default,,0,0,0,,That is to say...
-Dialogue: 0,0:20:28.48,0:20:31.76,Default,,0,0,0,,I thought they remained in the wall
+Dialogue: 0,0:20:28.48,0:20:31.76,Default - white,,0,0,0,,山の中にあると俺は考えた
+Dialogue: 0,0:20:28.48,0:20:31.76,Default,,0,0,0,,I reasoned they remained in the wall
+Dialogue: 0,0:20:31.76,0:20:34.25,Default - white,,0,0,0,,この二人麻雀、
 Dialogue: 0,0:20:31.76,0:20:34.25,Default,,0,0,0,,In this Two Person Mahjong...
+Dialogue: 0,0:20:34.25,0:20:35.95,Default - white,,0,0,0,,相手に看破されなければ
 Dialogue: 0,0:20:34.25,0:20:35.95,Default,,0,0,0,,If my winning tile wasn't read
+Dialogue: 0,0:20:35.95,0:20:38.49,Default - white,,0,0,0,,ひたすらツモることが出来る
 Dialogue: 0,0:20:35.95,0:20:38.49,Default,,0,0,0,,I could be devoted to drawing the tile
+Dialogue: 0,0:20:38.49,0:20:39.93,Default - white,,0,0,0,,つまり
 Dialogue: 0,0:20:38.49,0:20:39.93,Default,,0,0,0,,In other words...
+Dialogue: 0,0:20:39.93,0:20:43.26,Default - white,,0,0,0,,白と中をツモって暗カンすることが
 Dialogue: 0,0:20:39.93,0:20:43.26,Default,,0,0,0,,Whichever I drew between Red and White Dragon I could declare a closed Kan with
-Dialogue: 0,0:20:43.26,0:20:47.23,Default,,0,0,0,,
+Dialogue: 0,0:20:43.26,0:20:47.23,Default - white,,0,0,0,,充分有り得る現実的な出来事
+Dialogue: 0,0:20:50.00,0:20:52.68,Default - white,,0,0,0,,俺にはそれ見えていたが
 Dialogue: 0,0:20:50.00,0:20:52.68,Default,,0,0,0,,I could see this
+Dialogue: 0,0:20:52.68,0:20:55.90,Default - white,,0,0,0,,お前にはそれが見えていなかった
 Dialogue: 0,0:20:52.68,0:20:55.90,Default,,0,0,0,,and you could not
+Dialogue: 0,0:20:58.76,0:21:00.41,Default - white,,0,0,0,,もちろん、
 Dialogue: 0,0:20:58.76,0:21:00.41,Default,,0,0,0,,Of course,
+Dialogue: 0,0:21:00.41,0:21:02.41,Default - white,,0,0,0,,この白と中が
 Dialogue: 0,0:21:00.41,0:21:02.41,Default,,0,0,0,,Those White and Red Dragons...
-Dialogue: 0,0:21:02.41,0:21:06.36,Default,,0,0,0,,
-Dialogue: 0,0:21:07.28,0:21:09.28,Default,,0,0,0,,
-Dialogue: 0,0:21:09.28,0:21:13.05,Default,,0,0,0,,
-Dialogue: 0,0:21:13.05,0:21:15.05,Default,,0,0,0,,was in the wall
+Dialogue: 0,0:21:02.41,0:21:06.36,Default - white,,0,0,0,,王牌に潜んでいる可能性は充分にあった
+Dialogue: 0,0:21:07.28,0:21:09.28,Default - white,,0,0,0,,ただ今日
+Dialogue: 0,0:21:09.28,0:21:13.05,Default - white,,0,0,0,,今日と言う日においては
+Dialogue: 0,0:21:13.05,0:21:15.05,Default - white,,0,0,0,,山にあった
+Dialogue: 0,0:21:13.05,0:21:15.05,Default,,0,0,0,,they were in the wall
+Dialogue: 0,0:21:19.08,0:21:22.01,Default - white,,0,0,0,,深かったんだ
 Dialogue: 0,0:21:19.08,0:21:22.01,Default,,0,0,0,,It was deeper...
+Dialogue: 0,0:21:23.98,0:21:25.98,Default - white,,0,0,0,,お前の現実より、
 Dialogue: 0,0:21:23.98,0:21:25.98,Default,,0,0,0,,MY reality
+Dialogue: 0,0:21:25.98,0:21:27.98,Default - white,,0,0,0,,俺の現実が
 Dialogue: 0,0:21:25.98,0:21:27.98,Default,,0,0,0,,compared to YOUR reality
+Dialogue: 0,0:21:31.38,0:21:32.68,Default - white,,0,0,0,,ただ、
 Dialogue: 0,0:21:31.38,0:21:32.68,Default,,0,0,0,,Simply put...
+Dialogue: 0,0:21:32.68,0:21:34.68,Default - white,,0,0,0,,それだけのことだ
 Dialogue: 0,0:21:32.68,0:21:34.68,Default,,0,0,0,,that's all it was
+Dialogue: 0,0:21:58.38,0:22:01.25,Default - white,,0,0,0,,俺の負けや
 Dialogue: 0,0:21:58.38,0:22:01.25,Default,,0,0,0,,I've lost
+Dialogue: 0,0:23:50.22,0:23:51.39,Default - white,,0,0,0,,天さん、
 Dialogue: 0,0:23:50.22,0:23:51.39,Default,,0,0,0,,Ten,
-Dialogue: 0,0:23:51.39,0:23:53.39,Default,,0,0,0,,
-Dialogue: 0,0:23:53.39,0:23:56.16,Default,,0,0,0,,
+Dialogue: 0,0:23:51.39,0:23:53.39,Default - white,,0,0,0,,お疲れ様でした
+Dialogue: 0,0:23:53.39,0:23:56.16,Default - white,,0,0,0,,原田との点差はわずか1200点、
+Dialogue: 0,0:23:56.16,0:23:58.99,Default - white,,0,0,0,,本当に痺れる戦いでした！
 Dialogue: 0,0:23:56.16,0:23:58.99,Default,,0,0,0,,It was truly a mesmerizing game
+Dialogue: 0,0:24:00.30,0:24:02.16,Default - white,,0,0,0,,ひろゆき、
 Dialogue: 0,0:24:00.30,0:24:02.16,Default,,0,0,0,,Hiroyuki...
-Dialogue: 0,0:24:02.16,0:24:05.50,Default,,0,0,0,,
-Dialogue: 0,0:24:05.50,0:24:06.92,Default,,0,0,0,,those 1,100 points
-Dialogue: 0,0:24:06.92,0:24:10.56,Default,,0,0,0,,
-Dialogue: 0,0:24:11.35,0:24:13.35,Default,,0,0,0,,
-Dialogue: 0,0:24:13.35,0:24:15.87,Default,,0,0,0,,
-Dialogue: 0,0:24:17.15,0:24:19.81,Default,,0,0,0,,
-Dialogue: 0,0:24:19.81,0:24:22.70,Default,,0,0,0,,
+Dialogue: 0,0:24:02.16,0:24:05.50,Default - white,,0,0,0,,勝負っていうのは勝たなければ意味が無い
+Dialogue: 0,0:24:05.50,0:24:06.92,Default - white,,0,0,0,,この1200点、
+Dialogue: 0,0:24:05.50,0:24:06.92,Default,,0,0,0,,those 1,200 points
+Dialogue: 0,0:24:06.92,0:24:10.56,Default - white,,0,0,0,,差は僅かだが、とてつもなく重い
+Dialogue: 0,0:24:11.35,0:24:13.35,Default - white,,0,0,0,,勝つものだけが
+Dialogue: 0,0:24:13.35,0:24:15.87,Default - white,,0,0,0,,すべてを得るんだ
+Dialogue: 0,0:24:17.15,0:24:19.81,Default - white,,0,0,0,,俺は信じている、
+Dialogue: 0,0:24:19.81,0:24:22.70,Default - white,,0,0,0,,たとえどんな境遇であろうが、
+Dialogue: 0,0:24:22.70,0:24:25.61,Default - white,,0,0,0,,それだけで勝負は、
 Dialogue: 0,0:24:22.70,0:24:25.61,Default,,0,0,0,,that's all a game is...
+Dialogue: 0,0:24:25.61,0:24:27.61,Default - white,,0,0,0,,人生は
 Dialogue: 0,0:24:25.61,0:24:27.61,Default,,0,0,0,,all life is
+Dialogue: 0,0:24:27.61,0:24:29.61,Default - white,,0,0,0,,決まらない
 Dialogue: 0,0:24:27.61,0:24:29.61,Default,,0,0,0,,It's not settled
+Dialogue: 0,0:24:31.15,0:24:32.76,Default - white,,0,0,0,,その想いが
 Dialogue: 0,0:24:31.15,0:24:32.76,Default,,0,0,0,,Tha weight
-Dialogue: 0,0:24:32.76,0:24:34.03,Default,,0,0,0,,
-Dialogue: 0,0:24:34.03,0:24:35.69,Default,,0,0,0,,
-Dialogue: 0,0:24:35.69,0:24:38.24,Default,,0,0,0,,
-Dialogue: 0,0:24:39.80,0:24:42.78,Default,,0,0,0,,
-Dialogue: 0,0:24:42.78,0:24:46.09,Default,,0,0,0,,
+Dialogue: 0,0:24:32.76,0:24:34.03,Default - white,,0,0,0,,背負わせる、
+Dialogue: 0,0:24:34.03,0:24:35.69,Default - white,,0,0,0,,投げさせない
+Dialogue: 0,0:24:35.69,0:24:38.24,Default - white,,0,0,0,,誤魔化すことを拒否させる
+Dialogue: 0,0:24:39.80,0:24:42.78,Default - white,,0,0,0,,幸運も不幸もすべて抱え込み、
+Dialogue: 0,0:24:42.78,0:24:46.09,Default - white,,0,0,0,,運命にすべてを尽くす
+Dialogue: 0,0:24:47.50,0:24:50.01,Default - white,,0,0,0,,それが出来るものだけが、
 Dialogue: 0,0:24:47.50,0:24:50.01,Default,,0,0,0,,Thus all you can really do...
+Dialogue: 0,0:24:50.01,0:24:52.89,Default - white,,0,0,0,,勝利に辿り着く
 Dialogue: 0,0:24:50.01,0:24:52.89,Default,,0,0,0,,is struggle on in the game
-Dialogue: 0,0:24:54.60,0:24:57.58,Default,,0,0,0,,
+Dialogue: 0,0:24:54.60,0:24:57.58,Default - white,,0,0,0,,そういうことだ
 Dialogue: 0,0:24:59.04,0:25:01.78,Default,,0,0,0,,I'm off
 Dialogue: 0,0:25:17.95,0:25:21.28,Default,,0,0,0,,One Year Later
 Dialogue: 0,0:25:22.08,0:25:24.32,Default,,0,0,0,,Sorry to catch you when you're busy
@@ -368,35 +457,44 @@ Dialogue: 0,0:25:59.61,0:26:01.15,Default,,0,0,0,,No, I'm really good
 Dialogue: 0,0:26:01.15,0:26:04.22,Default,,0,0,0,,Igou you don't get on well with others
 Dialogue: 0,0:26:04.22,0:26:06.22,Default,,0,0,0,,
 Dialogue: 0,0:26:06.22,0:26:08.22,Default,,0,0,0,,I'm... sorry
+Dialogue: 0,0:26:11.68,0:26:14.73,Default - white,,0,0,0,,あの東西戦から一年が経った
 Dialogue: 0,0:26:11.68,0:26:14.73,Default,,0,0,0,,It's been a year since the East/West Battle
+Dialogue: 0,0:26:15.41,0:26:18.19,Default - white,,0,0,0,,自分の麻雀の限界を悟り、
 Dialogue: 0,0:26:15.41,0:26:18.19,Default,,0,0,0,,and my comprehending the limits of my Mahjong
+Dialogue: 0,0:26:18.19,0:26:20.73,Default - white,,0,0,0,,俺は麻雀から身を引いた
 Dialogue: 0,0:26:18.19,0:26:20.73,Default,,0,0,0,,I left Mahjong behind
-Dialogue: 0,0:26:20.73,0:26:24.51,Default,,0,0,0,,
-Dialogue: 0,0:26:24.51,0:26:26.80,Default,,0,0,0,,
+Dialogue: 0,0:26:20.73,0:26:24.51,Default - white,,0,0,0,,決して届くことのない、天才たちの幻影、
+Dialogue: 0,0:26:24.51,0:26:26.80,Default - white,,0,0,0,,麻雀で生きていく資質
+Dialogue: 0,0:26:26.80,0:26:28.64,Default - white,,0,0,0,,大切な何かが、
 Dialogue: 0,0:26:26.80,0:26:28.64,Default,,0,0,0,,there's something vital
+Dialogue: 0,0:26:28.64,0:26:30.64,Default - white,,0,0,0,,自分には無かった
 Dialogue: 0,0:26:28.64,0:26:30.64,Default,,0,0,0,,that I lack
-Dialogue: 0,0:26:30.64,0:26:33.12,Default,,0,0,0,,
-Dialogue: 0,0:26:33.12,0:26:35.74,Default,,0,0,0,,
-Dialogue: 0,0:26:37.71,0:26:40.78,Default,,0,0,0,,
-Dialogue: 0,0:26:40.78,0:26:42.92,Default,,0,0,0,,
-Dialogue: 0,0:26:42.92,0:26:46.62,Default,,0,0,0,,
-Dialogue: 0,0:26:46.62,0:26:49.66,Default,,0,0,0,,
-Dialogue: 0,0:26:50.00,0:26:52.08,Default,,0,0,0,,
-Dialogue: 0,0:26:52.08,0:26:53.20,Default,,0,0,0,,
-Dialogue: 0,0:26:53.20,0:26:55.20,Default,,0,0,0,,
-Dialogue: 0,0:26:55.20,0:26:57.20,Default,,0,0,0,,
-Dialogue: 0,0:26:57.20,0:26:59.69,Default,,0,0,0,,
-Dialogue: 0,0:26:59.69,0:27:01.69,Default,,0,0,0,,
-Dialogue: 0,0:27:03.31,0:27:04.92,Default,,0,0,0,,
-Dialogue: 0,0:27:04.92,0:27:07.88,Default,,0,0,0,,
-Dialogue: 0,0:27:07.88,0:27:10.48,Default,,0,0,0,,
+Dialogue: 0,0:26:30.64,0:26:33.12,Default - white,,0,0,0,,その劣等感が、
+Dialogue: 0,0:26:33.12,0:26:35.74,Default - white,,0,0,0,,生涯拭われることは無い
+Dialogue: 0,0:26:37.71,0:26:40.78,Default - white,,0,0,0,,身体を薄い膜で何層と覆われ、
+Dialogue: 0,0:26:40.78,0:26:42.92,Default - white,,0,0,0,,次第に無気力
+Dialogue: 0,0:26:42.92,0:26:46.62,Default - white,,0,0,0,,何をやるにもタイギで面倒
+Dialogue: 0,0:26:46.62,0:26:49.66,Default - white,,0,0,0,,人生は不遇のままで終わることもある
+Dialogue: 0,0:26:50.00,0:26:52.08,Default - white,,0,0,0,,いいとこ一つ無く、
+Dialogue: 0,0:26:52.08,0:26:53.20,Default - white,,0,0,0,,立ち枯れ、
+Dialogue: 0,0:26:53.20,0:26:55.20,Default - white,,0,0,0,,朽ちることもある
+Dialogue: 0,0:26:55.20,0:26:57.20,Default - white,,0,0,0,,もしそれが自分なら、
+Dialogue: 0,0:26:57.20,0:26:59.69,Default - white,,0,0,0,,自分自身という者なら
+Dialogue: 0,0:26:59.69,0:27:01.69,Default - white,,0,0,0,,しかたがない
+Dialogue: 0,0:27:03.31,0:27:04.92,Default - white,,0,0,0,,ただ、
+Dialogue: 0,0:27:04.92,0:27:07.88,Default - white,,0,0,0,,それでも進むべきだったのだろうか
+Dialogue: 0,0:27:07.88,0:27:10.48,Default - white,,0,0,0,,二流と知りつつも
 Dialogue: 0,0:27:12.30,0:27:15.08,Default,,0,0,0,,Ron\N12,000 points
 Dialogue: 0,0:27:15.08,0:27:17.48,Default,,0,0,0,,
 Dialogue: 0,0:27:17.48,0:27:19.90,Default,,0,0,0,,
 Dialogue: 0,0:27:19.90,0:27:22.62,Default,,0,0,0,,
 Dialogue: 0,0:27:22.62,0:27:24.49,Default,,0,0,0,,
+Dialogue: 0,0:27:24.49,0:27:27.15,Default - white,,0,0,0,,次は誰だ？
 Dialogue: 0,0:27:24.49,0:27:27.15,Default,,0,0,0,,Okay\NWho's next?
-Dialogue: 0,0:27:27.15,0:27:29.88,Default,,0,0,0,,
+Dialogue: 0,0:27:27.15,0:27:29.88,Default - white,,0,0,0,,骨のあるやつはいねぇ～のか？
+Dialogue: 0,0:27:30.91,0:27:32.91,Default - white,,0,0,0,,お久しぶりです
 Dialogue: 0,0:27:30.91,0:27:32.91,Default,,0,0,0,,Been a while
+Dialogue: 0,0:27:36.85,0:27:38.85,Default - white,,0,0,0,,天さん、
 Dialogue: 0,0:27:36.85,0:27:38.85,Default,,0,0,0,,Ten...
+Dialogue: 0,0:27:38.85,0:27:40.85,Default - white,,0,0,0,,僕と打ちませんか？
 Dialogue: 0,0:27:38.85,0:27:40.85,Default,,0,0,0,,Won't you play me?
