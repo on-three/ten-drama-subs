@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e01.720p.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 267
-Active Line: 280
-Video Position: 43722
+Scroll Position: 258
+Active Line: 284
+Video Position: 44646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,7 +78,7 @@ Dialogue: 0,0:03:28.75,0:03:30.75,Default,,0,0,0,,Shit
 Dialogue: 0,0:03:30.75,0:03:33.22,Default,,0,0,0,,Looks like I've got to quit
 Dialogue: 0,0:03:38.48,0:03:41.54,Default,,0,0,0,,Oh, you're sure winning ain't you
 Dialogue: 0,0:03:55.65,0:03:58.94,Default,,0,0,0,,Will you play ME?
-Dialogue: 0,0:04:06.19,0:04:13.41,Default - top - cyan,,0,0,0,,#/tv/shows bible study and thermos discussion goup 
+Dialogue: 0,0:04:06.19,0:04:13.41,Default - top - cyan,,0,0,0,,#/tv/shows bible study and thermos discussion goup
 Dialogue: 0,0:04:15.92,0:04:20.71,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
 Dialogue: 0,0:04:15.92,0:04:20.71,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
 Dialogue: 0,0:04:16.41,0:04:18.28,Default - white,,0,0,0,,{\pos(544.666,473.138)}Ten Takeshi
@@ -91,8 +91,8 @@ Dialogue: 0,0:04:26.42,0:04:31.55,default - cyan - with - background,,0,0,0,,ざ
 Dialogue: 0,0:04:26.42,0:04:31.55,Default - white - with - background,,0,0,0,,In anxiety...
 Dialogue: 0,0:04:32.08,0:04:37.19,default - cyan - with - background,,0,0,0,,息を殺して
 Dialogue: 0,0:04:32.08,0:04:37.19,Default - white - with - background,,0,0,0,,you hold your breath
-Dialogue: 0,0:04:33.78,0:04:35.58,Default - red,,0,0,0,,{\pos(375.295,1055.72)}Yoshida Eisaku
-Dialogue: 0,0:04:33.78,0:04:35.58,Default - white,,0,0,0,,{\pos(783.195,757.39)}Akagi Shigeru
+Dialogue: 0,0:04:33.78,0:04:35.58,Default - red,,0,0,0,,{\pos(258,704)}Yoshida Eisaku
+Dialogue: 0,0:04:33.78,0:04:35.58,Default - white,,0,0,0,,{\pos(544,502)}Akagi Shigeru
 Dialogue: 0,0:04:37.19,0:04:42.57,default - cyan - with - background,,0,0,0,,誰の肩に止まるかな
 Dialogue: 0,0:04:37.19,0:04:42.57,Default - white - with - background,,0,0,0,,Whose shoulder will it land upon
 Dialogue: 0,0:04:42.57,0:04:48.57,default - cyan - with - background,,0,0,0,,くるくる廻る天道虫
@@ -108,7 +108,7 @@ Dialogue: 0,0:05:07.75,0:05:10.08,Default - white,,0,0,0,,{\pos(642,606)}Episode
 Dialogue: 0,0:05:02.84,0:05:05.11,default - cyan - with - background,,0,0,0,,陽が昇った
 Dialogue: 0,0:05:02.84,0:05:05.11,Default - white - with - background,,0,0,0,,The sun rose
 Dialogue: 0,0:05:10.41,0:05:13.68,Default,,0,0,0,,So, a wager between you and I?
-Dialogue: 0,0:05:15.65,0:05:18.88,Default,,0,0,0,,I'm confident anything will be fine .Only...
+Dialogue: 0,0:05:15.65,0:05:18.88,Default,,0,0,0,,I'm confident anything will be fine. Only...
 Dialogue: 0,0:05:20.21,0:05:22.21,Default,,0,0,0,,Let's do a side bet
 Dialogue: 0,0:05:22.21,0:05:23.45,Default,,0,0,0,,Side bet?
 Dialogue: 0,0:05:23.45,0:05:28.42,Default,,0,0,0,,If I win, you give back what you won from everyone
@@ -118,7 +118,7 @@ Dialogue: 0,0:05:32.40,0:05:35.51,Default,,0,0,0,,I double your winnings
 Dialogue: 0,0:05:37.48,0:05:40.28,Default,,0,0,0,,You're a ringer, aren't you?
 Dialogue: 0,0:05:40.28,0:05:43.34,Default,,0,0,0,,Yeah. Something like that.
 Dialogue: 0,0:05:43.34,0:05:46.54,Default,,0,0,0,,I've been wanting to meet someone like you
-Dialogue: 0,0:05:46.54,0:05:49.62,Default,,0,0,0,,As I haven't yet beenbeaten in Mahjong,
+Dialogue: 0,0:05:46.54,0:05:49.62,Default,,0,0,0,,As I haven't yet been beaten in Mahjong,
 Dialogue: 0,0:05:49.62,0:05:53.37,Default,,0,0,0,,I thought I could become a ringer myself
 Dialogue: 0,0:05:53.37,0:05:57.14,Default,,0,0,0,,Well then it's decided
 Dialogue: 0,0:05:57.14,0:05:59.14,Default,,0,0,0,,At the table over there?
@@ -128,19 +128,19 @@ Dialogue: 0,0:06:07.62,0:06:12.40,Default,,0,0,0,,If he didn't do that he couldn
 Dialogue: 0,0:06:13.34,0:06:15.75,Default,,0,0,0,,Hand stacking tiles isn't a problem is it?
 Dialogue: 0,0:06:15.75,0:06:18.20,Default,,0,0,0,,No
 Dialogue: 0,0:06:18.20,0:06:20.20,Default,,0,0,0,,No problem
-Dialogue: 0,0:06:22.88,0:06:27.31,Default - white,,0,0,0,,{\pos(1086.792,576)}East Round 1
-Dialogue: 0,0:06:37.51,0:06:42.65,Default,,0,0,0,,The contest is one East South round, and whoever has more points wins, even if its merely 100 more
+Dialogue: 0,0:06:22.88,0:06:27.31,Default - white,,0,0,0,,{\pos(1086.792,576)}East Hand 1
+Dialogue: 0,0:06:37.51,0:06:42.65,Default,,0,0,0,,The contest is one East South game, and whoever has more points wins, even if its merely 100 more
 Dialogue: 0,0:06:42.65,0:06:45.94,Default,,0,0,0,,First I have to make sure there's no cheating
 Dialogue: 0,0:06:55.65,0:06:58.85,Default,,0,0,0,,I can't do a single wait on an undiscarded tile, but...
 Dialogue: 0,0:06:58.85,0:07:01.28,Default,,0,0,0,,I'll apply some pressure
 Dialogue: 0,0:07:02.65,0:07:04.65,Default,,0,0,0,,Riichi
 Dialogue: 0,0:07:19.31,0:07:22.08,Default,,0,0,0,,Ron
 Dialogue: 0,0:07:22.08,0:07:25.28,Default,,0,0,0,,12,000 points
-Dialogue: 0,0:07:35.41,0:07:40.71,Default - white,,0,0,0,,{\pos(1071.698,582)}South Round 1
+Dialogue: 0,0:07:35.41,0:07:40.71,Default - white,,0,0,0,,{\pos(1071.698,582)}South Hand 1
 Dialogue: 0,0:07:49.00,0:07:51.78,Default,,0,0,0,,Ron
 Dialogue: 0,0:07:52.77,0:07:55.15,Default,,0,0,0,,8,000 points.
 Dialogue: 0,0:08:01.62,0:08:05.91,Default,,0,0,0,,What's with this character? The silent type
-Dialogue: 0,0:08:06.21,0:08:10.45,Default - white,,0,0,0,,{\pos(1068.679,576)}South Round 2
+Dialogue: 0,0:08:06.21,0:08:10.45,Default - white,,0,0,0,,{\pos(1068.679,576)}South Hand 2
 Dialogue: 0,0:08:10.98,0:08:12.98,Default,,0,0,0,,Pon
 Dialogue: 0,0:08:22.25,0:08:24.95,Default,,0,0,0,,Ron
 Dialogue: 0,0:08:24.95,0:08:26.95,Default,,0,0,0,,12,000 points.
@@ -164,9 +164,9 @@ Dialogue: 0,0:10:00.45,0:10:03.80,Default,,0,0,0,,is a truly fearsome thing isn'
 Dialogue: 0,0:10:23.71,0:10:27.91,Default,,0,0,0,,Just hold on a second.\NAdmit you cheated
 Dialogue: 0,0:10:27.91,0:10:29.42,Default,,0,0,0,,Cheat?
 Dialogue: 0,0:10:29.42,0:10:33.14,Default,,0,0,0,,When you arranged your hand the tile wall in front of you moved a tiny amount
-Dialogue: 0,0:10:33.14,0:10:35.14,Default,,0,0,0,,Somehow or other it was a brilliant trick of the tiles
-Dialogue: 0,0:10:35.14,0:10:39.37,Default,,0,0,0,,Aren't you, a pro, embarrassed to do something so childish?
-Dialogue: 0,0:10:42.71,0:10:45.85,Default,,0,0,0,,A sneaky underworld guy like you
+Dialogue: 0,0:10:33.14,0:10:35.74,Default,,0,0,0,,At any rate, it was a quick, brilliant trick of the tiles
+Dialogue: 0,0:10:35.76,0:10:39.37,Default,,0,0,0,,Aren't you, a pro, embarrassed to do something so childish?
+Dialogue: 0,0:10:42.71,0:10:45.85,Default,,0,0,0,,If everyone's sneaky and irresponsible guy like you...
 Dialogue: 0,0:10:45.85,0:10:48.68,Default,,0,0,0,,I could become a ringer right now
 Dialogue: 0,0:10:48.68,0:10:51.80,Default,,0,0,0,,Oh\NDon't make me laugh
 Dialogue: 0,0:10:52.85,0:10:55.74,Default,,0,0,0,,And what's your name?
@@ -240,8 +240,8 @@ Dialogue: 0,0:15:25.21,0:15:27.67,Default,,0,0,0,,Perfect
 Dialogue: 0,0:15:29.38,0:15:31.65,Default,,0,0,0,,I've wanted to see a contest against you one more time
 Dialogue: 0,0:15:37.91,0:15:40.32,Default,,0,0,0,,And this time I won't lose
 Dialogue: 0,0:15:40.32,0:15:43.07,Default,,0,0,0,,Whatever your cheats
-Dialogue: 0,0:15:52.49,0:15:55.66,Default,,0,0,0,,The contest is 5 East South rounds.
-Dialogue: 0,0:15:55.66,0:15:58.75,Default,,0,0,0,,The winner is the first to take 3 rounds.
+Dialogue: 0,0:15:52.49,0:15:55.66,Default,,0,0,0,,The contest is 5 East South games.
+Dialogue: 0,0:15:55.66,0:15:58.75,Default,,0,0,0,,The winner is the first to take 3 games
 Dialogue: 0,0:15:59.33,0:16:01.33,Default,,0,0,0,,One thing
 Dialogue: 0,0:16:02.59,0:16:04.59,Default,,0,0,0,,Me and Hiroyuki...
 Dialogue: 0,0:16:04.59,0:16:06.59,Default,,0,0,0,,make the game the difference between our points.
@@ -249,7 +249,7 @@ Dialogue: 0,0:16:09.86,0:16:12.56,Default,,0,0,0,,What will you do?
 Dialogue: 0,0:16:12.56,0:16:15.46,Default,,0,0,0,,Nothing. It's no problem
 Dialogue: 0,0:16:15.99,0:16:19.06,Default,,0,0,0,,Well, then. It's decided
 Dialogue: 0,0:16:19.06,0:16:22.38,Default,,0,0,0,,Ten. Just what are you plotting?
-Dialogue: 0,0:16:31.93,0:16:37.16,Default - white,,0,0,0,,{\pos(223.396,519)}First Game\NEast Round One
+Dialogue: 0,0:16:31.93,0:16:37.16,Default - white,,0,0,0,,{\pos(223.396,519)}First Game\NEast Hand One
 Dialogue: 0,0:16:43.93,0:16:47.66,Default,,0,0,0,,In this situation, Ten can't possibly cheat
 Dialogue: 0,0:16:47.66,0:16:50.03,Default,,0,0,0,,I ought to be vigilant against anything he does
 Dialogue: 0,0:16:50.03,0:16:52.03,Default,,0,0,0,,But this Nakanishi guy...
@@ -258,7 +258,7 @@ Dialogue: 0,0:17:16.00,0:17:18.96,Default,,0,0,0,,A Man (character tile) single 
 Dialogue: 0,0:17:26.63,0:17:29.72,Default,,0,0,0,,Oh, you've already got enough of them
 Dialogue: 0,0:17:53.43,0:17:55.18,Default,,0,0,0,,I'm not in Tenpai
 Dialogue: 0,0:17:55.18,0:17:57.18,Default,,0,0,0,,And I'm not in Tenpai
-Dialogue: 0,0:18:05.29,0:18:08.73,Default - white,,0,0,0,,{\pos(1104.906,525)}First Game\NEast Round 3
+Dialogue: 0,0:18:05.29,0:18:08.73,Default - white,,0,0,0,,{\pos(1104.906,525)}First Game\NEast Hand 3
 Dialogue: 0,0:18:32.69,0:18:35.53,Default,,0,0,0,,This time he's collecting Pin (dot) tiles
 Dialogue: 0,0:19:21.49,0:19:24.23,Default,,0,0,0,,Discarding the Dora tile after he drew it?
 Dialogue: 0,0:19:24.23,0:19:28.09,Default,,0,0,0,,He couldn't make such dangerous discards from a worthless hand so often
@@ -270,7 +270,7 @@ Dialogue: 0,0:19:58.13,0:20:00.13,Default,,0,0,0,,It can't be helped
 Dialogue: 0,0:20:04.46,0:20:07.19,Default,,0,0,0,,Ron
 Dialogue: 0,0:20:07.19,0:20:09.19,Default,,0,0,0,,7,700 points
 Dialogue: 0,0:20:11.46,0:20:13.96,Default,,0,0,0,,What a shit break
-Dialogue: 0,0:20:18.76,0:20:22.19,Default - white,,0,0,0,,{\pos(187.17,525)}First Game\NSouth Round 4
+Dialogue: 0,0:20:18.76,0:20:22.19,Default - white,,0,0,0,,{\pos(187.17,525)}First Game\NSouth Hand 4
 Dialogue: 0,0:20:38.32,0:20:40.96,Default,,0,0,0,,Pon.
 Dialogue: 0,0:20:49.38,0:20:52.03,Default,,0,0,0,,Riichi
 Dialogue: 0,0:21:10.72,0:21:13.59,Default,,0,0,0,,He discarded the Dora within one turn of Sawada's Riichi
