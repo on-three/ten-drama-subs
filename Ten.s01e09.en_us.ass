@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e09.720.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 15
-Active Line: 29
-Video Position: 2603
+Scroll Position: 9
+Active Line: 45
+Video Position: 4580
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,8 +27,10 @@ Style: default - cyan,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H0
 Style: Default - white,.Hiragino Kaku Gothic Interface,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.66666,2,0,0,20,1
 Style: Default - red,Open Sans Semibold,54,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.66666,2,0,0,20,1
 Style: small - white,Open Sans Semibold,41,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.66666,2,0,0,20,1
-Style: default - cyan - with - background,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
-Style: Default - white - with - background,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
+Style: default - cyan - with - background,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
+Style: Default - white - with - background,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
+Style: Default - top,Open Sans Semibold,54,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
+Style: Default - top - cyan,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -77,7 +79,7 @@ Dialogue: 0,0:02:01.02,0:02:04.96,Default,,0,0,0,,that there weren't four 5 Sou 
 Dialogue: 0,0:02:04.96,0:02:09.72,Default,,0,0,0,,that in total, there were only 3...
 Dialogue: 0,0:02:13.66,0:02:15.92,Default,,0,0,0,,Open the box
 Dialogue: 0,0:02:18.62,0:02:20.62,Default,,0,0,0,,Do it
-Dialogue: 0,0:02:23.39,0:02:30.61,default - cyan,,0,0,0,,{\pos(661.736,94.276)}#/tv/shows subs presents
+Dialogue: 0,0:02:23.39,0:02:30.61,default - cyan,,0,0,0,,{\pos(661.736,94.276)}#/tv/shows YOU'VE BEEN GNOMED subs presents
 Dialogue: 0,0:02:33.12,0:02:37.91,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
 Dialogue: 0,0:02:33.12,0:02:37.91,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
 Dialogue: 0,0:02:33.68,0:02:35.48,Default - red,,0,0,0,,{\pos(205.283,655.967)}Kishitani Goro
@@ -312,12 +314,12 @@ Dialogue: 0,0:22:48.80,0:22:51.53,Default,,0,0,0,,embrace each crisis while movi
 Dialogue: 0,0:22:52.27,0:22:55.23,Default,,0,0,0,,Opening the way
 Dialogue: 0,0:22:57.59,0:23:02.81,Default - white,,0,0,0,,{\s1}SanAnKou{\s0}\NChitoitsu\NChanta\NSanSyoku\NIttsu
 Dialogue: 0,0:23:03.49,0:23:07.49,Default - white,,0,0,0,,{\pos(656.906,596.093)}East Round 2
-Dialogue: 0,0:23:43.71,0:23:46.17,Default,,0,0,0,,{\pos(637.988,583.362)}An awful starting hand, well beyond saving
+Dialogue: 0,0:23:43.71,0:23:46.17,Default - top,,0,0,0,,An awful starting hand, well beyond saving
 Dialogue: 0,0:23:46.17,0:23:48.97,Default,,0,0,0,,If he discards a South wind, the hand will not continue
 Dialogue: 0,0:24:19.63,0:24:22.33,Default,,0,0,0,,How do you retreat from such a position?
 Dialogue: 0,0:24:22.33,0:24:24.33,Default,,0,0,0,,Advance!
 Dialogue: 0,0:24:54.66,0:24:57.87,Default,,0,0,0,,
-Dialogue: 0,0:24:57.87,0:24:58.70,Default,,0,0,0,,
+Dialogue: 0,0:24:57.87,0:24:58.70,Default,,0,0,0,,Clown!
 Dialogue: 0,0:24:58.70,0:25:00.78,Default,,0,0,0,,
 Dialogue: 0,0:25:00.78,0:25:02.00,Default,,0,0,0,,
-Dialogue: 0,0:25:02.00,0:25:04.00,Default,,0,0,0,,
+Dialogue: 0,0:25:02.00,0:25:04.00,Default - top,,0,0,0,,What on EARTH are they thinking?
