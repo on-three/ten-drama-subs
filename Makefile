@@ -15,8 +15,10 @@ NEP := $(shell printf "%01d\n" $(EP))
 
 EN_NAME := Ten.s$(SEASON)e$(ZEP)
 JP_NAME := Ten.天.天和通りの快男児.第$(NEP)話
+RELEASE_NAME := [riichibones]Ten.Tenhodoori.No.Kaidanji.s01e$(NEP)[720p]
 
-NAME ?= $(JP_NAME)
+#NAME ?= $(JP_NAME)
+NAME ?= $(RELEASE_NAME)
 
 SUBS_DIR := .
 DATA_DIR := .
