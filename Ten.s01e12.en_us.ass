@@ -15,8 +15,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e12.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 37
-Video Position: 3227
+Scroll Position: 354
+Active Line: 372
+Video Position: 49334
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -223,7 +224,7 @@ Dialogue: 0,0:14:02.33,0:14:04.75,Default,,0,0,0,,That is, an Ittsu!
 Dialogue: 0,0:14:05.50,0:14:08.03,Default,,0,0,0,,What remains is a 3/6 wait
 Dialogue: 0,0:14:08.03,0:14:10.03,Default,,0,0,0,,arranged like so
 Dialogue: 0,0:14:10.03,0:14:12.03,Default,,0,0,0,,Just this one kind!
-Dialogue: 0,0:14:12.03,0:14:14.86,Default,,0,0,0,,I've had an unexpected amount of truble, but...
+Dialogue: 0,0:14:12.03,0:14:14.86,Default,,0,0,0,,I've had an unexpected amount of trouble, but...
 Dialogue: 0,0:14:14.86,0:14:16.86,Default,,0,0,0,,that's all over with now
 Dialogue: 0,0:14:23.20,0:14:26.01,Default,,0,0,0,,Take this!
 Dialogue: 0,0:14:33.15,0:14:35.60,Default,,0,0,0,,Idiot
@@ -296,7 +297,6 @@ Dialogue: 0,0:19:31.52,0:19:34.46,Default,,0,0,0,,made me lose my way
 Dialogue: 0,0:19:34.46,0:19:36.83,Default,,0,0,0,,And Ten's ambush...
 Dialogue: 0,0:19:36.83,0:19:39.85,Default,,0,0,0,,of a 70 Fu 3 Han Mangan...
 Dialogue: 0,0:19:39.85,0:19:43.32,Default,,0,0,0,,I entirely failed to see it
-Dialogue: 0,0:19:50.40,0:19:53.10,Default - white,,0,0,0,,天、
 Dialogue: 0,0:19:50.40,0:19:53.10,Default - top,,0,0,0,,Ten
 Dialogue: 0,0:19:49.58,0:19:54.45,Default - white,,0,0,0,,{\pos(1157.333,857.333)}Final Game
 Dialogue: 0,0:19:49.58,0:19:54.45,Default - white,,0,0,0,,{\c&H0019FF&\pos(1007.999,958.667)}Dealer-->{\c&HFFFFFF&} Ten: {\c&H00FF00&}21500
@@ -381,12 +381,12 @@ Dialogue: 0,0:26:06.22,0:26:08.22,Default,,0,0,0,,I'm... sorry
 Dialogue: 0,0:26:11.68,0:26:14.73,Default,,0,0,0,,It's been a year since the East/West Battle
 Dialogue: 0,0:26:15.41,0:26:18.19,Default - top,,0,0,0,,and my comprehending the limits of my Mahjong
 Dialogue: 0,0:26:18.19,0:26:20.73,Default - top,,0,0,0,,I left Mahjong behind
-Dialogue: 0,0:26:20.73,0:26:24.51,Default - top,,0,0,0,,Never could I reach the mirage of those geniuses
-Dialogue: 0,0:26:24.51,0:26:26.80,Default - top,,0,0,0,,Among the qualities of those who live by Mahjong
-Dialogue: 0,0:26:26.80,0:26:28.64,Default - top,,0,0,0,,there was a certain vital something...
-Dialogue: 0,0:26:28.64,0:26:30.64,Default - top,,0,0,0,,that I lack
+Dialogue: 0,0:26:20.73,0:26:24.51,Default,,0,0,0,,Never could I reach the mirage of those geniuses
+Dialogue: 0,0:26:24.51,0:26:26.80,Default,,0,0,0,,Among the qualities of those who live by Mahjong
+Dialogue: 0,0:26:26.80,0:26:28.64,Default,,0,0,0,,there was a certain vital something...
+Dialogue: 0,0:26:28.64,0:26:30.64,Default,,0,0,0,,that I lack
 Dialogue: 0,0:26:30.64,0:26:33.12,Default - top,,0,0,0,,That knowledge of my inferiority
-Dialogue: 0,0:26:33.12,0:26:35.74,Default - top,,0,0,0,,could not be erased my entire life
+Dialogue: 0,0:26:33.12,0:26:35.74,Default - top,,0,0,0,,could not be erased for my entire life
 Dialogue: 0,0:26:37.71,0:26:40.78,Default - top,,0,0,0,,It covered me like a thin film
 Dialogue: 0,0:26:40.78,0:26:42.92,Default - top,,0,0,0,,Making me gradually lethargic
 Dialogue: 0,0:26:42.92,0:26:46.62,Default - top,,0,0,0,,and whatever I do arduous and irksome
@@ -396,21 +396,19 @@ Dialogue: 0,0:26:52.08,0:26:53.20,Default - top,,0,0,0,,withered, blighted
 Dialogue: 0,0:26:53.20,0:26:55.20,Default - top,,0,0,0,,to rot
 Dialogue: 0,0:26:55.20,0:26:57.20,Default - top,,0,0,0,,but for me...
 Dialogue: 0,0:26:57.20,0:26:59.69,Default - top,,0,0,0,,for me alone
-Dialogue: 0,0:26:59.69,0:27:01.69,Default - top,,0,0,0,,it doesn't matter
+Dialogue: 0,0:26:59.69,0:27:01.69,Default - top,,0,0,0,,that can't be helped
 Dialogue: 0,0:27:03.31,0:27:04.92,Default - top,,0,0,0,,Just...
 Dialogue: 0,0:27:04.92,0:27:07.88,Default - top,,0,0,0,,That's how I have to go on
-Dialogue: 0,0:27:07.88,0:27:10.48,Default - top,,0,0,0,,Knowing I'm 3nd rate
+Dialogue: 0,0:27:07.88,0:27:10.48,Default - top,,0,0,0,,With the knowledge I'm 3nd rate
 Dialogue: 0,0:27:07.28,0:27:11.85,Default - white - with - background,,0,0,0,,{\pos(333.333,406.666)\frz268.8}Tenho Way
 Dialogue: 0,0:27:12.30,0:27:15.08,Default,,0,0,0,,Ron\N12,000 points
 Dialogue: 0,0:27:15.08,0:27:17.48,Default - top,,0,0,0,,Ten's top {\i1}again{\i0}!
-Dialogue: 0,0:27:17.48,0:27:19.90,Default,,0,0,0,,That's it for today\NI've got to knock off
+Dialogue: 0,0:27:17.48,0:27:19.90,Default - top,,0,0,0,,That's it for today\NI've got to knock off
 Dialogue: 0,0:27:19.90,0:27:22.62,Default - top,,0,0,0,,Thank you for your business :^)
-Dialogue: 0,0:27:22.62,0:27:24.49,Default,,0,0,0,,
+Dialogue: 0,0:27:22.62,0:27:24.49,Default - top,,0,0,0,,Ten's a natural, isn't he
 Dialogue: 0,0:27:24.49,0:27:27.15,Default - top,,0,0,0,,Okay\NWho's next?
 Dialogue: 0,0:27:27.15,0:27:29.88,Default - top,,0,0,0,,Ain't nobody got no RICHI BONES?
-Dialogue: 0,0:27:30.91,0:27:32.91,Default - white,,0,0,0,,お久しぶりです
 Dialogue: 0,0:27:30.91,0:27:32.91,Default - top,,0,0,0,,It's been a while
-Dialogue: 0,0:27:36.85,0:27:38.85,Default - white,,0,0,0,,天さん、
 Dialogue: 0,0:27:36.85,0:27:38.85,Default,,0,0,0,,Ten...
 Dialogue: 0,0:27:38.85,0:27:40.85,Default,,0,0,0,,Won't you play me?
 Dialogue: 0,0:27:41.65,0:27:44.91,small - white,,0,0,0,,{\pos(1453.333,918.667)}Translation: on3 for #/tv/shows
