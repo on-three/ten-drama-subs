@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 243
-Active Line: 256
-Video Position: 34419
+Scroll Position: 216
+Active Line: 235
+Video Position: 31658
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -269,7 +269,7 @@ Dialogue: 0,0:17:23.21,0:17:24.68,Default,,0,0,0,,What's the matter?
 Dialogue: 0,0:17:24.68,0:17:26.68,Default,,0,0,0,,Nothing
 Dialogue: 0,0:17:26.68,0:17:30.34,Default,,0,0,0,,We didn't see it at the time
 Dialogue: 0,0:17:30.34,0:17:33.28,Default,,0,0,0,,We lost
-Dialogue: 0,0:17:35.24,0:17:37.24,Default,,0,0,0,,Tenho Doori\N(Tenho Street)
+Dialogue: 0,0:17:35.24,0:17:37.24,Default,,0,0,0,,Tenho Doori\N(Tenho Way)
 Dialogue: 0,0:17:42.31,0:17:44.54,Default,,0,0,0,,Maruo
 Dialogue: 0,0:17:44.54,0:17:47.57,Default,,0,0,0,,Sorry about this time
 Dialogue: 0,0:17:47.57,0:17:50.88,Default,,0,0,0,,Ahhh. It can't be helped
