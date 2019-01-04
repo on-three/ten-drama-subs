@@ -16,8 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 6
-Video Position: 418
+Scroll Position: 202
+Active Line: 218
+Video Position: 34727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,15 +60,36 @@ Dialogue: 0,0:01:09.80,0:01:12.46,Default,,0,0,0,,Ten, what do you mean to do?
 Dialogue: 0,0:01:16.86,0:01:19.36,Default,,0,0,0,,Riichi
 Dialogue: 0,0:01:25.97,0:01:28.86,Default,,0,0,0,,Pon
 Dialogue: 0,0:02:13.55,0:02:16.46,Default,,0,0,0,,The opposite of 100% luck is 0% luck
-Dialogue: 0,0:02:16.46,0:02:19.92,Default,,0,0,0,,your uncanny luck will be mine
-Dialogue: 0,0:02:21.90,0:02:28.03,default - cyan,,0,0,0,,{\pos(630.223,132.445)}#/tv/shows Wikifeet™ janitors and Danny V's 52nd Street Band appretiation society PRESENTS:
-Dialogue: 0,0:02:33.48,0:02:35.48,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
-Dialogue: 0,0:02:42.35,0:02:44.35,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
-Dialogue: 0,0:02:50.75,0:02:52.75,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:03:17.30,0:03:20.80,Default,,0,0,0,,{\pos(629.333,83.333)}#/tv/shows subs: "They're better than nothing!"
-Dialogue: 0,0:03:20.80,0:03:24.31,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
-Dialogue: 0,0:03:24.31,0:03:26.31,Default,,0,0,0,,{\pos(641.778,438)}Ten: Tenho-doori no Kaidanji\N(Ten: Nice guy on the path of Tenho)
-Dialogue: 0,0:03:24.31,0:03:26.31,Default - white,,0,0,0,,{\pos(645.333,610.445)}Episode 4
+Dialogue: 0,0:02:16.46,0:02:19.92,Default,,0,0,0,,Your uncanny luck will be mine
+Dialogue: 0,0:02:22.89,0:02:30.11,Default - top - cyan,,0,0,0,,#/tv/shows Wikifeet™ janitors and Danny V's 52nd Street Band appretiation society PRESENTS
+Dialogue: 0,0:02:32.62,0:02:37.41,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
+Dialogue: 0,0:02:32.62,0:02:37.41,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
+Dialogue: 0,0:02:33.11,0:02:34.98,Default - white,,0,0,0,,{\pos(489.6,469.6)}Ten Takeshi
+Dialogue: 0,0:02:33.18,0:02:34.98,Default - red,,0,0,0,,{\pos(208,628)}Kishitani Goro
+Dialogue: 0,0:02:37.89,0:02:42.07,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
+Dialogue: 0,0:02:37.89,0:02:42.07,Default - white - with - background,,0,0,0,,He's come back again
+Dialogue: 0,0:02:41.75,0:02:43.61,Default - white,,0,0,0,,{\pos(795.2,394.4)}Igawa Hiroyuki
+Dialogue: 0,0:02:41.81,0:02:43.61,Default - red,,0,0,0,,{\pos(774.4,610.4)}Furukawa Yuki
+Dialogue: 0,0:02:43.12,0:02:48.25,default - cyan - with - background,,0,0,0,,ざわざわと
+Dialogue: 0,0:02:43.12,0:02:48.25,Default - white - with - background,,0,0,0,,In anxiety...
+Dialogue: 0,0:02:48.78,0:02:53.89,default - cyan - with - background,,0,0,0,,息を殺して
+Dialogue: 0,0:02:48.78,0:02:53.89,Default - white - with - background,,0,0,0,,you hold your breath
+Dialogue: 0,0:02:50.48,0:02:52.28,Default - red,,0,0,0,,{\pos(259.2,706.4)}Yoshida Eisaku
+Dialogue: 0,0:02:50.48,0:02:52.28,Default - white,,0,0,0,,{\pos(491.2,512.8)}Akagi Shigeru
+Dialogue: 0,0:02:53.89,0:02:59.27,default - cyan - with - background,,0,0,0,,誰の肩に止まるかな
+Dialogue: 0,0:02:53.89,0:02:59.27,Default - white - with - background,,0,0,0,,Whose shoulder will it land upon
+Dialogue: 0,0:02:59.27,0:03:05.27,default - cyan - with - background,,0,0,0,,くるくる廻る天道虫
+Dialogue: 0,0:02:59.27,0:03:05.27,Default - white - with - background,,0,0,0,,Ladybug going round and round
+Dialogue: 0,0:03:05.27,0:03:09.63,default - cyan - with - background,,0,0,0,,背中の星が揃ったら
+Dialogue: 0,0:03:05.27,0:03:09.63,Default - white - with - background,,0,0,0,,When the stars on her back align
+Dialogue: 0,0:03:09.63,0:03:19.54,default - cyan - with - background,,0,0,0,,雨上がりの風吹く通りを
+Dialogue: 0,0:03:09.63,0:03:19.54,Default - white - with - background,,0,0,0,,After the rain, above the windswept street,
+Dialogue: 0,0:03:17.61,0:03:21.06,Default,,0,0,0,,#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:03:19.54,0:03:21.81,default - cyan - with - background,,0,0,0,,陽が昇った
+Dialogue: 0,0:03:19.54,0:03:21.81,Default - white - with - background,,0,0,0,,The sun rose
+Dialogue: 0,0:03:21.06,0:03:24.42,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
+Dialogue: 0,0:03:24.42,0:03:26.75,Default - white,,0,0,0,,{\pos(635.2,608.8)}Episode 4
+Dialogue: 0,0:03:24.72,0:03:26.75,Default,,0,0,0,,{\pos(627.2,450.8)}Ten: Tenho-doori no Kaidanji\N(The Nice Guy on Tenho Way)
 Dialogue: 0,0:03:29.46,0:03:32.20,Default,,0,0,0,,Kan
 Dialogue: 0,0:03:39.37,0:03:44.43,Default,,0,0,0,,With that Pon call and the new draw order, the game flow changed instantly
 Dialogue: 0,0:04:27.43,0:04:29.92,Default,,0,0,0,,Again the 7 Man
@@ -168,7 +190,7 @@ Dialogue: 0,0:12:24.75,0:12:30.88,default - cyan,,0,0,0,,{\pos(634.444,128.445)}
 Dialogue: 0,0:12:27.17,0:12:31.00,Default,,0,0,0,,Certainly top rated Akagi dealt 5,200 points into that guy's hand
 Dialogue: 0,0:12:31.00,0:12:35.12,Default,,0,0,0,,and with Ten winning 2,000 points, he's at 29,500
 Dialogue: 0,0:12:35.12,0:12:38.89,Default,,0,0,0,,No one has reached 30,000 points
-Dialogue: 0,0:12:38.89,0:12:42.20,Default,,0,0,0,,I'd expect as much from a  Kantō ringer
+Dialogue: 0,0:12:38.89,0:12:42.20,Default,,0,0,0,,I'd expect as much from a Kantō ringer
 Dialogue: 0,0:12:38.89,0:12:45.03,default - cyan,,0,0,0,,{\pos(635.778,73.999)}Kantō: The greater Tokyo area in western Japan
 Dialogue: 0,0:12:42.20,0:12:44.20,Default,,0,0,0,,Well judged
 Dialogue: 0,0:12:44.86,0:12:46.86,Default,,0,0,0,,Oi
@@ -231,7 +253,7 @@ Dialogue: 0,0:19:03.55,0:19:06.15,Default,,0,0,0,,B-but that's not a SuuAnKou
 Dialogue: 0,0:19:06.15,0:19:10.40,Default,,0,0,0,,Then you haven't overtaken Ten's points!
 Dialogue: 0,0:19:10.40,0:19:12.40,Default,,0,0,0,,No
 Dialogue: 0,0:19:12.40,0:19:14.40,Default,,0,0,0,,Ahh...
-Dialogue: 0,0:19:14.40,0:19:17.57,Default,,0,0,0,,My hidden triplets are over THERE
+Dialogue: 0,0:19:14.40,0:19:17.57,Default,,0,0,0,,I've got a hidden triplet s over THERE
 Dialogue: 0,0:19:32.16,0:19:35.47,Default,,0,0,0,,First, 3 Ura-dora.\NA Haneman hand
 Dialogue: 0,0:19:41.87,0:19:46.87,Default,,0,0,0,,and with this it's 6 Ura-Dora.\NA Baiman hand
 Dialogue: 0,0:19:46.87,0:19:48.87,Default,,0,0,0,,T-that can't be
