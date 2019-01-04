@@ -10,317 +10,324 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 123
-Active Line: 133
-Video Position: 23212
+Scroll Position: 206
+Active Line: 210
+Video Position: 40231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,48,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: white-small,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: white-large,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.4,0.6,2,10,10,10,1
-Style: black-small,Arial,16,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: black-large,Arial,35,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: cyan,Arial,42,&H00FFFF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,64,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: default - cyan,Open Sans Semibold,64,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default - white,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: Default - red,Open Sans Semibold,64,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: small - white,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
+Style: default - cyan - with - background,Open Sans Semibold,64,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
+Style: Default - white - with - background,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
+Style: Default - top,Open Sans Semibold,64,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
+Style: Default - top - cyan,Open Sans Semibold,64,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
+Style: Default - white - top,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.40,Default,,0,0,0,,TENHO CHUUREN POUTOU
-Dialogue: 0,0:00:03.40,0:00:05.17,Default,,0,0,0,,We win.
-Dialogue: 0,0:00:05.17,0:00:07.17,Default,,0,0,0,,Be a ringer for me once more.
-Dialogue: 0,0:00:07.17,0:00:08.71,Default,,0,0,0,,A chitoitsu.\N(all pairs hand)
-Dialogue: 0,0:00:08.71,0:00:11.05,Default,,0,0,0,,He turns down each pair when he's got one?
-Dialogue: 0,0:00:11.05,0:00:12.88,Default,,0,0,0,,How did he read my discards?
-Dialogue: 0,0:00:12.88,0:00:15.62,Default,,0,0,0,,Interesting game you're having there, isn't it.
-Dialogue: 0,0:00:15.62,0:00:18.40,Default,,0,0,0,,Won't you let me mix it up too?
-Dialogue: 0,0:00:21.02,0:00:22.91,Default,,0,0,0,,Hiroyuki,
-Dialogue: 0,0:00:22.91,0:00:24.91,Default,,0,0,0,,Change with me.
-Dialogue: 0,0:00:25.48,0:00:27.48,Default,,0,0,0,,You...
-Dialogue: 0,0:00:27.48,0:00:29.48,Default,,0,0,0,,you can't beat this boomer.
-Dialogue: 0,0:00:30.21,0:00:32.21,Default,,0,0,0,,This ain't a problem, is it?
-Dialogue: 0,0:00:32.21,0:00:34.21,Default,,0,0,0,,N-no.
-Dialogue: 0,0:00:34.21,0:00:36.71,Default,,0,0,0,,I'm thankful with all my heart for what you're doing, Ten.
-Dialogue: 0,0:00:36.71,0:00:39.34,Default,,0,0,0,,What is this changing shit?
-Dialogue: 0,0:00:39.81,0:00:42.51,Default,,0,0,0,,Seriously,
-Dialogue: 0,0:00:43.31,0:00:46.20,Default,,0,0,0,,I ain't afraid.\N(Kansai dialect)
-Dialogue: 0,0:00:50.25,0:00:52.25,Default,,0,0,0,,2nd Game\NEast Round 1
-Dialogue: 0,0:01:10.37,0:01:12.98,Default,,0,0,0,,Again?
-Dialogue: 0,0:01:20.77,0:01:24.02,Default,,0,0,0,,How does he have such faith that'll he'll complete his hand?
-Dialogue: 0,0:01:24.02,0:01:26.97,Default,,0,0,0,,It looks like he's extremely confident.
-Dialogue: 0,0:01:36.08,0:01:39.22,Default,,0,0,0,,I start playing and after some hours...
-Dialogue: 0,0:01:39.22,0:01:42.62,Default,,0,0,0,,I can read the way the tiles are flowing.
-Dialogue: 0,0:01:42.62,0:01:46.37,Default,,0,0,0,,My chitoitsu hands have been called godlike.
-Dialogue: 0,0:01:46.37,0:01:48.37,Default,,0,0,0,,This sense of mine
-Dialogue: 0,0:01:48.37,0:01:51.74,Default,,0,0,0,,this is what people have said.
-Dialogue: 0,0:02:04.28,0:02:08.02,Default,,0,0,0,,Ron.\NA chitoitsu.
-Dialogue: 0,0:02:10.34,0:02:13.05,Default,,0,0,0,,Yet another chitoitsu?
-Dialogue: 0,0:02:13.05,0:02:16.48,Default,,0,0,0,,How can he win in this godly way?
-Dialogue: 0,0:02:19.95,0:02:21.95,Default,,0,0,0,,2nd Game\NEast Round 3
-Dialogue: 0,0:02:49.97,0:02:51.60,Default,,0,0,0,,Ten.
-Dialogue: 0,0:02:51.60,0:02:55.51,Default,,0,0,0,,I can lay down my triplets as I complete them too.
-Dialogue: 0,0:02:55.51,0:02:58.48,Default,,0,0,0,,There's no reason you have to be the only one...
-Dialogue: 0,0:02:58.48,0:03:00.48,Default,,0,0,0,,showing your hand's progress.
-Dialogue: 0,0:03:01.65,0:03:03.65,Default,,0,0,0,,Bro
-Dialogue: 0,0:03:03.65,0:03:07.25,Default,,0,0,0,,Don't underestimate me.
-Dialogue: 0,0:03:13.54,0:03:16.28,Default,,0,0,0,,I'm not in Tenpai.\NI'm not either.
-Dialogue: 0,0:03:30.45,0:03:37.97,cyan,,0,0,0,,{\pos(638,150)}#/tv/shows Hit or miss i guess they never miss huh TikTok|1 HOUR LOOP\Npresents:
-Dialogue: 0,0:03:42.61,0:03:44.61,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
-Dialogue: 0,0:03:50.81,0:03:52.81,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
-Dialogue: 0,0:03:59.75,0:04:01.75,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:04:26.42,0:04:29.68,Default,,0,0,0,,{\pos(640,76)}#/tv/shows subs: "They're better than nothing."
-Dialogue: 0,0:04:29.68,0:04:33.38,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
-Dialogue: 0,0:04:33.38,0:04:36.34,Default,,0,0,0,,{\pos(654,442)}Ten: Tenho-doori no Kaidanji\N(The Blessed Way of the Nice Guy Ten)
-Dialogue: 0,0:04:33.38,0:04:36.34,white-large,,0,0,0,,{\pos(646,594)}Episode 3
-Dialogue: 0,0:04:37.18,0:04:39.18,Default,,0,0,0,,2nd Game\NEast Round 4
-Dialogue: 0,0:04:42.62,0:04:44.68,Default,,0,0,0,,Again
-Dialogue: 0,0:04:44.68,0:04:47.62,Default,,0,0,0,,Ten is trying to provoke Murota and destroy his pace, but...
-Dialogue: 0,0:04:47.62,0:04:50.60,Default,,0,0,0,,this style of playing, it's Murota's specialty.
-Dialogue: 0,0:04:50.60,0:04:52.37,Default,,0,0,0,,Ten is entering his opponent's home turf,
-Dialogue: 0,0:04:52.37,0:04:55.51,Default,,0,0,0,,and explicitly asking for a contest.
-Dialogue: 0,0:05:09.31,0:05:14.20,Default,,0,0,0,,He's already in Tenpai.\NAs I thought, he's like a monster.
-Dialogue: 0,0:05:14.20,0:05:16.20,Default,,0,0,0,,What tile is he waiting on?
-Dialogue: 0,0:05:16.20,0:05:19.05,Default,,0,0,0,,The dora is Red Dragon.
-Dialogue: 0,0:05:19.05,0:05:22.68,Default,,0,0,0,,He's probably holding Sou tiles?
-Dialogue: 0,0:05:35.20,0:05:37.95,Default,,0,0,0,,No matter how you put it, this is...(dangerous)
-Dialogue: 0,0:05:45.34,0:05:48.21,Default,,0,0,0,,I-it passed!
-Dialogue: 0,0:06:06.88,0:06:09.75,Default,,0,0,0,,This passed too!?!
-Dialogue: 0,0:06:09.75,0:06:14.02,Default,,0,0,0,,You've guessed it haven't you, Hiroyuki?
-Dialogue: 0,0:06:15.34,0:06:17.71,Default,,0,0,0,,A facade.
-Dialogue: 0,0:06:17.71,0:06:20.65,Default,,0,0,0,,Indeed. A facade.
-Dialogue: 0,0:06:20.65,0:06:22.65,Default,,0,0,0,,This character's Mahjong...
-Dialogue: 0,0:06:22.65,0:06:24.65,Default,,0,0,0,,is the Mahjong of "giving up."
-Dialogue: 0,0:06:26.61,0:06:29.71,Default,,0,0,0,,The weapon he uses in making players give up is his "image."
-Dialogue: 0,0:06:30.45,0:06:34.20,Default,,0,0,0,,Making himself out to be a monster or a god
-Dialogue: 0,0:06:34.95,0:06:38.02,Default,,0,0,0,,To make players fold, he applies pressure.
-Dialogue: 0,0:06:38.02,0:06:41.74,Default,,0,0,0,,but progresses at his own pace.
-Dialogue: 0,0:06:41.74,0:06:46.14,Default,,0,0,0,,But when I did the same thing
-Dialogue: 0,0:06:46.14,0:06:48.48,Default,,0,0,0,,his own pace started to freeze.
-Dialogue: 0,0:06:48.48,0:06:50.48,Default,,0,0,0,,I dare say
-Dialogue: 0,0:06:51.21,0:06:53.97,Default,,0,0,0,,Those pairs you've laid down...
-Dialogue: 0,0:06:53.97,0:06:57.88,Default,,0,0,0,,They're make believe.\NThey aren't all pairs at all.
-Dialogue: 0,0:07:23.22,0:07:25.95,Default,,0,0,0,,You're reckless.
-Dialogue: 0,0:07:27.38,0:07:29.38,Default,,0,0,0,,Ron.
-Dialogue: 0,0:07:31.60,0:07:35.34,Default,,0,0,0,,TanYao, SanSyoku\N(Only tiles 2-9, from 3 suits)
-Dialogue: 0,0:07:35.34,0:07:37.34,Default,,0,0,0,,7,700 points.
-Dialogue: 0,0:07:38.15,0:07:40.15,Default,,0,0,0,,Y-you..
-Dialogue: 0,0:07:40.15,0:07:42.15,Default,,0,0,0,,You ought not have been in Tenpai!
-Dialogue: 0,0:07:41.71,0:07:46.48,Default,,0,0,0,,You think I'm so fucking dumb I'd tell you the composition of my hand?
-Dialogue: 0,0:07:46.41,0:07:51.28,Default,,0,0,0,,You've been playing in such a profoundly dishonest way
-Dialogue: 0,0:07:51.28,0:07:55.57,Default,,0,0,0,,you shouldn't be trusting anyone, should you?
-Dialogue: 0,0:07:57.55,0:07:59.55,Default,,0,0,0,,So, let's continue, shall we?
-Dialogue: 0,0:08:02.51,0:08:04.51,Default,,0,0,0,,2nd Game\NSouth Round 4
-Dialogue: 0,0:08:28.45,0:08:30.91,Default,,0,0,0,,He's got it.
-Dialogue: 0,0:08:30.91,0:08:33.88,Default,,0,0,0,,He's in Tenpai.
-Dialogue: 0,0:08:38.82,0:08:41.71,Default,,0,0,0,,Kan.
-Dialogue: 0,0:08:45.80,0:08:49.51,Default,,0,0,0,,At this point he's discarded a 1 and 2 Pin.
-Dialogue: 0,0:08:49.51,0:08:52.08,Default,,0,0,0,,He was aiming for a SanSyoku or Tanyao\N(3 Suits, only tiles 2-8)
-Dialogue: 0,0:08:52.08,0:08:54.08,Default,,0,0,0,,But he gave up on them...
-Dialogue: 0,0:08:54.08,0:08:56.08,Default,,0,0,0,,That is to say...
-Dialogue: 0,0:08:56.08,0:08:59.97,Default,,0,0,0,,This guy's got an uneeded 4 Pin.
-Dialogue: 0,0:08:59.97,0:09:04.11,Default,,0,0,0,,That end tile there is the extra 4 Pin.
-Dialogue: 0,0:09:19.25,0:09:22.15,Default,,0,0,0,,Ten followed it with his eye.
-Dialogue: 0,0:09:23.11,0:09:27.68,Default,,0,0,0,,Humph.\NHe just now deliberately followed that tile with his eye.
-Dialogue: 0,0:09:27.68,0:09:34.17,Default,,0,0,0,,Does he think that'll make me feel safe and discard a 4 Pin or something?
-Dialogue: 0,0:09:36.02,0:09:38.78,Default,,0,0,0,,A perfect tsumo tile!
-Dialogue: 0,0:09:40.71,0:09:43.65,Default,,0,0,0,,But he can't discard the 4 Pin.
-Dialogue: 0,0:09:43.65,0:09:47.14,Default,,0,0,0,,Ten to one, Murota is waiting on it.
-Dialogue: 0,0:09:54.82,0:09:57.95,Default,,0,0,0,,T-ten! That's the tile Murota's waiting for!
-Dialogue: 0,0:10:04.71,0:10:06.68,Default,,0,0,0,,He dealt into Murota's hand.
-Dialogue: 0,0:10:06.68,0:10:10.25,Default,,0,0,0,,That tile is a 4 Pin!
-Dialogue: 0,0:10:19.20,0:10:21.54,Default,,0,0,0,,How?\NI could have sworn...
-Dialogue: 0,0:10:21.54,0:10:25.51,Default,,0,0,0,,He ought to have drawn the 4 Pin.
-Dialogue: 0,0:10:25.51,0:10:27.85,Default,,0,0,0,,H-how?\NCertainly, just now...
-Dialogue: 0,0:10:27.85,0:10:29.85,Default,,0,0,0,,the jerk dew that very tile!
-Dialogue: 0,0:10:31.21,0:10:34.37,Default,,0,0,0,,How was that tile not a 4 Pin?!?
-Dialogue: 0,0:10:39.68,0:10:43.08,Default,,0,0,0,,This Dora tile will be tough to discard.
-Dialogue: 0,0:10:43.08,0:10:45.08,Default,,0,0,0,,Do I break up a pair?
-Dialogue: 0,0:10:45.08,0:10:50.14,Default,,0,0,0,,But that's like confessing I haven't got a single wait.
-Dialogue: 0,0:10:51.74,0:10:54.22,Default,,0,0,0,,How about this?
-Dialogue: 0,0:10:54.22,0:10:59.11,Default,,0,0,0,,Yes.\NThat 8 Sou I thought was a 4 Pin.
-Dialogue: 0,0:11:01.77,0:11:06.17,Default,,0,0,0,,H-he ought not be waiting on it!
-Dialogue: 0,0:11:13.68,0:11:19.80,Default,,0,0,0,,At last... you look up.
-Dialogue: 0,0:11:33.40,0:11:37.80,Default,,0,0,0,,TanYao with one Dora\N3,900 points.
-Dialogue: 0,0:11:37.80,0:11:39.60,Default,,0,0,0,,Of course.
-Dialogue: 0,0:11:39.60,0:11:41.60,Default,,0,0,0,,You've done it Ten.
-Dialogue: 0,0:11:42.18,0:11:44.85,Default,,0,0,0,,Ten certainly drew the 4 Pin.
-Dialogue: 0,0:11:44.85,0:11:50.68,Default,,0,0,0,,But in that instant he switched it for the 8 Sou he just drew.
-Dialogue: 0,0:11:50.68,0:11:52.68,Default,,0,0,0,,It wasn't a cheat.
-Dialogue: 0,0:11:52.68,0:11:55.68,Default,,0,0,0,,It was all within his own hand.
-Dialogue: 0,0:11:55.68,0:11:59.71,Default,,0,0,0,,As I thought. His Mahjong is strong.
-Dialogue: 0,0:12:01.08,0:12:04.14,Default,,0,0,0,,That's as far as it goes.
-Dialogue: 0,0:12:04.14,0:12:08.34,Default,,0,0,0,,You probably won't be winning any more.
-Dialogue: 0,0:12:08.34,0:12:13.02,Default,,0,0,0,,You've... given up.
-Dialogue: 0,0:12:13.02,0:12:17.74,Default,,0,0,0,,You retreated from a difficult position...
-Dialogue: 0,0:12:17.74,0:12:22.11,Default,,0,0,0,,and you couldn't read your OWN mind.
-Dialogue: 0,0:12:22.11,0:12:25.62,Default,,0,0,0,,It's true all the world round:
-Dialogue: 0,0:12:25.62,0:12:29.11,Default,,0,0,0,,Those who crumble under pressure...
-Dialogue: 0,0:12:29.11,0:12:32.88,Default,,0,0,0,,have no path to victory.
-Dialogue: 0,0:12:35.25,0:12:38.28,Default,,0,0,0,,What will you do?
-Dialogue: 0,0:12:38.28,0:12:41.65,Default,,0,0,0,,Won't you show this guy out?
-Dialogue: 0,0:12:49.40,0:12:51.80,Default,,0,0,0,,I already said
-Dialogue: 0,0:12:51.80,0:12:53.80,Default,,0,0,0,,I'm retired.
-Dialogue: 0,0:12:53.80,0:12:55.80,Default,,0,0,0,,The chairman is constrained for time.
-Dialogue: 0,0:12:55.80,0:12:57.80,Default,,0,0,0,,Would you somehow...?
-Dialogue: 0,0:12:56.51,0:12:58.02,Default,,0,0,0,,No way.
-Dialogue: 0,0:12:58.02,0:13:00.91,Default,,0,0,0,,I don't have the stamina for long matches any more.
-Dialogue: 0,0:13:00.91,0:13:04.68,Default,,0,0,0,,Murota just lost.\NThere's no one else but you.
-Dialogue: 0,0:13:04.68,0:13:06.68,Default,,0,0,0,,Murota.
-Dialogue: 0,0:13:11.34,0:13:14.05,Default,,0,0,0,,Who beat him?
-Dialogue: 0,0:13:14.81,0:13:17.68,Default,,0,0,0,,Some guy named Ten.
-Dialogue: 0,0:13:21.28,0:13:23.61,Default,,0,0,0,,Ten.
-Dialogue: 0,0:14:53.80,0:14:57.05,Default,,0,0,0,,It looks like they'll change a player for the next East South Round.
-Dialogue: 0,0:14:57.05,0:14:59.05,Default,,0,0,0,,I see.
-Dialogue: 0,0:14:59.75,0:15:02.74,Default,,0,0,0,,Can I ask you something?
-Dialogue: 0,0:15:04.05,0:15:07.82,Default,,0,0,0,,Ten, even though you were my opponent,
-Dialogue: 0,0:15:07.82,0:15:11.54,Default,,0,0,0,,why did you save me?
-Dialogue: 0,0:15:11.54,0:15:15.71,Default,,0,0,0,,I thought I'd teach you something in front of "Hamada chan"
-Dialogue: 0,0:15:17.18,0:15:21.34,Default,,0,0,0,,something about ringers and the REAL world of Mahjong.
-Dialogue: 0,0:15:23.31,0:15:25.31,Default,,0,0,0,,Time to start again.
-Dialogue: 0,0:15:30.45,0:15:33.41,Default,,0,0,0,,Akagi Shigeru.
-Dialogue: 0,0:15:33.41,0:15:35.41,Default,,0,0,0,,Why HIM?
-Dialogue: 0,0:15:35.41,0:15:37.71,Default,,0,0,0,,Is his Mahjong Strong?
-Dialogue: 0,0:15:36.91,0:15:41.17,Default,,0,0,0,,"Strong" isn't a sufficient word for what he is.
-Dialogue: 0,0:15:41.65,0:15:45.22,Default,,0,0,0,,During his career no one has been able to defeat him.
-Dialogue: 0,0:15:45.22,0:15:47.14,Default,,0,0,0,,Without doubt...
-Dialogue: 0,0:15:47.14,0:15:50.17,Default,,0,0,0,,a man with the innate ability to blow others away.
-Dialogue: 0,0:15:50.17,0:15:52.71,Default,,0,0,0,,Until this day he hasn't lost a game.
-Dialogue: 0,0:15:52.71,0:15:54.71,Default,,0,0,0,,A PEERLESS Mahjong professional.
-Dialogue: 0,0:15:55.48,0:15:57.48,Default,,0,0,0,,Mahjong professional.
-Dialogue: 0,0:16:04.31,0:16:07.01,Default,,0,0,0,,Are you Ten?
-Dialogue: 0,0:16:07.01,0:16:10.05,Default,,0,0,0,,Y-you know of me?
-Dialogue: 0,0:16:10.05,0:16:12.68,Default,,0,0,0,,I've heard rumors.
-Dialogue: 0,0:16:12.68,0:16:15.34,Default,,0,0,0,,Haven't you retired?
-Dialogue: 0,0:16:15.34,0:16:17.94,Default,,0,0,0,,I heard about a strong player.
-Dialogue: 0,0:16:17.94,0:16:19.94,Default,,0,0,0,,It's been a long time.
-Dialogue: 0,0:16:19.94,0:16:21.94,Default,,0,0,0,,but I thought I'd try to play him.
-Dialogue: 0,0:16:29.55,0:16:31.55,Default,,0,0,0,,3rd Game\NEast Round 1
-Dialogue: 0,0:16:38.82,0:16:41.05,Default,,0,0,0,,Akagi Shigeru.
-Dialogue: 0,0:16:41.05,0:16:45.22,Default,,0,0,0,,How on earth will he play?
-Dialogue: 0,0:16:52.71,0:16:55.17,Default,,0,0,0,,Pon.
-Dialogue: 0,0:17:03.08,0:17:05.08,Default,,0,0,0,,Chi.
-Dialogue: 0,0:17:05.08,0:17:09.17,Default,,0,0,0,,Amazing.\NIt's only just started,
-Dialogue: 0,0:17:09.17,0:17:12.37,Default,,0,0,0,,but already the game's coming to a boil.
-Dialogue: 0,0:17:19.00,0:17:22.08,Default,,0,0,0,,Simply put, it's not just his speed,
-Dialogue: 0,0:17:22.08,0:17:25.28,Default,,0,0,0,,The man himself exudes a strange atmosphere.
-Dialogue: 0,0:17:25.28,0:17:27.94,Default,,0,0,0,,It's indescribable, like something in the air.
-Dialogue: 0,0:17:27.94,0:17:29.94,Default,,0,0,0,,Brilliance.
-Dialogue: 0,0:17:29.94,0:17:33.82,Default,,0,0,0,,A brilliance that suggests a further vast capacity for brilliance.
-Dialogue: 0,0:17:33.82,0:17:37.08,Default,,0,0,0,,This man is overflowing with the strange and unknown.
-Dialogue: 0,0:17:40.91,0:17:43.68,Default,,0,0,0,,Ron.
-Dialogue: 0,0:17:48.71,0:17:51.65,Default,,0,0,0,,Chanta with Red Dragon.
-Dialogue: 0,0:17:51.65,0:17:53.65,Default,,0,0,0,,Chanta...
-Dialogue: 0,0:17:51.65,0:17:57.85,cyan,,0,0,0,,{\pos(636,102)}Chanta: All triples and pairs must contain a terminal tile [1 or 9] or honor[dragon or wind]
-Dialogue: 0,0:17:53.65,0:17:56.77,Default,,0,0,0,,And furthermore completed on the 4th turn?
-Dialogue: 0,0:17:56.77,0:17:59.82,Default,,0,0,0,,I can't get my hand moving in only 4 turns.
-Dialogue: 0,0:17:59.82,0:18:01.82,Default,,0,0,0,,Really?
-Dialogue: 0,0:18:01.82,0:18:05.05,Default,,0,0,0,,You three guys have discarded 9 tiles.
-Dialogue: 0,0:18:05.05,0:18:07.05,Default,,0,0,0,,I drew 2 of those.
-Dialogue: 0,0:18:07.05,0:18:12.00,Default,,0,0,0,,In total...\NIt felt like I drew eleven times.
-Dialogue: 0,0:18:16.08,0:18:18.08,Default,,0,0,0,,3rd Game\NEast Round 3
-Dialogue: 0,0:18:27.42,0:18:30.01,Default,,0,0,0,,Pon.
-Dialogue: 0,0:18:42.88,0:18:46.05,Default,,0,0,0,,Tsumo.
-Dialogue: 0,0:18:49.08,0:18:51.78,Default,,0,0,0,,Another chanta?
-Dialogue: 0,0:18:57.81,0:18:59.81,Default,,0,0,0,,3rd Game\NEast Round 4
-Dialogue: 0,0:19:20.68,0:19:23.55,Default,,0,0,0,,I'm not in Tenpai.
-Dialogue: 0,0:19:23.55,0:19:25.55,Default,,0,0,0,,Tenpai.
-Dialogue: 0,0:19:25.55,0:19:27.82,Default,,0,0,0,,Not his typical consecutive wins...
-Dialogue: 0,0:19:27.82,0:19:31.34,Default,,0,0,0,,but once again he was going for a Chanta hand.
-Dialogue: 0,0:19:31.88,0:19:35.08,Default,,0,0,0,,Isn't it about time you play in a more normal style?
-Dialogue: 0,0:19:35.08,0:19:37.08,Default,,0,0,0,,No. This will be fine.
-Dialogue: 0,0:19:37.08,0:19:39.08,Default,,0,0,0,,I'm still measuring him.
-Dialogue: 0,0:19:39.08,0:19:40.48,Default,,0,0,0,,Measuring?
-Dialogue: 0,0:19:40.48,0:19:44.28,Default,,0,0,0,,The Mahjong I'm playing now does not depend upon luck.
-Dialogue: 0,0:19:45.51,0:19:47.51,Default,,0,0,0,,In a 100 games
-Dialogue: 0,0:19:47.51,0:19:50.57,Default,,0,0,0,,it'll win 100.
-Dialogue: 0,0:19:52.48,0:19:56.20,Default,,0,0,0,,Without knowing the general strength of your opponent
-Dialogue: 0,0:19:56.20,0:20:00.22,Default,,0,0,0,,Jumping in head first wouldn't do.
-Dialogue: 0,0:21:34.91,0:21:36.91,Default,,0,0,0,,3rd Game\NSouth Round 2
-Dialogue: 0,0:21:50.68,0:21:53.58,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:22:01.97,0:22:04.61,Default,,0,0,0,,Ron.
-Dialogue: 0,0:22:11.11,0:22:13.20,Default,,0,0,0,,That's not Chanta.
-Dialogue: 0,0:22:13.20,0:22:16.05,Default,,0,0,0,,Well, I thought i'd swtich it up some.
-Dialogue: 0,0:22:24.28,0:22:26.95,Default,,0,0,0,,3rd Game\NSouth Round 3
-Dialogue: 0,0:22:26.95,0:22:30.85,Default,,0,0,0,,I haven't got any character tiles.
-Dialogue: 0,0:22:44.88,0:22:47.81,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:22:54.20,0:22:57.48,Default,,0,0,0,,A... code?
-Dialogue: 0,0:22:58.25,0:23:00.82,Default,,0,0,0,,Well done.
-Dialogue: 0,0:23:00.82,0:23:04.40,Default,,0,0,0,,If no one noticed I wouldn't know what I'd do.
-Dialogue: 0,0:23:04.40,0:23:08.71,Default,,0,0,0,,It would be sad playing with three worthless players.
-Dialogue: 0,0:23:08.71,0:23:10.71,Default,,0,0,0,,Code?!?
-Dialogue: 0,0:23:10.71,0:23:12.71,Default,,0,0,0,,What's he talking about?
-Dialogue: 0,0:23:12.71,0:23:17.25,Default,,0,0,0,,Hiroyuki, you understand by now, don't you.
-Dialogue: 0,0:23:17.25,0:23:21.65,Default,,0,0,0,,Up to now Akagi's hands have been largely Chanta, right?
-Dialogue: 0,0:23:21.65,0:23:24.68,Default,,0,0,0,,He told us which in his discards.
-Dialogue: 0,0:23:24.68,0:23:26.68,Default,,0,0,0,,The orientation of discarded character tiles.
-Dialogue: 0,0:23:26.68,0:23:28.68,Default,,0,0,0,,Upside down means Chanta.
-Dialogue: 0,0:23:28.68,0:23:30.68,Default,,0,0,0,,Tsumo.
-Dialogue: 0,0:23:32.65,0:23:34.42,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:23:34.42,0:23:36.42,Default,,0,0,0,,Right side up means it's not Chanta.
-Dialogue: 0,0:23:44.37,0:23:47.45,Default,,0,0,0,,Well then. This time it's Chanta.
-Dialogue: 0,0:23:50.81,0:23:52.81,Default,,0,0,0,,Are you an idiot?
-Dialogue: 0,0:23:53.91,0:23:55.91,Default,,0,0,0,,Ron.
-Dialogue: 0,0:23:59.94,0:24:02.17,Default,,0,0,0,,But that's...
-Dialogue: 0,0:24:02.17,0:24:04.17,Default,,0,0,0,,Shut the fuck up, bitch.
-Dialogue: 0,0:24:04.17,0:24:08.80,Default,,0,0,0,,You're just embarrassing yourself by talking.
-Dialogue: 0,0:24:08.80,0:24:10.80,Default,,0,0,0,,for example, Ten
-Dialogue: 0,0:24:10.80,0:24:14.05,Default,,0,0,0,,he stopped himself before declaring Riichi.
-Dialogue: 0,0:24:14.85,0:24:18.62,Default,,0,0,0,,B-but you turned the character tile!
-Dialogue: 0,0:24:18.62,0:24:20.62,Default,,0,0,0,,That depends on the situation.
-Dialogue: 0,0:24:20.62,0:24:24.02,Default,,0,0,0,,Before, when Akagi discarded the 9 Man.
-Dialogue: 0,0:24:24.02,0:24:26.68,Default,,0,0,0,,I don't have any character tiles.
-Dialogue: 0,0:24:26.68,0:24:31.42,Default,,0,0,0,,If you think about that 9 Man, it was upside down, meaning chanta.
-Dialogue: 0,0:24:31.42,0:24:35.31,Default,,0,0,0,,But, strictly speaking, 9 Man is not a character tile.
-Dialogue: 0,0:24:35.31,0:24:39.42,Default,,0,0,0,,So therefore you could think it won't be chanta as well.
-Dialogue: 0,0:24:39.42,0:24:41.20,Default,,0,0,0,,You can see that at first glance...
-Dialogue: 0,0:24:41.20,0:24:44.62,Default,,0,0,0,,but you'll understand when you look at Akagi's open hand.
-Dialogue: 0,0:24:44.62,0:24:47.68,Default,,0,0,0,,If he won with a 1 Sou he'd have Chanta.
-Dialogue: 0,0:24:47.68,0:24:50.08,Default,,0,0,0,,4 Sou and it wouldn't be Chanta.
-Dialogue: 0,0:24:50.08,0:24:54.60,Default,,0,0,0,,That's to say he was waiting on BOTH outcomes and discarded accordingly.
-Dialogue: 0,0:24:54.60,0:24:59.02,Default,,0,0,0,,That kid watching from the sidelines understands.
-Dialogue: 0,0:24:59.02,0:25:04.11,Default,,0,0,0,,You've therefore been playing with trash, haven't you Ten?
-Dialogue: 0,0:25:07.68,0:25:09.68,Default,,0,0,0,,3rd Game\NSouth Round 4
-Dialogue: 0,0:25:13.51,0:25:15.82,Default,,0,0,0,,I'm a bit hungry.
-Dialogue: 0,0:25:15.82,0:25:17.82,Default,,0,0,0,,Would you get me something good?
-Dialogue: 0,0:25:18.35,0:25:20.35,Default,,0,0,0,,Is sushi okay?
-Dialogue: 0,0:25:23.00,0:25:25.91,Default,,0,0,0,,Sushi, hunh?
-Dialogue: 0,0:25:26.78,0:25:31.14,Default,,0,0,0,,You guise...\NThe most delicious thing in the world...
-Dialogue: 0,0:25:31.14,0:25:33.14,Default,,0,0,0,,what is it?
-Dialogue: 0,0:25:35.71,0:25:40.17,Default,,0,0,0,,Normal people probably say it's fugu or sushi.
-Dialogue: 0,0:25:40.17,0:25:42.17,Default,,0,0,0,,It ain't that.
-Dialogue: 0,0:25:44.15,0:25:47.14,Default,,0,0,0,,For example, when you play Mahjong
-Dialogue: 0,0:25:47.14,0:25:50.25,Default,,0,0,0,,There are those who will bet their entire fortune...
-Dialogue: 0,0:25:50.25,0:25:53.51,Default,,0,0,0,,Betting on one big play like they're omnipotent,
-Dialogue: 0,0:25:53.51,0:25:58.74,Default,,0,0,0,,playing with tiles cut from their very souls.
-Dialogue: 0,0:25:59.48,0:26:03.51,Default,,0,0,0,,A tile with a soul riding on it.
-Dialogue: 0,0:26:03.51,0:26:06.31,Default,,0,0,0,,When you get a direct hit with that tile...
-Dialogue: 0,0:26:06.31,0:26:11.71,Default,,0,0,0,,It's a feeling like devouring a person's soul.
-Dialogue: 0,0:26:11.71,0:26:13.71,Default,,0,0,0,,Compared to that flavor...
-Dialogue: 0,0:26:13.71,0:26:17.91,Default,,0,0,0,,Fugu or sushi are as good as garbage.
-Dialogue: 0,0:26:17.91,0:26:19.91,Default,,0,0,0,,In this world,
-Dialogue: 0,0:26:19.91,0:26:26.48,Default,,0,0,0,,People's souls are the most delicious thing.
-Dialogue: 0,0:26:26.48,0:26:28.48,Default,,0,0,0,,Riichi.
-Dialogue: 0,0:26:29.05,0:26:31.37,Default,,0,0,0,,Ron.
-Dialogue: 0,0:26:39.02,0:26:44.68,Default,,0,0,0,,Baiman\N(24,000 points direct hit)
-Dialogue: 0,0:26:52.37,0:26:54.17,Default,,0,0,0,,We're in a tough spot.
-Dialogue: 0,0:26:54.17,0:26:57.68,Default,,0,0,0,,It can be perfectly summed up:
-Dialogue: 0,0:26:57.68,0:27:00.54,Default,,0,0,0,,We're going to lose like this.
-Dialogue: 0,0:27:00.54,0:27:05.40,Default,,0,0,0,,No.\NAkagi just now...
-Dialogue: 0,0:27:05.40,0:27:07.71,Default,,0,0,0,,I could see an opening once or twice.
-Dialogue: 0,0:27:07.71,0:27:12.17,Default,,0,0,0,,He progresses with a near perfect game,
-Dialogue: 0,0:27:12.17,0:27:14.17,Default,,0,0,0,,HOWEVER
-Dialogue: 0,0:27:14.17,0:27:19.40,Default,,0,0,0,,Deep inside he's thinking this is a load of shit.
-Dialogue: 0,0:27:19.40,0:27:21.91,Default,,0,0,0,,Shit...
-Dialogue: 0,0:27:21.91,0:27:27.85,Default,,0,0,0,,What he wants most of all isn't winning by staring off into space.
-Dialogue: 0,0:27:27.85,0:27:31.91,Default,,0,0,0,,Akagi's heart...
-Dialogue: 0,0:27:31.91,0:27:34.20,Default,,0,0,0,,is he wants a real fight.
-Dialogue: 0,0:27:34.20,0:27:39.31,Default,,0,0,0,,He want's to go "all or nothing" more than anyone else.\NThis is Akagi's true nature.
-Dialogue: 0,0:27:39.31,0:27:46.54,Default,,0,0,0,,That is the ONLY chink through which I can stab that bastard.
-Dialogue: 0,0:27:46.54,0:27:50.02,Default,,0,0,0,,I'll aim there.
-Dialogue: 0,0:27:50.57,0:27:54.45,Default,,0,0,0,,I'll get your super luck!
-Dialogue: 0,0:27:54.45,0:27:57.71,Default,,0,0,0,,What we're playing for isn't points...
-Dialogue: 0,0:27:57.71,0:27:59.71,Default,,0,0,0,,It's PRIDE
+Dialogue: 0,0:00:00.00,0:00:03.04,Default,,0,0,0,,TENHO CHUUREN POUTOU
+Dialogue: 0,0:00:03.04,0:00:04.81,Default,,0,0,0,,We win.
+Dialogue: 0,0:00:04.81,0:00:06.81,Default,,0,0,0,,Be a ringer for me once more
+Dialogue: 0,0:00:06.81,0:00:08.35,Default,,0,0,0,,A chitoitsu.\N(all pairs hand)
+Dialogue: 0,0:00:08.35,0:00:10.69,Default,,0,0,0,,He turns down each pair when he's got one?
+Dialogue: 0,0:00:10.69,0:00:12.52,Default,,0,0,0,,How did he read my discards?
+Dialogue: 0,0:00:12.52,0:00:15.26,Default,,0,0,0,,Interesting game you're having there, isn't it
+Dialogue: 0,0:00:15.26,0:00:18.04,Default,,0,0,0,,Won't you let me mix it up too?
+Dialogue: 0,0:00:20.66,0:00:22.55,Default,,0,0,0,,Hiroyuki,
+Dialogue: 0,0:00:22.55,0:00:24.55,Default,,0,0,0,,Change with me
+Dialogue: 0,0:00:25.12,0:00:27.12,Default,,0,0,0,,You...
+Dialogue: 0,0:00:27.12,0:00:29.12,Default,,0,0,0,,you can't beat this boomer
+Dialogue: 0,0:00:30.22,0:00:31.98,Default,,0,0,0,,My playing...
+Dialogue: 0,0:00:32.15,0:00:34.15,Default,,0,0,0,,won't be a problem, will it?
+Dialogue: 0,0:00:34.15,0:00:36.15,Default,,0,0,0,,N-no
+Dialogue: 0,0:00:36.15,0:00:38.65,Default,,0,0,0,,I'm thankful with all my heart for what you're doing, Ten
+Dialogue: 0,0:00:38.65,0:00:41.28,Default,,0,0,0,,What is this changing shit?
+Dialogue: 0,0:00:41.75,0:00:44.45,Default,,0,0,0,,Seriously,
+Dialogue: 0,0:00:45.25,0:00:48.14,Default,,0,0,0,,I ain't afraid\N(Kansai dialect)
+Dialogue: 0,0:00:51.85,0:00:57.21,Default - white - top,,0,0,0,,2nd Game\NEast Hand 1
+Dialogue: 0,0:01:12.31,0:01:14.92,Default,,0,0,0,,Again?
+Dialogue: 0,0:01:22.71,0:01:25.96,Default,,0,0,0,,How does he have such faith that he'll complete his hand?
+Dialogue: 0,0:01:25.96,0:01:28.91,Default,,0,0,0,,It looks like he's extremely confident
+Dialogue: 0,0:01:38.02,0:01:41.16,Default,,0,0,0,,I start playing and after some hours...
+Dialogue: 0,0:01:41.16,0:01:44.56,Default,,0,0,0,,I can read the way the tiles are flowing
+Dialogue: 0,0:01:44.56,0:01:48.31,Default,,0,0,0,,My Chitoitsu hands have been called amazing
+Dialogue: 0,0:01:48.31,0:01:50.31,Default,,0,0,0,,This sense of mine
+Dialogue: 0,0:01:50.31,0:01:53.68,Default,,0,0,0,,this is what people have said
+Dialogue: 0,0:02:06.22,0:02:09.96,Default,,0,0,0,,Ron.\NA Chitoitsu
+Dialogue: 0,0:02:12.28,0:02:14.99,Default,,0,0,0,,Yet another Chitoitsu?
+Dialogue: 0,0:02:14.99,0:02:18.42,Default,,0,0,0,,How can he win in this uncanny way?
+Dialogue: 0,0:02:21.51,0:02:26.71,Default - white - top,,0,0,0,,2nd Game\NEast Hand 3
+Dialogue: 0,0:02:51.91,0:02:53.54,Default,,0,0,0,,Ten
+Dialogue: 0,0:02:53.54,0:02:57.45,Default,,0,0,0,,I can lay down my triplets as I complete them too
+Dialogue: 0,0:02:57.45,0:03:00.42,Default,,0,0,0,,There's no reason you have to be the only one...
+Dialogue: 0,0:03:00.42,0:03:02.42,Default,,0,0,0,,showing your hand's progress
+Dialogue: 0,0:03:03.59,0:03:05.59,Default,,0,0,0,,Bro
+Dialogue: 0,0:03:05.59,0:03:09.19,Default,,0,0,0,,Don't underestimate me
+Dialogue: 0,0:03:15.48,0:03:18.22,Default,,0,0,0,,I'm not in Tenpai.\NI'm not either
+Dialogue: 0,0:03:32.39,0:03:39.91,Default - top - cyan,,0,0,0,,#/tv/shows Hit or miss I guess they never miss huh TikTok|1 HOUR LOOP\Npresents:
+Dialogue: 0,0:03:44.55,0:03:46.55,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
+Dialogue: 0,0:03:52.75,0:03:54.75,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
+Dialogue: 0,0:04:01.69,0:04:03.69,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
+Dialogue: 0,0:04:28.36,0:04:31.62,Default,,0,0,0,,{\pos(640,76)}#/tv/shows subs: "They're better than nothing."
+Dialogue: 0,0:04:31.62,0:04:35.32,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
+Dialogue: 0,0:04:35.32,0:04:38.28,Default,,0,0,0,,{\pos(654,442)}Ten: Tenho-doori no Kaidanji\N(The Nice Guy on Tenho Way)
+Dialogue: 0,0:04:35.32,0:04:38.28,white-large,,0,0,0,,{\pos(646,594)}Episode 3
+Dialogue: 0,0:04:38.58,0:04:42.41,Default - white - top,,0,0,0,,2nd Game\NEast Hand 4
+Dialogue: 0,0:04:44.56,0:04:46.62,Default,,0,0,0,,Again
+Dialogue: 0,0:04:46.62,0:04:49.56,Default,,0,0,0,,Ten is trying to provoke Murota and destroy his pace, but...
+Dialogue: 0,0:04:49.56,0:04:52.54,Default,,0,0,0,,this style of playing, it's Murota's specialty
+Dialogue: 0,0:04:52.54,0:04:54.31,Default,,0,0,0,,Ten is entering his opponent's home turf,
+Dialogue: 0,0:04:54.31,0:04:57.45,Default,,0,0,0,,and explicitly asking for a contest
+Dialogue: 0,0:05:11.25,0:05:16.14,Default,,0,0,0,,He's already in Tenpai.\NAs I thought, he's like a monster
+Dialogue: 0,0:05:16.14,0:05:18.14,Default,,0,0,0,,What tile is he waiting on?
+Dialogue: 0,0:05:18.14,0:05:20.99,Default,,0,0,0,,The dora is Red Dragon
+Dialogue: 0,0:05:20.99,0:05:24.62,Default,,0,0,0,,He's probably holding low Sou tiles?
+Dialogue: 0,0:05:37.14,0:05:39.89,Default,,0,0,0,,No matter how you put it, this is...(dangerous)
+Dialogue: 0,0:05:47.28,0:05:50.15,Default,,0,0,0,,It passed!
+Dialogue: 0,0:06:08.82,0:06:11.69,Default,,0,0,0,,This passed too!?!
+Dialogue: 0,0:06:11.69,0:06:15.96,Default,,0,0,0,,You've guessed it haven't you, Hiroyuki?
+Dialogue: 0,0:06:17.28,0:06:19.65,Default,,0,0,0,,A facade
+Dialogue: 0,0:06:19.65,0:06:22.59,Default,,0,0,0,,Indeed. A facade
+Dialogue: 0,0:06:22.59,0:06:24.59,Default,,0,0,0,,This character's Mahjong...
+Dialogue: 0,0:06:24.59,0:06:26.59,Default,,0,0,0,,is the Mahjong of "giving up"
+Dialogue: 0,0:06:28.55,0:06:31.65,Default,,0,0,0,,The weapon he uses in making players give up is merely his image
+Dialogue: 0,0:06:32.39,0:06:36.14,Default,,0,0,0,,Making himself out to be a monster or a god...
+Dialogue: 0,0:06:36.89,0:06:39.96,Default,,0,0,0,,to make players fold, he applies pressure
+Dialogue: 0,0:06:39.96,0:06:43.68,Default,,0,0,0,,but still only progresses at his own pace
+Dialogue: 0,0:06:43.68,0:06:48.08,Default,,0,0,0,,But when I did the same thing
+Dialogue: 0,0:06:48.08,0:06:50.42,Default,,0,0,0,,his own pace started to freeze
+Dialogue: 0,0:06:50.42,0:06:52.42,Default,,0,0,0,,I dare say
+Dialogue: 0,0:06:53.15,0:06:55.91,Default,,0,0,0,,Those pairs you've laid down...
+Dialogue: 0,0:06:55.91,0:06:59.82,Default,,0,0,0,,They're make believe.\NThey aren't all pairs at all
+Dialogue: 0,0:07:25.16,0:07:27.89,Default,,0,0,0,,You're reckless
+Dialogue: 0,0:07:29.32,0:07:31.32,Default,,0,0,0,,Ron
+Dialogue: 0,0:07:33.54,0:07:37.28,Default,,0,0,0,,TanYao, SanSyoku\N(Only tiles 2-9, from 3 suits)
+Dialogue: 0,0:07:37.28,0:07:39.28,Default,,0,0,0,,7,700 points
+Dialogue: 0,0:07:40.09,0:07:42.09,Default,,0,0,0,,Y-you..
+Dialogue: 0,0:07:42.09,0:07:44.09,Default,,0,0,0,,You ought not have been in Tenpai!
+Dialogue: 0,0:07:43.65,0:07:48.33,default - cyan,,0,0,0,,You think I'm so fucking dumb I'd tell you the composition of my hand?
+Dialogue: 0,0:07:48.35,0:07:53.22,Default,,0,0,0,,You've been playing in such a profoundly dishonest way...
+Dialogue: 0,0:07:53.22,0:07:57.51,Default,,0,0,0,,you shouldn't be trusting anyone, should you?
+Dialogue: 0,0:07:59.49,0:08:01.49,Default,,0,0,0,,So, let's continue, shall we?
+Dialogue: 0,0:08:04.18,0:08:09.48,Default - white - top,,0,0,0,,2nd Game\NSouth Hand 4
+Dialogue: 0,0:08:30.39,0:08:32.85,Default,,0,0,0,,He's got it
+Dialogue: 0,0:08:32.85,0:08:35.82,Default,,0,0,0,,He's in Tenpai
+Dialogue: 0,0:08:40.76,0:08:43.65,Default,,0,0,0,,Kan
+Dialogue: 0,0:08:47.74,0:08:51.45,Default,,0,0,0,,At this point he's discarded a 1 and 2 Pin
+Dialogue: 0,0:08:51.45,0:08:54.02,Default,,0,0,0,,He was aiming for a SanSyoku or Tanyao\N(3 Suits, or only tiles 2-8)
+Dialogue: 0,0:08:54.02,0:08:56.02,Default,,0,0,0,,But he gave up on them...
+Dialogue: 0,0:08:56.02,0:08:58.02,Default,,0,0,0,,That is to say...
+Dialogue: 0,0:08:58.02,0:09:01.91,Default,,0,0,0,,This guy's got an extra 4 Pin
+Dialogue: 0,0:09:01.91,0:09:06.05,Default,,0,0,0,,That end tile there is the extra 4 Pin
+Dialogue: 0,0:09:21.19,0:09:24.09,Default,,0,0,0,,Ten followed it with his eye
+Dialogue: 0,0:09:25.05,0:09:29.62,Default,,0,0,0,,Humph.\NHe just now deliberately followed that tile with his eye
+Dialogue: 0,0:09:29.62,0:09:36.11,Default,,0,0,0,,Does he think that'll make me feel safe and discard MY 4 Pin or something?
+Dialogue: 0,0:09:37.96,0:09:40.72,Default,,0,0,0,,A PERFECT draw!
+Dialogue: 0,0:09:42.65,0:09:45.59,Default,,0,0,0,,But he can't discard his 4 Pin
+Dialogue: 0,0:09:45.59,0:09:49.08,Default,,0,0,0,,Ten to one, Murota is waiting on it
+Dialogue: 0,0:09:56.76,0:09:59.89,Default,,0,0,0,,T-ten! That's the tile Murota's waiting for!
+Dialogue: 0,0:10:06.65,0:10:08.62,Default,,0,0,0,,He dealt into Murota's hand
+Dialogue: 0,0:10:08.62,0:10:12.19,Default,,0,0,0,,That tile is a 4 Pin!
+Dialogue: 0,0:10:21.14,0:10:23.48,Default,,0,0,0,,How?\NI could have sworn...
+Dialogue: 0,0:10:23.48,0:10:27.45,Default,,0,0,0,,He ought to have drawn the 4 Pin
+Dialogue: 0,0:10:27.45,0:10:29.79,Default,,0,0,0,,H-how?\NCertainly, just now...
+Dialogue: 0,0:10:29.79,0:10:31.79,Default,,0,0,0,,The jerk dew that very tile!
+Dialogue: 0,0:10:33.15,0:10:36.31,Default,,0,0,0,,How was that tile not a 4 Pin?!?
+Dialogue: 0,0:10:41.62,0:10:45.02,Default,,0,0,0,,This Dora tile will be tough to discard
+Dialogue: 0,0:10:45.02,0:10:47.02,Default,,0,0,0,,Do I break up a pair?
+Dialogue: 0,0:10:47.02,0:10:52.08,Default,,0,0,0,,But that's like confessing I'm not on a single wait
+Dialogue: 0,0:10:53.68,0:10:56.16,Default,,0,0,0,,How about this?
+Dialogue: 0,0:10:56.16,0:11:01.05,Default,,0,0,0,,Yes.\NThat 8 Sou I thought was a 4 Pin
+Dialogue: 0,0:11:03.71,0:11:08.11,Default,,0,0,0,,H-he ought not be waiting on it!
+Dialogue: 0,0:11:15.62,0:11:21.74,Default,,0,0,0,,At last... you look up
+Dialogue: 0,0:11:35.34,0:11:39.74,Default,,0,0,0,,TanYao with one Dora.\N3,900 points
+Dialogue: 0,0:11:39.74,0:11:41.54,Default,,0,0,0,,Of course
+Dialogue: 0,0:11:41.54,0:11:43.54,Default,,0,0,0,,You've done it Ten
+Dialogue: 0,0:11:44.12,0:11:46.79,Default,,0,0,0,,Ten DID pick up his 4 Pin
+Dialogue: 0,0:11:46.79,0:11:52.62,Default,,0,0,0,,But in that instant he switched it for the 8 Sou he just drew
+Dialogue: 0,0:11:52.62,0:11:54.62,Default,,0,0,0,,It wasn't a cheat
+Dialogue: 0,0:11:54.62,0:11:57.62,Default,,0,0,0,,It was all within his own hand
+Dialogue: 0,0:11:57.62,0:12:01.65,Default,,0,0,0,,As I thought. His Mahjong is strong
+Dialogue: 0,0:12:03.02,0:12:06.08,Default,,0,0,0,,That's as far as it goes
+Dialogue: 0,0:12:06.08,0:12:10.28,Default,,0,0,0,,You probably won't be winning any more
+Dialogue: 0,0:12:10.28,0:12:14.96,Default,,0,0,0,,You yourself have... "given up"
+Dialogue: 0,0:12:14.96,0:12:19.68,Default,,0,0,0,,You retreated from a difficult position...
+Dialogue: 0,0:12:19.68,0:12:24.05,Default,,0,0,0,,and you couldn't read your OWN mind
+Dialogue: 0,0:12:24.05,0:12:27.56,Default,,0,0,0,,It's true all the world round...
+Dialogue: 0,0:12:27.56,0:12:31.05,Default,,0,0,0,,Those who crumble under pressure
+Dialogue: 0,0:12:31.05,0:12:34.82,Default,,0,0,0,,have no path to victory
+Dialogue: 0,0:12:37.19,0:12:40.22,Default,,0,0,0,,What will you do?
+Dialogue: 0,0:12:40.22,0:12:43.59,Default,,0,0,0,,Won't you show this guy out?
+Dialogue: 0,0:12:54.14,0:12:56.54,Default,,0,0,0,,I already said
+Dialogue: 0,0:12:56.54,0:12:58.54,Default,,0,0,0,,I'm retired
+Dialogue: 0,0:12:58.54,0:13:00.54,Default,,0,0,0,,The chairman is constrained for time
+Dialogue: 0,0:13:00.54,0:13:02.54,Default,,0,0,0,,Would you somehow...?
+Dialogue: 0,0:13:01.25,0:13:02.76,default - cyan,,0,0,0,,No way
+Dialogue: 0,0:13:02.76,0:13:05.65,Default,,0,0,0,,I don't have the stamina for long matches any more
+Dialogue: 0,0:13:05.65,0:13:09.42,Default,,0,0,0,,Murota just lost.\NThere's no one else but you
+Dialogue: 0,0:13:09.42,0:13:11.42,Default,,0,0,0,,Murota
+Dialogue: 0,0:13:16.08,0:13:18.79,Default,,0,0,0,,What kind of guy beat him?
+Dialogue: 0,0:13:19.55,0:13:22.42,Default,,0,0,0,,Some guy named Ten
+Dialogue: 0,0:13:26.02,0:13:28.35,Default,,0,0,0,,Ten
+Dialogue: 0,0:13:30.54,0:13:33.79,Default,,0,0,0,,It looks like they'll change a player for the next East South game
+Dialogue: 0,0:13:33.79,0:13:35.79,Default,,0,0,0,,I see
+Dialogue: 0,0:13:36.49,0:13:39.48,Default,,0,0,0,,Can I ask you something?
+Dialogue: 0,0:13:40.79,0:13:44.56,Default,,0,0,0,,Ten, even though you were my opponent,
+Dialogue: 0,0:13:44.56,0:13:48.28,Default,,0,0,0,,why did you help me?
+Dialogue: 0,0:13:48.28,0:13:52.45,Default,,0,0,0,,I thought I'd teach you something in front of "Hama-chan"
+Dialogue: 0,0:13:53.92,0:13:58.08,Default,,0,0,0,,something about ringers and the REAL world of Mahjong
+Dialogue: 0,0:14:00.05,0:14:02.05,Default,,0,0,0,,Time to start again
+Dialogue: 0,0:14:07.19,0:14:10.15,Default,,0,0,0,,AKAGI SHIGERU
+Dialogue: 0,0:14:10.15,0:14:12.15,Default,,0,0,0,,Why HIM?
+Dialogue: 0,0:14:12.15,0:14:14.45,Default,,0,0,0,,Is his Mahjong Strong?
+Dialogue: 0,0:14:13.65,0:14:17.91,default - cyan,,0,0,0,,"Strong" isn't a sufficient word for what he is
+Dialogue: 0,0:14:18.39,0:14:21.96,Default,,0,0,0,,During his career no one has been able to defeat him
+Dialogue: 0,0:14:21.96,0:14:23.88,Default,,0,0,0,,Without doubt...
+Dialogue: 0,0:14:23.88,0:14:26.91,Default,,0,0,0,,a man with the innate ability to blow others away
+Dialogue: 0,0:14:26.91,0:14:29.04,Default,,0,0,0,,Until this day he hasn't lost a single game
+Dialogue: 0,0:14:29.07,0:14:31.45,Default,,0,0,0,,A PEERLESS Mahjong professional
+Dialogue: 0,0:14:32.22,0:14:34.22,Default,,0,0,0,,Mahjong professional
+Dialogue: 0,0:14:41.05,0:14:43.75,Default,,0,0,0,,Are you Ten?
+Dialogue: 0,0:14:43.75,0:14:46.79,Default,,0,0,0,,Y-you know of me?
+Dialogue: 0,0:14:46.79,0:14:49.42,Default,,0,0,0,,Rumors... on the wind
+Dialogue: 0,0:14:49.42,0:14:52.08,Default,,0,0,0,,Haven't you retired?
+Dialogue: 0,0:14:52.08,0:14:54.68,Default,,0,0,0,,I heard about a strong player
+Dialogue: 0,0:14:54.68,0:14:56.68,Default,,0,0,0,,It's been a long time
+Dialogue: 0,0:14:56.68,0:14:58.68,Default,,0,0,0,,but I thought I'd try to play him
+Dialogue: 0,0:15:05.81,0:15:11.11,Default - white - top,,0,0,0,,3rd Game\NEast Hand 1
+Dialogue: 0,0:15:15.56,0:15:17.79,Default,,0,0,0,,Akagi Shigeru
+Dialogue: 0,0:15:17.79,0:15:21.96,Default,,0,0,0,,How on earth will he play?
+Dialogue: 0,0:15:29.45,0:15:31.91,Default,,0,0,0,,Pon
+Dialogue: 0,0:15:39.82,0:15:41.82,Default,,0,0,0,,Chii
+Dialogue: 0,0:15:41.82,0:15:45.91,Default,,0,0,0,,Amazing.\NIt's only just started,
+Dialogue: 0,0:15:45.91,0:15:49.11,Default,,0,0,0,,but already the game's coming to a boil
+Dialogue: 0,0:15:55.74,0:15:58.82,Default,,0,0,0,,Simply put, it's not just his speed,
+Dialogue: 0,0:15:58.82,0:16:02.02,Default,,0,0,0,,The man himself exudes a strange atmosphere
+Dialogue: 0,0:16:02.02,0:16:04.68,Default,,0,0,0,,It's indescribable, like something in the air
+Dialogue: 0,0:16:04.68,0:16:06.68,Default,,0,0,0,,Brilliance
+Dialogue: 0,0:16:06.68,0:16:10.56,Default,,0,0,0,,A brilliance that suggests a further vast capacity for brilliance
+Dialogue: 0,0:16:10.56,0:16:13.82,Default,,0,0,0,,This man is overflowing with the strange and unknown
+Dialogue: 0,0:16:17.65,0:16:20.42,Default,,0,0,0,,Ron
+Dialogue: 0,0:16:25.45,0:16:28.39,Default,,0,0,0,,Chanta with Red Dragon
+Dialogue: 0,0:16:28.39,0:16:30.39,Default,,0,0,0,,Chanta...
+Dialogue: 0,0:16:28.39,0:16:34.59,Default - top - cyan,,0,0,0,,Chanta: All triples and pairs must contain a terminal tile [1 or 9] or honor[dragon or wind]
+Dialogue: 0,0:16:30.39,0:16:33.51,Default,,0,0,0,,and finished on only the 4th turn?
+Dialogue: 0,0:16:33.51,0:16:36.56,Default,,0,0,0,,I can't get my hand moving in only 4 turns
+Dialogue: 0,0:16:36.56,0:16:38.56,Default,,0,0,0,,Really?
+Dialogue: 0,0:16:38.56,0:16:41.79,Default,,0,0,0,,You three guys have discarded 9 tiles
+Dialogue: 0,0:16:41.79,0:16:43.79,Default,,0,0,0,,I drew 2 of those
+Dialogue: 0,0:16:43.79,0:16:48.74,Default,,0,0,0,,All told, It felt like I drew eleven times
+Dialogue: 0,0:16:52.51,0:16:57.58,Default - white - top,,0,0,0,,3rd Game\NEast Hand 3
+Dialogue: 0,0:17:04.16,0:17:06.75,Default,,0,0,0,,Pon
+Dialogue: 0,0:17:19.62,0:17:22.79,Default,,0,0,0,,Tsumo
+Dialogue: 0,0:17:25.82,0:17:28.52,Default,,0,0,0,,Another Chanta?
+Dialogue: 0,0:17:33.95,0:17:38.68,Default - white - top,,0,0,0,,3rd Game\NEast Hand 4
+Dialogue: 0,0:17:57.42,0:18:00.29,Default,,0,0,0,,I'm not in Tenpai
+Dialogue: 0,0:18:00.29,0:18:02.29,Default,,0,0,0,,Tenpai
+Dialogue: 0,0:18:02.29,0:18:04.56,Default,,0,0,0,,Not his typical consecutive wins...
+Dialogue: 0,0:18:04.56,0:18:08.08,Default,,0,0,0,,but once again he was going for a Chanta hand
+Dialogue: 0,0:18:08.62,0:18:11.82,Default,,0,0,0,,Isn't it about time you play in a more normal style?
+Dialogue: 0,0:18:11.82,0:18:13.82,Default,,0,0,0,,No. This will be fine
+Dialogue: 0,0:18:13.82,0:18:15.82,Default,,0,0,0,,I'm still measuring him
+Dialogue: 0,0:18:15.82,0:18:17.22,Default,,0,0,0,,Measuring?
+Dialogue: 0,0:18:17.22,0:18:21.02,Default,,0,0,0,,The Mahjong I'm playing now does not depend upon luck
+Dialogue: 0,0:18:22.25,0:18:24.25,Default,,0,0,0,,In a 100 games...
+Dialogue: 0,0:18:24.25,0:18:27.31,Default,,0,0,0,,it'll win 100
+Dialogue: 0,0:18:29.22,0:18:32.94,Default,,0,0,0,,Without knowing the general strength of your opponent
+Dialogue: 0,0:18:32.94,0:18:36.96,Default,,0,0,0,,jumping in head first wouldn't do
+Dialogue: 0,0:18:43.05,0:18:48.25,Default - white - top,,0,0,0,,3rd Game\NSouth Hand 2
+Dialogue: 0,0:18:59.42,0:19:02.32,Default,,0,0,0,,Riichi
+Dialogue: 0,0:19:10.71,0:19:13.35,Default,,0,0,0,,Ron
+Dialogue: 0,0:19:19.85,0:19:21.94,Default,,0,0,0,,That's not Chanta
+Dialogue: 0,0:19:21.94,0:19:24.79,Default,,0,0,0,,Well, I thought i'd swtich it up some
+Dialogue: 0,0:19:33.18,0:19:37.71,Default - white - top,,0,0,0,,3rd Game\NSouth Hand 3
+Dialogue: 0,0:19:35.69,0:19:39.59,Default,,0,0,0,,Welp, sorry. I haven't got any honor tiles
+Dialogue: 0,0:19:53.62,0:19:56.55,Default,,0,0,0,,Riichi
+Dialogue: 0,0:20:02.94,0:20:06.22,Default,,0,0,0,,A... code?
+Dialogue: 0,0:20:06.99,0:20:09.56,Default,,0,0,0,,Well done
+Dialogue: 0,0:20:09.56,0:20:13.14,Default,,0,0,0,,If no one noticed I wouldn't know what I'd do
+Dialogue: 0,0:20:13.14,0:20:17.45,Default,,0,0,0,,It would be sad playing with three worthless players
+Dialogue: 0,0:20:17.45,0:20:19.45,Default,,0,0,0,,Code?!?
+Dialogue: 0,0:20:19.45,0:20:21.45,Default,,0,0,0,,What's he talking about?
+Dialogue: 0,0:20:21.45,0:20:25.99,Default,,0,0,0,,Hiroyuki, you understand by now, don't you
+Dialogue: 0,0:20:25.99,0:20:30.39,Default,,0,0,0,,Up to now Akagi's hands have been largely Chanta, right?
+Dialogue: 0,0:20:30.39,0:20:33.42,Default,,0,0,0,,He told us which in his discards
+Dialogue: 0,0:20:33.42,0:20:35.42,Default,,0,0,0,,The orientation of discarded honor tiles
+Dialogue: 0,0:20:35.42,0:20:37.42,Default,,0,0,0,,Upside down means Chanta
+Dialogue: 0,0:20:37.42,0:20:39.42,Default,,0,0,0,,Tsumo
+Dialogue: 0,0:20:41.39,0:20:43.16,Default,,0,0,0,,Riichi
+Dialogue: 0,0:20:43.16,0:20:45.16,Default,,0,0,0,,Right side up means it's not Chanta
+Dialogue: 0,0:20:53.11,0:20:56.19,Default,,0,0,0,,Well then. This time it's Chanta
+Dialogue: 0,0:20:59.55,0:21:01.55,Default,,0,0,0,,Are you an idiot?
+Dialogue: 0,0:21:02.65,0:21:04.65,Default,,0,0,0,,Ron
+Dialogue: 0,0:21:08.68,0:21:10.91,Default,,0,0,0,,But that's...
+Dialogue: 0,0:21:10.91,0:21:12.91,Default,,0,0,0,,Shut the fuck up, bitch
+Dialogue: 0,0:21:12.91,0:21:17.54,Default,,0,0,0,,You're just embarrassing yourself by talking
+Dialogue: 0,0:21:17.54,0:21:19.54,Default,,0,0,0,,Now, Ten...
+Dialogue: 0,0:21:19.54,0:21:22.79,Default,,0,0,0,,he stopped himself before declaring Riichi
+Dialogue: 0,0:21:23.59,0:21:27.36,Default,,0,0,0,,B-but you turned the character tile!
+Dialogue: 0,0:21:27.36,0:21:29.36,Default,,0,0,0,,That depends on the situation
+Dialogue: 0,0:21:29.36,0:21:32.76,Default,,0,0,0,,Before, when Akagi discarded the 9 Man
+Dialogue: 0,0:21:32.76,0:21:35.42,Default,,0,0,0,,I don't have any honor tiles
+Dialogue: 0,0:21:35.42,0:21:40.16,Default,,0,0,0,,If you think of the 9 Man as an honor tile, it was upside down, meaning Chanta
+Dialogue: 0,0:21:40.16,0:21:44.05,Default,,0,0,0,,But, strictly speaking, 9 Man is not an honor tile
+Dialogue: 0,0:21:44.05,0:21:48.16,Default,,0,0,0,,So therefore you could think it won't be chanta as well
+Dialogue: 0,0:21:48.16,0:21:49.94,Default,,0,0,0,,You can see that at first glance...
+Dialogue: 0,0:21:49.94,0:21:53.36,Default,,0,0,0,,but you'll understand when you look at Akagi's open hand
+Dialogue: 0,0:21:53.36,0:21:56.42,Default,,0,0,0,,If he won with a 1 Sou he'd have Chanta
+Dialogue: 0,0:21:56.42,0:21:58.82,Default,,0,0,0,,with a 4 Sou and it wouldn't be Chanta
+Dialogue: 0,0:21:58.82,0:22:03.34,Default,,0,0,0,,That is to say he was waiting on BOTH outcomes and discarded accordingly
+Dialogue: 0,0:22:03.34,0:22:07.76,Default,,0,0,0,,That kid watching from the sidelines understands
+Dialogue: 0,0:22:07.76,0:22:12.85,Default,,0,0,0,,You've therefore been playing with trash, haven't you Ten?
+Dialogue: 0,0:22:15.75,0:22:21.05,Default - white - top,,0,0,0,,3rd Game\NSouth Hand 4
+Dialogue: 0,0:22:22.25,0:22:24.56,Default,,0,0,0,,I'm a bit hungry
+Dialogue: 0,0:22:24.56,0:22:26.56,Default,,0,0,0,,Would you get me something good?
+Dialogue: 0,0:22:27.09,0:22:29.09,Default,,0,0,0,,Is sushi okay?
+Dialogue: 0,0:22:31.74,0:22:34.65,Default,,0,0,0,,Sushi, hunh?
+Dialogue: 0,0:22:35.52,0:22:39.88,Default,,0,0,0,,You guys...\NThe most delicious thing in the world...
+Dialogue: 0,0:22:39.88,0:22:41.88,Default,,0,0,0,,what is it?
+Dialogue: 0,0:22:44.45,0:22:48.91,Default,,0,0,0,,Normal people probably say it's fugu or sushi
+Dialogue: 0,0:22:48.91,0:22:50.91,Default,,0,0,0,,It ain't that
+Dialogue: 0,0:22:52.89,0:22:55.88,Default,,0,0,0,,For example, when you play Mahjong
+Dialogue: 0,0:22:55.88,0:22:58.99,Default,,0,0,0,,There are those who will bet their entire fortune...
+Dialogue: 0,0:22:58.99,0:23:02.25,Default,,0,0,0,,betting on one big play like they're omnipotent...
+Dialogue: 0,0:23:02.25,0:23:07.48,Default,,0,0,0,,playing with tiles cut from their very souls
+Dialogue: 0,0:23:08.22,0:23:12.25,Default,,0,0,0,,A tile with a soul riding on it
+Dialogue: 0,0:23:12.25,0:23:15.05,Default,,0,0,0,,When you call "Ron" on such a tile...
+Dialogue: 0,0:23:15.05,0:23:20.45,Default,,0,0,0,,It feels like you're devouring their heart... their soul
+Dialogue: 0,0:23:20.45,0:23:22.45,Default,,0,0,0,,Compared to that flavor...
+Dialogue: 0,0:23:22.45,0:23:26.65,Default,,0,0,0,,fugu or sushi are as good as garbage
+Dialogue: 0,0:23:26.65,0:23:28.65,Default,,0,0,0,,In this world...
+Dialogue: 0,0:23:28.65,0:23:35.22,Default,,0,0,0,,people's souls are the most delicious thing of all
+Dialogue: 0,0:23:35.22,0:23:37.22,Default,,0,0,0,,Riichi
+Dialogue: 0,0:23:37.79,0:23:40.11,Default,,0,0,0,,Ron
+Dialogue: 0,0:23:47.76,0:23:53.42,Default - top,,0,0,0,,Baiman\N(24,000 points direct hit)
+Dialogue: 0,0:24:01.11,0:24:02.91,Default - top,,0,0,0,,We're in a tough spot
+Dialogue: 0,0:24:02.91,0:24:06.42,Default - top,,0,0,0,,It can be perfectly summed up:
+Dialogue: 0,0:24:06.42,0:24:09.28,Default - top,,0,0,0,,We're going to lose like this
+Dialogue: 0,0:24:09.28,0:24:14.14,Default - top,,0,0,0,,No.\NAkagi just now...
+Dialogue: 0,0:24:14.14,0:24:16.45,Default - top,,0,0,0,,I could see an opening once or twice
+Dialogue: 0,0:24:16.45,0:24:20.91,Default - top,,0,0,0,,He progresses with a near perfect game...
+Dialogue: 0,0:24:20.91,0:24:22.91,Default - top,,0,0,0,,HOWEVER
+Dialogue: 0,0:24:22.91,0:24:28.14,Default - top,,0,0,0,,Deep inside he's thinking this is a load of shit
+Dialogue: 0,0:24:28.14,0:24:30.65,Default - top,,0,0,0,,Shit
+Dialogue: 0,0:24:30.65,0:24:36.59,Default - top,,0,0,0,,What he wants most of all isn't winning by staring off into space
+Dialogue: 0,0:24:36.59,0:24:40.65,Default - top,,0,0,0,,Akagi's heart...
+Dialogue: 0,0:24:40.65,0:24:42.94,Default - top,,0,0,0,,is he wants a real fight
+Dialogue: 0,0:24:42.94,0:24:48.05,Default - top,,0,0,0,,He want's to go "all or nothing" more than anyone else.\NThis is Akagi's true nature
+Dialogue: 0,0:24:48.05,0:24:55.28,Default - top,,0,0,0,,That is the ONLY chink through which I can stab the bastard
+Dialogue: 0,0:24:55.28,0:24:58.76,Default - top,,0,0,0,,I'll aim there
+Dialogue: 0,0:24:59.38,0:25:09.11,Default - white - top,,0,0,0,,Preview
+Dialogue: 0,0:24:59.31,0:25:03.19,Default,,0,0,0,,The opposite of 100% is 0%.\NYour uncanny luck will be MINE
+Dialogue: 0,0:25:03.19,0:25:06.45,Default,,0,0,0,,What we're playing for isn't points...
+Dialogue: 0,0:25:06.45,0:25:08.45,Default,,0,0,0,,It's PRIDE
