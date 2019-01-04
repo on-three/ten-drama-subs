@@ -13,9 +13,12 @@ SEASON := $(shell printf "%02d\n" $(SEASON))
 ZEP := $(shell printf "%02d\n" $(EP))
 NEP := $(shell printf "%01d\n" $(EP))
 
+GROUP := squap
+QUALITY := 720p
+
 EN_NAME := Ten.s$(SEASON)e$(ZEP)
 JP_NAME := Ten.天.天和通りの快男児.第$(NEP)話
-RELEASE_NAME := [riichibones]Ten.Tenhodoori.No.Kaidanji.s01e$(ZEP)[720p]
+RELEASE_NAME := [${GROUP}]Ten.Tenhodoori.No.Kaidanji.s01e$(ZEP)[${QUALITY}]
 
 #NAME ?= $(JP_NAME)
 NAME ?= $(RELEASE_NAME)
