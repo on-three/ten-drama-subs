@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 206
-Active Line: 210
-Video Position: 40231
+Scroll Position: 49
+Active Line: 66
+Video Position: 8311
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,8 +27,8 @@ Style: default - cyan,Open Sans Semibold,64,&H00FFFF00,&H000000FF,&H00020713,&H0
 Style: Default - white,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: Default - red,Open Sans Semibold,64,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: small - white,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
-Style: default - cyan - with - background,Open Sans Semibold,64,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
-Style: Default - white - with - background,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,2,0,0,28,1
+Style: default - cyan - with - background,Open Sans Semibold,64,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
+Style: Default - white - with - background,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
 Style: Default - top,Open Sans Semibold,64,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
 Style: Default - top - cyan,Open Sans Semibold,64,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
 Style: Default - white - top,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
@@ -74,14 +74,35 @@ Dialogue: 0,0:03:00.42,0:03:02.42,Default,,0,0,0,,showing your hand's progress
 Dialogue: 0,0:03:03.59,0:03:05.59,Default,,0,0,0,,Bro
 Dialogue: 0,0:03:05.59,0:03:09.19,Default,,0,0,0,,Don't underestimate me
 Dialogue: 0,0:03:15.48,0:03:18.22,Default,,0,0,0,,I'm not in Tenpai.\NI'm not either
-Dialogue: 0,0:03:32.39,0:03:39.91,Default - top - cyan,,0,0,0,,#/tv/shows Hit or miss I guess they never miss huh TikTok|1 HOUR LOOP\Npresents:
-Dialogue: 0,0:03:44.55,0:03:46.55,Default,,0,0,0,,Goro Takeshi as Ten Takeshi
-Dialogue: 0,0:03:52.75,0:03:54.75,Default,,0,0,0,,Furukawa Yuki as Igawa Hiroyuki
-Dialogue: 0,0:04:01.69,0:04:03.69,Default,,0,0,0,,Yoshida Eisaku as Akagi Shigeru
-Dialogue: 0,0:04:28.36,0:04:31.62,Default,,0,0,0,,{\pos(640,76)}#/tv/shows subs: "They're better than nothing."
-Dialogue: 0,0:04:31.62,0:04:35.32,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
-Dialogue: 0,0:04:35.32,0:04:38.28,Default,,0,0,0,,{\pos(654,442)}Ten: Tenho-doori no Kaidanji\N(The Nice Guy on Tenho Way)
-Dialogue: 0,0:04:35.32,0:04:38.28,white-large,,0,0,0,,{\pos(646,594)}Episode 3
+Dialogue: 0,0:03:34.06,0:03:41.28,Default - top - cyan,,0,0,0,,#/tv/shows Hit or miss I guess they never miss huh TikTok|1 HOUR LOOP\Npresents:
+Dialogue: 0,0:03:43.79,0:03:48.58,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
+Dialogue: 0,0:03:43.79,0:03:48.58,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
+Dialogue: 0,0:03:44.28,0:03:46.15,Default - white,,0,0,0,,{\pos(512,476)}Ten Takeshi
+Dialogue: 0,0:03:44.35,0:03:46.15,Default - red,,0,0,0,,{\pos(258,708)}Kishitani Goro
+Dialogue: 0,0:03:49.06,0:03:53.24,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
+Dialogue: 0,0:03:49.06,0:03:53.24,Default - white - with - background,,0,0,0,,He's come back again
+Dialogue: 0,0:03:52.91,0:03:54.71,Default - white,,0,0,0,,{\pos(770,400)}Igawa Hiroyuki
+Dialogue: 0,0:03:52.91,0:03:54.71,Default - red,,0,0,0,,{\pos(744,630)}Furukawa Yuki
+Dialogue: 0,0:03:54.29,0:03:59.42,default - cyan - with - background,,0,0,0,,ざわざわと
+Dialogue: 0,0:03:54.29,0:03:59.42,Default - white - with - background,,0,0,0,,In anxiety...
+Dialogue: 0,0:03:59.95,0:04:05.06,default - cyan - with - background,,0,0,0,,息を殺して
+Dialogue: 0,0:03:59.95,0:04:05.06,Default - white - with - background,,0,0,0,,you hold your breath
+Dialogue: 0,0:04:01.58,0:04:03.38,Default - red,,0,0,0,,{\pos(300,710)}Yoshida Eisaku
+Dialogue: 0,0:04:01.58,0:04:03.38,Default - white,,0,0,0,,{\pos(500,512)}Akagi Shigeru
+Dialogue: 0,0:04:05.06,0:04:10.44,default - cyan - with - background,,0,0,0,,誰の肩に止まるかな
+Dialogue: 0,0:04:05.06,0:04:10.44,Default - white - with - background,,0,0,0,,Whose shoulder will it land upon
+Dialogue: 0,0:04:10.44,0:04:16.44,default - cyan - with - background,,0,0,0,,くるくる廻る天道虫
+Dialogue: 0,0:04:10.44,0:04:16.44,Default - white - with - background,,0,0,0,,Ladybug going round and round
+Dialogue: 0,0:04:16.44,0:04:20.80,default - cyan - with - background,,0,0,0,,背中の星が揃ったら
+Dialogue: 0,0:04:16.44,0:04:20.80,Default - white - with - background,,0,0,0,,When the stars on her back align
+Dialogue: 0,0:04:20.80,0:04:30.71,default - cyan - with - background,,0,0,0,,雨上がりの風吹く通りを
+Dialogue: 0,0:04:20.80,0:04:30.71,Default - white - with - background,,0,0,0,,After the rain, above the windswept street,
+Dialogue: 0,0:04:28.78,0:04:32.23,Default,,0,0,0,,#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:04:30.71,0:04:32.98,default - cyan - with - background,,0,0,0,,陽が昇った
+Dialogue: 0,0:04:30.71,0:04:32.98,Default - white - with - background,,0,0,0,,The sun rose
+Dialogue: 0,0:04:32.23,0:04:35.59,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
+Dialogue: 0,0:04:35.59,0:04:37.92,Default - white,,0,0,0,,{\pos(642,594)}Episode 3
+Dialogue: 0,0:04:35.59,0:04:37.92,Default,,0,0,0,,{\pos(632,444)}Ten: Tenho-doori no Kaidanji\N(The Nice Guy on Tenho Way)
 Dialogue: 0,0:04:38.58,0:04:42.41,Default - white - top,,0,0,0,,2nd Game\NEast Hand 4
 Dialogue: 0,0:04:44.56,0:04:46.62,Default,,0,0,0,,Again
 Dialogue: 0,0:04:46.62,0:04:49.56,Default,,0,0,0,,Ten is trying to provoke Murota and destroy his pace, but...
