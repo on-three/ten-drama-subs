@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 49
-Active Line: 66
-Video Position: 8311
+Scroll Position: 186
+Active Line: 198
+Video Position: 13862
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: Default - white - top,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.04,Default,,0,0,0,,TENHO CHUUREN POUTOU
-Dialogue: 0,0:00:03.04,0:00:04.81,Default,,0,0,0,,We win.
+Dialogue: 0,0:00:03.04,0:00:04.81,Default,,0,0,0,,We win
 Dialogue: 0,0:00:04.81,0:00:06.81,Default,,0,0,0,,Be a ringer for me once more
 Dialogue: 0,0:00:06.81,0:00:08.35,Default,,0,0,0,,A chitoitsu.\N(all pairs hand)
 Dialogue: 0,0:00:08.35,0:00:10.69,Default,,0,0,0,,He turns down each pair when he's got one?
@@ -52,7 +52,7 @@ Dialogue: 0,0:00:32.15,0:00:34.15,Default,,0,0,0,,won't be a problem, will it?
 Dialogue: 0,0:00:34.15,0:00:36.15,Default,,0,0,0,,N-no
 Dialogue: 0,0:00:36.15,0:00:38.65,Default,,0,0,0,,I'm thankful with all my heart for what you're doing, Ten
 Dialogue: 0,0:00:38.65,0:00:41.28,Default,,0,0,0,,What is this changing shit?
-Dialogue: 0,0:00:41.75,0:00:44.45,Default,,0,0,0,,Seriously,
+Dialogue: 0,0:00:41.75,0:00:44.45,Default,,0,0,0,,One second
 Dialogue: 0,0:00:45.25,0:00:48.14,Default,,0,0,0,,I ain't afraid\N(Kansai dialect)
 Dialogue: 0,0:00:51.85,0:00:57.21,Default - white - top,,0,0,0,,2nd Game\NEast Hand 1
 Dialogue: 0,0:01:12.31,0:01:14.92,Default,,0,0,0,,Again?
@@ -134,7 +134,7 @@ Dialogue: 0,0:07:25.16,0:07:27.89,Default,,0,0,0,,You're reckless
 Dialogue: 0,0:07:29.32,0:07:31.32,Default,,0,0,0,,Ron
 Dialogue: 0,0:07:33.54,0:07:37.28,Default,,0,0,0,,TanYao, SanSyoku\N(Only tiles 2-9, from 3 suits)
 Dialogue: 0,0:07:37.28,0:07:39.28,Default,,0,0,0,,7,700 points
-Dialogue: 0,0:07:40.09,0:07:42.09,Default,,0,0,0,,Y-you..
+Dialogue: 0,0:07:40.09,0:07:42.09,Default,,0,0,0,,Y-you...
 Dialogue: 0,0:07:42.09,0:07:44.09,Default,,0,0,0,,You ought not have been in Tenpai!
 Dialogue: 0,0:07:43.65,0:07:48.33,default - cyan,,0,0,0,,You think I'm so fucking dumb I'd tell you the composition of my hand?
 Dialogue: 0,0:07:48.35,0:07:53.22,Default,,0,0,0,,You've been playing in such a profoundly dishonest way...
@@ -203,7 +203,7 @@ Dialogue: 0,0:13:26.02,0:13:28.35,Default,,0,0,0,,Ten
 Dialogue: 0,0:13:30.54,0:13:33.79,Default,,0,0,0,,It looks like they'll change a player for the next East South game
 Dialogue: 0,0:13:33.79,0:13:35.79,Default,,0,0,0,,I see
 Dialogue: 0,0:13:36.49,0:13:39.48,Default,,0,0,0,,Can I ask you something?
-Dialogue: 0,0:13:40.79,0:13:44.56,Default,,0,0,0,,Ten, even though you were my opponent,
+Dialogue: 0,0:13:40.79,0:13:44.56,Default,,0,0,0,,Ten, even though you were my opponent...
 Dialogue: 0,0:13:44.56,0:13:48.28,Default,,0,0,0,,why did you help me?
 Dialogue: 0,0:13:48.28,0:13:52.45,Default,,0,0,0,,I thought I'd teach you something in front of "Hama-chan"
 Dialogue: 0,0:13:53.92,0:13:58.08,Default,,0,0,0,,something about ringers and the REAL world of Mahjong
@@ -230,10 +230,10 @@ Dialogue: 0,0:15:15.56,0:15:17.79,Default,,0,0,0,,Akagi Shigeru
 Dialogue: 0,0:15:17.79,0:15:21.96,Default,,0,0,0,,How on earth will he play?
 Dialogue: 0,0:15:29.45,0:15:31.91,Default,,0,0,0,,Pon
 Dialogue: 0,0:15:39.82,0:15:41.82,Default,,0,0,0,,Chii
-Dialogue: 0,0:15:41.82,0:15:45.91,Default,,0,0,0,,Amazing.\NIt's only just started,
+Dialogue: 0,0:15:41.82,0:15:45.91,Default,,0,0,0,,Amazing.\NIt's only just started
 Dialogue: 0,0:15:45.91,0:15:49.11,Default,,0,0,0,,but already the game's coming to a boil
-Dialogue: 0,0:15:55.74,0:15:58.82,Default,,0,0,0,,Simply put, it's not just his speed,
-Dialogue: 0,0:15:58.82,0:16:02.02,Default,,0,0,0,,The man himself exudes a strange atmosphere
+Dialogue: 0,0:15:55.74,0:15:58.82,Default,,0,0,0,,Simply put, it's not just his speed...
+Dialogue: 0,0:15:58.82,0:16:02.02,Default,,0,0,0,,the man himself exudes a strange atmosphere
 Dialogue: 0,0:16:02.02,0:16:04.68,Default,,0,0,0,,It's indescribable, like something in the air
 Dialogue: 0,0:16:04.68,0:16:06.68,Default,,0,0,0,,Brilliance
 Dialogue: 0,0:16:06.68,0:16:10.56,Default,,0,0,0,,A brilliance that suggests a further vast capacity for brilliance
