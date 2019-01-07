@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 202
-Active Line: 218
-Video Position: 34727
+Scroll Position: 264
+Active Line: 277
+Video Position: 18770
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +28,7 @@ Style: Default - white,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H
 Style: Default - red,Open Sans Semibold,54,&H000000FF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: small - white,Open Sans Semibold,32,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,2,0,0,28,1
 Style: default - cyan - with - background,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
-Style: Default - white - with - background,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
+Style: Default - white - with - background,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
 Style: Default - top,Open Sans Semibold,54,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
 Style: Default - top - cyan,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
 Style: Default - white - top,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
@@ -95,9 +95,9 @@ Dialogue: 0,0:03:39.37,0:03:44.43,Default,,0,0,0,,With that Pon call and the new
 Dialogue: 0,0:04:27.43,0:04:29.92,Default,,0,0,0,,Again the 7 Man
 Dialogue: 0,0:04:29.92,0:04:33.52,Default,,0,0,0,,What a terrifying draw
 Dialogue: 0,0:04:33.52,0:04:36.32,Default,,0,0,0,,It's probably Akagi's winning tile
-Dialogue: 0,0:04:36.32,0:04:39.23,Default,,0,0,0,,Discard the 4 Pin or this 7 Man
-Dialogue: 0,0:04:40.20,0:04:43.77,Default,,0,0,0,,If I do that...
-Dialogue: 0,0:04:50.72,0:04:53.00,Default,,0,0,0,,Break up his hidden triplet or nothing else
+Dialogue: 0,0:04:36.32,0:04:39.23,Default,,0,0,0,,Either the 4 Pin or this 7 Man
+Dialogue: 0,0:04:40.20,0:04:43.77,Default,,0,0,0,,If I discard either...
+Dialogue: 0,0:04:50.72,0:04:53.00,Default,,0,0,0,,His only choice is to break up a hidden triplet
 Dialogue: 0,0:04:53.00,0:04:56.06,Default,,0,0,0,,but now he's back to square one
 Dialogue: 0,0:05:36.12,0:05:39.03,Default,,0,0,0,,He's in Tenpai
 Dialogue: 0,0:05:45.52,0:05:48.35,Default,,0,0,0,,Now if only the game flow would come
@@ -127,7 +127,7 @@ Dialogue: 0,0:07:16.32,0:07:26.35,default - cyan,,0,0,0,,{\pos(624.001,167.778)}
 Dialogue: 0,0:07:19.72,0:07:24.43,Default,,0,0,0,,If he gets a 4 Pin he'd be waiting for a 3 Pin.
 Dialogue: 0,0:07:35.83,0:07:38.93,Default,,0,0,0,,Pon
 Dialogue: 0,0:07:44.43,0:07:47.46,Default,,0,0,0,,Ron
-Dialogue: 0,0:07:47.46,0:07:49.89,Default,,0,0,0,,Tanyao. 4 Dora.
+Dialogue: 0,0:07:47.46,0:07:49.89,Default,,0,0,0,,Tanyao. 4 Dora
 Dialogue: 0,0:07:47.46,0:07:51.92,default - cyan,,0,0,0,,{\pos(619.937,73.459)}Tanyao: Hand composed number tiles 2-8.
 Dialogue: 0,0:07:49.89,0:07:52.57,Default,,0,0,0,,8,000 points
 Dialogue: 0,0:07:52.57,0:07:56.09,Default,,0,0,0,,Three 7 Man tiles, hunh?
@@ -154,16 +154,16 @@ Dialogue: 0,0:09:43.80,0:09:46.53,Default,,0,0,0,,Pon
 Dialogue: 0,0:09:54.49,0:09:57.46,Default,,0,0,0,,This is another dangerous tile
 Dialogue: 0,0:09:59.72,0:10:03.92,Default,,0,0,0,,Wait a sec.\NAkagi's doing that on purpose
 Dialogue: 0,0:10:03.92,0:10:05.92,Default,,0,0,0,,I see
-Dialogue: 0,0:10:05.92,0:10:09.89,Default,,0,0,0,,If the other guys win, Ten can't take the top spot.
+Dialogue: 0,0:10:05.92,0:10:09.89,Default,,0,0,0,,If the other guys win, Ten can't take the top spot
 Dialogue: 0,0:10:09.89,0:10:11.89,Default,,0,0,0,,Akagi will throw this hand
 Dialogue: 0,0:10:11.89,0:10:14.55,Default,,0,0,0,,Will he deal into one of their hands?
 Dialogue: 0,0:10:14.55,0:10:17.15,Default,,0,0,0,,This guy's aiming for a White Dragon ToiToi
-Dialogue: 0,0:10:14.55,0:10:19.64,default - cyan,,0,0,0,,{\pos(643.555,80.667)}ToiToi: Hand composed of all triplets.
+Dialogue: 0,0:10:14.55,0:10:19.64,default - cyan,,0,0,0,,{\pos(643.555,80.667)}ToiToi: Hand composed of all triplets
 Dialogue: 0,0:10:17.15,0:10:20.09,Default,,0,0,0,,If he wins that's 5,200 points
 Dialogue: 0,0:10:20.09,0:10:22.78,Default,,0,0,0,,But, what to do about the dora?
 Dialogue: 0,0:10:22.80,0:10:25.66,Default,,0,0,0,,If Akagi miscalculates and that guy has Dora, it could drastically change the scoring
-Dialogue: 0,0:10:25.66,0:10:28.89,Default,,0,0,0,,There's even the chance of a Makura pair
-Dialogue: 0,0:10:25.66,0:10:31.60,default - cyan,,0,0,0,,{\pos(624,126.889)}Makura: (枕) Antique term for the single pair in a completed hand.
+Dialogue: 0,0:10:25.66,0:10:28.89,Default,,0,0,0,,There's even the chance of a Dora Makura*
+Dialogue: 0,0:10:25.66,0:10:31.60,Default - top - cyan,,0,0,0,,Makura: (枕) Antique term for the single pair in a completed hand
 Dialogue: 0,0:10:30.46,0:10:33.20,Default,,0,0,0,,There's one Dora in the discards
 Dialogue: 0,0:10:33.20,0:10:35.20,Default,,0,0,0,,Oh, now I see!
 Dialogue: 0,0:10:35.90,0:10:39.37,Default,,0,0,0,,Is Akagi holding the remaining 3 Dora tiles?
@@ -186,7 +186,7 @@ Dialogue: 0,0:12:12.70,0:12:14.70,Default,,0,0,0,,2,000?
 Dialogue: 0,0:12:14.70,0:12:17.40,Default,,0,0,0,,B-but that isn't an upset
 Dialogue: 0,0:12:17.40,0:12:20.89,Default,,0,0,0,,No. But look at the points
 Dialogue: 0,0:12:24.75,0:12:27.17,Default,,0,0,0,,Shanyu? (Playoff round)
-Dialogue: 0,0:12:24.75,0:12:30.88,default - cyan,,0,0,0,,{\pos(634.444,128.445)}shānyū: (西入, entering the West). An extended West round when no player exceeds 30,000 points.
+Dialogue: 0,0:12:24.75,0:12:30.88,default - cyan,,0,0,0,,{\pos(634.444,128.445)}shānyū: (西入, entering the West). An extended West round when no player exceeds 30,000 points
 Dialogue: 0,0:12:27.17,0:12:31.00,Default,,0,0,0,,Certainly top rated Akagi dealt 5,200 points into that guy's hand
 Dialogue: 0,0:12:31.00,0:12:35.12,Default,,0,0,0,,and with Ten winning 2,000 points, he's at 29,500
 Dialogue: 0,0:12:35.12,0:12:38.89,Default,,0,0,0,,No one has reached 30,000 points
@@ -220,12 +220,12 @@ Dialogue: 0,0:14:08.16,0:14:10.16,Default,,0,0,0,,8,000 points
 Dialogue: 0,0:14:12.78,0:14:17.78,Default - white - top,,0,0,0,,West Hand 4\NFinal hand
 Dialogue: 0,0:14:19.46,0:14:23.64,Default,,0,0,0,,All things considered, Ten should come top this round
 Dialogue: 0,0:14:23.69,0:14:26.08,Default,,0,0,0,,If Akagi can't win with a Yakuman hand...
-Dialogue: 0,0:14:23.83,0:14:30.71,default - cyan,,0,0,0,,{\pos(631.111,125.111)}Yakuman:  The rarest and most valuable hands. 48,000/32,000 points for dealer/non-dealer.
+Dialogue: 0,0:14:23.83,0:14:30.71,default - cyan,,0,0,0,,{\pos(631.111,125.111)}Yakuman:  The rarest and most valuable hands. 48,000/32,000 points for dealer/non-dealer
 Dialogue: 0,0:14:26.12,0:14:28.46,Default,,0,0,0,,He can't pull of an upset
 Dialogue: 0,0:14:28.46,0:14:31.39,Default,,0,0,0,,In the worst case Ten can play safe discards
 Dialogue: 0,0:14:31.40,0:14:33.66,Default,,0,0,0,,I can just glimpse victory
 Dialogue: 0,0:14:40.06,0:14:43.92,Default,,0,0,0,,From the first the possibility of DaiSanGen disappeared
-Dialogue: 0,0:14:40.06,0:14:55.90,default - cyan,,0,0,0,,{\pos(608,128.667)}DaiSanGen, Kokusi Musou, Shousuushi etc. are all Yakuman valued hands.
+Dialogue: 0,0:14:40.06,0:14:55.90,default - cyan,,0,0,0,,{\pos(608,128.667)}DaiSanGen, Kokusi Musou, Shousuushi etc. are all Yakuman valued hands
 Dialogue: 0,0:14:46.15,0:14:49.06,Default,,0,0,0,,Pon
 Dialogue: 0,0:14:53.26,0:14:56.89,Default,,0,0,0,,And with that the chance of Kokusi Musou is gone too
 Dialogue: 0,0:15:05.09,0:15:07.56,Default,,0,0,0,,Kan
@@ -308,11 +308,11 @@ Dialogue: 0,0:23:52.53,0:23:56.39,Default - top,,0,0,0,,there are any number of 
 Dialogue: 0,0:23:56.39,0:24:00.25,Default - top,,0,0,0,,They gather at the tiles
 Dialogue: 0,0:24:03.36,0:24:06.33,Default - top,,0,0,0,,The world you ought to be in
 Dialogue: 0,0:24:06.33,0:24:08.33,Default - top,,0,0,0,,it ain't this one
-Dialogue: 0,0:24:11.53,0:24:14.05,Default - top,,0,0,0,,I entered this damn place more than once,
-Dialogue: 0,0:24:14.05,0:24:16.05,Default - top,,0,0,0,,and for me it's too late. I can't go back.
+Dialogue: 0,0:24:11.53,0:24:14.05,Default - top,,0,0,0,,I entered this damn place more than once
+Dialogue: 0,0:24:14.05,0:24:16.05,Default - top,,0,0,0,,and for me it's too late. I can't go back
 Dialogue: 0,0:24:17.33,0:24:21.33,Default - top,,0,0,0,,I have no choice but to live in this world
 Dialogue: 0,0:24:22.70,0:24:24.16,Default - top,,0,0,0,,HOWEVER
-Dialogue: 0,0:24:24.16,0:24:27.73,Default - top,,0,0,0,,you can still turn back.
+Dialogue: 0,0:24:24.16,0:24:27.73,Default - top,,0,0,0,,you can still turn back
 Dialogue: 0,0:24:31.10,0:24:33.66,Default - top,,0,0,0,,Later
 Dialogue: 0,0:24:44.95,0:24:59.75,Default - white - top,,0,0,0,,Preview
 Dialogue: 0,0:24:44.56,0:24:47.62,Default,,0,0,0,,An underground Mahjong East/West competition
