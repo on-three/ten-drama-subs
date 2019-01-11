@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 171
-Active Line: 189
-Video Position: 24395
+Scroll Position: 273
+Active Line: 285
+Video Position: 42503
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -199,7 +199,7 @@ Dialogue: 0,0:10:52.48,0:10:55.32,Default,,0,0,0,,He might just be our... trump 
 Dialogue: 0,0:10:59.28,0:11:01.77,Default,,0,0,0,,Please
 Dialogue: 0,0:11:11.15,0:11:15.10,Default - white,,0,0,0,,{\pos(888,453.111)}通天閣\NTsū-TEN-kaku
 Dialogue: 0,0:11:36.19,0:11:39.19,Default,,0,0,0,,The West team roster
-Dialogue: 0,0:11:43.49,0:11:48.09,Default - white,,0,0,0,,{\pos(946.667,702)}Harada Katsumi\NMitsui Jyuuji\NAkutsu\N{\b1}Soga Mitsui{\b0}
+Dialogue: 0,0:11:43.49,0:11:48.09,Default - white,,0,0,0,,{\pos(946.667,702)}Harada Katsumi\NMitsui Jyuuji\NAkutsu Tetsu\N{\b1}Soga Mitsui{\b0}
 Dialogue: 0,0:12:03.53,0:12:04.83,Default,,0,0,0,,Hunh?
 Dialogue: 0,0:12:04.83,0:12:06.83,Default,,0,0,0,,What's the matter?
 Dialogue: 0,0:12:07.83,0:12:10.88,Default,,0,0,0,,Soga's name is here
@@ -214,8 +214,8 @@ Dialogue: 0,0:12:30.68,0:12:33.13,Default,,0,0,0,,My god. To think even Soga is 
 Dialogue: 0,0:12:36.09,0:12:40.08,Default,,0,0,0,,First, there is a proposal from the West team
 Dialogue: 0,0:12:40.08,0:12:42.08,Default,,0,0,0,,What is it?
 Dialogue: 0,0:12:42.08,0:12:44.08,Default,,0,0,0,,What if both teams
-Dialogue: 0,0:12:44.08,0:12:46.08,Default,,0,0,0,,above normal Mahjong rules
-Dialogue: 0,0:12:46.08,0:12:49.68,Default,,0,0,0,,propose a single additional condition
+Dialogue: 0,0:12:44.08,0:12:46.08,Default,,0,0,0,,on top of normal Mahjong rules
+Dialogue: 0,0:12:46.08,0:12:49.68,Default,,0,0,0,,attach a single additional condition
 Dialogue: 0,0:12:49.68,0:12:51.68,Default,,0,0,0,,as you prefer
 Dialogue: 0,0:12:56.29,0:12:58.43,Default,,0,0,0,,Understood
 Dialogue: 0,0:12:59.78,0:13:02.39,Default,,0,0,0,,The East team players
@@ -230,8 +230,6 @@ Dialogue: 0,0:13:35.78,0:13:37.78,Default,,0,0,0,,ha ha ha
 Dialogue: 0,0:13:40.78,0:13:46.73,Default,,0,0,0,,It will be time momentarily.\NPlease proceed to the contest area
 Dialogue: 0,0:13:40.78,0:13:46.73,default - cyan,,0,0,0,,{\pos(248.889,281.555)}Fukumoto Sensei-->
 Dialogue: 0,0:13:47.33,0:13:49.93,Default,,0,0,0,,Let's go
-Dialogue: 0,0:14:04.43,0:14:07.73,default - cyan,,0,0,0,,{\pos(638.223,589.111)}#/tv/shows Mahjong posse assembles
-Dialogue: 0,0:14:05.58,0:14:07.73,Default,,0,0,0,,Yeah, I'm thinking they're back
 Dialogue: 0,0:14:10.80,0:14:14.05,Default,,0,0,0,,There is a time restriction rule
 Dialogue: 0,0:14:14.05,0:14:17.95,Default,,0,0,0,,Anyone caught cheating hands over his point box
 Dialogue: 0,0:14:17.95,0:14:19.95,Default,,0,0,0,,Among the 8 people here
@@ -243,19 +241,19 @@ Dialogue: 0,0:14:31.45,0:14:35.90,Default,,0,0,0,,Wins less than Mangan are just
 Dialogue: 0,0:14:35.90,0:14:37.90,Default,,0,0,0,,And there is no penalty for not achieving Tenpai
 Dialogue: 0,0:14:39.85,0:14:41.40,Default,,0,0,0,,Agreed
 Dialogue: 0,0:14:41.40,0:14:43.40,Default,,0,0,0,,And yours?
-Dialogue: 0,0:14:50.88,0:14:53.90,Default,,0,0,0,,How about a rule eliminating accumulated wins
+Dialogue: 0,0:14:50.88,0:14:53.90,Default,,0,0,0,,How about a rule eliminating accumulated wins?
 Dialogue: 0,0:14:53.90,0:14:55.90,Default,,0,0,0,,Hunh?
 Dialogue: 0,0:14:56.71,0:15:00.80,Default,,0,0,0,,Normally points go to the winner
 Dialogue: 0,0:15:00.80,0:15:05.80,Default,,0,0,0,,but now, the points of someone who wins a hand...
 Dialogue: 0,0:15:05.80,0:15:07.80,Default,,0,0,0,,would absolutely never increase
-Dialogue: 0,0:15:08.55,0:15:10.25,Default,,0,0,0,,This rule
-Dialogue: 0,0:15:10.25,0:15:13.15,Default,,0,0,0,,ensures a single hit point reversal is always possible
+Dialogue: 0,0:15:08.55,0:15:10.25,Default,,0,0,0,,This rule...
+Dialogue: 0,0:15:10.25,0:15:13.15,Default,,0,0,0,,ensures an upset is always possible with a single direct hit
 Dialogue: 0,0:15:13.15,0:15:16.85,Default,,0,0,0,,If points don't increase someone with no points can't recover
 Dialogue: 0,0:15:16.85,0:15:21.10,Default,,0,0,0,,and if you deal into someone's hand, it instantly starts a countdown to death
 Dialogue: 0,0:15:21.10,0:15:23.10,Default,,0,0,0,,HA HA HA
-Dialogue: 0,0:15:23.10,0:15:25.10,Default,,0,0,0,,Amusing!
+Dialogue: 0,0:15:23.10,0:15:25.10,Default,,0,0,0,,Sounds like fun!
 Dialogue: 0,0:15:27.05,0:15:29.05,Default,,0,0,0,,We accept
-Dialogue: 0,0:16:00.15,0:16:02.78,Default - white - top,,0,0,0,,East Hand 1
+Dialogue: 0,0:15:59.31,0:16:04.45,Default - white - top,,0,0,0,,East Hand 1
 Dialogue: 0,0:16:50.00,0:16:51.90,Default,,0,0,0,,Riichi
 Dialogue: 0,0:16:51.90,0:16:55.10,Default,,0,0,0,,F-fast\NOn only the 3rd turn
 Dialogue: 0,0:16:55.10,0:16:58.40,Default,,0,0,0,,Even with a Mangan-shibari?
@@ -322,7 +320,7 @@ Dialogue: 0,0:23:17.75,0:23:19.40,Default,,0,0,0,,BUT
 Dialogue: 0,0:23:19.40,0:23:22.55,Default,,0,0,0,,If anyone is going to fight over this, it's me
 Dialogue: 0,0:23:22.55,0:23:24.55,Default,,0,0,0,,And I'll SETTLE IT
 Dialogue: 0,0:23:30.00,0:23:32.50,Default,,0,0,0,,You're called "Ken" aren't you?
-Dialogue: 0,0:23:32.50,0:23:36.80,Default,,0,0,0,,I'll be sure to remember that name
+Dialogue: 0,0:23:32.50,0:23:36.80,Default,,0,0,0,,I'll be sure to remember your name
 Dialogue: 0,0:23:42.15,0:23:45.85,Default,,0,0,0,,Ken clearly pulled two tiles from his wall
 Dialogue: 0,0:23:45.85,0:23:48.90,Default - top,,0,0,0,,And he's still got ONE IN HIS HAND
 Dialogue: 0,0:23:48.90,0:23:51.55,Default - top,,0,0,0,,What's he going to do?
