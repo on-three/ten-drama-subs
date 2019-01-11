@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e05.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 273
-Active Line: 285
-Video Position: 42503
+Scroll Position: 103
+Active Line: 113
+Video Position: 12473
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,17 +104,35 @@ Dialogue: 0,0:03:51.27,0:03:55.47,Default,,0,0,0,,The man who dealt the invincib
 Dialogue: 0,0:03:55.47,0:04:02.07,Default,,0,0,0,,Who with the strength of countless wins has repeatedly made the impossible possible
 Dialogue: 0,0:04:02.07,0:04:04.07,Default,,0,0,0,,The head of the East team
 Dialogue: 0,0:04:04.07,0:04:07.97,Default,,0,0,0,,Ten Takashi
-Dialogue: 0,0:04:11.68,0:04:16.77,default - cyan,,0,0,0,,{\pos(631.111,123.333)}#/tv/shows linux ricing and online swimming lessons community presents:
-Dialogue: 0,0:04:22.48,0:04:24.28,Default - red,,0,0,0,,{\pos(206.223,626.444)}Goro Takeshi
-Dialogue: 0,0:04:22.48,0:04:24.28,Default - white,,0,0,0,,{\pos(533.333,475.333)}Ten Takashi
-Dialogue: 0,0:04:31.15,0:04:32.95,Default - red,,0,0,0,,{\pos(768,621.111)}Furukawa Yuki
-Dialogue: 0,0:04:31.15,0:04:32.95,Default - white,,0,0,0,,{\pos(759.111,395.333)}Igawa Hiroyuki
-Dialogue: 0,0:04:39.82,0:04:41.62,Default - red,,0,0,0,,{\pos(291.555,704.667)}Yoshida Eisaku
-Dialogue: 0,0:04:39.82,0:04:41.62,Default - white,,0,0,0,,{\pos(496,505.555)}Akagi Shigeru
-Dialogue: 0,0:05:02.67,0:05:08.27,Default,,0,0,0,,{\pos(631.111,82.445)}#/tv/shows subs: "They're better than nothing!"
-Dialogue: 0,0:05:08.27,0:05:13.75,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
-Dialogue: 0,0:05:13.75,0:05:16.05,Default,,0,0,0,,{\pos(641.778,432.667)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
-Dialogue: 0,0:05:13.75,0:05:16.05,Default - white,,0,0,0,,{\pos(648.889,605.111)}Episode 5
+Dialogue: 0,0:04:12.63,0:04:19.85,Default - top - cyan,,0,0,0,,#/tv/shows linux ricing and online swimming lessons community presents:
+Dialogue: 0,0:04:22.36,0:04:27.15,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
+Dialogue: 0,0:04:22.36,0:04:27.15,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
+Dialogue: 0,0:04:22.85,0:04:24.65,Default - white,,0,0,0,,{\pos(524,472)}Ten Takashi
+Dialogue: 0,0:04:22.85,0:04:24.65,Default - red,,0,0,0,,{\pos(194,620)}Kishitani Goro
+Dialogue: 0,0:04:27.63,0:04:31.81,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
+Dialogue: 0,0:04:27.63,0:04:31.81,Default - white - with - background,,0,0,0,,He's come back again
+Dialogue: 0,0:04:31.48,0:04:33.28,Default - white,,0,0,0,,{\pos(756,394)}Igawa Hiroyuki
+Dialogue: 0,0:04:31.48,0:04:33.28,Default - red,,0,0,0,,{\pos(766,608)}Furukawa Yuki
+Dialogue: 0,0:04:32.86,0:04:37.99,default - cyan - with - background,,0,0,0,,ざわざわと
+Dialogue: 0,0:04:32.86,0:04:37.99,Default - white - with - background,,0,0,0,,In anxiety...
+Dialogue: 0,0:04:38.52,0:04:43.63,default - cyan - with - background,,0,0,0,,息を殺して
+Dialogue: 0,0:04:38.52,0:04:43.63,Default - white - with - background,,0,0,0,,you hold your breath
+Dialogue: 0,0:04:40.15,0:04:41.95,Default - red,,0,0,0,,{\pos(250,700)}Yoshida Eisaku
+Dialogue: 0,0:04:40.15,0:04:41.95,Default - white,,0,0,0,,{\pos(528,510)}Akagi Shigeru
+Dialogue: 0,0:04:43.63,0:04:49.01,default - cyan - with - background,,0,0,0,,誰の肩に止まるかな
+Dialogue: 0,0:04:43.63,0:04:49.01,Default - white - with - background,,0,0,0,,Whose shoulder will it land upon
+Dialogue: 0,0:04:49.01,0:04:55.01,default - cyan - with - background,,0,0,0,,くるくる廻る天道虫
+Dialogue: 0,0:04:49.01,0:04:55.01,Default - white - with - background,,0,0,0,,Ladybug going round and round
+Dialogue: 0,0:04:55.01,0:04:59.37,default - cyan - with - background,,0,0,0,,背中の星が揃ったら
+Dialogue: 0,0:04:55.01,0:04:59.37,Default - white - with - background,,0,0,0,,When the stars on her back align
+Dialogue: 0,0:04:59.37,0:05:09.28,default - cyan - with - background,,0,0,0,,雨上がりの風吹く通りを
+Dialogue: 0,0:04:59.37,0:05:09.28,Default - white - with - background,,0,0,0,,After the rain, above the windswept street,
+Dialogue: 0,0:05:07.35,0:05:10.80,Default,,0,0,0,,#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:05:09.28,0:05:11.55,default - cyan - with - background,,0,0,0,,陽が昇った
+Dialogue: 0,0:05:09.28,0:05:11.55,Default - white - with - background,,0,0,0,,The sun rose
+Dialogue: 0,0:05:10.80,0:05:14.16,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
+Dialogue: 0,0:05:14.16,0:05:16.49,Default - white,,0,0,0,,{\pos(642,604)}Episode 5
+Dialogue: 0,0:05:14.16,0:05:16.49,Default,,0,0,0,,{\pos(664,444)}Ten: Tenho-doori no Kaidanji\N(The Nice Guy on Tenho Way)
 Dialogue: 0,0:05:24.32,0:05:26.92,Default,,0,0,0,,What round it it?
 Dialogue: 0,0:05:26.92,0:05:30.22,Default,,0,0,0,,South Hand 4, last round
 Dialogue: 0,0:05:30.22,0:05:34.92,Default,,0,0,0,,The guy from Tokyo is in 3rd
@@ -130,7 +148,7 @@ Dialogue: 0,0:06:29.92,0:06:32.52,Default,,0,0,0,,Ron
 Dialogue: 0,0:06:32.52,0:06:34.87,Default,,0,0,0,,6,400 points
 Dialogue: 0,0:06:36.82,0:06:38.82,Default,,0,0,0,,oh, darn
 Dialogue: 0,0:06:39.95,0:06:42.92,Default,,0,0,0,,so waiting on Red Dragon, hunh?
-Dialogue: 0,0:06:49.97,0:06:53.07,Default,,0,0,0,,Y-you two KNOW each other?
+Dialogue: 0,0:06:50.97,0:06:53.07,Default,,0,0,0,,Y-you two KNOW each other?
 Dialogue: 0,0:06:53.07,0:06:56.22,Default,,0,0,0,,A little
 Dialogue: 0,0:06:58.18,0:07:00.18,Default,,0,0,0,,How you been?
 Dialogue: 0,0:07:00.18,0:07:03.02,Default,,0,0,0,,o-okay
