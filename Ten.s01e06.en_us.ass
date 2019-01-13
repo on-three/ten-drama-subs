@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 256
-Active Line: 275
-Video Position: 45272
+Scroll Position: 36
+Active Line: 54
+Video Position: 5816
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,20 +58,38 @@ Dialogue: 0,0:01:28.75,0:01:31.05,Default,,0,0,0,,Hey!
 Dialogue: 0,0:01:31.05,0:01:36.81,Default - white,,0,0,0,,{\pos(653.333,598)}Nisokaze Ken :Disqualified
 Dialogue: 0,0:01:37.75,0:01:40.15,Default,,0,0,0,,And one is eliminated
 Dialogue: 0,0:01:45.35,0:01:49.20,Default,,0,0,0,,Who the hell are you?!\NYou can't go in there!
-Dialogue: 0,0:02:00.48,0:02:07.50,default - cyan,,0,0,0,,{\pos(634.667,126)}#/tv/shows Scrying and Tupla summoning community presents
-Dialogue: 0,0:02:11.41,0:02:13.21,Default - red,,0,0,0,,{\pos(206.223,626.444)}Goro Takeshi
-Dialogue: 0,0:02:11.41,0:02:13.25,Default - white,,0,0,0,,{\pos(533.333,475.333)}Ten Takeshi
-Dialogue: 0,0:02:20.08,0:02:21.88,Default - red,,0,0,0,,{\pos(768,621.111)}Furukawa Yuki
-Dialogue: 0,0:02:20.08,0:02:21.88,Default - white,,0,0,0,,{\pos(759.111,395.333)}Igawa Hiroyuki
-Dialogue: 0,0:02:28.75,0:02:30.55,Default - red,,0,0,0,,{\pos(291.555,704.667)}Yoshida Eisaku
-Dialogue: 0,0:02:28.75,0:02:30.55,Default - white,,0,0,0,,{\pos(496,505.555)}Akagi Shigeru
-Dialogue: 0,0:02:55.65,0:02:59.20,Default,,0,0,0,,{\pos(645.333,80.667)}#/tv/shows subs: "They're better than nothing!"
-Dialogue: 0,0:02:59.20,0:03:02.75,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™
-Dialogue: 0,0:03:02.75,0:03:04.95,Default,,0,0,0,,{\pos(641.778,432.667)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
-Dialogue: 0,0:03:02.75,0:03:04.95,Default - white,,0,0,0,,{\pos(644.445,611.333)}Episode 6
+Dialogue: 0,0:02:01.29,0:02:08.51,Default - top - cyan,,0,0,0,,#/tv/shows Scrying and Tupla summoning community presents
+Dialogue: 0,0:02:11.02,0:02:15.81,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
+Dialogue: 0,0:02:11.02,0:02:15.81,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
+Dialogue: 0,0:02:11.51,0:02:13.38,Default - white,,0,0,0,,{\pos(526,476)}Ten Takashi
+Dialogue: 0,0:02:11.58,0:02:13.38,Default - red,,0,0,0,,{\pos(186,632)}Kishitani Goro
+Dialogue: 0,0:02:16.29,0:02:20.47,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
+Dialogue: 0,0:02:16.29,0:02:20.47,Default - white - with - background,,0,0,0,,He's come back again
+Dialogue: 0,0:02:20.15,0:02:22.01,Default - white,,0,0,0,,{\pos(778,402)}Igawa Hiroyuki
+Dialogue: 0,0:02:20.21,0:02:22.01,Default - red,,0,0,0,,{\pos(784,620)}Furukawa Yuki
+Dialogue: 0,0:02:21.52,0:02:26.65,default - cyan - with - background,,0,0,0,,ざわざわと
+Dialogue: 0,0:02:21.52,0:02:26.65,Default - white - with - background,,0,0,0,,In anxiety...
+Dialogue: 0,0:02:27.18,0:02:32.29,default - cyan - with - background,,0,0,0,,息を殺して
+Dialogue: 0,0:02:27.18,0:02:32.29,Default - white - with - background,,0,0,0,,you hold your breath
+Dialogue: 0,0:02:28.88,0:02:30.68,Default - red,,0,0,0,,{\pos(240,704)}Yoshida Eisaku
+Dialogue: 0,0:02:28.88,0:02:30.68,Default - white,,0,0,0,,{\pos(482,512)}Akagi Shigeru
+Dialogue: 0,0:02:32.29,0:02:37.67,default - cyan - with - background,,0,0,0,,誰の肩に止まるかな
+Dialogue: 0,0:02:32.29,0:02:37.67,Default - white - with - background,,0,0,0,,Whose shoulder will it land upon
+Dialogue: 0,0:02:37.67,0:02:43.67,default - cyan - with - background,,0,0,0,,くるくる廻る天道虫
+Dialogue: 0,0:02:37.67,0:02:43.67,Default - white - with - background,,0,0,0,,Ladybug going round and round
+Dialogue: 0,0:02:43.67,0:02:48.03,default - cyan - with - background,,0,0,0,,背中の星が揃ったら
+Dialogue: 0,0:02:43.67,0:02:48.03,Default - white - with - background,,0,0,0,,When the stars on her back align
+Dialogue: 0,0:02:48.03,0:02:57.94,default - cyan - with - background,,0,0,0,,雨上がりの風吹く通りを
+Dialogue: 0,0:02:48.03,0:02:57.94,Default - white - with - background,,0,0,0,,After the rain, above the windswept street,
+Dialogue: 0,0:02:56.01,0:02:59.46,Default,,0,0,0,,#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:02:57.94,0:03:00.21,default - cyan - with - background,,0,0,0,,陽が昇った
+Dialogue: 0,0:02:57.94,0:03:00.21,Default - white - with - background,,0,0,0,,The sun rose
+Dialogue: 0,0:02:59.46,0:03:02.82,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
+Dialogue: 0,0:03:02.82,0:03:05.15,Default - white,,0,0,0,,{\pos(638,606)}Episode 6
+Dialogue: 0,0:03:02.82,0:03:05.15,Default,,0,0,0,,{\pos(629.408,434.92)}Ten: Tenho-doori no Kaidanji\N(The Nice Guy on Tenho Way)
 Dialogue: 0,0:03:05.92,0:03:07.63,Default,,0,0,0,,A-Akagi!
-Dialogue: 0,0:03:07.89,0:03:11.34,Default,,0,0,0,,You rightly removed someone.
-Dialogue: 0,0:03:12.24,0:03:13.87,Default,,0,0,0,,Could I mix it up a bit?
+Dialogue: 0,0:03:07.89,0:03:11.34,Default,,0,0,0,,You rightly removed someone
+Dialogue: 0,0:03:12.24,0:03:13.87,Default,,0,0,0,,Let me join in
 Dialogue: 0,0:03:13.90,0:03:16.24,Default,,0,0,0,,Hunh?!
 Dialogue: 0,0:03:16.24,0:03:19.14,Default,,0,0,0,,He was disqualified for cheating!
 Dialogue: 0,0:03:19.14,0:03:22.44,Default,,0,0,0,,We didn't agree on any replacements!
