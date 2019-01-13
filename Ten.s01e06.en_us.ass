@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 276
-Active Line: 289
-Video Position: 44529
+Scroll Position: 7
+Active Line: 12
+Video Position: 1733
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,8 +46,8 @@ Dialogue: 0,0:00:25.30,0:00:29.25,Default,,0,0,0,,I CAN SEE EVERYTHING YOU'RE TH
 Dialogue: 0,0:00:39.75,0:00:41.70,Default,,0,0,0,,This hand...
 Dialogue: 0,0:00:41.70,0:00:45.60,Default,,0,0,0,,The edge tile Ken took WAS in his right hand
 Dialogue: 0,0:00:45.60,0:00:51.65,Default,,0,0,0,,and Ken made a fist to convince Harada the surplus tile was still there
-Dialogue: 0,0:00:51.65,0:00:54.10,Default,,0,0,0,,stab away mane
-Dialogue: 0,0:00:54.10,0:00:57.80,Default,,0,0,0,,while really has holding it in his LEFT hand
+Dialogue: 0,0:00:51.65,0:00:54.10,Default,,0,0,0,,Stab away mane
+Dialogue: 0,0:00:54.10,0:00:57.80,Default,,0,0,0,,while really he was holding it in his LEFT hand
 Dialogue: 0,0:01:00.20,0:01:05.90,Default,,0,0,0,,But Harada wouldn't let that cheat pass
 Dialogue: 0,0:01:12.25,0:01:15.10,Default,,0,0,0,,This man
 Dialogue: 0,0:01:15.10,0:01:18.35,Default,,0,0,0,,he kills without qualm
