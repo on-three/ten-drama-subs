@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e06.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 36
-Active Line: 54
-Video Position: 5816
+Scroll Position: 276
+Active Line: 289
+Video Position: 44529
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,7 +58,7 @@ Dialogue: 0,0:01:28.75,0:01:31.05,Default,,0,0,0,,Hey!
 Dialogue: 0,0:01:31.05,0:01:36.81,Default - white,,0,0,0,,{\pos(653.333,598)}Nisokaze Ken :Disqualified
 Dialogue: 0,0:01:37.75,0:01:40.15,Default,,0,0,0,,And one is eliminated
 Dialogue: 0,0:01:45.35,0:01:49.20,Default,,0,0,0,,Who the hell are you?!\NYou can't go in there!
-Dialogue: 0,0:02:01.29,0:02:08.51,Default - top - cyan,,0,0,0,,#/tv/shows Scrying and Tupla summoning community presents
+Dialogue: 0,0:02:01.29,0:02:08.51,Default - top - cyan,,0,0,0,,#/tv/shows Scrying and Tulpa summoning community presents
 Dialogue: 0,0:02:11.02,0:02:15.81,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
 Dialogue: 0,0:02:11.02,0:02:15.81,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
 Dialogue: 0,0:02:11.51,0:02:13.38,Default - white,,0,0,0,,{\pos(526,476)}Ten Takashi
@@ -100,7 +100,7 @@ Dialogue: 0,0:03:29.89,0:03:33.09,Default,,0,0,0,,Having both Akagi and Ten comp
 Dialogue: 0,0:03:35.04,0:03:38.14,Default,,0,0,0,,We can smash them BOTH in one go
 Dialogue: 0,0:03:38.14,0:03:41.14,Default,,0,0,0,,can't we, Soga?
 Dialogue: 0,0:03:43.10,0:03:46.24,Default,,0,0,0,,Only...
-Dialogue: 0,0:03:46.24,0:03:50.54,Default,,0,0,0,,You'll have to let us designate us a new rule
+Dialogue: 0,0:03:46.24,0:03:50.54,Default,,0,0,0,,You'll have to let us designate a new rule
 Dialogue: 0,0:03:50.54,0:03:54.14,Default,,0,0,0,,Then I'll approve the substitution
 Dialogue: 0,0:03:54.14,0:03:57.89,Default,,0,0,0,,Is that much agreed?
 Dialogue: 0,0:03:57.89,0:04:01.54,Default,,0,0,0,,Yes
@@ -301,15 +301,15 @@ Dialogue: 0,0:22:13.21,0:22:15.89,Default,,0,0,0,,Riichi
 Dialogue: 0,0:22:35.51,0:22:38.92,Default,,0,0,0,,With this... a BAIMAN win
 Dialogue: 0,0:22:46.81,0:22:48.96,Default,,0,0,0,,It's not a White Dragon!
 Dialogue: 0,0:22:48.96,0:22:51.96,Default,,0,0,0,,I'm certain on this tile's right side I...
-Dialogue: 0,0:23:11.51,0:23:14.21,Default - top,,0,0,0,,Finally I've caught...
+Dialogue: 0,0:23:11.51,0:23:14.21,Default - top,,0,0,0,,Finally I've caught
 Dialogue: 0,0:23:14.21,0:23:16.21,Default - top,,0,0,0,,Ginji by his tail
-Dialogue: 0,0:23:16.21,0:23:19.95,Default - top,,0,0,0,,In the end Ginji hasd only marked 7 tiles
-Dialogue: 0,0:23:20.06,0:23:22.06,Default - top,,0,0,0,,Only Honor tiles
+Dialogue: 0,0:23:16.21,0:23:19.95,Default - top,,0,0,0,,In the end Ginji had only marked 7 tiles
+Dialogue: 0,0:23:20.06,0:23:22.06,Default - top,,0,0,0,,Merely Honor tiles
 Dialogue: 0,0:23:22.06,0:23:24.86,Default - top,,0,0,0,,Normally, it's done on the backs of tiles
 Dialogue: 0,0:23:24.86,0:23:26.86,Default - top,,0,0,0,,But Ginji
 Dialogue: 0,0:23:26.86,0:23:31.81,Default - top,,0,0,0,,while fiddling with his tiles he smeared them with something
 Dialogue: 0,0:23:31.81,0:23:35.96,Default - top,,0,0,0,,Most likely from when he did that thing... touching his hair
-Dialogue: 0,0:23:35.96,0:23:38.91,Default,,0,0,0,,Something prepared beforehand
+Dialogue: 0,0:23:35.96,0:23:38.91,Default,,0,0,0,,He had prepared something for that moment
 Dialogue: 0,0:23:38.91,0:23:42.86,Default,,0,0,0,,and he smeared it on the FACE of each tile
 Dialogue: 0,0:23:43.69,0:23:45.91,Default,,0,0,0,,such that when the tiles are stacked
 Dialogue: 0,0:23:45.91,0:23:48.81,Default,,0,0,0,,they'll stick up slightly
@@ -324,7 +324,7 @@ Dialogue: 0,0:24:25.29,0:24:27.29,Default - top,,0,0,0,,A Baiman win
 Dialogue: 0,0:24:30.56,0:24:33.59,Default,,0,0,0,,A dealer baiman is 24,000 points!
 Dialogue: 0,0:24:33.96,0:24:36.22,Default,,0,0,0,,Ginji is OUT
 Dialogue: 0,0:24:37.12,0:24:41.01,Default - top,,0,0,0,,There is no second chance to stab through an enemy's defences
-Dialogue: 0,0:24:41.01,0:24:44.31,Default,,0,0,0,,There is only the first swing of the blade
+Dialogue: 0,0:24:41.01,0:24:44.31,Default - top,,0,0,0,,There is only the first swing of the blade
 Dialogue: 0,0:24:44.31,0:24:47.06,Default - top,,0,0,0,,Kill with the first cut
 Dialogue: 0,0:24:47.06,0:24:49.36,Default - top,,0,0,0,,This is how it's done
 Dialogue: 0,0:24:50.22,0:24:53.62,Default - white - top,,0,0,0,,Asai Ginji: Disqualified
