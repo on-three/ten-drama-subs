@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 234
-Active Line: 246
-Video Position: 31485
+Scroll Position: 81
+Active Line: 91
+Video Position: 29120
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,12 +64,12 @@ Dialogue: 0,0:01:30.15,0:01:31.85,Default,,0,0,0,,Soga in this, the 4th hand
 Dialogue: 0,0:01:31.85,0:01:33.85,Default,,0,0,0,,Is aiming for a Chitoitsu
 Dialogue: 0,0:01:33.85,0:01:36.10,Default,,0,0,0,,Declaring Riichi on a Dora Haitei draw
 Dialogue: 0,0:01:36.10,0:01:38.40,Default,,0,0,0,,there's a possibility of a Dora pair
-Dialogue: 0,0:01:38.40,0:01:40.40,Default,,0,0,0,,which gives him a Mangan hand
+Dialogue: 0,0:01:38.40,0:01:40.40,Default,,0,0,0,,so it's Mangan
 Dialogue: 0,0:01:44.58,0:01:47.00,Default,,0,0,0,,the fact that I've got 3 of the Dora
 Dialogue: 0,0:01:47.00,0:01:49.95,Default,,0,0,0,,means there's but one in his hand
-Dialogue: 0,0:01:49.95,0:01:52.25,Default,,0,0,0,,He's on a single tile wait for a Dora
-Dialogue: 0,0:01:53.95,0:01:57.74,Default,,0,0,0,,And since he's on a Dora wait, if he draws it he's sure to have a Haneman win
-Dialogue: 0,0:01:57.76,0:02:01.81,Default,,0,0,0,,But as I've collected 3 dora as I played
+Dialogue: 0,0:01:49.95,0:01:52.25,Default,,0,0,0,,A Dora single tile wait
+Dialogue: 0,0:01:53.95,0:01:57.74,Default,,0,0,0,,And since he's on a Dora wait, if he draws it himself his hand reaches Haneman
+Dialogue: 0,0:01:57.76,0:02:01.81,Default,,0,0,0,,But as I've collected 3 Dora during play
 Dialogue: 0,0:02:01.81,0:02:04.26,Default,,0,0,0,,Soga's wait has vanished
 Dialogue: 0,0:02:04.26,0:02:06.26,Default,,0,0,0,,Just unlucky I guess
 Dialogue: 0,0:02:07.48,0:02:09.48,Default,,0,0,0,,Riichi
@@ -126,9 +126,9 @@ Dialogue: 0,0:05:48.08,0:05:50.98,Default,,0,0,0,,{\pos(626.667,518)}despite all
 Dialogue: 0,0:05:50.98,0:05:55.63,Default,,0,0,0,,{\pos(640,531.333)}Preventing us from overcoming the vast difference in points between east and west takes priority
 Dialogue: 0,0:05:55.63,0:05:58.18,Default,,0,0,0,,and now Hiroyuki is...
 Dialogue: 0,0:05:58.18,0:06:01.63,Default,,0,0,0,,on the edge of a cliff
-Dialogue: 0,0:06:04.51,0:06:11.73,default - cyan,,0,0,0,,{\pos(634.667,69.111)}#/tv/shows Shabbos Goys and Golems present:
+Dialogue: 0,0:06:04.51,0:06:11.73,default - cyan,,0,0,0,,{\pos(634.667,69.111)}#/tv/shows Talmudic Scholars and Golems present:
 Dialogue: 0,0:06:14.84,0:06:19.63,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
-Dialogue: 0,0:06:14.84,0:06:19.63,Default - white - with - background,,0,0,0,,Like a brilliant sun blazing down
+Dialogue: 0,0:06:14.84,0:06:19.63,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
 Dialogue: 0,0:06:15.34,0:06:17.11,Default - red,,0,0,0,,{\pos(206.223,626.444)}Kishitani Goro
 Dialogue: 0,0:06:15.34,0:06:17.11,Default - white,,0,0,0,,{\pos(533.333,475.333)}Ten Takashi
 Dialogue: 0,0:06:20.11,0:06:24.29,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
@@ -136,17 +136,17 @@ Dialogue: 0,0:06:20.11,0:06:24.29,Default - white - with - background,,0,0,0,,He
 Dialogue: 0,0:06:23.98,0:06:25.78,Default - red,,0,0,0,,{\pos(768,621.111)}Furukawa Yuki
 Dialogue: 0,0:06:23.98,0:06:25.78,Default - white,,0,0,0,,{\pos(759.111,395.333)}Igawa Hiroyuki
 Dialogue: 0,0:06:25.34,0:06:30.47,default - cyan - with - background,,0,0,0,,ざわざわと
-Dialogue: 0,0:06:25.34,0:06:30.47,Default - white - with - background,,0,0,0,,with a murmur
+Dialogue: 0,0:06:25.34,0:06:30.47,Default - white - with - background,,0,0,0,,In anxiety
 Dialogue: 0,0:06:31.00,0:06:36.11,default - cyan - with - background,,0,0,0,,息を殺して
-Dialogue: 0,0:06:31.00,0:06:36.11,Default - white - with - background,,0,0,0,,You catch your breath
+Dialogue: 0,0:06:31.00,0:06:36.11,Default - white - with - background,,0,0,0,,You hold your breath
 Dialogue: 0,0:06:36.11,0:06:41.49,default - cyan - with - background,,0,0,0,,誰の肩に止まるかな
-Dialogue: 0,0:06:36.11,0:06:41.49,Default - white - with - background,,0,0,0,,Beside who will it stop
+Dialogue: 0,0:06:36.11,0:06:41.49,Default - white - with - background,,0,0,0,,Whose shoulder will it land upon
 Dialogue: 0,0:06:41.49,0:06:47.49,default - cyan - with - background,,0,0,0,,くるくる廻る天道虫
-Dialogue: 0,0:06:41.49,0:06:47.49,Default - white - with - background,,0,0,0,,The spinning ladybug
+Dialogue: 0,0:06:41.49,0:06:47.49,Default - white - with - background,,0,0,0,,Ladybug going round and round
 Dialogue: 0,0:06:47.49,0:06:51.85,default - cyan - with - background,,0,0,0,,背中の星が揃ったら
-Dialogue: 0,0:06:47.49,0:06:51.85,Default - white - with - background,,0,0,0,,If you catch the stars on her back
+Dialogue: 0,0:06:47.49,0:06:51.85,Default - white - with - background,,0,0,0,,When the stars on her back align
 Dialogue: 0,0:06:51.85,0:07:01.76,default - cyan - with - background,,0,0,0,,雨上がりの風吹く通りを
-Dialogue: 0,0:06:51.85,0:07:01.76,Default - white - with - background,,0,0,0,,Above the rain and windswept street,
+Dialogue: 0,0:06:51.85,0:07:01.76,Default - white - with - background,,0,0,0,,After the rain, above the windswept street
 Dialogue: 0,0:07:01.76,0:07:04.03,default - cyan - with - background,,0,0,0,,陽が昇った
 Dialogue: 0,0:07:01.76,0:07:04.03,Default - white - with - background,,0,0,0,,The sun rose
 Dialogue: 0,0:06:32.64,0:06:34.44,Default - red,,0,0,0,,{\pos(291.555,704.667)}Yoshida Eisaku
@@ -264,7 +264,7 @@ Dialogue: 0,0:15:57.35,0:15:59.78,Default,,0,0,0,,I've got a safe North Wind til
 Dialogue: 0,0:15:59.78,0:16:02.28,Default,,0,0,0,,I've got a dora and kan-dora in my hand
 Dialogue: 0,0:16:02.28,0:16:05.25,Default,,0,0,0,,If I draw the North Wind I've got a Haneman hand
 Dialogue: 0,0:16:06.85,0:16:08.68,Default,,0,0,0,,It shouldn't be any problem...
-Dialogue: 0,0:16:08.68,0:16:10.68,Default,,0,0,0,,If I discard a low 4 Sou
+Dialogue: 0,0:16:08.68,0:16:10.68,Default,,0,0,0,,If I discard a lower Sou tile
 Dialogue: 0,0:16:18.18,0:16:20.08,Default,,0,0,0,,What?
 Dialogue: 0,0:16:20.08,0:16:22.08,Default,,0,0,0,,too bad
 Dialogue: 0,0:16:22.95,0:16:24.95,Default,,0,0,0,,but that's it
@@ -284,7 +284,7 @@ Dialogue: 0,0:17:21.08,0:17:22.38,Default,,0,0,0,,And with this *illegal Kan
 Dialogue: 0,0:17:21.08,0:17:25.93,Default - top - cyan,,0,0,0,,*Illegal Kan: Players may only Kan when drawing the tile that completes their set of 4. Here Akagi used slight of hand to Kan when he drew an unrelated tile. This also breaks the separate rule which does not allow changing waits after delaring Riichi. lmfao
 Dialogue: 0,0:17:22.38,0:17:24.18,Default,,0,0,0,,from a 2-5 Man wait...
 Dialogue: 0,0:17:24.18,0:17:26.78,Default,,0,0,0,,he instantly went to a 1 Sou single tile wait
-Dialogue: 0,0:17:30.45,0:17:33.25,Default,,0,0,0,,Because to his previously discarded 2 Sou
+Dialogue: 0,0:17:30.45,0:17:33.25,Default,,0,0,0,,Because of his previously discarded 2 Sou
 Dialogue: 0,0:17:33.25,0:17:35.25,Default,,0,0,0,,Harada couldn't dodge a 1 his Sou wait
 Dialogue: 0,0:17:35.25,0:17:37.95,Default,,0,0,0,,CAMOUFLAGE is what you do before you delcare Riichi
 Dialogue: 0,0:17:37.95,0:17:39.95,Default,,0,0,0,,It's a Mahjong PREREQUISITE
@@ -319,7 +319,7 @@ Dialogue: 0,0:20:03.78,0:20:06.38,Default,,0,0,0,,I've got this Hand
 Dialogue: 0,0:20:21.25,0:20:24.15,Default,,0,0,0,,Pon
 Dialogue: 0,0:20:33.38,0:20:36.08,Default,,0,0,0,,Pon
 Dialogue: 0,0:20:38.05,0:20:40.35,Default,,0,0,0,,A Tanyao or Sansyoku?
-Dialogue: 0,0:20:40.35,0:20:44.08,Default,,0,0,0,,Moreover the with remaining 5 pin Dora
+Dialogue: 0,0:20:40.35,0:20:44.08,Default,,0,0,0,,Moreover with the remaining 5 pin Dora
 Dialogue: 0,0:20:44.08,0:20:46.08,Default,,0,0,0,,He carries Three Dora
 Dialogue: 0,0:20:46.75,0:20:50.28,Default,,0,0,0,,If he's gathered up a Toitoi it's a baiman hand
 Dialogue: 0,0:20:52.25,0:20:55.58,Default,,0,0,0,,Okaay. With this tile I've got a Tanyao
