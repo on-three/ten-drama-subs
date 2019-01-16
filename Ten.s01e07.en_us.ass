@@ -16,9 +16,9 @@ Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e07.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 81
-Active Line: 91
-Video Position: 29120
+Scroll Position: 243
+Active Line: 255
+Video Position: 32442
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,7 +65,7 @@ Dialogue: 0,0:01:31.85,0:01:33.85,Default,,0,0,0,,Is aiming for a Chitoitsu
 Dialogue: 0,0:01:33.85,0:01:36.10,Default,,0,0,0,,Declaring Riichi on a Dora Haitei draw
 Dialogue: 0,0:01:36.10,0:01:38.40,Default,,0,0,0,,there's a possibility of a Dora pair
 Dialogue: 0,0:01:38.40,0:01:40.40,Default,,0,0,0,,so it's Mangan
-Dialogue: 0,0:01:44.58,0:01:47.00,Default,,0,0,0,,the fact that I've got 3 of the Dora
+Dialogue: 0,0:01:44.58,0:01:47.00,Default,,0,0,0,,The fact that I've got 3 of the Dora
 Dialogue: 0,0:01:47.00,0:01:49.95,Default,,0,0,0,,means there's but one in his hand
 Dialogue: 0,0:01:49.95,0:01:52.25,Default,,0,0,0,,A Dora single tile wait
 Dialogue: 0,0:01:53.95,0:01:57.74,Default,,0,0,0,,And since he's on a Dora wait, if he draws it himself his hand reaches Haneman
@@ -124,7 +124,7 @@ Dialogue: 0,0:05:43.74,0:05:51.01,small - white,,0,0,0,,{\pos(815.111,122)}West 
 Dialogue: 0,0:05:45.13,0:05:48.08,Default,,0,0,0,,{\pos(634.667,499.333)}It delivers damage to friend and foe alike
 Dialogue: 0,0:05:48.08,0:05:50.98,Default,,0,0,0,,{\pos(626.667,518)}despite all this, Soga still took the win
 Dialogue: 0,0:05:50.98,0:05:55.63,Default,,0,0,0,,{\pos(640,531.333)}Preventing us from overcoming the vast difference in points between east and west takes priority
-Dialogue: 0,0:05:55.63,0:05:58.18,Default,,0,0,0,,and now Hiroyuki is...
+Dialogue: 0,0:05:55.63,0:05:58.18,Default,,0,0,0,,And now Hiroyuki is...
 Dialogue: 0,0:05:58.18,0:06:01.63,Default,,0,0,0,,on the edge of a cliff
 Dialogue: 0,0:06:04.51,0:06:11.73,default - cyan,,0,0,0,,{\pos(634.667,69.111)}#/tv/shows Talmudic Scholars and Golems present:
 Dialogue: 0,0:06:14.84,0:06:19.63,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
@@ -222,16 +222,16 @@ Dialogue: 0,0:12:32.54,0:12:34.54,Default,,0,0,0,,That wasn't a conscious decisi
 Dialogue: 0,0:12:34.54,0:12:37.38,Default,,0,0,0,,My hands were moving on their own
 Dialogue: 0,0:12:40.98,0:12:44.08,Default,,0,0,0,,In the midst of a game I seldom use my head
 Dialogue: 0,0:12:44.08,0:12:45.83,Default,,0,0,0,,just my guts
-Dialogue: 0,0:12:45.83,0:12:47.83,Default,,0,0,0,,follow them above all else
-Dialogue: 0,0:12:47.83,0:12:49.83,Default,,0,0,0,,follow your gut instinct?
+Dialogue: 0,0:12:45.83,0:12:47.83,Default,,0,0,0,,Follow them above all else
+Dialogue: 0,0:12:47.83,0:12:49.83,Default,,0,0,0,,Follow your gut instinct?
 Dialogue: 0,0:12:49.83,0:12:53.53,Default,,0,0,0,,The only opportunity you have to follow chance is in THE NOW
 Dialogue: 0,0:12:53.53,0:12:56.13,Default,,0,0,0,,The feelings in your gut summon opportunity
 Dialogue: 0,0:12:56.13,0:12:59.03,Default,,0,0,0,,Cultivate them, raise them up
-Dialogue: 0,0:12:59.03,0:13:01.03,Default,,0,0,0,,the result
+Dialogue: 0,0:12:59.03,0:13:01.03,Default,,0,0,0,,The result:
 Dialogue: 0,0:13:01.03,0:13:04.23,Default,,0,0,0,,you'll open the door to victory
 Dialogue: 0,0:13:09.04,0:13:11.33,Default,,0,0,0,,And THIS opportunity
 Dialogue: 0,0:13:12.34,0:13:15.48,Default,,0,0,0,,It WON'T escape us
-Dialogue: 0,0:13:15.48,0:13:17.88,Default,,0,0,0,,from here on out
+Dialogue: 0,0:13:15.48,0:13:17.88,Default,,0,0,0,,From here on out
 Dialogue: 0,0:13:19.32,0:13:22.40,Default,,0,0,0,,The East team's counterattack begins!
 Dialogue: 0,0:13:27.71,0:13:32.21,small - white,,0,0,0,,{\pos(278.667,122)}East Team\NTen: 12000{\c&HFFFFFF&} Hiroyuki: 3000\NAkagi: 16000
 Dialogue: 0,0:13:27.71,0:13:32.21,small - white,,0,0,0,,{\pos(815.111,122)}West Team\NHarada: 15000 Mitsui: 17000\NSoga: 25000 Akutsu: 11000
@@ -264,15 +264,15 @@ Dialogue: 0,0:15:57.35,0:15:59.78,Default,,0,0,0,,I've got a safe North Wind til
 Dialogue: 0,0:15:59.78,0:16:02.28,Default,,0,0,0,,I've got a dora and kan-dora in my hand
 Dialogue: 0,0:16:02.28,0:16:05.25,Default,,0,0,0,,If I draw the North Wind I've got a Haneman hand
 Dialogue: 0,0:16:06.85,0:16:08.68,Default,,0,0,0,,It shouldn't be any problem...
-Dialogue: 0,0:16:08.68,0:16:10.68,Default,,0,0,0,,If I discard a lower Sou tile
+Dialogue: 0,0:16:08.68,0:16:10.68,Default,,0,0,0,,if I discard a lower Sou tile
 Dialogue: 0,0:16:18.18,0:16:20.08,Default,,0,0,0,,What?
-Dialogue: 0,0:16:20.08,0:16:22.08,Default,,0,0,0,,too bad
+Dialogue: 0,0:16:20.08,0:16:22.08,Default,,0,0,0,,Too bad
 Dialogue: 0,0:16:22.95,0:16:24.95,Default,,0,0,0,,but that's it
 Dialogue: 0,0:16:40.48,0:16:43.58,Default,,0,0,0,,No Ura-dora
 Dialogue: 0,0:16:43.58,0:16:46.38,Default,,0,0,0,,It's only a Mangan hand
 Dialogue: 0,0:16:48.35,0:16:51.25,Default,,0,0,0,,He changed his wait AFTER declaring riichi
 Dialogue: 0,0:16:51.25,0:16:53.25,Default,,0,0,0,,So he couldn't declare Kan
-Dialogue: 0,0:16:53.25,0:16:55.25,Default,,0,0,0,,then, using an ILLEGAL Kan
+Dialogue: 0,0:16:53.25,0:16:55.25,Default,,0,0,0,,Then, using an ILLEGAL Kan
 Dialogue: 0,0:16:55.25,0:16:58.08,Default,,0,0,0,,He scalped Harada!
 Dialogue: 0,0:17:01.58,0:17:04.58,Default,,0,0,0,,It was difficult to notice from the West team's perspective
 Dialogue: 0,0:17:04.58,0:17:06.95,Default,,0,0,0,,while the tile he actually drew was hidden in his palm
@@ -284,13 +284,13 @@ Dialogue: 0,0:17:21.08,0:17:22.38,Default,,0,0,0,,And with this *illegal Kan
 Dialogue: 0,0:17:21.08,0:17:25.93,Default - top - cyan,,0,0,0,,*Illegal Kan: Players may only Kan when drawing the tile that completes their set of 4. Here Akagi used slight of hand to Kan when he drew an unrelated tile. This also breaks the separate rule which does not allow changing waits after delaring Riichi. lmfao
 Dialogue: 0,0:17:22.38,0:17:24.18,Default,,0,0,0,,from a 2-5 Man wait...
 Dialogue: 0,0:17:24.18,0:17:26.78,Default,,0,0,0,,he instantly went to a 1 Sou single tile wait
-Dialogue: 0,0:17:30.45,0:17:33.25,Default,,0,0,0,,Because of his previously discarded 2 Sou
-Dialogue: 0,0:17:33.25,0:17:35.25,Default,,0,0,0,,Harada couldn't dodge a 1 his Sou wait
+Dialogue: 0,0:17:30.45,0:17:33.25,Default,,0,0,0,,Because of there were already two 2 Sou tiles in the discards...
+Dialogue: 0,0:17:33.25,0:17:35.25,Default,,0,0,0,,Harada couldn't dodge this 1 Sou wait
 Dialogue: 0,0:17:35.25,0:17:37.95,Default,,0,0,0,,CAMOUFLAGE is what you do before you delcare Riichi
 Dialogue: 0,0:17:37.95,0:17:39.95,Default,,0,0,0,,It's a Mahjong PREREQUISITE
 Dialogue: 0,0:17:40.62,0:17:43.95,Default,,0,0,0,,Akagi turned that requirement itself on its head
 Dialogue: 0,0:17:43.95,0:17:45.95,Default,,0,0,0,,an upset itself in disguise
-Dialogue: 0,0:17:45.95,0:17:48.28,Default,,0,0,0,,A 1 Sou "naked" wait
+Dialogue: 0,0:17:45.95,0:17:48.28,Default,,0,0,0,,A 1 Sou single tile wait!
 Dialogue: 0,0:17:53.78,0:18:00.55,small - white,,0,0,0,,{\pos(278.667,122)}East Team\NTen: 12000{\c&HFFFFFF&} Hiroyuki: 3000\NAkagi: 16000
 Dialogue: 0,0:17:53.78,0:18:00.55,small - white,,0,0,0,,{\pos(815.111,122)}West Team\NHarada: {\c&H0000FF&}7000 {\c&HFFFFFF&}Mitsui: 17000\NSoga: 25000 Akutsu: 11000
 Dialogue: 0,0:17:53.78,0:18:00.55,small - white,,0,0,0,,{\pos(1111.555,532.222)}Game 8\NSouth Hand 1
@@ -323,7 +323,7 @@ Dialogue: 0,0:20:40.35,0:20:44.08,Default,,0,0,0,,Moreover with the remaining 5 
 Dialogue: 0,0:20:44.08,0:20:46.08,Default,,0,0,0,,He carries Three Dora
 Dialogue: 0,0:20:46.75,0:20:50.28,Default,,0,0,0,,If he's gathered up a Toitoi it's a baiman hand
 Dialogue: 0,0:20:52.25,0:20:55.58,Default,,0,0,0,,Okaay. With this tile I've got a Tanyao
-Dialogue: 0,0:20:55.58,0:20:58.35,Default,,0,0,0,,a Mangan without even declaring Riichi
+Dialogue: 0,0:20:55.58,0:20:58.35,Default,,0,0,0,,A Mangan without even declaring Riichi
 Dialogue: 0,0:20:58.35,0:21:02.45,Default,,0,0,0,,This hand is just between me and Akagi
 Dialogue: 0,0:21:10.27,0:21:12.36,Default,,0,0,0,,Pon
 Dialogue: 0,0:21:22.27,0:21:24.64,Default,,0,0,0,,The brat's also in Tenpai
@@ -349,12 +349,12 @@ Dialogue: 0,0:23:17.18,0:23:23.08,default - cyan,,0,0,0,,{\pos(639.111,609.555)}
 Dialogue: 0,0:23:18.91,0:23:21.48,Default,,0,0,0,,East West Toitoi 3 Dora
 Dialogue: 0,0:23:21.48,0:23:24.78,Default,,0,0,0,,A Haneman win
 Dialogue: 0,0:23:28.38,0:23:32.68,Default - top,,0,0,0,,Even though Hiroyuki had 4 Dora he avoided declaring Kan
-Dialogue: 0,0:23:32.68,0:23:36.58,Default - top,,0,0,0,,aiming to win via a much more effective single tile wait
+Dialogue: 0,0:23:32.68,0:23:36.58,Default - top,,0,0,0,,Aiming instead to win via a much more effective single tile wait
 Dialogue: 0,0:23:37.35,0:23:40.61,Default - top,,0,0,0,,Thus Hiroyuki chose a 2 Pin wait
 Dialogue: 0,0:23:40.61,0:23:45.51,Default - top,,0,0,0,,As Hiroyuki  SEEMED to have a sou Honiisou, it wasn't a likely wait
-Dialogue: 0,0:23:50.41,0:23:52.98,Default - top,,0,0,0,,Discarding one of his Dora...
+Dialogue: 0,0:23:50.41,0:23:52.98,Default - top,,0,0,0,,Then, discarding one of his Dora...
 Dialogue: 0,0:23:52.98,0:23:54.98,Default - top,,0,0,0,,a direct hit here would mean instant death
-Dialogue: 0,0:23:54.98,0:23:56.88,Default - top,,0,0,0,,but...
+Dialogue: 0,0:23:54.98,0:23:56.88,Default - top,,0,0,0,,But...
 Dialogue: 0,0:23:56.88,0:23:58.88,Default - top,,0,0,0,,what if it passed?
 Dialogue: 0,0:23:58.88,0:24:01.61,Default - top,,0,0,0,,it becomes the ULTIMATE camouflage
 Dialogue: 0,0:24:05.98,0:24:08.91,Default,,0,0,0,,The kid's been cautious up to now
