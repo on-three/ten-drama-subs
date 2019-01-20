@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e08.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e08.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 283
-Active Line: 304
-Video Position: 44834
+Video Zoom Percent: 0.625000
+Scroll Position: 157
+Active Line: 170
+Video Position: 26861
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,21 +103,23 @@ Dialogue: 0,0:04:04.71,0:04:06.51,Default - white,,0,0,0,,{\pos(496,505.555)}Aka
 Dialogue: 0,0:04:31.88,0:04:35.35,Default,,0,0,0,,#/tv/shows subs: "They're better than nothing!"
 Dialogue: 0,0:04:35.35,0:04:38.71,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
 Dialogue: 0,0:04:38.71,0:04:40.95,Default - white,,0,0,0,,{\pos(650.667,606)}Episode 8
-Dialogue: 0,0:04:38.71,0:04:40.95,Default,,0,0,0,,{\pos(641.778,432.667)}Ten: Tenho-doori no Kaidanji\N(Nice guy on Tenho Way)
+Dialogue: 0,0:04:38.71,0:04:40.95,Default,,0,0,0,,{\pos(641.778,432.667)}Ten: Tenho-doori no Kaidanji\N(The Nice guy on Tenho Way)
 Dialogue: 0,0:04:41.31,0:04:46.28,small - white,,0,0,0,,{\pos(1123.555,520)}Game 10\NEast Hand 1
-Dialogue: 0,0:05:39.58,0:05:42.88,Default,,0,0,0,,Harada is most probably holding a Pinzu (dots) Honisou
-Dialogue: 0,0:05:42.88,0:05:44.68,Default,,0,0,0,,So here, should he discard his 7 Sou (bamboo)?
-Dialogue: 0,0:05:44.68,0:05:47.68,Default,,0,0,0,,If he discards the 7 Sou he's one from Tenpai
-Dialogue: 0,0:05:56.95,0:05:59.45,Default,,0,0,0,,Harada's still full of Pin (dot) tiles
-Dialogue: 0,0:05:59.45,0:06:01.45,Default,,0,0,0,,If he's careless he may yet deal into Hiroyuki's hand
-Dialogue: 0,0:06:27.55,0:06:30.91,Default,,0,0,0,,Only a Tatehon hand?(closed single suit)
-Dialogue: 0,0:06:30.91,0:06:34.35,Default,,0,0,0,,This won't amount to a Mangan hand
-Dialogue: 0,0:06:41.15,0:06:44.25,Default,,0,0,0,,It gets him to Tenpai one turn faster
-Dialogue: 0,0:06:46.95,0:06:48.18,Default,,0,0,0,,However
+Dialogue: 0,0:05:39.58,0:05:42.88,Default,,0,0,0,,Harada is most probably holding a *Pinzu Honiisou
+Dialogue: 0,0:05:39.58,0:05:47.69,Default - top - cyan,,0,0,0,,*Pinzu Honiisou: Single suit hand of Pin (dot) tiles
+Dialogue: 0,0:05:42.88,0:05:47.71,Default,,0,0,0,,Should Hiroyuki discard his 7 Sou (bamboo) here?\NIf he discards the 7 Sou he's one from Tenpai
+Dialogue: 0,0:05:56.95,0:05:59.45,Default,,0,0,0,,Harada's still full of Pin tiles
+Dialogue: 0,0:05:59.45,0:06:02.91,Default,,0,0,0,,If he's careless he may yet deal into Hiroyuki's hand
+Dialogue: 0,0:06:27.55,0:06:30.91,Default,,0,0,0,,Only a *Tatehon hand?
+Dialogue: 0,0:06:27.55,0:06:30.91,Default - top - cyan,,0,0,0,,*Tatehon(タテホン): Closed Honiisou hand. Single suit with no called tiles
+Dialogue: 0,0:06:30.91,0:06:34.35,Default,,0,0,0,,This hand won't reach Mangan...
+Dialogue: 0,0:06:39.72,0:06:41.15,Default,,0,0,0,,Shit
+Dialogue: 0,0:06:41.15,0:06:44.25,Default,,0,0,0,,If he gets into Tenpai one turn faster
+Dialogue: 0,0:06:46.95,0:06:48.18,Default,,0,0,0,,However (Kansai dialect)
 Dialogue: 0,0:06:48.18,0:06:52.48,Default,,0,0,0,,If Hiroyuki draws a 1 or 4 Pin, he might just discard it
 Dialogue: 0,0:07:06.28,0:07:08.65,Default,,0,0,0,,Looks like Harada's in Tenpai
 Dialogue: 0,0:07:08.65,0:07:11.45,Default,,0,0,0,,If he wins then the loss to this side should be large
-Dialogue: 0,0:07:11.45,0:07:15.15,Default,,0,0,0,,If Hiroyuki had discarded a 7 Sou from this hand
+Dialogue: 0,0:07:11.45,0:07:15.15,Default,,0,0,0,,If Hiroyuki had discarded that 7 Sou from this hand
 Dialogue: 0,0:07:15.15,0:07:17.98,Default,,0,0,0,,He'd be in Tenpai now with this 1 Pin draw
 Dialogue: 0,0:07:18.95,0:07:21.45,Default,,0,0,0,,He missed the win, didn't he
 Dialogue: 0,0:07:22.28,0:07:23.75,Default,,0,0,0,,No
@@ -153,8 +155,9 @@ Dialogue: 0,0:09:12.35,0:09:14.65,Default,,0,0,0,,Why?
 Dialogue: 0,0:09:29.05,0:09:31.08,Default,,0,0,0,,Akutsu is without doubt in Tenpai
 Dialogue: 0,0:09:31.08,0:09:34.88,Default,,0,0,0,,If he wins he could take out the East team
 Dialogue: 0,0:09:50.65,0:09:52.95,Default,,0,0,0,,Jesus H. Christ
-Dialogue: 0,0:10:40.18,0:10:43.75,Default,,0,0,0,,A typical slow SuuAnKou
-Dialogue: 0,0:10:50.98,0:10:53.38,Default,,0,0,0,,Is it no use at all?
+Dialogue: 0,0:10:40.18,0:10:43.75,Default,,0,0,0,,A typical slow *SuuAnKou
+Dialogue: 0,0:10:40.18,0:10:46.75,Default - top - cyan,,0,0,0,,*SuuAnKou: Closed hand with four triplets
+Dialogue: 0,0:10:50.98,0:10:53.38,Default,,0,0,0,,Is it no use after all?
 Dialogue: 0,0:11:14.78,0:11:16.88,Default,,0,0,0,,Kan
 Dialogue: 0,0:11:52.55,0:11:55.61,Default,,0,0,0,,THE DRAGON HAS SPLIT THE EARTH
 Dialogue: 0,0:12:00.65,0:12:02.78,Default,,0,0,0,,Tsumo
@@ -168,12 +171,12 @@ Dialogue: 0,0:12:24.15,0:12:29.45,Default,,0,0,0,,{\pos(648,560)}The path from t
 Dialogue: 0,0:12:29.45,0:12:31.08,Default,,0,0,0,,HOWEVER
 Dialogue: 0,0:12:31.08,0:12:33.38,Default,,0,0,0,,at the very end of that path
 Dialogue: 0,0:12:33.38,0:12:36.85,Default,,0,0,0,,was a way to FLIP THE GAME
-Dialogue: 0,0:12:39.68,0:12:42.68,Default,,0,0,0,,The east as the flow..
+Dialogue: 0,0:12:39.68,0:12:42.68,Default,,0,0,0,,The east as the flow...
 Dialogue: 0,0:12:42.68,0:12:44.08,Default,,0,0,0,,don't they
-Dialogue: 0,0:12:44.08,0:12:46.55,Default,,0,0,0,,Now, now. it's still okay
+Dialogue: 0,0:12:44.08,0:12:46.55,Default,,0,0,0,,Now, now.\NIt's still okay
 Dialogue: 0,0:12:46.55,0:12:49.08,Default,,0,0,0,,Akagi and Hiroyuki are only just BARELY in the game
 Dialogue: 0,0:12:49.08,0:12:50.88,Default,,0,0,0,,With one hit and we can kick them...
-Dialogue: 0,0:12:50.88,0:12:53.38,Default,,0,0,0,,YOU MORON(kansai dialect)!!!
+Dialogue: 0,0:12:50.88,0:12:53.38,Default,,0,0,0,,YOU MORONS!!! (Kansai dialect)
 Dialogue: 0,0:12:53.38,0:12:57.45,Default,,0,0,0,,What is this fucking mealy mouthed SHIT!
 Dialogue: 0,0:12:57.45,0:13:00.48,Default,,0,0,0,,Understand what that win means!
 Dialogue: 0,0:13:00.48,0:13:01.88,Default,,0,0,0,,They put it all on the line
@@ -182,19 +185,19 @@ Dialogue: 0,0:13:08.08,0:13:10.08,Default,,0,0,0,,Soga,
 Dialogue: 0,0:13:10.08,0:13:12.88,Default,,0,0,0,,I've already decided what we have to do
 Dialogue: 0,0:13:12.88,0:13:14.88,Default,,0,0,0,,It's okay, isn't it?
 Dialogue: 0,0:13:16.55,0:13:19.45,Default,,0,0,0,,As you like
-Dialogue: 0,0:13:36.68,0:13:39.58,Default,,0,0,0,,More and more this looks like the last hand, doesn't it
+Dialogue: 0,0:13:36.68,0:13:39.58,Default,,0,0,0,,More and more this looks like it will be last game, doesn't it
 Dialogue: 0,0:13:39.58,0:13:41.95,Default,,0,0,0,,Ten's SuuAnKou just now
 Dialogue: 0,0:13:41.95,0:13:44.28,Default,,0,0,0,,It lit a fire under their asses
 Dialogue: 0,0:13:44.28,0:13:46.28,Default,,0,0,0,,They're gonna come at us with everything they got
 Dialogue: 0,0:13:47.75,0:13:50.65,Default,,0,0,0,,This isn't any reasonable contest any more
-Dialogue: 0,0:13:50.65,0:13:52.85,Default,,0,0,0,,Will we eat or be eaten?
+Dialogue: 0,0:13:50.65,0:13:52.85,Default,,0,0,0,,Eat or be eaten?
 Dialogue: 0,0:13:52.85,0:13:55.48,Default,,0,0,0,,This is a battle of base instinct
-Dialogue: 0,0:13:55.48,0:13:57.95,Default,,0,0,0,,Everything you got
-Dialogue: 0,0:13:57.95,0:14:01.38,Default,,0,0,0,,NO HOLDS BARRED
+Dialogue: 0,0:13:55.48,0:13:57.95,Default,,0,0,0,,EVERYTHING
+Dialogue: 0,0:13:57.95,0:14:01.38,Default,,0,0,0,,GIVE IT EVERYTHING YOU GOT
 Dialogue: 0,0:14:08.68,0:14:13.88,small - white,,0,0,0,,{\pos(1116.445,528.889)}10th Game\NSouth Hand 1
 Dialogue: 0,0:14:48.28,0:14:51.11,Default,,0,0,0,,Riichi
 Dialogue: 0,0:14:51.11,0:14:52.65,Default,,0,0,0,,It's come
-Dialogue: 0,0:14:52.65,0:14:55.38,Default,,0,0,0,,The first Riichi of the last hand
+Dialogue: 0,0:14:52.65,0:14:55.38,Default,,0,0,0,,The first Riichi of this last game...
 Dialogue: 0,0:14:55.38,0:14:56.95,Default,,0,0,0,,Is a Mangan hand
 Dialogue: 0,0:14:56.95,0:14:59.65,Default,,0,0,0,,If he draws his tile, it's over
 Dialogue: 0,0:15:01.08,0:15:04.05,Default,,0,0,0,,My making a quick hand is best here
@@ -202,7 +205,7 @@ Dialogue: 0,0:15:08.75,0:15:11.38,Default,,0,0,0,,but this hand's a slow one as 
 Dialogue: 0,0:15:11.38,0:15:14.28,Default,,0,0,0,,This game doesn't have a "no tenpai penalty"
 Dialogue: 0,0:15:14.28,0:15:17.28,Default,,0,0,0,,So I just have to not deal into his hand
 Dialogue: 0,0:15:33.65,0:15:35.55,Default,,0,0,0,,SHIT
-Dialogue: 0,0:15:47.58,0:15:49.88,Default,,0,0,0,,It wasn't an Itsuu
+Dialogue: 0,0:15:47.58,0:15:49.88,Default,,0,0,0,,It wasn't an Ittsuu
 Dialogue: 0,0:15:49.88,0:15:51.88,Default,,0,0,0,,An end wait on 7 Sou?
 Dialogue: 0,0:15:52.25,0:15:54.25,Default,,0,0,0,,Why on earth?
 Dialogue: 0,0:16:05.81,0:16:10.01,small - white,,0,0,0,,{\pos(1104,528)}10th Game\NSouth Hand 3
@@ -222,7 +225,7 @@ Dialogue: 0,0:16:50.25,0:16:53.58,Default,,0,0,0,,But I wasn't expecting that fr
 Dialogue: 0,0:16:53.58,0:16:56.18,Default,,0,0,0,,I WILL DRAW IT
 Dialogue: 0,0:16:59.95,0:17:02.88,Default,,0,0,0,,IT CAN'T BE!
 Dialogue: 0,0:17:04.88,0:17:07.61,Default,,0,0,0,,FIVE white dragon tiles???
-Dialogue: 0,0:17:12.41,0:17:13.91,Default,,0,0,0,,It's the west team
+Dialogue: 0,0:17:12.41,0:17:13.91,Default,,0,0,0,,It's the West team
 Dialogue: 0,0:17:13.91,0:17:17.71,Default,,0,0,0,,The West team mixed in an extra White from the start
 Dialogue: 0,0:17:17.71,0:17:20.01,Default,,0,0,0,,But... for what purpose?
 Dialogue: 0,0:17:20.01,0:17:21.48,Default,,0,0,0,,Is it insurance?
@@ -230,9 +233,9 @@ Dialogue: 0,0:17:21.48,0:17:24.81,Default,,0,0,0,,If you're at a disadvantage, j
 Dialogue: 0,0:17:24.81,0:17:27.58,Default,,0,0,0,,will invalidate the hand
 Dialogue: 0,0:17:28.11,0:17:30.11,Default,,0,0,0,,You've got to be kidding
 Dialogue: 0,0:17:30.11,0:17:32.98,Default,,0,0,0,,There's no reason why I have to play along with this
-Dialogue: 0,0:17:34.61,0:17:38.48,Default,,0,0,0,,BUT, why should I throw away my advantage?
+Dialogue: 0,0:17:34.61,0:17:38.48,Default,,0,0,0,,But, why should I throw away my advantage?
 Dialogue: 0,0:17:38.48,0:17:41.41,Default,,0,0,0,,If I complete my hand, I win
-Dialogue: 0,0:17:52.08,0:17:54.98,Default,,0,0,0,,If I draw it I WIN
+Dialogue: 0,0:17:52.08,0:17:54.98,Default,,0,0,0,,If I draw it I win!
 Dialogue: 0,0:18:10.61,0:18:12.91,Default,,0,0,0,,South and North wind tiles?
 Dialogue: 0,0:18:12.91,0:18:15.98,Default,,0,0,0,,I can understand him playing around my Riichi
 Dialogue: 0,0:18:15.98,0:18:20.48,Default,,0,0,0,,but having a North and South wind floating in your hand so late in the game is unusual
@@ -255,7 +258,7 @@ Dialogue: 0,0:19:54.55,0:19:57.68,Default,,0,0,0,,Enough with the fucking cheati
 Dialogue: 0,0:19:57.68,0:20:00.18,Default,,0,0,0,,Whats the matter?
 Dialogue: 0,0:20:00.18,0:20:04.08,Default,,0,0,0,,If it doesn't complete your hand get rid of it, or else...
 Dialogue: 0,0:20:04.08,0:20:06.71,Default,,0,0,0,,have you forgotten how to discard?
-Dialogue: 0,0:20:23.58,0:20:26.85,Default,,0,0,0,,OH, a White Dragon?
+Dialogue: 0,0:20:23.58,0:20:26.85,Default,,0,0,0,,Oh, a White Dragon?
 Dialogue: 0,0:20:31.28,0:20:33.31,Default,,0,0,0,,Well, then...
 Dialogue: 0,0:20:33.31,0:20:36.01,Default,,0,0,0,,Ron!
 Dialogue: 0,0:20:38.98,0:20:42.68,Default,,0,0,0,,Kokusi Musou
@@ -310,10 +313,10 @@ Dialogue: 0,0:23:00.08,0:23:01.71,Default,,0,0,0,,Yes
 Dialogue: 0,0:23:01.71,0:23:04.38,Default,,0,0,0,,That tile is precisely
 Dialogue: 0,0:23:04.38,0:23:06.38,Default,,0,0,0,,a 5 Sou (5 bamboo)
 Dialogue: 0,0:23:07.88,0:23:11.18,Default,,0,0,0,,If you examine the left over tiles in that Mahjong case
-Dialogue: 0,0:23:11.18,0:23:15.38,Default,,0,0,0,,we'll soon know if it's among the few left over tiles
-Dialogue: 0,0:23:15.38,0:23:17.98,Default,,0,0,0,,And if there's a 5 Sou among them...
+Dialogue: 0,0:23:11.18,0:23:15.38,Default,,0,0,0,,we'll soon know if it's among the few tiles left over
+Dialogue: 0,0:23:15.38,0:23:17.98,Default,,0,0,0,,And if there IS a 5 Sou among them...
 Dialogue: 0,0:23:17.98,0:23:20.81,Default,,0,0,0,,you'll accept my head bump
-Dialogue: 0,0:23:20.81,0:23:22.31,Default,,0,0,0,,And as it's merely a Tanyao hand
+Dialogue: 0,0:23:20.81,0:23:22.31,Default,,0,0,0,,As it's merely a Tanyao hand
 Dialogue: 0,0:23:22.31,0:23:25.01,Default,,0,0,0,,the game will simply continue
 Dialogue: 0,0:23:26.05,0:23:30.91,Default,,0,0,0,,But if there isn't a 5 Sou in that case...
 Dialogue: 0,0:23:30.91,0:23:32.91,Default,,0,0,0,,You're out of bounds
@@ -327,7 +330,7 @@ Dialogue: 0,0:23:49.88,0:23:51.61,Default - top,,0,0,0,,The tiles the West team 
 Dialogue: 0,0:23:51.61,0:23:53.98,Default - top,,0,0,0,,Only two types of tiles out of 34 in Mahjong
 Dialogue: 0,0:23:53.98,0:23:58.41,Default - top,,0,0,0,,Choosing just the 5 sou is not a gamble you're likely to win!
 Dialogue: 0,0:23:58.41,0:24:00.91,Default - top,,0,0,0,,I'm the one that dealt into Harada's hand...
-Dialogue: 0,0:24:00.91,0:24:02.91,Default - top,,0,0,0,,Hiro,
+Dialogue: 0,0:24:00.91,0:24:02.91,Default - top,,0,0,0,,Hiro
 Dialogue: 0,0:24:02.91,0:24:06.21,Default - top,,0,0,0,,It's gone too far already
 Dialogue: 0,0:24:06.21,0:24:07.18,Default - top,,0,0,0,,Hunh?
 Dialogue: 0,0:24:07.18,0:24:09.61,Default - top,,0,0,0,,I declared a Ron
@@ -335,12 +338,12 @@ Dialogue: 0,0:24:09.61,0:24:12.38,Default - top,,0,0,0,,There's no turning back
 Dialogue: 0,0:24:12.38,0:24:16.28,Default - top,,0,0,0,,Whether or not your White should have been a 5 Sou...
 Dialogue: 0,0:24:16.28,0:24:19.68,Default - top,,0,0,0,,Is the question at hand
 Dialogue: 0,0:24:21.05,0:24:22.71,Default - top,,0,0,0,,BUT
-Dialogue: 0,0:24:22.71,0:24:24.71,Default - top,,0,0,0,,Hiroyuki,
+Dialogue: 0,0:24:22.71,0:24:24.71,Default - top,,0,0,0,,Hiroyuki...
 Dialogue: 0,0:24:27.58,0:24:31.61,Default - top,,0,0,0,,Akagi Shigeru himself has said as much
 Dialogue: 0,0:24:31.61,0:24:34.61,Default - top,,0,0,0,,There's no taking it back
 Dialogue: 0,0:24:36.58,0:24:39.61,Default - top,,0,0,0,,We can only watch now
 Dialogue: 0,0:24:52.41,0:25:01.61,Default - white - top,,0,0,0,,Preview
 Dialogue: 0,0:24:52.41,0:24:54.48,Default,,0,0,0,,Akagi has survived!
 Dialogue: 0,0:24:54.48,0:24:57.41,Default,,0,0,0,,What I'm afraid of is becoming what I'm not
-Dialogue: 0,0:24:57.41,0:25:00.01,Default,,0,0,0,,Don't avert your eyes from anything real
-Dialogue: 0,0:25:00.01,0:25:02.01,Default,,0,0,0,,The way forward opens!
+Dialogue: 0,0:24:57.41,0:25:00.01,Default,,0,0,0,,Without averting our eyes from hard realities
+Dialogue: 0,0:25:00.01,0:25:02.01,Default,,0,0,0,,Open the way forward!
