@@ -15,10 +15,10 @@ Audio File: ../../incoming/ten.fukumoto.drama/Ten.s01e09.720.mp4
 Video File: ../../incoming/ten.fukumoto.drama/Ten.s01e09.720.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 9
-Active Line: 45
-Video Position: 4580
+Video Zoom Percent: 0.500000
+Scroll Position: 63
+Active Line: 76
+Video Position: 41243
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +30,8 @@ Style: small - white,Open Sans Semibold,41,&H00FFFFFF,&H000000FF,&H00020713,&H00
 Style: default - cyan - with - background,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
 Style: Default - white - with - background,Open Sans Semibold,54,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,3,2,2.5,8,0,0,28,1
 Style: Default - top,Open Sans Semibold,54,&H0000FFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
-Style: Default - top - cyan,Open Sans Semibold,36,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
+Style: Default - top - cyan,Open Sans Semibold,54,&H00FFFF00,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
+Style: Default - white - top,Open Sans Semibold,64,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2,2.5,8,0,0,28,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -40,18 +41,18 @@ Dialogue: 0,0:00:04.30,0:00:05.67,Default,,0,0,0,,Head bump?
 Dialogue: 0,0:00:05.67,0:00:07.90,Default,,0,0,0,,This White Dragon Hiroyuki discarded wasn't a White Dragon at all
 Dialogue: 0,0:00:07.90,0:00:10.00,Default,,0,0,0,,I declared Ron on
 Dialogue: 0,0:00:10.00,0:00:11.17,Default,,0,0,0,,the missing tile that discard was destined to be
-Dialogue: 0,0:00:11.17,0:00:14.80,Default,,0,0,0,,If there isn't a 5 Sou(bamboo) in that Mahjong case
+Dialogue: 0,0:00:11.17,0:00:14.80,Default,,0,0,0,,If there isn't a 5 Sou (bamboo) in that Mahjong case
 Dialogue: 0,0:00:14.80,0:00:16.80,Default,,0,0,0,,the point penalty KNOCKS YOU THE FUCK OUT!
 Dialogue: 0,0:00:18.37,0:00:20.37,Default,,0,0,0,,This swapped tile
 Dialogue: 0,0:00:20.97,0:00:24.56,Default,,0,0,0,,was declared a 5 Sou by Akagi Shigeru when he decared Ron
-Dialogue: 0,0:00:27.12,0:00:30.09,Default,,0,0,0,,There's a reason that isn't such a wild guess
+Dialogue: 0,0:00:27.12,0:00:30.09,Default,,0,0,0,,There's a reason that isn't such a bad gamble
 Dialogue: 0,0:00:30.89,0:00:33.09,Default,,0,0,0,,You can read it off the discards
 Dialogue: 0,0:00:34.02,0:00:36.02,Default,,0,0,0,,There's a reading?
 Dialogue: 0,0:00:36.02,0:00:38.02,Default,,0,0,0,,Don't you remember?
-Dialogue: 0,0:00:38.02,0:00:39.79,Default,,0,0,0,,In South round 1
+Dialogue: 0,0:00:38.02,0:00:39.79,Default,,0,0,0,,In South Hand 1
 Dialogue: 0,0:00:39.79,0:00:41.79,Default,,0,0,0,,Harada's hand
 Dialogue: 0,0:00:42.46,0:00:44.62,Default,,0,0,0,,oh, yes
-Dialogue: 0,0:00:45.36,0:00:48.52,Default,,0,0,0,,he declared Riichi on the 11th turn by discarding a 4 Sou (bamboo)
+Dialogue: 0,0:00:45.36,0:00:48.52,Default,,0,0,0,,he declared Riichi on the 11th turn by discarding a 4 Sou
 Dialogue: 0,0:00:48.52,0:00:53.39,Default,,0,0,0,,But in the end he didn't draw his tile.\NThe hand ended as a draw with Harada still in Tenpai
 Dialogue: 0,0:00:53.39,0:00:58.19,Default,,0,0,0,,After the draw, his open hand showed he had 3 dora, a Mangan.
 Dialogue: 0,0:00:58.19,0:01:00.19,Default,,0,0,0,,A 7 Sou edge wait
@@ -61,17 +62,17 @@ Dialogue: 0,0:01:11.09,0:01:13.09,Default,,0,0,0,,discarding the 4 Sou to declar
 Dialogue: 0,0:01:13.09,0:01:15.09,Default,,0,0,0,,that was very strange
 Dialogue: 0,0:01:15.09,0:01:17.09,Default,,0,0,0,,Keeping the 4 Sou...
 Dialogue: 0,0:01:17.09,0:01:19.09,Default,,0,0,0,,and instead discarding the 8 Sou
-Dialogue: 0,0:01:19.09,0:01:21.59,Default,,0,0,0,,then the 5 Sou wait would give an {\b1\i1}Ittsu{\b0\i0} with 3 Dora
+Dialogue: 0,0:01:19.09,0:01:21.59,Default,,0,0,0,,then the 5 Sou wait would give an Ittsu with 3 Dora
 Dialogue: 0,0:01:21.59,0:01:23.59,Default,,0,0,0,,Mangan without declaring Riichi
-Dialogue: 0,0:01:23.59,0:01:26.79,Default,,0,0,0,,Clearly the thought a 5 Sou wait bothered him
+Dialogue: 0,0:01:23.59,0:01:26.79,Default,,0,0,0,,Clearly the thought of discarding to a 5 Sou wait bothered him
 Dialogue: 0,0:01:27.12,0:01:29.19,Default,,0,0,0,,Didn't it, though
-Dialogue: 0,0:01:29.19,0:01:33.46,Default,,0,0,0,,throwing away a qualifying Yaku to instead declare Riichi
-Dialogue: 0,0:01:33.46,0:01:36.86,Default,,0,0,0,,A most unlikely way to play
-Dialogue: 0,0:01:36.86,0:01:41.12,Default,,0,0,0,,The reason why Harada played the way he did,
+Dialogue: 0,0:01:29.19,0:01:33.46,Default,,0,0,0,,Throwing away a qualifying Yaku to instead declare Riichi
+Dialogue: 0,0:01:33.46,0:01:36.86,Default,,0,0,0,,An IMPOSSIBLE way to play
+Dialogue: 0,0:01:36.86,0:01:41.12,Default,,0,0,0,,The reason why Harada played the way he did...
 Dialogue: 0,0:01:41.12,0:01:44.86,Default,,0,0,0,,is he decided the chance of the Ittsu wait was extremely slim
 Dialogue: 0,0:01:47.29,0:01:49.16,Default,,0,0,0,,At that time
 Dialogue: 0,0:01:49.16,0:01:51.16,Default,,0,0,0,,perhaps, in Soga's hand...
-Dialogue: 0,0:01:51.16,0:01:53.22,Default,,0,0,0,,There might have been a few 5 Sou
+Dialogue: 0,0:01:51.16,0:01:53.22,Default,,0,0,0,,there might have been a few 5 Sou
 Dialogue: 0,0:01:54.42,0:01:57.09,Default,,0,0,0,,Naturally, he provided that information to Harada
 Dialogue: 0,0:01:57.09,0:01:58.12,Default,,0,0,0,,he had that advantage
 Dialogue: 0,0:01:58.12,0:02:00.69,Default,,0,0,0,,Well, I suppose that Harada just might also have known...
@@ -79,11 +80,11 @@ Dialogue: 0,0:02:01.02,0:02:04.96,Default,,0,0,0,,that there weren't four 5 Sou 
 Dialogue: 0,0:02:04.96,0:02:09.72,Default,,0,0,0,,that in total, there were only 3...
 Dialogue: 0,0:02:13.66,0:02:15.92,Default,,0,0,0,,Open the box
 Dialogue: 0,0:02:18.62,0:02:20.62,Default,,0,0,0,,Do it
-Dialogue: 0,0:02:23.39,0:02:30.61,default - cyan,,0,0,0,,{\pos(661.736,94.276)}#/tv/shows YOU'VE BEEN GNOMED subs presents
+Dialogue: 0,0:02:23.39,0:02:30.61,Default - top - cyan,,0,0,0,,#/tv/shows *AHEM* "fuck Kakegurui and fuck jannies" subs presents:
 Dialogue: 0,0:02:33.12,0:02:37.91,default - cyan - with - background,,0,0,0,,カンカン照り ギラついた \N太陽みたいな
 Dialogue: 0,0:02:33.12,0:02:37.91,Default - white - with - background,,0,0,0,,Blazing hot, like the blistering sun
 Dialogue: 0,0:02:33.68,0:02:35.48,Default - red,,0,0,0,,{\pos(205.283,655.967)}Kishitani Goro
-Dialogue: 0,0:02:33.61,0:02:35.48,Default - white,,0,0,0,,{\pos(533.333,476.471)}Ten Takeshi
+Dialogue: 0,0:02:33.61,0:02:35.48,Default - white,,0,0,0,,{\pos(533.333,476.471)}Ten Takashi
 Dialogue: 0,0:02:38.39,0:02:42.57,default - cyan - with - background,,0,0,0,,あいつがまた帰ってきた
 Dialogue: 0,0:02:38.39,0:02:42.57,Default - white - with - background,,0,0,0,,He's come back again
 Dialogue: 0,0:02:42.31,0:02:44.11,Default - red,,0,0,0,,{\pos(796.981,609.58)}Furukawa Yuki
@@ -102,21 +103,21 @@ Dialogue: 0,0:03:05.77,0:03:10.13,default - cyan - with - background,,0,0,0,,背
 Dialogue: 0,0:03:05.77,0:03:10.13,Default - white - with - background,,0,0,0,,When the stars on her back align
 Dialogue: 0,0:03:10.13,0:03:20.04,default - cyan - with - background,,0,0,0,,雨上がりの風吹く通りを
 Dialogue: 0,0:03:10.13,0:03:20.04,Default - white - with - background,,0,0,0,,After the rain, above the windswept street,
-Dialogue: 0,0:03:18.11,0:03:21.56,Default,,0,0,0,,{\pos(644.026,87.227)}#/tv/shows subs: "They're better than nothing!"
+Dialogue: 0,0:03:18.11,0:03:21.56,Default,,0,0,0,,#/tv/shows subs: "They're better than nothing!"
 Dialogue: 0,0:03:20.04,0:03:22.31,default - cyan - with - background,,0,0,0,,陽が昇った
 Dialogue: 0,0:03:20.04,0:03:22.31,Default - white - with - background,,0,0,0,,The sun rose
 Dialogue: 0,0:03:21.56,0:03:24.92,Default,,0,0,0,,#/tv/shows subs are presented in classic Piss Yellow™️
 Dialogue: 0,0:03:24.92,0:03:27.25,Default - white,,0,0,0,,{\pos(646.038,615.63)}Episode 9
-Dialogue: 0,0:03:24.92,0:03:27.25,Default,,0,0,0,,{\pos(652.075,450.253)}Ten: Tenho-doori no Kaidanji\N(Nice guy on the path of Tenho)
+Dialogue: 0,0:03:24.92,0:03:27.25,Default,,0,0,0,,{\pos(652.075,450.253)}Ten: Tenho-doori no Kaidanji\N(The Nice guy on Tenho Way)
 Dialogue: 0,0:03:39.36,0:03:42.79,Default,,0,0,0,,Well then...
 Dialogue: 0,0:04:01.07,0:04:03.79,Default,,0,0,0,,As we expected, there's a fourth 5 tile inside
-Dialogue: 0,0:04:03.85,0:04:07.11,Default,,0,0,0,,If so, it's in there.\NThere's a 5 Sou (bamboo)!
+Dialogue: 0,0:04:03.85,0:04:07.11,Default,,0,0,0,,If so, it's in there.\NThere's a 5 Sou!
 Dialogue: 0,0:04:21.14,0:04:23.14,Default,,0,0,0,,And the last one...
 Dialogue: 0,0:04:22.31,0:04:25.37,default - cyan,,0,0,0,,Okaay. Enough already
 Dialogue: 0,0:04:25.47,0:04:27.47,Default,,0,0,0,,There's a 5 Pin there
 Dialogue: 0,0:04:27.47,0:04:32.37,Default,,0,0,0,,Akagi was also waiting on a 5 Pin
 Dialogue: 0,0:04:32.37,0:04:36.67,Default,,0,0,0,,That 5 Pin alone is enough. Case closed
-Dialogue: 0,0:04:36.67,0:04:39.17,Default,,0,0,0,,B-but...
+Dialogue: 0,0:04:36.67,0:04:38.75,Default,,0,0,0,,B-but...
 Dialogue: 0,0:04:37.27,0:04:39.27,default - cyan,,0,0,0,,T-the FUCK?!?
 Dialogue: 0,0:04:38.77,0:04:40.77,Default,,0,0,0,,The last one
 Dialogue: 0,0:04:40.77,0:04:43.91,Default,,0,0,0,,the sole remaining tile
@@ -124,11 +125,11 @@ Dialogue: 0,0:04:46.87,0:04:49.67,Default,,0,0,0,,HUNH?
 Dialogue: 0,0:04:57.47,0:05:00.21,Default,,0,0,0,,He got it wrong!
 Dialogue: 0,0:05:00.21,0:05:02.21,Default,,0,0,0,,Akagi got it wrong!
 Dialogue: 0,0:05:03.61,0:05:06.44,Default,,0,0,0,,No
-Dialogue: 0,0:05:06.44,0:05:11.61,Default,,0,0,0,,His reading was flawless
+Dialogue: 0,0:05:06.44,0:05:11.61,Default,,0,0,0,,His reading wasn't wrong at all
 Dialogue: 0,0:05:11.61,0:05:13.61,Default,,0,0,0,,Because Harada himself...
 Dialogue: 0,0:05:13.61,0:05:15.61,Default,,0,0,0,,wanted to give it up half way through
 Dialogue: 0,0:05:17.91,0:05:21.81,Default,,0,0,0,,That last tile
-Dialogue: 0,0:05:21.81,0:05:25.21,Default,,0,0,0,,it really {\b1\i1}ought{\b0\i0} to have been a 5 sou
+Dialogue: 0,0:05:21.81,0:05:25.21,Default,,0,0,0,,it really OUGHT to have been a 5 sou
 Dialogue: 0,0:05:25.39,0:05:28.91,Default,,0,0,0,,but in actuality it was 5 MAN
 Dialogue: 0,0:05:29.05,0:05:34.25,Default,,0,0,0,,Harada had ordered the 5 Sou and 5 Pin swapped with White Dragons
 Dialogue: 0,0:05:34.67,0:05:39.07,Default,,0,0,0,,but his underling mistook the order, not using a 5 Sou
@@ -157,29 +158,29 @@ Dialogue: 0,0:07:23.76,0:07:26.06,Default,,0,0,0,,The day of the final will be c
 Dialogue: 0,0:07:26.06,0:07:29.66,Default,,0,0,0,,and the rules revised
 Dialogue: 0,0:07:29.66,0:07:32.99,Default,,0,0,0,,both teams can suggest new ones
 Dialogue: 0,0:07:34.96,0:07:36.96,Default,,0,0,0,,Agreed
-Dialogue: 0,0:07:50.12,0:07:53.12,Default,,0,0,0,,For all of us, after all this,
+Dialogue: 0,0:07:50.12,0:07:53.12,Default,,0,0,0,,For all of us, after all this...
 Dialogue: 0,0:07:53.12,0:07:56.29,Default,,0,0,0,,What in the world becomes of us?
 Dialogue: 0,0:07:58.26,0:08:01.42,Default,,0,0,0,,As I'm a human being I will perish
 Dialogue: 0,0:08:01.42,0:08:03.89,Default,,0,0,0,,and return to the earth
 Dialogue: 0,0:08:03.89,0:08:06.76,Default,,0,0,0,,And then, after how many thousands of years,
 Dialogue: 0,0:08:06.76,0:08:11.46,Default,,0,0,0,,we're reborn as something else
 Dialogue: 0,0:08:11.46,0:08:14.36,Default,,0,0,0,,Maybe as microbes spread throughout in the sea
-Dialogue: 0,0:08:14.36,0:08:17.99,Default,,0,0,0,,to be eaten by some faggy fish
+Dialogue: 0,0:08:14.36,0:08:17.99,Default,,0,0,0,,to be eaten by some fish
 Dialogue: 0,0:08:17.99,0:08:21.22,Default,,0,0,0,,or maybe as some whelp,
 Dialogue: 0,0:08:21.22,0:08:23.22,Default,,0,0,0,,or a bird
 Dialogue: 0,0:08:24.39,0:08:27.69,Default,,0,0,0,,I don't really care when I die
 Dialogue: 0,0:08:27.69,0:08:31.59,Default,,0,0,0,,because life is reborn
-Dialogue: 0,0:08:33.56,0:08:35.56,Default,,0,0,0,,but the one thing that bothers me
+Dialogue: 0,0:08:33.56,0:08:35.56,Default,,0,0,0,,But the one thing that bothers me
 Dialogue: 0,0:08:35.56,0:08:39.82,Default,,0,0,0,,when I, as a human being, drop dead
-Dialogue: 0,0:08:39.82,0:08:44.52,Default,,0,0,0,,is this feeling of {\b1\i1}who I am{\b0\i0}
+Dialogue: 0,0:08:39.82,0:08:44.52,Default,,0,0,0,,is my feeling of WHO I AM
 Dialogue: 0,0:08:44.52,0:08:48.29,Default,,0,0,0,,that consciousness will vanish
 Dialogue: 0,0:08:48.29,0:08:51.16,Default,,0,0,0,,What really scares me
-Dialogue: 0,0:08:51.16,0:08:55.29,Default,,0,0,0,,is becoming what I'm not
+Dialogue: 0,0:08:51.16,0:08:55.29,Default,,0,0,0,,is WHO I AM dying
 Dialogue: 0,0:08:57.26,0:08:59.26,Default,,0,0,0,,And for that, I'm sorry
 Dialogue: 0,0:08:59.26,0:09:01.99,Default,,0,0,0,,Can you understand?
 Dialogue: 0,0:09:07.62,0:09:10.26,Default,,0,0,0,,Should I win,
 Dialogue: 0,0:09:10.26,0:09:11.96,Default,,0,0,0,,or should I fail,
-Dialogue: 0,0:09:11.96,0:09:14.49,Default,,0,0,0,,It's {\b1\i1}Akagi Shigeru{\b0\i0} who won...
+Dialogue: 0,0:09:11.96,0:09:14.49,Default,,0,0,0,,It's AKAGI SHIGERU who won...
 Dialogue: 0,0:09:14.49,0:09:16.49,Default,,0,0,0,,or lost
 Dialogue: 0,0:09:17.69,0:09:21.46,Default,,0,0,0,,Whatever Harada does is of no consquence
 Dialogue: 0,0:09:21.46,0:09:24.62,Default,,0,0,0,,I decided that tile was a 5 Sou
@@ -190,13 +191,13 @@ Dialogue: 0,0:09:43.69,0:09:48.12,Default,,0,0,0,,It's up to you now
 Dialogue: 0,0:10:03.79,0:10:08.26,Default - white,,0,0,0,,{\pos(647.245,579.124)}Day of the East/West Final
 Dialogue: 0,0:10:11.36,0:10:13.49,Default,,0,0,0,,Ten,
 Dialogue: 0,0:10:13.49,0:10:15.49,Default,,0,0,0,,Can I ask you something?
-Dialogue: 0,0:10:16.82,0:10:20.16,Default,,0,0,0,,If it had been you,
+Dialogue: 0,0:10:16.82,0:10:20.16,Default,,0,0,0,,If it had been you...
 Dialogue: 0,0:10:20.16,0:10:23.76,Default,,0,0,0,,would you have done the same as Akagi?
 Dialogue: 0,0:10:27.59,0:10:31.16,Default,,0,0,0,,I remain
 Dialogue: 0,0:10:31.16,0:10:35.22,Default,,0,0,0,,because if you don't remain, you can't win
 Dialogue: 0,0:10:35.22,0:10:37.22,Default,,0,0,0,,Remain
-Dialogue: 0,0:10:40.32,0:10:44.89,Default,,0,0,0,,I'm me. You're you.\NAkagi is Akagi.
-Dialogue: 0,0:10:44.89,0:10:48.66,Default,,0,0,0,,No one lives the same
+Dialogue: 0,0:10:40.32,0:10:44.89,Default,,0,0,0,,I'm me. You're you.\NAkagi is Akagi
+Dialogue: 0,0:10:44.89,0:10:48.66,Default,,0,0,0,,No one can live the same way
 Dialogue: 0,0:10:48.66,0:10:50.66,Default,,0,0,0,,Here and now,
 Dialogue: 0,0:10:50.66,0:10:55.36,Default,,0,0,0,,you and I have survived this far
 Dialogue: 0,0:10:55.36,0:10:57.36,Default,,0,0,0,,and that is everything
@@ -229,9 +230,9 @@ Dialogue: 0,0:12:45.66,0:12:48.66,Default,,0,0,0,,Proposing an idiotic rule like
 Dialogue: 0,0:12:48.66,0:12:52.19,Default,,0,0,0,,is proof enough they're cornered
 Dialogue: 0,0:12:58.86,0:13:00.98,Default,,0,0,0,,The Yaku which must be cleared...
 Dialogue: 0,0:13:00.99,0:13:02.99,Default,,0,0,0,,can largely be separated into two groups
-Dialogue: 0,0:13:04.59,0:13:08.52,Default,,0,0,0,,{\pos(648,124)}the first group, because it's a team game, offers protection against direct hits
-Dialogue: 0,0:13:05.11,0:13:10.25,Default - white,,0,0,0,,{\pos(632,582.667)}East Round 1
-Dialogue: 0,0:13:08.52,0:13:12.59,Default,,0,0,0,,{\pos(634.667,129.333)}they are mobile, quick Yaku\Nfor which you can call tiles
+Dialogue: 0,0:13:04.59,0:13:08.52,Default - top,,0,0,0,,The first group, because it's a team game, offers protection against direct hits
+Dialogue: 0,0:13:05.11,0:13:10.25,Default - white,,0,0,0,,{\pos(632,582.667)}East Hand 1
+Dialogue: 0,0:13:08.52,0:13:12.59,Default - top,,0,0,0,,They are mobile, quick Yaku\Nfor which you can call tiles
 Dialogue: 0,0:13:12.59,0:13:17.96,Default,,0,0,0,,these are Ittsu, Sansyoku, and Chanta
 Dialogue: 0,0:13:17.96,0:13:19.16,Default,,0,0,0,,And on the other hand...
 Dialogue: 0,0:13:19.16,0:13:22.86,Default,,0,0,0,,there are laborious Yaku which you must construct on your own
@@ -250,7 +251,7 @@ Dialogue: 0,0:15:33.53,0:15:36.43,Default,,0,0,0,,as you'd expect, they'll perce
 Dialogue: 0,0:15:41.71,0:15:43.73,Default,,0,0,0,,Chii
 Dialogue: 0,0:16:05.16,0:16:09.76,Default,,0,0,0,,Got it!\NA confirmed SanAnKou
 Dialogue: 0,0:16:13.56,0:16:16.26,Default,,0,0,0,,There's only two 3 Sou tiles left
-Dialogue: 0,0:16:16.96,0:16:18.72,Default,,0,0,0,,a terrible wait,
+Dialogue: 0,0:16:16.96,0:16:18.72,Default,,0,0,0,,a terrible wait...
 Dialogue: 0,0:16:18.72,0:16:20.96,Default,,0,0,0,,but if Hiroyuki has a 3 Sou
 Dialogue: 0,0:16:20.96,0:16:23.59,Default,,0,0,0,,and deals it into my hand,\Nmy SanAnKou is complete
 Dialogue: 0,0:16:30.92,0:16:34.66,Default,,0,0,0,,Hiroyuki,\NDo you have any 3 Sou?
@@ -297,7 +298,7 @@ Dialogue: 0,0:20:52.94,0:20:55.57,Default,,0,0,0,,Afterwards Soga will collect a
 Dialogue: 0,0:20:55.57,0:20:58.07,Default,,0,0,0,,or I'll complete my hand and knock you out
 Dialogue: 0,0:20:58.07,0:21:00.07,Default,,0,0,0,,no problem
 Dialogue: 0,0:21:13.25,0:21:17.94,Default,,0,0,0,,Come on, kid. I took this hand last turn
-Dialogue: 0,0:21:46.13,0:21:48.57,Default,,0,0,0,,that's crazy!
+Dialogue: 0,0:21:46.13,0:21:48.57,Default,,0,0,0,,That's crazy!
 Dialogue: 0,0:21:48.57,0:21:51.20,Default,,0,0,0,,Anyway, Ten won't even accept that direct hit
 Dialogue: 0,0:21:55.20,0:21:56.90,Default,,0,0,0,,Is that the way it is?
 Dialogue: 0,0:21:57.67,0:22:00.07,Default,,0,0,0,,Well, if that's your gut feeling
@@ -309,17 +310,19 @@ Dialogue: 0,0:22:24.15,0:22:28.23,Default,,0,0,0,,and SanAnKou has been cleared
 Dialogue: 0,0:22:41.39,0:22:47.12,small - white,,0,0,0,,{\pos(289.811,123.367)}West Team:\NHarada: 25000 Soga: 25000
 Dialogue: 0,0:22:41.39,0:22:47.12,small - white,,0,0,0,,{\pos(963.623,116.094)}East Team:\NTen: {\c&H00FF00&}49000{\c&HFFFFFF&} Hiroyuki: {\c&H0000FF&}1000
 Dialogue: 0,0:22:41.50,0:22:44.37,Default,,0,0,0,,{\pos(639.195,581.834)}this is an expression of our determination
-Dialogue: 0,0:22:44.37,0:22:47.57,Default,,0,0,0,,{\pos(638.389,599.19)}Without averting our eyes from hard facts,
+Dialogue: 0,0:22:44.37,0:22:47.57,Default,,0,0,0,,{\pos(638.389,581.834)}Without averting our eyes from hard facts,
 Dialogue: 0,0:22:48.80,0:22:51.53,Default,,0,0,0,,embrace each crisis while moving forward,
 Dialogue: 0,0:22:52.27,0:22:55.23,Default,,0,0,0,,Opening the way
 Dialogue: 0,0:22:57.59,0:23:02.81,Default - white,,0,0,0,,{\s1}SanAnKou{\s0}\NChitoitsu\NChanta\NSanSyoku\NIttsu
-Dialogue: 0,0:23:03.49,0:23:07.49,Default - white,,0,0,0,,{\pos(656.906,596.093)}East Round 2
+Dialogue: 0,0:23:03.49,0:23:07.49,Default - white,,0,0,0,,{\pos(656.906,596.093)}East Hand 2
 Dialogue: 0,0:23:43.71,0:23:46.17,Default - top,,0,0,0,,An awful starting hand, well beyond saving
 Dialogue: 0,0:23:46.17,0:23:48.97,Default,,0,0,0,,If he discards a South wind, the hand will not continue
 Dialogue: 0,0:24:19.63,0:24:22.33,Default,,0,0,0,,How do you retreat from such a position?
 Dialogue: 0,0:24:22.33,0:24:24.33,Default,,0,0,0,,Advance!
-Dialogue: 0,0:24:54.66,0:24:57.87,Default,,0,0,0,,
+Dialogue: 0,0:24:54.31,0:25:03.87,Default - white - top,,0,0,0,,Preview
+Dialogue: 0,0:24:54.66,0:24:57.87,Default,,0,0,0,,Even now the little guy, despite failure, he's trying his utmost
 Dialogue: 0,0:24:57.87,0:24:58.70,Default,,0,0,0,,Clown!
-Dialogue: 0,0:24:58.70,0:25:00.78,Default,,0,0,0,,
-Dialogue: 0,0:25:00.78,0:25:02.00,Default,,0,0,0,,
-Dialogue: 0,0:25:02.00,0:25:04.00,Default - top,,0,0,0,,What on EARTH are they thinking?
+Dialogue: 0,0:24:58.70,0:25:00.17,Default,,0,0,0,,By whatever means necessary
+Dialogue: 0,0:25:00.17,0:25:00.78,Default,,0,0,0,,THIS IS IT
+Dialogue: 0,0:25:00.78,0:25:02.00,Default,,0,0,0,,WE MUST WIN
+Dialogue: 0,0:25:02.00,0:25:04.00,Default,,0,0,0,,What on EARTH are they thinking?
